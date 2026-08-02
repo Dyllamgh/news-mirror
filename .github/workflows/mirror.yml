@@ -28,15 +28,18 @@ jobs:
       - name: Fetch news
         run: python fetch_news.py
 
+      - name: Diagnostic
+        run: python diagnose.py
+
       - name: Commit & push
         run: |
           git config user.name "news-mirror-bot"
           git config user.email "news-mirror-bot@users.noreply.github.com"
-          git add data/news.json
+          git add data/
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Auto update news $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git commit -m "Auto update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git pull --rebase origin main || true
             git push
           fi
