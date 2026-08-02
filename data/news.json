@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-02T15:29:52Z",
- "count": 36,
+ "generated_at": "2026-08-02T15:34:11Z",
+ "count": 30,
  "items": [
   {
    "source": "nyt-world",
    "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
    "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
-   "published": "Sun, 02 Aug 2026 14:53:42 +0000",
+   "published": "Sun, 02 Aug 2026 15:27:49 +0000",
    "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.",
    "full_text": ""
   },
@@ -83,22 +83,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-   "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-   "published": "Sat, 01 Aug 2026 20:14:08 +0000",
-   "summary": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
-   "url": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
-   "published": "Sun, 02 Aug 2026 00:30:14 +0000",
-   "summary": "The flight had taken off from the coastal city of Pisco to view the ancient geoglyphs in the desert, a popular tourist attraction.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-business",
    "title": "Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data",
    "url": "https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html",
@@ -168,7 +152,7 @@
    "url": "https://www.nytimes.com/2026/08/01/business/dealbook/italy-oldest-bank-takeover-battle.html",
    "published": "Sat, 01 Aug 2026 09:43:01 +0000",
    "summary": "Founded in 1472, Banca Monte dei Paschi di Siena has survived wars, pandemics and scandals. But a hostile takeover bid has Tuscans on edge.",
-   "full_text": ""
+   "full_text": "Banca Monte dei Paschi di Siena is the world’s oldest bank. It has survived the rise and fall of the Medici, regional and world wars and its own near-death experiences — including a 5.4-billion-euro bailout in 2017 and a derivatives scandal that made the lender a byword for mismanagement.\nBut under Luigi Lovaglio, the chief executive, who was recruited by the Italian government in 2022 to engineer a turnaround, Monte dei Paschi has grown into one of Europe’s healthiest financial institutions. Now, it’s a takeover target.\nSitting in Palazzo Salimbeni, the bank’s fortresslike 14th-century headquarters in Siena’s historic center, Mr. Lovaglio reflected last week on the bank’s latest challenge. The Tuscan lender is being pursued by its biggest rival in an increasingly combative contest.\n“I’m working around the clock to find the best solution,” said Mr. Lovaglio, who survived a bruising board battle this spring to stay on the job.\nRelated Content\nAdvertisement"
   },
   {
    "source": "nyt-business",
@@ -176,22 +160,6 @@
    "url": "https://www.nytimes.com/2026/08/01/business/ai-scheming.html",
    "published": "Sat, 01 Aug 2026 09:01:46 +0000",
    "summary": "Researchers are sounding the alarm on sneaky artificial intelligence models that stray from humans’ directions to do their own thing.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Leaving Property to Your Heirs Can Lead to Headache, not Robust Wealth",
-   "url": "https://www.nytimes.com/2026/08/01/business/inheritance-real-estate-retirement.html",
-   "published": "Sat, 01 Aug 2026 12:45:01 +0000",
-   "summary": "Real estate passed down without a clear title of ownership can prevent families from creating generational wealth.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Carmakers Go Back to the ’80s With Turbo Engines",
-   "url": "https://www.nytimes.com/2026/08/01/business/turbo-engines-cars-trucks.html",
-   "published": "Sat, 01 Aug 2026 09:00:15 +0000",
-   "summary": "A hyped technology from four decades ago, turbocharging is now standard in almost half of all cars sold in the United States, largely to help meet efficiency standards.",
    "full_text": ""
   },
   {
@@ -272,22 +240,6 @@
    "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
    "published": "Sat, 01 Aug 2026 02:41:12 +0000",
    "summary": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations",
-   "url": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
-   "published": "Fri, 31 Jul 2026 07:02:03 +0000",
-   "summary": "The disclosure followed OpenAI’s report last week that its own artificial intelligence had hacked into the network of an online library.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint",
-   "url": "https://www.nytimes.com/2026/07/30/technology/apple-earnings.html",
-   "published": "Thu, 30 Jul 2026 22:27:24 +0000",
-   "summary": "The company recently raised prices on a number of products because of component supply shortages caused by the artificial intelligence boom.",
    "full_text": ""
   }
  ]
