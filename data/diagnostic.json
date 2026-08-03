@@ -13,14 +13,14 @@
   "token_len": 224
  },
  "nyt_via_jina": {
-  "status": 403,
-  "size": 745,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Mon Aug 03 2"
+  "status": 401,
+  "size": 343,
+  "sample": "{\"data\":null,\"code\":401,\"name\":\"AuthenticationRequiredError\",\"status\":40103,\"message\":\"You have been blocked from performing anonymous queries due to "
  },
  "reuters_via_jina": {
-  "status": 403,
-  "size": 765,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Mon Aug 03 2"
+  "status": 401,
+  "size": 343,
+  "sample": "{\"data\":null,\"code\":401,\"name\":\"AuthenticationRequiredError\",\"status\":40103,\"message\":\"You have been blocked from performing anonymous queries due to "
  },
  "nyt_svc_api": {
   "status": 404,

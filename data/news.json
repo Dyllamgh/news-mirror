@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-03T18:28:04Z",
- "count": 64,
+ "generated_at": "2026-08-03T23:50:38Z",
+ "count": 65,
  "items": [
   {
    "source": "nyt-world",
@@ -14,7 +14,7 @@
    "source": "nyt-world",
    "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
    "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
-   "published": "Mon, 03 Aug 2026 16:11:52 +0000",
+   "published": "Mon, 03 Aug 2026 20:06:28 +0000",
    "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
    "full_text": ""
   },
@@ -22,8 +22,8 @@
    "source": "nyt-world",
    "title": "After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country",
    "url": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html",
-   "published": "Mon, 03 Aug 2026 09:00:47 +0000",
-   "summary": "Juan Orlando Hernández, a former president of Honduras, faces fraud and money laundering charges in his home country after a surprise Trump pardon overturned his drug-trafficking sentence in the U.S.",
+   "published": "Mon, 03 Aug 2026 19:29:45 +0000",
+   "summary": "Juan Orlando Hernández, the former leader, faces fraud and money laundering charges after a Trump pardon overturned a drug-trafficking sentence.",
    "full_text": ""
   },
   {
@@ -62,7 +62,7 @@
    "source": "nyt-world",
    "title": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
    "url": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
-   "published": "Mon, 03 Aug 2026 11:49:24 +0000",
+   "published": "Mon, 03 Aug 2026 20:53:29 +0000",
    "summary": "The British group was punished under a policy of racial harmony that has long been criticized as stifling free speech in the city-state.",
    "full_text": ""
   },
@@ -84,6 +84,22 @@
   },
   {
    "source": "nyt-business",
+   "title": "Education Dept. to Wipe Out Student Loans of 170,000 More Defrauded Borrowers",
+   "url": "https://www.nytimes.com/2026/08/03/business/student-loans-borrower-defense.html",
+   "published": "Mon, 03 Aug 2026 21:24:03 +0000",
+   "summary": "The sprawling case, centered on students defrauded by for-profit schools, has now become the largest class-action settlement in American history.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
+   "url": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html",
+   "published": "Mon, 03 Aug 2026 23:02:29 +0000",
+   "summary": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "Boeing’s Smallest 737 Jet Wins F.A.A. Approval",
    "url": "https://www.nytimes.com/2026/08/03/business/boeing-737-max.html",
    "published": "Mon, 03 Aug 2026 18:05:26 +0000",
@@ -94,7 +110,7 @@
    "source": "nyt-business",
    "title": "Former ’60 Minutes’ Correspondents Sharyn Alfonsi, Scott Pelley Will Teach At Columbia",
    "url": "https://www.nytimes.com/2026/08/03/business/media/sharyn-alfonsi-scott-pelley-columbia-journalism-school.html",
-   "published": "Mon, 03 Aug 2026 15:07:37 +0000",
+   "published": "Mon, 03 Aug 2026 15:07:38 +0000",
    "summary": "Sharyn Alfonsi and Scott Pelley, who exited the show after clashing with executives at CBS News, will teach reporting skills.",
    "full_text": ""
   },
@@ -126,7 +142,7 @@
    "source": "nyt-business",
    "title": "What Are Companies Getting for All That A.I. Spending?",
    "url": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
-   "published": "Mon, 03 Aug 2026 15:40:01 +0000",
+   "published": "Mon, 03 Aug 2026 18:56:22 +0000",
    "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
    "full_text": ""
   },
@@ -142,24 +158,8 @@
    "source": "nyt-business",
    "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
    "url": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
-   "published": "Mon, 03 Aug 2026 15:02:34 +0000",
+   "published": "Mon, 03 Aug 2026 20:29:53 +0000",
    "summary": "The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns",
-   "url": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
-   "published": "Mon, 03 Aug 2026 14:31:11 +0000",
-   "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data",
-   "url": "https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html",
-   "published": "Sun, 02 Aug 2026 11:29:20 +0000",
-   "summary": "Nanit and other start-ups want to track your children through the night — and soon, for much longer than that.",
    "full_text": ""
   },
   {
@@ -176,6 +176,14 @@
    "url": "https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html",
    "published": "Fri, 31 Jul 2026 11:00:03 +0000",
    "summary": "“It just seems like the temperature is rising on Silicon Valley.”",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns",
+   "url": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
+   "published": "Mon, 03 Aug 2026 14:31:11 +0000",
+   "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.",
    "full_text": ""
   },
   {
@@ -252,10 +260,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Iran peace hopes boost stocks, weaken crude; yen firms after intervention",
+   "title": "US men’s coach Pochettino agrees new contract through 2030 World Cup",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHdwSmxRQlkxaFh1OFFaa0k3QkRueFhjRVFIeVAzT05VY3JXbHg3TS1VYldYZ3BGbnRES0NncTNOc2hGZHR3eDVaYnY1bTR6ZHJuRGFiWVNINk1wcFBCNUJLMThRQVhBZ21kV0FOanVzdkZ0bDVCdWRGUGhGRDNoSm5DUjJjWGZaY1NMb1lxZm9FejZOMmZ3Umt3ZGNzb0VrOVl6VEFNTnk2cXdTT2tsaXlNaHpzQkJf?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 03 Aug 2026 13:35:47 GMT",
+   "summary": "US men’s coach Pochettino agrees new contract through 2030 World Cup &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 03 Aug 2026 01:03:00 GMT",
-   "summary": "Iran peace hopes boost stocks, weaken crude; yen firms after intervention &nbsp;&nbsp; Reuters",
+   "summary": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,14 +284,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 01 Aug 2026 19:39:51 GMT",
-   "summary": "Spain installs floating barrier in Ceuta after deadly migrant rush &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmYyc0pXSkJpNHNLOHFIUVU0clpoNFlfUVFua3EwU2dHUF9MTjBzUFl0M0VJUXNWUVBDeThvMTVPNlNjMDBQTWl1bXdoMTVFNGt5aVdYbmJyaG9TUVlCVWFTTHUzWTJSelM3czY1VFdvZW5iUXVUdXlELXlTVUJvQkdTVUVnN3d6Q044d3pmZFBnYVE3X1M3TlRqZjNTMFNqNWNKSWpWUnR3Nngyd2ozcmRoaUNZSEM5ZV82T1JEU25SUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 01 Aug 2026 15:51:47 GMT",
@@ -284,10 +292,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Serbia, Sweden follow Wales in withdrawing support for Infantino re-election",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm1tTGRXdDNDdFJ6UjEtVU9hOGpEY0RPZG1feFlLU09pdnF3OTZjNnYzZ0RoX1oxUC1MdHNjRnR4S0J6R3BMamFVeU9aUFFpZkpYTGZzWEo1RnJjZ0dNbXNnWlF6c2F4TnpKaDNncXh3djF5OURvaU9Qc2lZX3I2NFd4RGJ5NmRGcmswTGpnNmpmdExTS1hBQ0V3Y2ZVT1pkWnF4YXJ3SG01SHFKWGR1QlVzWU5KTkk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 03 Aug 2026 16:40:11 GMT",
-   "summary": "Serbia, Sweden follow Wales in withdrawing support for Infantino re-election &nbsp;&nbsp; Reuters",
+   "title": "US Treasury intervenes to support yen after Japan steps in, FT reports",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0lVZ3FOWEp0MkVGaWc4UkprSmVwZlZMSzBQRlBuQ3UzOEVuN09za080MDFQTHFfOVFGU1hsOUF3THBnbGc0Tk4zdi1sR0xBdHhJV3FiOTNmaEZkbWNWQ0VMRjROZXJUQ1VwX1BrS3NvdWRDYThPSWVhdnhZUmxHWHNsVEFRYTZFXy1CeTJVdW13SVpqcl9wdTBoRjdINnV6R0tEcTI3Qnpjc3RpLWxQOVVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 01 Aug 2026 09:21:00 GMT",
+   "summary": "US Treasury intervenes to support yen after Japan steps in, FT reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,50 +324,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Tyson Foods cuts profit forecast as tight US cattle supplies hurt beef business",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnlMZ3VteHpQa0Jtb1dxZXloNE1YWUVyZ0l6MHMwS29GSXl3cnFLM2RnTnVHUzZvLXhER19RdElQQnUwYlpBaHh3YkkzVV8yVjE0c290UlRpQUNkWlBlNkdhVnh1ZGloY1RXdjRZMlhkZkc4WmxWZlZYLWVuemhISV9oZzYzYl9XaG1jSWkwUXE4UEoyQXJEOC1ETGE4SkVZaWIyWkxzbmRwajFKM2JBWWZya2dUdVp2VjFIajZCVnRtb1VobVlxQmFnQVY5X0RIZ2NVWWtR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 03 Aug 2026 16:02:39 GMT",
-   "summary": "Tyson Foods cuts profit forecast as tight US cattle supplies hurt beef business &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "For GLP-1 users, the in-store clothes shopping trip is back",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDk3MVJGS1lYMFV0WUtSaVBTT3JsOXBNcmpsZTBXM0FMdHFLbHBxWWVNeS1USG5QaDZUUDNqc1RTdWNocFo5SkRHNVVxVWxsUV9hWUpPTTVoWm5ubUMyMGhhaVF4eWJqMUFOeXhQZndoZ090UXlDd25KTi1rdGcyNXhOZTJZLTZ1Y3czMEU2VGtrREtuVC1TNnJlTURJQVkyLTlfNl9iUU5CaHItNlJnZEgtSU1QWkcyWjlRckhDYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 02 Aug 2026 11:02:00 GMT",
-   "summary": "For GLP-1 users, the in-store clothes shopping trip is back &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "War-fueled oil rally set to lift shale profits to highest since 2022",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVFzcUtGdkZDcXkyMnhCWFdsRmlkbGxVTi1jc3dlTXFNdXEtWHU1dDhQTzlsZ1lmZ3lvOGdqSmZfWnhXczNXRXBZTVhiWFhvaVZOeEVUZVMtLUhoYXEzMWNQNm9fUzFvSlNJZm9TZUdWbDlJTVl3R1k0eUtyNHB3X2oycDEtb3NYZXlGSVVZc2dubVh6U3l4bkY3VF9RWVRPWEE2QXVJdDR0TlhUS1lMb2hOLUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 03 Aug 2026 11:01:31 GMT",
-   "summary": "War-fueled oil rally set to lift shale profits to highest since 2022 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "JPMorgan aims to funnel $750 billion into housing through 2035",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdVhpdmZqa01OVDlURjVTYkt6SEhJN0NnZDl3Ujd1c0ltYjdsdmo0YUJGUUpJTlI1LVoyNFBkVjFvLTJVZU83ZHJkYkRRTVpNRUNvNkxaN3c5djhuaGhLX1hJRUxHUUdXYm10UnBJbE1oV1lwZHpwZ1lBRjNSQ3Z5akExSGx6bGQ2Mnd1dm9ZSktrT0ItSzJ0bHJfOHk1TGpscG9JbG5GYXpnN2ZhdjU1Sg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 03 Aug 2026 14:59:39 GMT",
    "summary": "JPMorgan aims to funnel $750 billion into housing through 2035 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Russia's manufacturing growth hits 18-month high, PMI shows",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEJtSzdfQXk1SVYxTTFaODNDRjUzcU4xUFA3M0lhMHhGb2NGclg1UlFDSjZRMHVvOUVLS0dCek1XVG9wLXc1WU9ITm44VWVuV3I5OE1ZZkdBTHJXRGlnUW8wWGRjVEtrdzNrVGQ0eHJ5Y3lyZF9ZUzJwLUtxOHdLM3NEVEhYUkhOWXUteDN3VmZSbFBzY0czS1Z0Sktzblk5TnBCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 03 Aug 2026 06:10:00 GMT",
-   "summary": "Russia's manufacturing growth hits 18-month high, PMI shows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Trump brothers-backed American Bitcoin swings to second-quarter loss",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2FRenp3THJrTG9ocEs2MWY2dThPTmw5anpuNXpWa1dETFZXWjhieTFuMzZQQXJPY0VXb2c5dHpjRGdXam1TMURJOV9IcjNPWlFhc2JubHhMMFdWMnR0bmgzSUpxVkVXSnc1OGFXZFMxQTdUZTAxT0duRW1fYXJmdjdPY29MUzl4eDJoN1ppeUxFaUI5X0N1QTJ1NHlPTTdXT1pNSVRkMDliTDY5RGJF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 03 Aug 2026 11:47:43 GMT",
-   "summary": "Trump brothers-backed American Bitcoin swings to second-quarter loss &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,34 +340,58 @@
   },
   {
    "source": "reuters-business",
-   "title": "Emirates NBD Bank to acquire retail banking business of HSBC Egypt",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJtODl2SmUzYjZRSHlSWXBZdy1aM0xUcTRnVFlrcWxfaDdzWjg5Uk1xZDV6cmVUcVg3SDRsSW1IRnNxR2pUWGJqcnd2WlZuUTlRUjRKa3p1b0RlUW9qT2N0d1hvSjItaEs0MWhnZy1UdTJGcllCQjNkMWcxVVBnTkpxWEp1UFpuQVRBSkpJd0dpczk1a3dwdXhqVU5Nczh3VGE3WjFKVWYyWFVrRmN1enBIdzk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 02 Aug 2026 15:08:00 GMT",
-   "summary": "Emirates NBD Bank to acquire retail banking business of HSBC Egypt &nbsp;&nbsp; Reuters",
+   "title": "For GLP-1 users, the in-store clothes shopping trip is back",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDk3MVJGS1lYMFV0WUtSaVBTT3JsOXBNcmpsZTBXM0FMdHFLbHBxWWVNeS1USG5QaDZUUDNqc1RTdWNocFo5SkRHNVVxVWxsUV9hWUpPTTVoWm5ubUMyMGhhaVF4eWJqMUFOeXhQZndoZ090UXlDd25KTi1rdGcyNXhOZTJZLTZ1Y3czMEU2VGtrREtuVC1TNnJlTURJQVkyLTlfNl9iUU5CaHItNlJnZEgtSU1QWkcyWjlRckhDYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 02 Aug 2026 11:02:00 GMT",
+   "summary": "For GLP-1 users, the in-store clothes shopping trip is back &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Tyson Foods cuts profit forecast as tight US cattle supplies hurt beef business",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnlMZ3VteHpQa0Jtb1dxZXloNE1YWUVyZ0l6MHMwS29GSXl3cnFLM2RnTnVHUzZvLXhER19RdElQQnUwYlpBaHh3YkkzVV8yVjE0c290UlRpQUNkWlBlNkdhVnh1ZGloY1RXdjRZMlhkZkc4WmxWZlZYLWVuemhISV9oZzYzYl9XaG1jSWkwUXE4UEoyQXJEOC1ETGE4SkVZaWIyWkxzbmRwajFKM2JBWWZya2dUdVp2VjFIajZCVnRtb1VobVlxQmFnQVY5X0RIZ2NVWWtR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 03 Aug 2026 16:02:39 GMT",
+   "summary": "Tyson Foods cuts profit forecast as tight US cattle supplies hurt beef business &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "War-fueled oil rally set to lift shale profits to highest since 2022",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVFzcUtGdkZDcXkyMnhCWFdsRmlkbGxVTi1jc3dlTXFNdXEtWHU1dDhQTzlsZ1lmZ3lvOGdqSmZfWnhXczNXRXBZTVhiWFhvaVZOeEVUZVMtLUhoYXEzMWNQNm9fUzFvSlNJZm9TZUdWbDlJTVl3R1k0eUtyNHB3X2oycDEtb3NYZXlGSVVZc2dubVh6U3l4bkY3VF9RWVRPWEE2QXVJdDR0TlhUS1lMb2hOLUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 03 Aug 2026 11:01:31 GMT",
+   "summary": "War-fueled oil rally set to lift shale profits to highest since 2022 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Apple launches new legal challenge to UK attempt to access encrypted user data, FT reports",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSTZwUUFacHVOSzBpLUJ2WnFkMXV3VlpTdnRFejVxUTVzX2FPV1dxaEJONDhfbVFYejJWT1BQN2ptZG53V1BBVVJBTlVFazdTaWZCMGhCNFdHRHc2UFRpVEJyRzhOSFZnT0Y5YUFCRE5PSVlXM05fNG5Ram5UdG9zeG5zeU4zcmEwcVRFQVdMQ0pTNEpDeVQ3bmhGemZENU5wS0wtQV9qRm5kMDRaNWxFT3BudVhOQnpqUDR3MEQ5TE5PWHo3UDRvd1pkUEVSc1JQanc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 03 Aug 2026 18:06:03 GMT",
+   "summary": "Apple launches new legal challenge to UK attempt to access encrypted user data, FT reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US Treasury raises third-quarter borrowing estimate to $739 billion",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkxVVXJzbzAwcE92ektISXpTZE1QcGpkRzhqcmtsMXBIb2lLOEJ1ay13RGFZVWpfUHRmX2hjX3d3dWZ5RTk0UDAtR2ktblBqM2RmamsxUTBPdlFaU0JWX2x5T05Hc25acFNDckpCdXZkUzdQSEtNSEhONGNNakN2X1dRMUdXQlA1OEJnNlM2UHBjaDVvWUNJV1F6MjFxYmNmYUpJMHVid0pUa3RC?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 03 Aug 2026 19:03:53 GMT",
+   "summary": "US Treasury raises third-quarter borrowing estimate to $739 billion &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Russia's manufacturing growth hits 18-month high, PMI shows",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEJtSzdfQXk1SVYxTTFaODNDRjUzcU4xUFA3M0lhMHhGb2NGclg1UlFDSjZRMHVvOUVLS0dCek1XVG9wLXc1WU9ITm44VWVuV3I5OE1ZZkdBTHJXRGlnUW8wWGRjVEtrdzNrVGQ0eHJ5Y3lyZF9ZUzJwLUtxOHdLM3NEVEhYUkhOWXUteDN3VmZSbFBzY0czS1Z0Sktzblk5TnBCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 03 Aug 2026 06:10:00 GMT",
+   "summary": "Russia's manufacturing growth hits 18-month high, PMI shows &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St starts the month strong as Mideast deal hopes rise",
+   "title": "Wall Street rallies, Dow closes at record on Iran talks optimism",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 03 Aug 2026 16:35:00 GMT",
-   "summary": "Wall St starts the month strong as Mideast deal hopes rise &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "FTSE 100 dips as AstraZeneca slides on Bristol Myers tie-up talks",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0RpeG16VllIWVNDUml2LWo5bzFFVDI5UDhJb3RMMDdJRzlUZmVtRUF5MFZSaU5NTU4wLVRGNUNwY1lWXzlQM2lMMktGdENkWXl1MkFkcWlaazhpUlJ4TWJ3T3dJYUk2NkpwVWNqaFZDT2NlQzA0NWdZckowUFVFS1h5M0RYazA0d2tnb1hBSGtPVzI1TGNOdzVvckVXaFFsNUZBcG9jSTE5Q0ZGUS02Wm1n?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 03 Aug 2026 16:31:31 GMT",
-   "summary": "FTSE 100 dips as AstraZeneca slides on Bristol Myers tie-up talks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "OPEC+ oil output hike is irrelevant for now, not for later",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1F5SEtvVzlTU0VibXRmNGx4ZldyYllQcHBfSEkzRHVLVGdrNUxMLUZtQXZsT1pTWjJ4Z1F0ekFyN3NkWjRITjdCc2NtcmpFZ0k2OWN5Z25WOVVFVHpJNEVWQkU3emxZYkUtVFhFand1cWVHSWUyRUpQa1FOOUtPWlRKUzRVQUs3V3oxcWphVzVKUUhSSUNZaHNtdHVkM1U5VXE2Q0ZPNzE4UG5WQmdVS2cwZlU3UnNN?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 03 Aug 2026 16:28:11 GMT",
-   "summary": "OPEC+ oil output hike is irrelevant for now, not for later &nbsp;&nbsp; Reuters",
+   "published": "Mon, 03 Aug 2026 23:22:02 GMT",
+   "summary": "Wall Street rallies, Dow closes at record on Iran talks optimism &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,6 +420,22 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Robinhood's second private markets fund targets $200 million US IPO",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVItS0I5MUdFYzdsTkZ2bDJjellSQ29TYVAzQXpCaTdvamtfMDdXM2VvVFpONFBqMnVvQTZLRk94VDl1LU93VkxPYXFTRXItb0lUOXFxNzBwRkRKc0RKejNTNUl4VmpRMjY5VkxLbE44RmZBNEZYV2ZFTlZ6Y0laSFB1WDMzNDFpUmtHdm50eUpLZ0c0TGFaMURfaGp3SnpqcnQ3SFBDV0o2ZlhPYU53a3Q1QTVoSGkwSjYtYUNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 03 Aug 2026 13:35:43 GMT",
+   "summary": "Robinhood's second private markets fund targets $200 million US IPO &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Yen surges to three-month peak, dollar pares losses after intervention",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXpfRUdtOGNadXREWXpDZmVoUmQtVlJCdS12NzV3S253d2NLMmpVTVJBeXNhdmk0T2hMaThCdUNnaXMxcEZrR1JtOEtxLUFsaEpfNFlnY1Y0LTJISkFqN3RnRkZCRWxzaHllRGxZLV83ZTlIX1RtQ2RkQTVoQlk0Rnc5bzFCTUluNnI4QTY1b1YwaDlMNTg1amJwT05MVUFyQUFVZ25JMU1UekVSYWVuWjVMV2Z4ZmZZaGJaeXVMdEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 03 Aug 2026 00:37:00 GMT",
+   "summary": "Yen surges to three-month peak, dollar pares losses after intervention &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Japan's fight with yen bears goes on after joint rescue",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWQ2YldEWXVMR01rR2o2dEJMTzZXdFMxTGphS0N6cjg2d05wNnVUbVk3ZGhnSFpKVktqSGNEZkF0dzNucWdoRE1BTmIwYk1rNTZNVWVxXzJkLUtPVEdnY3pTZEVtX002OXBFcE5QNVU1OFJpeVN2Zzdtb3VJTzI0QWczck8zOXRUc21tSXJSZm1XQlZJbnIwMVZ2TWE4dXpHcDF0Vk5GLWhnUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 03 Aug 2026 10:40:41 GMT",
@@ -436,18 +444,26 @@
   },
   {
    "source": "reuters-tech",
-   "title": "China tightens exit rules over tech security risks",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTk5TTdxc3lsdHEtN3lOYk1IeGdFNkJWYjc1WkV4UV9PdTZtQ1p4S3hWUnAyS2VGRXh2ZmxjcjI1b0dZOGI1RldTVUxyY2h6enROVERISnJ1ME8xMHc0YmFoZ29JUDR0ZlZHYjlUcHBwRWEzOENJeWMyUGFuYnppNDIzOG0yczRTTmxhWnBUcktfWkFBZGttdlJJMnFBRkQ4cHNwa3I3Zkk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 31 Jul 2026 10:59:13 GMT",
-   "summary": "China tightens exit rules over tech security risks &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Citi hires Bank of America's Rohan Sen to lead technology services banking",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVlTcy1kZHBUWlZzem9vVGFveVJ2NFlTMGhWVGN0NGFTR2V1OERRVG9XYnE3Y1YxMjc2LXhCclNFZ0lWdmY5NkNiM2pwLS14NXJuNkZRWmQwMHdQbTBLc0RiQ1ZfOFZ6WGtOR19YM0ZQZ3diUzd0OU1nRldrRjhSSVgybzYzSm9hX1UtYmJ4dVJTV2VGQ0ZaZlQ5YzB4eTZhWGlIcTJmb3pMZTNvQlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 03 Aug 2026 18:01:19 GMT",
+   "summary": "EXCLUSIVE: Citi hires Bank of America's Rohan Sen to lead technology services banking &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "US cyber defense agency warns hackers are increasingly targeting water systems",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWNJNFA5THZLRlg3TTVYX2tkQmJzOUdQamtWQXZDOU81R1RTdjBtX3E2S3k3RlVfR2p6WE9uZGpfbzNCUHpGN0hhZ3ROY3pmN1FiS1JZa0FjQ2FDMDZuOUFRSjJad0wyX3lZWUFfQ1FjdGs4RGZvRVpnYzBwT1o0UlkyaGVRTkpvdVo0SmpCUkdhWFN3TEVaVHpfTnB1YWUwbzNuMUpoa2VsdHdtM2hNZ2JaRUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 30 Jul 2026 21:43:00 GMT",
-   "summary": "US cyber defense agency warns hackers are increasingly targeting water systems &nbsp;&nbsp; Reuters",
+   "title": "ArcelorMittal expands Microsoft partnership on cloud",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1Ewa1FBcUlHNWdqMHhlMG5TQVBtak1EWjZnVVdLUjJKODg0RW94Y21hcU9uVjdCRm1EYnJrc1N0VUxFTlExZzN5QTFzWHdydmtYODNvbUJyT3lIM0dQdC1JOHRNaXh4VUdmMjN2UXQzandFLTM0bUU4WklSekhOMFZQc2VCdFNDVmdteEtYa2RSX3VvN3B6QXJyMXY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 03 Aug 2026 06:55:00 GMT",
+   "summary": "ArcelorMittal expands Microsoft partnership on cloud &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "China tightens exit rules over tech security risks",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTk5TTdxc3lsdHEtN3lOYk1IeGdFNkJWYjc1WkV4UV9PdTZtQ1p4S3hWUnAyS2VGRXh2ZmxjcjI1b0dZOGI1RldTVUxyY2h6enROVERISnJ1ME8xMHc0YmFoZ29JUDR0ZlZHYjlUcHBwRWEzOENJeWMyUGFuYnppNDIzOG0yczRTTmxhWnBUcktfWkFBZGttdlJJMnFBRkQ4cHNwa3I3Zkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 31 Jul 2026 10:59:13 GMT",
+   "summary": "China tightens exit rules over tech security risks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,18 +484,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWlqNFRRdmhvdnJCYjdZNU5ZQWRFczZoSnJrbHhmWjc4OEplN3VOSE00RlBwc3J4MDRhbUdiNm80a09weGVQRUxqZHhfRzMtT2d2UkpjazBWaXduSk1MUG5pdUNIZFpTUzgyR09WQnJMYkctNEJtcFlCQWVTb2gwaEd0ZHJpNDhaQzQ0UzZYUTJJZkFiTWJsU1RMMVdRTktiZVZtRWN0cE1wUFpvWUdKbTQ0X295WHBBTW9CakYyRUU0VTh1YlM5b3YzMGwzOGtTZzNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 01 Aug 2026 18:25:43 GMT",
-   "summary": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGZha29mNzNPN2tRYzd5dVNJaDNJMVUzdzhWZnMwZUVpQjhWSHh1dnh1bHlJWE02TXJ4UHA3M25RWW1EZ0tzTHY2a3VpWWtLV0FWUjlieGtnX1ZjTkNBak1VM0ltaVhwRFhORloxTVlYajRyN0ZiRVo1cWprNkM0WTEtNE5ielpYNDl1NHBDYmstX3VqblktSDROTkF2U0pzaFROQm9RRWlVcjRfbHFpamYxaw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 31 Jul 2026 21:46:29 GMT",
    "summary": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Citadel buys most of Situational's stock holdings after AI share rout, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHJIU1otWHVrMEU0Y1FqRFhmazB2bklSYzhzSzRsQXNJZzFzbk9SM3ZEU2hBZ2ZiWVlTMnhwcWZzTXJhamcxREluUnZDbWNCZjlYbVBSLU5aaGoxbWhYN1BsYy1ZTDN1M2VZampoaGVvNmZWSEsydnptM05OWlQ0QWFmbGd4M1h4WjZzR0RpMUZQRWpaOVh3UGhMenFZMmk5djdxOURGb25qeDh5b01udEU2UFVDNWRNSkhnY2x5Rk8wZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 31 Jul 2026 12:05:28 GMT",
+   "summary": "Citadel buys most of Situational's stock holdings after AI share rout, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -492,10 +508,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Citadel buys most of Situational's stock holdings after AI share rout, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHJIU1otWHVrMEU0Y1FqRFhmazB2bklSYzhzSzRsQXNJZzFzbk9SM3ZEU2hBZ2ZiWVlTMnhwcWZzTXJhamcxREluUnZDbWNCZjlYbVBSLU5aaGoxbWhYN1BsYy1ZTDN1M2VZampoaGVvNmZWSEsydnptM05OWlQ0QWFmbGd4M1h4WjZzR0RpMUZQRWpaOVh3UGhMenFZMmk5djdxOURGb25qeDh5b01udEU2UFVDNWRNSkhnY2x5Rk8wZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 30 Jul 2026 18:04:00 GMT",
-   "summary": "Citadel buys most of Situational's stock holdings after AI share rout, sources say &nbsp;&nbsp; Reuters",
+   "title": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWlqNFRRdmhvdnJCYjdZNU5ZQWRFczZoSnJrbHhmWjc4OEplN3VOSE00RlBwc3J4MDRhbUdiNm80a09weGVQRUxqZHhfRzMtT2d2UkpjazBWaXduSk1MUG5pdUNIZFpTUzgyR09WQnJMYkctNEJtcFlCQWVTb2gwaEd0ZHJpNDhaQzQ0UzZYUTJJZkFiTWJsU1RMMVdRTktiZVZtRWN0cE1wUFpvWUdKbTQ0X295WHBBTW9CakYyRUU0VTh1YlM5b3YzMGwzOGtTZzNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 01 Aug 2026 18:25:43 GMT",
+   "summary": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -504,14 +520,6 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsc1JxYWZtanlYeGRJWTg2Y0pqVmRQTlJtTEs3UGxTSXc2YnpCaVc1bWtEWmg0RW4wUUd6M0lRUXNHOVU1YkM2X0lOVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 26 May 2016 05:11:17 GMT",
    "summary": "Tech News | Today's Latest Technology News &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "US signs letters of intent worth $874 million to boost semiconductor research",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2N6YTNQZGpiY3RtS1lDbjFBV0U1eHQ1MzY5QVNDZ1FtSi1MT2ctX2p6UlJjdExjdWhQemdWb3l6ckp2NFEycEVSNGJSM0FTOHRwZGswcVZiVUh4b1cyeVRzdGJRR2xsWkJJd19tQ0hhbk9LSzB6U1d3alJVeW5kMDhUUDFLaEhOLXJPaHRXU2wzbTdJTEdLQXZWaWZ6WGJLQXlZeGVQYVZKT1pLTEQ2ejRhUE5aeGFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 30 Jul 2026 19:57:17 GMT",
-   "summary": "US signs letters of intent worth $874 million to boost semiconductor research &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
