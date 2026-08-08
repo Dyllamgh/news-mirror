@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-08T19:20:16Z",
+ "generated_at": "2026-08-08T21:06:28Z",
  "count": 67,
  "items": [
   {
    "source": "nyt-world",
    "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
    "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-   "published": "Sat, 08 Aug 2026 19:04:40 +0000",
+   "published": "Sat, 08 Aug 2026 19:04:41 +0000",
    "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
    "full_text": ""
   },
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "Whirling Like Dervishes in Turkey, but Open to Everyone",
    "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
-   "published": "Sat, 08 Aug 2026 04:01:18 +0000",
+   "published": "Sat, 08 Aug 2026 20:29:48 +0000",
    "summary": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
    "full_text": ""
   },
@@ -38,7 +38,7 @@
    "source": "nyt-world",
    "title": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
    "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
-   "published": "Sat, 08 Aug 2026 17:56:33 +0000",
+   "published": "Sat, 08 Aug 2026 19:52:28 +0000",
    "summary": "The Bald Range fire, which started on Friday, has burned more than 23,000 acres near the Districts of Summerland and Peachland in British Columbia, officials said.",
    "full_text": ""
   },
@@ -46,7 +46,7 @@
    "source": "nyt-world",
    "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
    "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
-   "published": "Sat, 08 Aug 2026 17:24:14 +0000",
+   "published": "Sat, 08 Aug 2026 20:30:51 +0000",
    "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
    "full_text": ""
   },
@@ -94,7 +94,7 @@
    "source": "nyt-business",
    "title": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
    "url": "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html",
-   "published": "Sat, 08 Aug 2026 12:00:02 +0000",
+   "published": "Sat, 08 Aug 2026 20:51:36 +0000",
    "summary": "After years of office casual, young people are embracing loafers, derbies and oxfords.",
    "full_text": ""
   },
@@ -252,6 +252,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 08 Aug 2026 16:45:44 GMT",
+   "summary": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 06 Aug 2026 16:50:48 GMT",
@@ -264,6 +272,14 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 04 Aug 2026 19:29:52 GMT",
    "summary": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Bangladeshi cricket star Shakib, a Hasina ally, says he is ready to return home and face trial if given security",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZkx3WER2dU5nb0NRLUNNeHg5OFpkLWdCNzRRaEFXaUNVMEhxY1o2N3RTT2JXeE9HdFhWX3FWNHA4UGpfRDl1M1lzSE85RmZsczFjOXRHN00wM1hURHpsMTlIdUoteVVBaEEySmpnZWhJaVFMN2xLcXdIN1ZqZERzVEJ6QXpZd3hIY0tfVnV6TW5rSkxyVUQxMFNlUTN1UkczTWoyNkE2NUw2YTVQUWxBV1g1UUoxQ1JqcXFoNUg4VFQ2d3VFQkMxQUN0R04?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 12:50:29 GMT",
+   "summary": "Bangladeshi cricket star Shakib, a Hasina ally, says he is ready to return home and face trial if given security &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,10 +308,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Bangladeshi cricket star Shakib, a Hasina ally, says he is ready to return home and face trial if given security",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZkx3WER2dU5nb0NRLUNNeHg5OFpkLWdCNzRRaEFXaUNVMEhxY1o2N3RTT2JXeE9HdFhWX3FWNHA4UGpfRDl1M1lzSE85RmZsczFjOXRHN00wM1hURHpsMTlIdUoteVVBaEEySmpnZWhJaVFMN2xLcXdIN1ZqZERzVEJ6QXpZd3hIY0tfVnV6TW5rSkxyVUQxMFNlUTN1UkczTWoyNkE2NUw2YTVQUWxBV1g1UUoxQ1JqcXFoNUg4VFQ2d3VFQkMxQUN0R04?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 12:50:29 GMT",
-   "summary": "Bangladeshi cricket star Shakib, a Hasina ally, says he is ready to return home and face trial if given security &nbsp;&nbsp; Reuters",
+   "title": "Battle lines drawn within FIFA as key figures break ranks with Infantino",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNak9GVU5MVGJmUGp6bG1OLW1ELV9TN05IWkRwQ2hZcUpWczJUS0NHMkwycy02X3FSeThFX053blppMDRMR2xmQ0pGNF9QeHY2YjlqOFlFQ1VIZk5oUjRFQ0V5YkxMLW9TQlJXNlVrQzhDWl9mUTZuN3RjNFcxZnU3SU9BM3dLZ2JSSDJ1eEs4bTJlYkpNOUF5WmxNM2ZkNUUzLTl2WUZOQ1hIWlM1WS13N0xZSXhYb2xYRG01NEZHUlpPcHU5REpOM1ln?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 04 Aug 2026 08:25:00 GMT",
+   "summary": "Battle lines drawn within FIFA as key figures break ranks with Infantino &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -304,22 +320,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWpCMFNYSzRIWWQzeExhSXl5RFdsYUNSSGZkcnlwblpJMjg3Nno4c0Y0UlNabThLdy1EbzdySG1pNTdUcVBxRWJHX2RxT251Vnk2aGhoYkM2dW8xdHpCVV8wamt5WW93NnJ6LWpHdkRhVWNPRzZlUmZFV3paQ29YSG5MRndac0V6ZlZwOVNpcDhWT1RROHl6NzBRTVlCVHhOdWxIcG9iT2l4ekdhbWxtRGlvbXIwVG1FOEx3bnpXekI?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 05 Aug 2026 10:03:00 GMT",
    "summary": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "AI offers 'lifeline' for emerging economies, World Bank says",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVZGc1lSSGxvaXVoX2pBRG5rN1hTcU40dS1TQXl0ZU4yYUNDVFU2ODdCakpRai1hbFJwUVVkQVo0MVdENEg0YUQ4c25uZERIRUJqMHlBbVUwYXVfX3c0ZlpmdmVhVjRWUVFTbE93YnlzLV8zVW1FU3hhbFQ4Sy1OVkNXcHZsQzdIRXpVYmplcXdwOFJQS19XZk5TdVIxNlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 04 Aug 2026 18:43:49 GMT",
-   "summary": "AI offers 'lifeline' for emerging economies, World Bank says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "FIFA apologises to members as Infantino holds crisis meeting amid stake sale fallout",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 06 Aug 2026 04:47:40 GMT",
-   "summary": "FIFA apologises to members as Infantino holds crisis meeting amid stake sale fallout &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,18 +340,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Ukrainian attacks on Wildberries strike at heart of Russia Inc",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlIyUFVBbEJvTndDSHJ1Q3VoTnMyTy1Nb3A0TmhRazEtUkxGYmNfUE10aElfZzFVWmhjcE9Za3lFVUhBRmpmdHNtTnpGd1pVMGJmd3FtMndvazRxakdYb3hrWnBnUHdzWndXTXVmdkJuNlMxQlQ1cFU4TVA5X3VyS2s4RWh3Rmg5Njd4UWxEZmx0eDVoalhzeHJYUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 06:02:00 GMT",
-   "summary": "Ukrainian attacks on Wildberries strike at heart of Russia Inc &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Canada discussing trade concessions with US to avoid new tariffs, says source",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTJRalcxal9mNGtRZEtHUThMUHBhQjhybXJtWTlfYnk5UF80bmRlSl85cWdEeG92RnVGM0JUZDZVU3B1UGZZXzNuaTJMbVYzaHNpWWpPcjJSSTczTVo2LXJLLWdINUhGb1M0aTNIekNIQTNNeXdUbU9STGE4dXRyUFRPVU5Cc1N2S0ttTHBLT1dFTW0zQ05vQUpPS1ZtV05KUjFEem91OGZreFdqZV9SeTE4ZGdJV3JmVUJjZ1NQbDY1eVU?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 07 Aug 2026 19:15:21 GMT",
    "summary": "Canada discussing trade concessions with US to avoid new tariffs, says source &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Ukrainian attacks on Wildberries strike at heart of Russia Inc",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlIyUFVBbEJvTndDSHJ1Q3VoTnMyTy1Nb3A0TmhRazEtUkxGYmNfUE10aElfZzFVWmhjcE9Za3lFVUhBRmpmdHNtTnpGd1pVMGJmd3FtMndvazRxakdYb3hrWnBnUHdzWndXTXVmdkJuNlMxQlQ1cFU4TVA5X3VyS2s4RWh3Rmg5Njd4UWxEZmx0eDVoalhzeHJYUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 06:02:00 GMT",
+   "summary": "Ukrainian attacks on Wildberries strike at heart of Russia Inc &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,18 +380,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "US Postal Service reports $2.5 billion quarterly loss",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVmZySXFWRERxWUZyYzhKU0xMZ29mOTY1WlhFelF3aDREV29WS0p0VE9pRVdjbGRSMzB5WmFTUjF1M3BNczBtdkNVUFh0cXVDY2wtTVZCT1pib3A5OGp4NFVzUlR1RG9oNEhqbE1LcElTVHZNUVllSjd5ZDFQMUxJQ0tjV1B1REZXOFlUUzRQVHdTcGlnQzdkUmd1LWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 21:30:08 GMT",
-   "summary": "US Postal Service reports $2.5 billion quarterly loss &nbsp;&nbsp; Reuters",
+   "title": "Fire at Russia's Ilsky oil refinery put out after Ukrainian drone attack",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZF9rMGhXdGhNYTJuckV5Z3VqRGIxT2VwbzhWNXlxU24yYlRBQ2Q0bUJhbnpRSkEwRWFRNXpWdFdGSGdRUjh0X1RYLWxsTXJ3STd5VWd3Qmd2VEtNQjZNTUU2d2hVRHo4aXBRa3FNSjVVVHF4SGRlV0tKc2JDUWxRNFNKUUk0eFNDbGVLOGFqeVpaRTZZQzJIenhmUmVBLUNVVUZ3ZDVPM1FyRUF3N0NVRDlXU2ZrUTlwd2ctcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 08 Aug 2026 09:30:47 GMT",
+   "summary": "Fire at Russia's Ilsky oil refinery put out after Ukrainian drone attack &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Dream Finders to buy Beazer Homes in $2.2-billion deal",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2x2eWs1RThmWlo2QjRKSjZVM2VSQ21xU2hVVS11dzZYWDhYcVc2Y1FXSzRFYXhHb0tzR19wODQ4TU5tdEFjU09HUDM4aFJILUhxNmFKU2pOMHdyTVJ5V3BtWFBTWkFmVjV4dVBzVXBVcGNHLUJmaVd5OExfa2tDOWIzMTJJT3ZuLTROQkY5c3NadU1uMng5SlRSS2Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 11:26:21 GMT",
-   "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal &nbsp;&nbsp; Reuters",
+   "title": "US Postal Service reports $2.5 billion quarterly loss",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVmZySXFWRERxWUZyYzhKU0xMZ29mOTY1WlhFelF3aDREV29WS0p0VE9pRVdjbGRSMzB5WmFTUjF1M3BNczBtdkNVUFh0cXVDY2wtTVZCT1pib3A5OGp4NFVzUlR1RG9oNEhqbE1LcElTVHZNUVllSjd5ZDFQMUxJQ0tjV1B1REZXOFlUUzRQVHdTcGlnQzdkUmd1LWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 21:30:08 GMT",
+   "summary": "US Postal Service reports $2.5 billion quarterly loss &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -460,14 +460,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "VIEW Soft July jobs report fuels skepticism over possible Fed rate hike",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1lYeDhMVGR3MWxnLVFXeE8yMmstOGEyZGRNOUJQVThCdnQwQkh0ZExXc0NOWFVlVVdwTG9YWjNWR0llLTIxaGJDbTNrampsWFBNaHVmbjUzV1ZYN1lUbnFXanlaZDJoWkJ1a1lBYURMMVVEbmZjQS1INExZeC11SUNiQmE0YVhWRzZzVkV2ZDBvZ2JyUVRfd1oxbTlrbGZwYzd0ZWdrMVNtUjRWdWJudWdrUjdMZEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 13:31:56 GMT",
-   "summary": "VIEW Soft July jobs report fuels skepticism over possible Fed rate hike &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjdYbS1fZXZGWktSZkVpMk4temZNOUY1cEFsQUxTRXRNQnJUai1lY2xTMDE5dmFMZjUyUzZQclRyQUJuVTFVXzB6RGtpeXlFeU8xZjNiVWp4dVVNTkVWcVhCVEpsVVdTa1lsZEVfVUlSWHBlMjh0UDNYdkpjS3BHVjA2MUUtSXU0OTNEZ1lCUW9iYkliLUxSN2JSTTlFbEktaGRTb2UzcUxNMjlaZGtQSmt1S1FWYzlvdlkwdDM3WjY0dHZTRU9VWFFB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 07 Aug 2026 04:33:00 GMT",
@@ -483,11 +475,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-tech",
-   "title": "Take-Two touts 'unprecedented GTA VI pre-orders', but maintains bookings target",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3c2bmh5aUpYb1U2LWFUaFdROEZZRmhsZFJGd2ZKeld0bzc3TVFETVg1ejBEQm5rMnVEZy1GTVNOeHBhbVJnVFdiMTFQcXV5RmhIU0lQX3pDY0FXOUJaQUlpd3JxQi1nNE5Xd3piNUhqVmF0UV9oNWo5YTZJUUwzOWkwdDJLV1I1cnQ4NDY3LThSUDJwLWNvQlF0ZV9tSzNkRHIxV1VfTmVyUGxGMWNFaS1lVElaTGJyc1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 15:40:39 GMT",
-   "summary": "Take-Two touts 'unprecedented GTA VI pre-orders', but maintains bookings target &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "Europe's getting hotter, markets are taking note",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGVzcGFNZ1c5WlpIeXI4dWlKLUNPWmNUYXFCbWxCazFPV2swT3dyR0ZvUW54X2Nnb3ZsMWh5NmtoUHpUb3B4V1l2dV9aTGd6V2tlbTQ1aGNrUEIzdWZ3YkhWNW81dDFGdVhmdnM4N3dka1lYTy1ZZFZaSGE4RzZBTVJCTm8wb21CUGN0aTd0MU5NMFNjd2lUV2k4dTRsNG9XWWhFdmtB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 04:02:00 GMT",
+   "summary": "Europe's getting hotter, markets are taking note &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,26 +492,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "ByteDance targets mega AI model that could match Mythos scale, FT reports",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY191Y2FEemJtMWI3NGhTYXBXTUEtQnZiWE9lTG1CVWhaWnc3aUVuZC1sTXNkdXc4eFRtSExvaS1UaUFqYi10X1VLZzN3cXF0N0JXeHYtY1p0QXJQLVlCTlV5LVpPYjQzUGpmbTg2ZzI4a29MMi1FeWl0LVlmRW9ObkpHVlBCNjUtRHljZWg5NzVTU0l5bURsSFBvWDlnWjNja2FQbWVESGZha29OQjJmZC1YRVczdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 04:43:00 GMT",
-   "summary": "ByteDance targets mega AI model that could match Mythos scale, FT reports &nbsp;&nbsp; Reuters",
+   "title": "Breakingviews - Corporate AI is still chasing theoretical benefits",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0xaVUgwZG03bExtR1JBU1BiTDl3bl9xd1RjcUpESkc5MFkyVEdkT3F5eXhIRjdBZ3d5UFJmZlZiS1N2dy1uMEhPRDNGRm1sRmF2VU05UTRYUTdlaFZCRGZiay1PV1RNTTFWRlZyYmotWTdyMEJ1czFab1ZUOTFSV3NxUTJGYkRPYWZoZmg4bjFNMkV2TVdRMjQ2TVYzaHpDSE9RY3BWQ1loVlNEdXo0WA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 15:58:57 GMT",
+   "summary": "Breakingviews - Corporate AI is still chasing theoretical benefits &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
    "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 01:10:19 GMT",
+   "published": "Fri, 07 Aug 2026 01:04:00 GMT",
    "summary": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Breakingviews - Corporate AI is still chasing theoretical benefits",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0xaVUgwZG03bExtR1JBU1BiTDl3bl9xd1RjcUpESkc5MFkyVEdkT3F5eXhIRjdBZ3d5UFJmZlZiS1N2dy1uMEhPRDNGRm1sRmF2VU05UTRYUTdlaFZCRGZiay1PV1RNTTFWRlZyYmotWTdyMEJ1czFab1ZUOTFSV3NxUTJGYkRPYWZoZmg4bjFNMkV2TVdRMjQ2TVYzaHpDSE9RY3BWQ1loVlNEdXo0WA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 15:58:57 GMT",
-   "summary": "Breakingviews - Corporate AI is still chasing theoretical benefits &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -532,10 +516,26 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Samsung Electronics launches next-generation AI memory technology",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 04 Aug 2026 19:42:53 GMT",
+   "summary": "Samsung Electronics launches next-generation AI memory technology &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "US regulator rejects Dutch fintech Bunq's application for national bank charter",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTYwVEtTQk5QcEgyV2hWaF83Z0NhaUNZYlhxVHdGeklmdWdpZ3p2bkROM3VmVEJxdW1CTFpNTUpJVUd0N3RsVVFIa3BFUy1Oak1STzVhX0NVMUMzZFFmeFI4MnRtWjRTRzBxTVNfSTRQTHpYLTExR01uWHVMSHlkWlpIbUVvUHFzR0dWOWlDNkZMRzRlS04xY1pGQWxSMFhYZnNBYjVqSk02NFpVYVdPUm9VQVIxS2g3WldjYnZhZnJlNHViV1E?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 07 Aug 2026 22:41:44 GMT",
    "summary": "US regulator rejects Dutch fintech Bunq's application for national bank charter &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Battery technology firm Sila receives $1.4 billion Pentagon loan commitment",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2N5NFc0bmFRVVg1d2duUTVhbFphZWQ0QTIxcVJqcjFOTDFQYzBoeUo3dDdkNTJZS0luc2k3WXFYV0c3dUJKSHpEcHJVajJsS1BfNjJFQWRkTi1WRU5TUnNDbWlwTlVMc1ZVd1ZqdzNPVjlrUV80TEVzdTF0M3ZLcHFPUmM2X3VILWk4b0lueUxWTlA4V1RDS3U1aGViTDNQOXNiY1hULU9ZY3d2akFsRzBhdFd5Y3M4a1I3Qw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 21:58:02 GMT",
+   "summary": "Battery technology firm Sila receives $1.4 billion Pentagon loan commitment &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
