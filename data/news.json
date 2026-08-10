@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-09T23:05:44Z",
- "count": 67,
+ "generated_at": "2026-08-10T05:11:54Z",
+ "count": 68,
  "items": [
   {
    "source": "nyt-world",
@@ -38,7 +38,7 @@
    "source": "nyt-world",
    "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
    "url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
-   "published": "Sun, 09 Aug 2026 21:40:37 +0000",
+   "published": "Sun, 09 Aug 2026 21:40:38 +0000",
    "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.",
    "full_text": ""
   },
@@ -54,7 +54,7 @@
    "source": "nyt-world",
    "title": "Syria Agrees to Reorganized Russian Military Presence",
    "url": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
-   "published": "Sun, 09 Aug 2026 15:57:53 +0000",
+   "published": "Sun, 09 Aug 2026 15:57:54 +0000",
    "summary": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations.",
    "full_text": ""
   },
@@ -78,8 +78,16 @@
    "source": "nyt-world",
    "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
    "url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
-   "published": "Sun, 09 Aug 2026 15:55:30 +0000",
+   "published": "Sun, 09 Aug 2026 15:55:31 +0000",
    "summary": "Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Taylor Farms Voluntarily Recalls Fresh Jalapeños Over Salmonella Concerns",
+   "url": "https://www.nytimes.com/2026/08/09/business/taylor-farms-jalapenos-salmonella.html",
+   "published": "Mon, 10 Aug 2026 02:13:48 +0000",
+   "summary": "The company said it was unaware of any reported illnesses linked to its products containing jalapeños, which were distributed to major retailers across 26 states.",
    "full_text": ""
   },
   {
@@ -102,7 +110,7 @@
    "source": "nyt-business",
    "title": "Kalshi’s Tarek Mansour Isn’t Interested in Management Advice",
    "url": "https://www.nytimes.com/2026/08/09/business/kalshi-tarek-mansour-prediction-markets.html",
-   "published": "Sun, 09 Aug 2026 09:00:41 +0000",
+   "published": "Sun, 09 Aug 2026 09:00:42 +0000",
    "summary": "Tarek Mansour co-founded the fast-growing prediction market company shortly after graduating from M.I.T., aiming to provide a “mathematical, objective” view of the world.",
    "full_text": ""
   },
@@ -142,7 +150,7 @@
    "source": "nyt-business",
    "title": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered",
    "url": "https://www.nytimes.com/2026/08/08/business/nfl-canton-hall-of-fame-village.html",
-   "published": "Sun, 09 Aug 2026 15:11:23 +0000",
+   "published": "Sun, 09 Aug 2026 15:11:24 +0000",
    "summary": "The “Hall of Fame Village” was pitched in 2014 as a boon to the city. But hundreds of millions were spent, the N.F.L. backed out, and the project is unfinished.",
    "full_text": ""
   },
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/08/07/business/media/netflix-billboard-marketing-strategy.html",
    "published": "Sat, 08 Aug 2026 14:16:20 +0000",
    "summary": "The streaming giant, still looking for this year’s blockbuster, paid an actor to spend three days inside a billboard in Los Angeles to promote an upcoming film.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
-   "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
-   "published": "Sat, 08 Aug 2026 14:39:26 +0000",
-   "summary": "Prime Minister Mark Carney is attempting to prevent 50 percent tariffs against many Canadian goods scheduled for this month.",
    "full_text": ""
   },
   {
@@ -244,298 +244,306 @@
   },
   {
    "source": "reuters-world",
-   "title": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazVhN1R5WHRFQTBvX1BRNWoyT1F4WGlKVXBncE5ad1h2TVZqM0ZPLWdEYy1OVkdDYnE2THh4Z2twaGtiRXBMdVY3V3NBT01UeGxuVlljODZHUVptY3NqNnVldHNDOEIzYndQQi0zUExFbExpVGdQbS0zS2ppeGpMbWlvVnZsNS10aVBLaXR1ZDA4Q0piT09XVHR4bjRNSk5qaDQtOGwzWm1seTB0UXlVUl9uN3FIRlVCWUdNS0lNX2xWUWR2ZHdTNnVqdS1sdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 17:19:59 GMT",
-   "summary": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 08 Aug 2026 22:54:58 GMT",
-   "summary": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 19:35:07 GMT",
-   "summary": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGs5LVJQSnlqLXhUVEdVN1h2OTdZaXlLVzVnaW9xVk50VGdvM004MWpQNXIyLUVxMjV1aGhoSXhVcmhlMmZqNVltVUhyblg2MmtIbjBpZldLSmRLLWxCX0xvVGhmVFJKbk81S1NQQnM0TTYzM0tTLUotcC1DQ1JGVGx6dG8xVktZOHJydHNnODNvXzhKWDhXVENkX2RWRnJBM1Aw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 15:28:24 GMT",
-   "summary": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "What is the Patriot missile system and why are supplies depleted worldwide?",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmtXR0FpcFZzbEtPOEtrS25wVmRwYk10UTlkMzZ1M292dEZZUjdvbEhyMF8yb2FSUFBRbmF3U2NMTm1CSXhCbVkzZUtNRWprV3hLWFhUVnY1UGFYbnB0OVF5SVRQek9OeFo0WHkwZ1NKM090OVZoYjRDZ2lMaWxrNHNpVVVjZEF1SWtGZFVvUWt6emhuZm40NFdsRnlTNGVmQk9ZeC15a2pYZzNH?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 14:56:00 GMT",
-   "summary": "What is the Patriot missile system and why are supplies depleted worldwide? &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "PODCAST: Todd Blanche, Lisa Cook, Typhoon Dolphin and pet tarot",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnZaV1QyTXNyLU4xNUI5NmVMMHVfT2Q4LVlfQjlNakhpRmZoRlpCa0hMZmRtb0tsYVRsTkFGTVAyR2VPV210bEJPQjRXYnBfNDg4QXctU1BGVm03ZVd3cmdLWUJrTGI4Mno1UjJFYnpZQXBrUC1HeVNfYmZHU3hnRnJyaDk5S041aW1DOHZlREdJS0RzdFFiQg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 08 Aug 2026 14:46:00 GMT",
-   "summary": "PODCAST: Todd Blanche, Lisa Cook, Typhoon Dolphin and pet tarot &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Netanyahu says Trump's new Gaza plan is unacceptable",
+   "title": "Netanyahu says Trump's new Gaza plan is unacceptable - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 09 Aug 2026 19:24:40 GMT",
-   "summary": "Netanyahu says Trump's new Gaza plan is unacceptable &nbsp;&nbsp; Reuters",
+   "summary": "Netanyahu says Trump's new Gaza plan is unacceptable &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 06 Aug 2026 16:50:48 GMT",
-   "summary": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says &nbsp;&nbsp; Reuters",
+   "title": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazVhN1R5WHRFQTBvX1BRNWoyT1F4WGlKVXBncE5ad1h2TVZqM0ZPLWdEYy1OVkdDYnE2THh4Z2twaGtiRXBMdVY3V3NBT01UeGxuVlljODZHUVptY3NqNnVldHNDOEIzYndQQi0zUExFbExpVGdQbS0zS2ppeGpMbWlvVnZsNS10aVBLaXR1ZDA4Q0piT09XVHR4bjRNSk5qaDQtOGwzWm1seTB0UXlVUl9uN3FIRlVCWUdNS0lNX2xWUWR2ZHdTNnVqdS1sdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 17:19:59 GMT",
+   "summary": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "World number one Sabalenka suffers Toronto setback as Alexandrova advances",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjkxRWZKekw2X2N2cU1mQXhLSlE0N3V4b2d2ei12Mmg4RnN5bmRhMFFyNS1vSGtsRjhsdVY2LXdSLVk1dVBFcnBDQWR5cWpyUXo3eGowbkF6eGJ5M1VfZlducjFWSDJONUhiYVVkdnh6TTJ0TlZJTWVkSE9TUi0xYmJDZE84NkhXOUlrVVpQY3hCQVpIYWlDTjJBZmhsTGF6M01lMGktOWhLLWNXakFjNXRMRUFNNU4tUzlFSHZB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 05:20:00 GMT",
-   "summary": "World number one Sabalenka suffers Toronto setback as Alexandrova advances &nbsp;&nbsp; Reuters",
+   "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHdGT2JicUc2MmpyR1JUOE1jNGgxT1V2ZDlzdG9Fd2tzeWdVSWJkWDdIbmJZWjhkUVQzZUxGeFg1RlR5X0pMOXdmclBpbmlwOGhjYkdhRWJOUUdUemdZaEc4M2tUV2tZOXJISDFiTlhsdnVxdWJ3b0o0SktBSk5fNE9VekdGNHlyNU9wRUFkTkRYTkhFaG53TGNmTUZxZmNwYTJhWFRDb1BTWXJpY25TZg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 08 Aug 2026 19:35:00 GMT",
+   "summary": "Ex-President Joe Biden's cancer has spread, is very painful, son says &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 04 Aug 2026 19:29:52 GMT",
-   "summary": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say &nbsp;&nbsp; Reuters",
+   "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 08 Aug 2026 22:54:58 GMT",
+   "summary": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 19:35:07 GMT",
+   "summary": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Dollar near two-month trough as US inflation data awaited - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNXbzdKZzN4SWREMXRobGFBNUZTbkhiRERVTXVER0xFMndJbzBGXzRwckk4SWJLTlJtUHNaSDN1Uy1BRUMwZDY2U3dYRVRzeWV1NTNWN3QzazF5NHZuNGUteGpmanpqQnloXzBQWk1oY1FKWWFjUWYyX0ljSF91NXhWQVl0ek5RVWhwakpoZWZTbXJFelRXN3hIZnlfMlk3elZtUEtzbU5DQWZiamc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 01:31:00 GMT",
+   "summary": "Dollar near two-month trough as US inflation data awaited &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGs5LVJQSnlqLXhUVEdVN1h2OTdZaXlLVzVnaW9xVk50VGdvM004MWpQNXIyLUVxMjV1aGhoSXhVcmhlMmZqNVltVUhyblg2MmtIbjBpZldLSmRLLWxCX0xvVGhmVFJKbk81S1NQQnM0TTYzM0tTLUotcC1DQ1JGVGx6dG8xVktZOHJydHNnODNvXzhKWDhXVENkX2RWRnJBM1Aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 15:28:24 GMT",
+   "summary": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "PODCAST: Todd Blanche, Lisa Cook, Typhoon Dolphin and pet tarot - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnZaV1QyTXNyLU4xNUI5NmVMMHVfT2Q4LVlfQjlNakhpRmZoRlpCa0hMZmRtb0tsYVRsTkFGTVAyR2VPV210bEJPQjRXYnBfNDg4QXctU1BGVm03ZVd3cmdLWUJrTGI4Mno1UjJFYnpZQXBrUC1HeVNfYmZHU3hnRnJyaDk5S041aW1DOHZlREdJS0RzdFFiQg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 08 Aug 2026 14:46:00 GMT",
+   "summary": "PODCAST: Todd Blanche, Lisa Cook, Typhoon Dolphin and pet tarot &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "What is the Patriot missile system and why are supplies depleted worldwide? - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmtXR0FpcFZzbEtPOEtrS25wVmRwYk10UTlkMzZ1M292dEZZUjdvbEhyMF8yb2FSUFBRbmF3U2NMTm1CSXhCbVkzZUtNRWprV3hLWFhUVnY1UGFYbnB0OVF5SVRQek9OeFo0WHkwZ1NKM090OVZoYjRDZ2lMaWxrNHNpVVVjZEF1SWtGZFVvUWt6emhuZm40NFdsRnlTNGVmQk9ZeC15a2pYZzNH?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 14:56:00 GMT",
+   "summary": "What is the Patriot missile system and why are supplies depleted worldwide? &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Bangladeshi cricket star Shakib, a Hasina ally, says he is ready to return home and face trial if given security - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZkx3WER2dU5nb0NRLUNNeHg5OFpkLWdCNzRRaEFXaUNVMEhxY1o2N3RTT2JXeE9HdFhWX3FWNHA4UGpfRDl1M1lzSE85RmZsczFjOXRHN00wM1hURHpsMTlIdUoteVVBaEEySmpnZWhJaVFMN2xLcXdIN1ZqZERzVEJ6QXpZd3hIY0tfVnV6TW5rSkxyVUQxMFNlUTN1UkczTWoyNkE2NUw2YTVQUWxBV1g1UUoxQ1JqcXFoNUg4VFQ2d3VFQkMxQUN0R04?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 12:50:29 GMT",
+   "summary": "Bangladeshi cricket star Shakib, a Hasina ally, says he is ready to return home and face trial if given security &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
+   "title": "Australia's Treasury Wine takes $394 million charge to revamp US business; shares climb - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdlpBZ1BKWkw3LXpMcVRXcWJhLTU5cjNVakhzSnEzQ2p6VmUzOThjbnl0RXNhdnA5UzNYZG9VTmRfaHJ2TzJ1bldxVTZQY1Zic2RYdGtYbEhNaTRQT09GWHMyX1NnZUZxOFlaaWZhbWFPVmNMMFczeWZGZWZlVEVPM3BUYUJlYkk1SVNvaDNrMWVIekY3R1NSeDF1TnJBNUNoTHlWNWZ2SEdFWkNQVU5uS1F4TzBqdGpwQ3pwdVhLQng3MUYzNDJXcEZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 23:15:00 GMT",
+   "summary": "Australia's Treasury Wine takes $394 million charge to revamp US business; shares climb &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Japan's executives call for FX stability as weak yen intensify import-cost pressure - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbGNXT3hEcGh2WERYLXFXRXo3Ml9oaDVJbGFFc1hDRUtnc3pkR3dEcm1IemlvenJSNVdxVHhIWXBlbHp0WXpTM0U0TUR3NTNNU3otS1A0Y3pEVWVCLTVHZTVwVmM2ME4wcW5KbExZX0lJbk5HM2JNa0dIX0RMaU1wOE5fczgyd1p1UUdmdm1fVmhMOVZnUHVmMGUtVkVnTnMtZzlzZ21Xbll5NFJvSm1TemVmdlhQbGdjSGNNakVHQTNZOFVfcWZ2bm9YS3pXa1doZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 01:04:00 GMT",
+   "summary": "Japan's executives call for FX stability as weak yen intensify import-cost pressure &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Australian shares dip as Westpac weighs on banks ahead of RBA decision - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNek44dncteUw3MnFHODd1S0hKZ2lSOWZLNEdZV1FEaXFZNnR2S25jcndpQmtiR2VheHRmaUtTSEdrQVZPU3dQbXBYUHEzdG5BZ0Q2ZU9PbGltZHFLREhuVHM5Q05jbDhYU29FWEJ6X2c4N25vbW4yZDhPUEZQX3dOMFp4TFRZNjFaYjRMX285dWFfeWFxY3RXS2RaQ0VZRzVJeXlaeDlvdk1oN0FYQzdxakt5dEs?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 01:30:00 GMT",
+   "summary": "Australian shares dip as Westpac weighs on banks ahead of RBA decision &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjZyV0hiRlRDWVM4Q055T3FDV1BXeWNZUGVyRVNOS2ZCamVwUXBnbmRZOGw0Vm5IMS12VEwwd25NdlFxNE5MNEVZc1kyclJLVVNjZjZFb1F4dmRPeWNOeFhqblVwRU9NNzItR0gtOWs0X0R3dWNuckVQcGVILXM4OHJUdWM0U2pBQ1ZqWjY2Z3RnX1V1bjMzblBrOGlxOXRPY0hBVDQxVzBMRVhkMWY0bVB4WDJ1WHdwUVV1dUY0V2lvZU9J?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 09 Aug 2026 12:08:09 GMT",
-   "summary": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports &nbsp;&nbsp; Reuters",
+   "summary": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 16:22:10 GMT",
-   "summary": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "More workers join strike at BHP's Port Hedland iron ore operations",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS28zTWUyZVpQajNhUDJvQTd1UDZoMVVqOTZtOXpfNWlkQTBpeThvY1BWb1IxWmJ6WFdZeEJQNkVFdktpLWpxbmpleGxEYUhCQmZhNDZNcDdXRE90VUJYSVR1OUs3S1FRTGJpVks2ZjdENG9NeFRqRUM0SHpDZ3pkQU5KQ2cwdTZVMmEtcnhtb2UxT2JZUEFIaUhqMzFXMFVzSGFrMU5aT1JpZGZVbkowWXkzbFZXUDVxSThJdlZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 02:03:00 GMT",
-   "summary": "More workers join strike at BHP's Port Hedland iron ore operations &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Heavy rains drench Beijing as China braces for Typhoon Dolphin",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaE9ueWh4LXNJcW1yYjVqLUZRZ2Jjdk4xelBoRzdnMVNZeDhCeUg1blhmWUZoMkc5ZEwxVm1RTFBRZjRVZ3doaGU4RlR4STVZVDduLWdxVTNPaElwQXNMc21DVVhicVg1a29oOW5WT2kxNHkyMWRNQVMtcTVKc196eHFheXlBVkFMR1lnNEhfaV9jY1BlRlBPM29uRGdjOWczajBkNlpUVVFac3gxSGxJdWJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 15:51:43 GMT",
-   "summary": "Heavy rains drench Beijing as China braces for Typhoon Dolphin &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Middle East buyers interested in LNG cargoes from Canada, Pacific Energy says",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTW1IcWhpOWZDUW5XUFFvUzllYVpSY1lNRDVobjktbjJzMWZrQjR2UkVfTGI5OUItbVNjMTVGNlE5YzZBeVY0elJMMUdueElxUkU1YTktQktOMlRSNlpJYU11VTB4MnlnR0h2NVpuUzZIVzB3Y1paZktqbVBJbXBqdUhzaHhYekE3WXF4MnBRSDJwREtmU3I3OGZuVU1KQU8wUzhfd1k0UktIQ3dyT0RHZ2Fma09ISEVhMHlQYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 18:02:02 GMT",
-   "summary": "Middle East buyers interested in LNG cargoes from Canada, Pacific Energy says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Canada discussing trade concessions with US to avoid new tariffs, says source",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTJRalcxal9mNGtRZEtHUThMUHBhQjhybXJtWTlfYnk5UF80bmRlSl85cWdEeG92RnVGM0JUZDZVU3B1UGZZXzNuaTJMbVYzaHNpWWpPcjJSSTczTVo2LXJLLWdINUhGb1M0aTNIekNIQTNNeXdUbU9STGE4dXRyUFRPVU5Cc1N2S0ttTHBLT1dFTW0zQ05vQUpPS1ZtV05KUjFEem91OGZreFdqZV9SeTE4ZGdJV3JmVUJjZ1NQbDY1eVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 19:15:21 GMT",
-   "summary": "Canada discussing trade concessions with US to avoid new tariffs, says source &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "India's Maruti sees passenger vehicle market rising to up to 6.3 mln units by 2031",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREphQTBJeXdwRjA4YWVVSDJMc24xa1JfT2NzcVZWQlUwYi1JbWZDWFVCbHhXMVJtNnNCYUVkLWdsaWY5VGdzQk1SWk1qNEIwdllNNmRHdHd6NnZPNWJJTGVtekdBRzZtVWNnbmY3QXdCMWlPaDdqX3d2aGZiYU55cHFCc1hvdFVybmlGVTJHVUJOb001aHBJdU1yQjZoSGhVQlQ3SDBXVmRiRlhLRjhiNEhkN2syU191QTI3NE1KYzY4MlRRMkk3bDNwaC1wMjVEMzlTQmxZdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 09:58:02 GMT",
-   "summary": "India's Maruti sees passenger vehicle market rising to up to 6.3 mln units by 2031 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US workers' share of GDP skids to fresh record low",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM3Fmb1NsQkhfYmhLemdTSlVmc0k3aW95RmVxVUV4SXZSUWhCUGdwa2JUT2RTOFRGSExtNmRLNjlWc2E2dmFjQ0pCejhKNS1hbWJ4VS1GZG1yQ3pqblhkRzVGVTdNUFV2cEM3Vm5vY0Rjb0MwLUU2WVpldGR2OFAyQV9XY2NLUU9Nak10R2ZyWlYxZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 06 Aug 2026 16:01:20 GMT",
-   "summary": "US workers' share of GDP skids to fresh record low &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Retailers tap AI shopping traffic but fight to keep customer data",
+   "title": "Retailers tap AI shopping traffic but fight to keep customer data - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUkyUEpWNlhDYU5LbTVFTjdNa1dWdU9HbDRhWGZsRjVEU1VOY2VMVGZkOWRnY3QyS09OVzlYUWlUOVJ5QnlxaDd4TEp0em5Ea1RoZDFHVTN4UGhJcVFxTlBPZFZHVmFYUlUtSXRXNFAzQzhSWTZyazRWbXNjWEdDWmNjbWJmTWdSekdNdzRXVjRadFRwaXlGNXktYU1wblBnWW90eFhRZ0dHWjJSWXljWmxIdW9icFIzU0Uw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 07 Aug 2026 10:11:41 GMT",
-   "summary": "Retailers tap AI shopping traffic but fight to keep customer data &nbsp;&nbsp; Reuters",
+   "summary": "Retailers tap AI shopping traffic but fight to keep customer data &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "VIEW Soft July jobs report fuels skepticism over possible Fed rate hike",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1lYeDhMVGR3MWxnLVFXeE8yMmstOGEyZGRNOUJQVThCdnQwQkh0ZExXc0NOWFVlVVdwTG9YWjNWR0llLTIxaGJDbTNrampsWFBNaHVmbjUzV1ZYN1lUbnFXanlaZDJoWkJ1a1lBYURMMVVEbmZjQS1INExZeC11SUNiQmE0YVhWRzZzVkV2ZDBvZ2JyUVRfd1oxbTlrbGZwYzd0ZWdrMVNtUjRWdWJudWdrUjdMZEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 13:31:56 GMT",
-   "summary": "VIEW Soft July jobs report fuels skepticism over possible Fed rate hike &nbsp;&nbsp; Reuters",
+   "title": "Westpac reports 20% drop in mortgage applications after Australia scraps tax breaks - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFlFRVlmRmtiamhJbHg5WDBtWlh4eEVMNVM4ZVhJTmY2UmR1eU1LTGhqaG9WZjBhV1lOTFJhQ0VnbGliNEFDcktDSEhfTklYUWZpbWxhTkVKRG9yaFd0Q1BibWN0RUlCTUQ0V1JjeThFeWIza1I5LWVuTEhvd1JkbFVEQWppWU9SV1hwekhHSFhmSmc5V054NE5PS1BHTGpSQWFtT1Z5YjUwZTZnR2RyeG5lbTRsSG1lYmVoUGk5QUx4YnBiREE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 02:37:57 GMT",
+   "summary": "Westpac reports 20% drop in mortgage applications after Australia scraps tax breaks &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Heavy rains drench Beijing as China braces for Typhoon Dolphin - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaE9ueWh4LXNJcW1yYjVqLUZRZ2Jjdk4xelBoRzdnMVNZeDhCeUg1blhmWUZoMkc5ZEwxVm1RTFBRZjRVZ3doaGU4RlR4STVZVDduLWdxVTNPaElwQXNMc21DVVhicVg1a29oOW5WT2kxNHkyMWRNQVMtcTVKc196eHFheXlBVkFMR1lnNEhfaV9jY1BlRlBPM29uRGdjOWczajBkNlpUVVFac3gxSGxJdWJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 15:51:43 GMT",
+   "summary": "Heavy rains drench Beijing as China braces for Typhoon Dolphin &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Trump administration to invest $3 billion in minerals projects to boost US defense supply chains - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 10:05:00 GMT",
+   "summary": "Trump administration to invest $3 billion in minerals projects to boost US defense supply chains &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Middle East buyers interested in LNG cargoes from Canada, Pacific Energy says - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTW1IcWhpOWZDUW5XUFFvUzllYVpSY1lNRDVobjktbjJzMWZrQjR2UkVfTGI5OUItbVNjMTVGNlE5YzZBeVY0elJMMUdueElxUkU1YTktQktOMlRSNlpJYU11VTB4MnlnR0h2NVpuUzZIVzB3Y1paZktqbVBJbXBqdUhzaHhYekE3WXF4MnBRSDJwREtmU3I3OGZuVU1KQU8wUzhfd1k0UktIQ3dyT0RHZ2Fma09ISEVhMHlQYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 18:02:02 GMT",
+   "summary": "Middle East buyers interested in LNG cargoes from Canada, Pacific Energy says &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Canada discussing trade concessions with US to avoid new tariffs, says source - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTJRalcxal9mNGtRZEtHUThMUHBhQjhybXJtWTlfYnk5UF80bmRlSl85cWdEeG92RnVGM0JUZDZVU3B1UGZZXzNuaTJMbVYzaHNpWWpPcjJSSTczTVo2LXJLLWdINUhGb1M0aTNIekNIQTNNeXdUbU9STGE4dXRyUFRPVU5Cc1N2S0ttTHBLT1dFTW0zQ05vQUpPS1ZtV05KUjFEem91OGZreFdqZV9SeTE4ZGdJV3JmVUJjZ1NQbDY1eVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 19:15:21 GMT",
+   "summary": "Canada discussing trade concessions with US to avoid new tariffs, says source &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "German trade deficit with China grows as Beijing relies less on European industry",
+   "title": "Asia stocks gain, oil up amid Gulf confusion - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 00:25:00 GMT",
+   "summary": "Asia stocks gain, oil up amid Gulf confusion &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Gold drifts lower from seven-week peak, US inflation data looms - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEF0Uk1tb1JuQWhENTdaLVRfN2ZtbExLM3RoUFVJZ0IzNkhCYlZuc3R2dTY5ZHJxWVJBZVpQbHBES0NybEFsRVkxUFRmT0lVSVMxeUFxOEJKb2ZMWUFDSDh5WHh6S2NscTc1dE5uUFJTalpGLUltVllCX085a2lUbndIeDRVU0NvUmVINTRjU1BnZm9oREFxbUFPeVhTSllrc1h2d29vN0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 02:22:00 GMT",
+   "summary": "Gold drifts lower from seven-week peak, US inflation data looms &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "China Shock 2.0 reshuffles winners and losers - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTXR3RXlZNHd2NTJJX0xtb0lvSE9wU1lLOVZmbmJqZXhJSjE2aG9CcjVOVlFLUlVmZHk4RVdjbm5PNk1WSGJGLUN6V2N3cVZWWUtnS1J1ak5pN3U0b3A0SXJ3U1lvQnFtRlJEcnRzcGJCYlNQeFNmX0x6ZzlnXzE1MGcxTDJUbF9VZlBJNHhNNllPdmFJM1BvRlRieVRFZE1mVUNNLXZlcGt4YWlXMVdfd0MyT21PeDRVMnA1UG00N1BwaUphcVhPZHdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 23:20:49 GMT",
+   "summary": "China Shock 2.0 reshuffles winners and losers &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Air India captain's initial drug screening prompts further testing after sudden altitude loss - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNDBseXR4STVfU3FuR2tqajZISEM1UUFlSlVUd3ZKVV92cC1XWTdaZWVlVWdIS2RRbEJuTlRDWDZ2YTh2NFdVLUpkYTNjNUJ4Q1l2bnJMRS15M1dDd0ctalY3NXJiZDdYaFRnMHJ0NVlxX3JlSGFuU211LVVpZjdtNHhGeGtja2ktZFFURkQzTWR4ZTNrTzloRFI0WXlZMjJha3J5U1pJR2lOVGtkTDFnMDlNOXJvc1VETTNWN3BoaTBXbUdt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 13:49:46 GMT",
+   "summary": "Air India captain's initial drug screening prompts further testing after sudden altitude loss &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "German trade deficit with China grows as Beijing relies less on European industry - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 06:32:00 GMT",
-   "summary": "German trade deficit with China grows as Beijing relies less on European industry &nbsp;&nbsp; Reuters",
+   "published": "Sun, 09 Aug 2026 09:55:36 GMT",
+   "summary": "German trade deficit with China grows as Beijing relies less on European industry &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "US suffers unexpected job losses in July, markets dial back rate hike expectations",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 22:24:57 GMT",
-   "summary": "US suffers unexpected job losses in July, markets dial back rate hike expectations &nbsp;&nbsp; Reuters",
+   "title": "Indian shares open higher as soft US jobs data offsets oil worries - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUtCM0hIYk1wODVSVUtjaFN6ZzY5NzVvd3Jld1kzMnJLdnQ0VU5mOFlMV25IRldtLXA0R0VjWkplQmtJaVlfVVdMaGtsMGI3VUxjVlpoaFdkUnlSYzVnMkNZcHh3eGpYeFdEdmw3amNvZzlrMjRmOGV4TlRwQ3BJZ1g5OUY4d1ZYV1RVdDVfdWw0Si1KZGN0MS1nMHQ2NzdzN3FmMFlKenpNa0df?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 02:25:00 GMT",
+   "summary": "Indian shares open higher as soft US jobs data offsets oil worries &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening",
+   "title": "Japan posts first current account deficit in nearly 1-1/2 years - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1pzbjBnckZzNXc2TGlRclRtNFFiWHk2aTNmZUZpbXlYWWtHWTdFbENPWkI2eVdEQ0trT2hqSVcxenM3akdqelh5X2cyTnlTZ2l2V1lhdGF4aUJwOVhUeTJ6cUZhOGhtdUh5QzA2ZmpDaVdEUzlTN2g3QkhwNGoyYWxkaWpkanBnX1RveDF0dV9HLWdrdS16TUJkRTNFM1JIQzctWnJCdzliQUxfTGUtOHpSWHM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 01:33:00 GMT",
+   "summary": "Japan posts first current account deficit in nearly 1-1/2 years &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 07 Aug 2026 18:11:39 GMT",
-   "summary": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening &nbsp;&nbsp; Reuters",
+   "summary": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views",
+   "title": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 07 Aug 2026 10:02:00 GMT",
-   "summary": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "S&P closes at record high as soft jobs report eases rate-hike concerns",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1d0RTF2VldzYWZCaFg3YzBhd2pEamRMWWU1VWNQOGZBSnFDVXFfZDNlVVowQzFwSmVHUDdObmQ4d1VDQnpZZmlhNS1xLWJabGxUMlNPSHc0NGY2SFptZ2QzOTgxTEZQVkpFblM4ZzI4anFIUkV1amFOZlNrRDRXbTUySWl0c1VMdjdiMWJxVUtNa0RmQXB5V3l6Rnl3aTRJQi1zOW1zTFFaZ1A4YjgxSnp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 09:54:00 GMT",
-   "summary": "S&amp;P closes at record high as soft jobs report eases rate-hike concerns &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Brent climbs $1 on uncertainty over end to Iran war",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 19:54:35 GMT",
-   "summary": "Brent climbs $1 on uncertainty over end to Iran war &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Gold hits seven-week high as weak US jobs data dents rate hike bets",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWpUMWdTeEtHNmJ5VDlJZU9tOGp0d0xFQTBlT2xXUHBTSENUdHowV0JkLTFockFBbUl6T0hHT29nUjN5XzR0RWlCbU9VQjZBY2pJd0o5dmFhel9VeGZqV0E1VFpEZjJ3dWk1T2I5aERGNE41dVlkWlFFeHFsUm80RVVPTkNlX2lKc0tJTEtBRURzbXZZMWI5YnlHS1dlWWJyRkFsSmxXM2NWdU5qV1lj?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 23:02:34 GMT",
-   "summary": "Gold hits seven-week high as weak US jobs data dents rate hike bets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Most Gulf bourses subdued as investors await Strait of Hormuz deal clarity",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXFfQ0YybkFMMlYyUVVIbDBSazRGN19SeDlzRTZFWklTek93NlY2S3MyNThpalc0aGFJQkg1c1NTWW1VUWstUGRhVzZ3LTIzaWdWbTZ3aV9MU21Td3l5NzhmaHZlZ1E1cGdRbDJ0WXlFOXhvSHZveFNQVjgxVkRxV3NXNkUwSEhFVXBpaUdXUjZLdzE3aS10dEZpRGhBRTZFczdIUkQ4bkw1TmtNMFJycFhTSkc4VmEzcEs0VHVFSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 12:55:43 GMT",
-   "summary": "Most Gulf bourses subdued as investors await Strait of Hormuz deal clarity &nbsp;&nbsp; Reuters",
+   "summary": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "US Senate advances landmark crypto bill before heading on August recess",
+   "title": "North Korean hacking group builds AI tools for cyberattacks, report says - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 01:08:00 GMT",
+   "summary": "North Korean hacking group builds AI tools for cyberattacks, report says &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "UK announces nearly £130 million funding for zero-emission vehicle technology - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaW1xcXdvQ1hnWmlvT29seTF0bEk3bnpmVWJ0V2JVTmJCNW51Rl95YndDcFdQWnY2UjJWenNycGV0NUZzck40MHhaUEhXa0R0cUplOTc0eGxhOUJPZERURzZ5Q3JYc0MyaXdOWHgwR2hZSnE5M1JGN3ZQNnNxREVuSzFoWENmUEc0T2t1Wlo4NUlnR0dyblZtVDFqMUhCNEJxSzZRUHNtdjc4ZjFiRmt0NW1Wakx6NlJm?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 23:13:43 GMT",
+   "summary": "UK announces nearly £130 million funding for zero-emission vehicle technology &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "US Senate advances landmark crypto bill before heading on August recess - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 08 Aug 2026 20:24:41 GMT",
-   "summary": "US Senate advances landmark crypto bill before heading on August recess &nbsp;&nbsp; Reuters",
+   "summary": "US Senate advances landmark crypto bill before heading on August recess &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+   "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 08 Aug 2026 12:35:45 GMT",
-   "summary": "Apple says Mac users in China can connect to Alibaba's Qwen AI service &nbsp;&nbsp; Reuters",
+   "summary": "Apple says Mac users in China can connect to Alibaba's Qwen AI service &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+   "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 17:46:00 GMT",
-   "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls &nbsp;&nbsp; Reuters",
+   "published": "Fri, 07 Aug 2026 17:54:56 GMT",
+   "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYjhhM0k2TW1GaTh6RmNnUlFzY2ZER1FHWDhNMUJpSm1kNWNNU1dURjhCRXFydDBrNzdMeGdnaHE1T1R0RmJWNEp4QTN4SmlJdUxCQWxzOXdkbTQtdzlkWkpVWmxKcGl0MGdwWnY5aHlvMER2UU1scW5lVGhFbDNGUUlrSU5oVDVWcGo1bEhxaXB3NjNSRklLVmk4d0Z0ejFZRDRkQVpDZ2dvRkpuaUM4dnoxbDdpNkZiaDRsbFV2bXZXcVg0ZkUwRkFCVnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 01:23:00 GMT",
-   "summary": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports &nbsp;&nbsp; Reuters",
+   "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVlHNnRpWjl0RUFEajBjQnAtMGtUTnYyVXVBNEpCMFRFVEJNb3g4Q0FPWWtRNnAxX0x3RHMzdVFLN3dJLXQ3Z0pTOEtMQnFnUWFCVS1jUlhZYXZIaGpCTF9EQXVWVmhyemxIZmF5X1JveTNJbC1Hb2FWNjBrZkFyRjNmQlRhbFpET2Q2c3pRMjhYVUN4eEs1WURpaEVWWnpi?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 08 Aug 2026 01:42:00 GMT",
+   "summary": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Breakingviews - Corporate AI is still chasing theoretical benefits",
+   "title": "Breakingviews - Corporate AI is still chasing theoretical benefits - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0xaVUgwZG03bExtR1JBU1BiTDl3bl9xd1RjcUpESkc5MFkyVEdkT3F5eXhIRjdBZ3d5UFJmZlZiS1N2dy1uMEhPRDNGRm1sRmF2VU05UTRYUTdlaFZCRGZiay1PV1RNTTFWRlZyYmotWTdyMEJ1czFab1ZUOTFSV3NxUTJGYkRPYWZoZmg4bjFNMkV2TVdRMjQ2TVYzaHpDSE9RY3BWQ1loVlNEdXo0WA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 07 Aug 2026 15:58:57 GMT",
-   "summary": "Breakingviews - Corporate AI is still chasing theoretical benefits &nbsp;&nbsp; Reuters",
+   "summary": "Breakingviews - Corporate AI is still chasing theoretical benefits &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Samsung Electronics launches next-generation AI memory technology",
+   "title": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYjhhM0k2TW1GaTh6RmNnUlFzY2ZER1FHWDhNMUJpSm1kNWNNU1dURjhCRXFydDBrNzdMeGdnaHE1T1R0RmJWNEp4QTN4SmlJdUxCQWxzOXdkbTQtdzlkWkpVWmxKcGl0MGdwWnY5aHlvMER2UU1scW5lVGhFbDNGUUlrSU5oVDVWcGo1bEhxaXB3NjNSRklLVmk4d0Z0ejFZRDRkQVpDZ2dvRkpuaUM4dnoxbDdpNkZiaDRsbFV2bXZXcVg0ZkUwRkFCVnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 01:23:00 GMT",
+   "summary": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Samsung Electronics launches next-generation AI memory technology - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 04 Aug 2026 19:42:53 GMT",
-   "summary": "Samsung Electronics launches next-generation AI memory technology &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "US regulator rejects Dutch fintech Bunq's application for national bank charter",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTYwVEtTQk5QcEgyV2hWaF83Z0NhaUNZYlhxVHdGeklmdWdpZ3p2bkROM3VmVEJxdW1CTFpNTUpJVUd0N3RsVVFIa3BFUy1Oak1STzVhX0NVMUMzZFFmeFI4MnRtWjRTRzBxTVNfSTRQTHpYLTExR01uWHVMSHlkWlpIbUVvUHFzR0dWOWlDNkZMRzRlS04xY1pGQWxSMFhYZnNBYjVqSk02NFpVYVdPUm9VQVIxS2g3WldjYnZhZnJlNHViV1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 22:41:44 GMT",
-   "summary": "US regulator rejects Dutch fintech Bunq's application for national bank charter &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Trump says Congress wants to regulate AI industry 'out of business'",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 18:35:44 GMT",
-   "summary": "Trump says Congress wants to regulate AI industry 'out of business' &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "US companies face rise in cyber attacks",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFVvU3RrLWN2WHBtNHk5OU5TYzNtNUZzTVlETkVsNjRNR2RnWmZXVmx1dWZOeTR6QkVLalhiMVdHVzlBTUlabUdVY2NzMEI3SWw4dVBnTWh0VTV1VFkxcmp1Q3NHbG1WRWRKY3JqX2VJaGpDaXZvMDhxdklXMFdOQ3MxSmhfMmxWQ0Z0cWtUVzNJR2s?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-   "summary": "US companies face rise in cyber attacks &nbsp;&nbsp; Reuters",
+   "summary": "Samsung Electronics launches next-generation AI memory technology &nbsp;&nbsp; reuters.com",
    "full_text": ""
   }
  ]
