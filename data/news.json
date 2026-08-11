@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T17:28:24Z",
+ "generated_at": "2026-08-11T20:12:55Z",
  "count": 67,
  "items": [
   {
@@ -36,9 +36,9 @@
   },
   {
    "source": "nyt-world",
-   "title": "After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors",
+   "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
    "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
-   "published": "Tue, 11 Aug 2026 16:31:57 +0000",
+   "published": "Tue, 11 Aug 2026 16:31:58 +0000",
    "summary": "“We heard them screaming,” said one rescuer in Cali, where rescuers face a race against time to find the living.",
    "full_text": ""
   },
@@ -46,8 +46,16 @@
    "source": "nyt-world",
    "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
    "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
-   "published": "Tue, 11 Aug 2026 16:26:01 +0000",
-   "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait. The Iran-backed Houthis have not commented on the attack.",
+   "published": "Tue, 11 Aug 2026 18:29:19 +0000",
+   "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Ex-Marine Robert Gilman Is Freed by Russia After 4 Years in Prison",
+   "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html",
+   "published": "Tue, 11 Aug 2026 20:01:16 +0000",
+   "summary": "The Kremlin released Robert Gilman, whose family and an advocacy group had said he was in dire physical condition, on “a humanitarian basis,” President Trump said.",
    "full_text": ""
   },
   {
@@ -70,16 +78,8 @@
    "source": "nyt-world",
    "title": "What We Know About the Earthquake in Colombia",
    "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
-   "published": "Tue, 11 Aug 2026 16:30:34 +0000",
+   "published": "Tue, 11 Aug 2026 19:05:14 +0000",
    "summary": "The 7.4-magnitude quake, which killed more than 100 people and damaged hundreds of buildings, was the strongest recorded in Colombia in a decade.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "What to Know About the Cuban Mafia in Quintana Roo",
-   "url": "https://www.nytimes.com/2026/08/11/world/americas/cuban-mafia-quintana-roo.html",
-   "published": "Tue, 11 Aug 2026 14:19:10 +0000",
-   "summary": "A group of Cuban men in Mexico was charged with smuggling people to the United States. One of its leaders said Raúl Castro’s grandson helped, according to interviews and court records.",
    "full_text": ""
   },
   {
@@ -126,7 +126,7 @@
    "source": "nyt-business",
    "title": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate",
    "url": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
-   "published": "Tue, 11 Aug 2026 17:09:28 +0000",
+   "published": "Tue, 11 Aug 2026 18:57:37 +0000",
    "summary": "The stalemate over the Iran war hardened and commercial shipping in the Strait of Hormuz continued to dwindle.",
    "full_text": ""
   },
@@ -158,7 +158,7 @@
    "source": "nyt-business",
    "title": "As Credit Card Debt Mounts, Home Becomes a Piggy Bank",
    "url": "https://www.nytimes.com/2026/08/11/business/home-equity-credit-card-debt.html",
-   "published": "Tue, 11 Aug 2026 15:51:27 +0000",
+   "published": "Tue, 11 Aug 2026 17:48:39 +0000",
    "summary": "A rise in home equity to record levels has led many Americans to refinance their mortgages to pay their bills.",
    "full_text": ""
   },
@@ -184,6 +184,22 @@
    "url": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
    "published": "Mon, 10 Aug 2026 20:37:37 +0000",
    "summary": "As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Spotify Will Label A.I. Artists and Avoid Promoting Them",
+   "url": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html",
+   "published": "Tue, 11 Aug 2026 19:59:44 +0000",
+   "summary": "The new label, which will begin to be applied next month, is an effort by the streaming service to be more transparent about A.I.-generated music on its app.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
+   "url": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
+   "published": "Tue, 11 Aug 2026 18:52:32 +0000",
+   "summary": "In OpenAI’s latest exit, Brad Lightcap, a longtime leader at the artificial intelligence company, said he was leaving to start a new venture.",
    "full_text": ""
   },
   {
@@ -216,22 +232,6 @@
    "url": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
    "published": "Tue, 11 Aug 2026 13:12:48 +0000",
    "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-   "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
-   "published": "Mon, 10 Aug 2026 20:04:24 +0000",
-   "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
-   "url": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
-   "published": "Mon, 10 Aug 2026 09:00:29 +0000",
-   "summary": "VHS Dates advertises itself as resurfacing lost dating service videotapes from the 1980s. The account’s followers have been genuinely touched.",
    "full_text": ""
   },
   {
@@ -268,18 +268,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "PODCAST: Colombia earthquake, Trump's vaccines order and Bezos' soccer play",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDd1d0FVbnFVZ2dSbjI2Sk5VN09OOEkzdHhkUEhJRENsSFkxYTB6eTRVTGVSZFRKRTBQU2p1SFZlMGNXVmxDY3FPalFMY0stemoybVh2S0Q0QllvLWktZEFnWm1PWllYYXg2cV9ULVlHbEJZaEIwVWt2MHItbWNZNHh3VFlWNDdCTUl5czZ6TFJBUjZsUGMwWDJKNmFtTVhjR1g4VExlOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 10:41:07 GMT",
-   "summary": "PODCAST: Colombia earthquake, Trump's vaccines order and Bezos' soccer play &nbsp;&nbsp; Reuters",
+   "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHdGT2JicUc2MmpyR1JUOE1jNGgxT1V2ZDlzdG9Fd2tzeWdVSWJkWDdIbmJZWjhkUVQzZUxGeFg1RlR5X0pMOXdmclBpbmlwOGhjYkdhRWJOUUdUemdZaEc4M2tUV2tZOXJISDFiTlhsdnVxdWJ3b0o0SktBSk5fNE9VekdGNHlyNU9wRUFkTkRYTkhFaG53TGNmTUZxZmNwYTJhWFRDb1BTWXJpY25TZg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 03:18:45 GMT",
+   "summary": "Ex-President Joe Biden's cancer has spread, is very painful, son says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHdGT2JicUc2MmpyR1JUOE1jNGgxT1V2ZDlzdG9Fd2tzeWdVSWJkWDdIbmJZWjhkUVQzZUxGeFg1RlR5X0pMOXdmclBpbmlwOGhjYkdhRWJOUUdUemdZaEc4M2tUV2tZOXJISDFiTlhsdnVxdWJ3b0o0SktBSk5fNE9VekdGNHlyNU9wRUFkTkRYTkhFaG53TGNmTUZxZmNwYTJhWFRDb1BTWXJpY25TZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 08 Aug 2026 19:42:13 GMT",
-   "summary": "Ex-President Joe Biden's cancer has spread, is very painful, son says &nbsp;&nbsp; Reuters",
+   "title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 19:35:07 GMT",
+   "summary": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,50 +292,42 @@
   },
   {
    "source": "reuters-world",
-   "title": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 09:21:03 GMT",
-   "summary": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGs5LVJQSnlqLXhUVEdVN1h2OTdZaXlLVzVnaW9xVk50VGdvM004MWpQNXIyLUVxMjV1aGhoSXhVcmhlMmZqNVltVUhyblg2MmtIbjBpZldLSmRLLWxCX0xvVGhmVFJKbk81S1NQQnM0TTYzM0tTLUotcC1DQ1JGVGx6dG8xVktZOHJydHNnODNvXzhKWDhXVENkX2RWRnJBM1Aw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 15:20:00 GMT",
-   "summary": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift &nbsp;&nbsp; Reuters",
+   "title": "PODCAST: Colombia earthquake, Trump's vaccines order and Bezos' soccer play",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDd1d0FVbnFVZ2dSbjI2Sk5VN09OOEkzdHhkUEhJRENsSFkxYTB6eTRVTGVSZFRKRTBQU2p1SFZlMGNXVmxDY3FPalFMY0stemoybVh2S0Q0QllvLWktZEFnWm1PWllYYXg2cV9ULVlHbEJZaEIwVWt2MHItbWNZNHh3VFlWNDdCTUl5czZ6TFJBUjZsUGMwWDJKNmFtTVhjR1g4VExlOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 10:41:07 GMT",
+   "summary": "PODCAST: Colombia earthquake, Trump's vaccines order and Bezos' soccer play &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
    "title": "Dollar steady as traders await key US inflation data",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzhZVWVFX0IxZHRHRTExeHVkajFlQ3U3X3RhbjdFbW5uNnFHR0lLNmd5ZVZRT0tqd1h2X090Snd4bk5VLWhKd0UwaTlDUTNkbnpsLWRIdXFJWE1wdDlUbVd0SXJjb1JYaVlKTVVxUllYQ2lRZjNZcFA1LWVEY2xZRTVHdkNEd3cyNGRNNDhHUDRYem15Szg5dFFadXRCNnFYNHQ1Yg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 01:34:00 GMT",
+   "published": "Tue, 11 Aug 2026 13:34:18 GMT",
    "summary": "Dollar steady as traders await key US inflation data &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "Insight: US fuel exports to Cuba spur chaotic black market",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnMyemdyTXd6SlJlZE1sTWM1VXhPV3NuVTJwRHJhUEVQa1NBVWpDT1pGZnNRcUZFOS1HSG5Ga2I0dW11S3h6eHNyUWI3SWEyb0hKSWtMdEZsdXJveklJNlAzZGNrRGhmTjBvWTgzWkVoTVBPQUxsRmJ6WDRuemRVR3JBdnRkSHVocFZHdGhrUzYyTk5wTTZtYUlNUmF3NllwcGxvU3U3eFpMVmwzcDd2ODJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 16:23:09 GMT",
-   "summary": "Insight: US fuel exports to Cuba spur chaotic black market &nbsp;&nbsp; Reuters",
+   "source": "reuters-world",
+   "title": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 02:36:00 GMT",
+   "summary": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list? &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Air taxi firm Joby acquires defense tech company for $500 million",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR19tSGNrX0pFRjZvY0RpV0JCMWtnRGlDN2IzTHYyY0xFTDM3d0ZRSXh0UXB0bmFjclJKUmozbllfOTFnRW5yUF9kWTIwSEFuSy1DcDJ1eE5vdEhhUm92a0JxQlNYVXFCU2RLVGEwQ1BwM2dUSHQ2bG52Z0x0cDJMY3lfS2pHMlVNZ1Z0QXV4SnRRRks2dW1TSFBrcWUwdHI2a2twZWlCUktTbl9ZcW5ib2hqdFdKdk0wSlh6dllUX1c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 13:30:37 GMT",
-   "summary": "Air taxi firm Joby acquires defense tech company for $500 million &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US existing home sales post second straight monthly decline in July",
+   "title": "US existing home sales fall further; small business sentiment at 11-month high",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdENNMDRvOG1raHczd3h3NEpUSzVmUzFEZjE2N0V6cloteHZlYkZRelZ5Q3lNR3NDWHhVREVQakgxRnFRaHNMQnQ4VWN5MDRleEc2WWlfeDQ3VzlVcUtHRnhZTU1iNHZrRXRSY3U1ZEpwVkVVcVBnVFdCOWJfOUJzTVRKZUtkZXFNWXBkVmVBN0otUlZSS3A2R3U0cFZxMUVVUXNONEN4OXIzSXl2cHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 14:10:26 GMT",
-   "summary": "US existing home sales post second straight monthly decline in July &nbsp;&nbsp; Reuters",
+   "published": "Tue, 11 Aug 2026 17:38:17 GMT",
+   "summary": "US existing home sales fall further; small business sentiment at 11-month high &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US fuel exports to Cuba spur chaotic black market",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnMyemdyTXd6SlJlZE1sTWM1VXhPV3NuVTJwRHJhUEVQa1NBVWpDT1pGZnNRcUZFOS1HSG5Ga2I0dW11S3h6eHNyUWI3SWEyb0hKSWtMdEZsdXJveklJNlAzZGNrRGhmTjBvWTgzWkVoTVBPQUxsRmJ6WDRuemRVR3JBdnRkSHVocFZHdGhrUzYyTk5wTTZtYUlNUmF3NllwcGxvU3U3eFpMVmwzcDd2ODJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 17:50:49 GMT",
+   "summary": "US fuel exports to Cuba spur chaotic black market &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,18 +340,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "US small-business sentiment rises to 11-month high in July, labor shortages a worry",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWRjTGtWNVJmdE1Tb215NURTRFZJcGNSQi1BTFpOQWdEakN1eWxTTDB1bXV4S05xaXViSmJ3Q0V0T0F2dEtwZDdVS182ZnNhUXRDa1lMRXBTTUp4ZmRjRGhBa2R6Z3duanNTeW5VLXdodEVEb3UyWkdNU0pSU3RQMkkyNGpPVmNXVXY0TzVsSHdnS1F5aHpGWTJZNEFkRHFiR2xFcU5xem1ZbWoxTC02aFlDVjZ1QkxJWDA0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 10:15:09 GMT",
-   "summary": "US small-business sentiment rises to 11-month high in July, labor shortages a worry &nbsp;&nbsp; Reuters",
+   "title": "Shein plans to launch Hong Kong IPO as soon as August 19, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFNONFV3aTJUS3Z4NExPTU1nQTJkSE1YcG1mR1ZxSE9melZrNDBKNTNlQ0dVYXFhbVA4V1dEQjRxUmV2Ukd0a1J5SHl1TWRTdi1uRk5TVE81Wmk0ck00TGZpZzhPZjRkbnYySjAxd2hnN1hZN01qRGdTTHh0OTRqNHZIVDRzck1wZno4LXJkYTBxcFM5aVRJX19heWREOTBHREVHdXljY1N5eF9YUVN6VE16OEtMNlZ4Z1A4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 18:49:39 GMT",
+   "summary": "Shein plans to launch Hong Kong IPO as soon as August 19, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Oil prices hold near one-week high as Hormuz talks advance",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 00:38:00 GMT",
-   "summary": "Oil prices hold near one-week high as Hormuz talks advance &nbsp;&nbsp; Reuters",
+   "title": "US small-business sentiment rises to 11-month high in July, labor shortages a worry",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWRjTGtWNVJmdE1Tb215NURTRFZJcGNSQi1BTFpOQWdEakN1eWxTTDB1bXV4S05xaXViSmJ3Q0V0T0F2dEtwZDdVS182ZnNhUXRDa1lMRXBTTUp4ZmRjRGhBa2R6Z3duanNTeW5VLXdodEVEb3UyWkdNU0pSU3RQMkkyNGpPVmNXVXY0TzVsSHdnS1F5aHpGWTJZNEFkRHFiR2xFcU5xem1ZbWoxTC02aFlDVjZ1QkxJWDA0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 10:15:09 GMT",
+   "summary": "US small-business sentiment rises to 11-month high in July, labor shortages a worry &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,26 +364,34 @@
   },
   {
    "source": "reuters-business",
-   "title": "Austria breaks up sanctions-evasion scheme supplying Russian arms industry",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemhDNHRGckVHU3hGazZNNld4QTVOcjd0SUVzUTdrRHZkQXUtcUZmOC1DQkRhX2VMV3BuZExJSl9xZXM1YVVObjk4Z3RZeTBnNnhrWkQtZzdRSkFtM2hCZl9NUFpVemlTbThiUzRURmV4UURfOTlpN0Z2QTdodEJQR1pBWVJzNl90eEt5TUR5VWRSZy10TWtFVmo1Y1kzTGRQd3BKaEVkckJEampOMFdjVi1tN3ZvMlk5WHdKdTdSeVhzSnpZYUpudG9wWDAxVEVfSFhJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 16:05:44 GMT",
-   "summary": "Austria breaks up sanctions-evasion scheme supplying Russian arms industry &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "EXCLUSIVE: Blackstone-owned Safe Harbor nears $1.5 billion deal to buy MarineMax, sources say",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLVhyVXA0ZVRMUDFJMDhIRWpfeW1rQm5CVFpPVXg0bUhId2Z3ams1OGtJejBqYXd5dGsxRnFXTVJ2ZXJOMXlkZU5tZ2o0dDNoZkcyTVZ0RFp6dUo1T1pwTzBwelhlRlBFbkhmYUVnV0ZCVWVwZjR0SVA4UFpMUWVmN0dSNlB4UWRQMmpFcWIxM1VTVDViYXYxVk5QQmk5Q3FvS0RwSDdmUXBJbTUwZFZWdDc3bm82ZVd3SG9qTW5R?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 11:23:42 GMT",
-   "summary": "EXCLUSIVE: Blackstone-owned Safe Harbor nears $1.5 billion deal to buy MarineMax, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Australia's Treasury Wine takes $394 million charge to revamp US business; shares climb",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdlpBZ1BKWkw3LXpMcVRXcWJhLTU5cjNVakhzSnEzQ2p6VmUzOThjbnl0RXNhdnA5UzNYZG9VTmRfaHJ2TzJ1bldxVTZQY1Zic2RYdGtYbEhNaTRQT09GWHMyX1NnZUZxOFlaaWZhbWFPVmNMMFczeWZGZWZlVEVPM3BUYUJlYkk1SVNvaDNrMWVIekY3R1NSeDF1TnJBNUNoTHlWNWZ2SEdFWkNQVU5uS1F4TzBqdGpwQ3pwdVhLQng3MUYzNDJXcEZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 09 Aug 2026 23:15:00 GMT",
    "summary": "Australia's Treasury Wine takes $394 million charge to revamp US business; shares climb &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "India's TCS flags alleged exposure of some employee data, says customer data not impacted",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVE5aa2J3QnllSUtjVVBrWGhuTmZYUVpkOHRHUVhtYUdlRG91MlIwMkxSbFowTlhEanRObzY1TnpRazRqc0steGRZUkhKejJLOWY4YXRIa18wbkpoajV1VXczdHNhUHItby1VNEdSSHgxME56WGx2eXV1dFhwMWluYUxwZjFNMURST1VNRjh1bENZZWkxLW16em9rSktpV1V1STdqU1dRX21OY040TmNPcGtQLUpNQU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 11:24:14 GMT",
+   "summary": "India's TCS flags alleged exposure of some employee data, says customer data not impacted &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Air taxi firm Joby acquires defense tech company for $500 million",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR19tSGNrX0pFRjZvY0RpV0JCMWtnRGlDN2IzTHYyY0xFTDM3d0ZRSXh0UXB0bmFjclJKUmozbllfOTFnRW5yUF9kWTIwSEFuSy1DcDJ1eE5vdEhhUm92a0JxQlNYVXFCU2RLVGEwQ1BwM2dUSHQ2bG52Z0x0cDJMY3lfS2pHMlVNZ1Z0QXV4SnRRRks2dW1TSFBrcWUwdHI2a2twZWlCUktTbl9ZcW5ib2hqdFdKdk0wSlh6dllUX1c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 13:30:37 GMT",
+   "summary": "Air taxi firm Joby acquires defense tech company for $500 million &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPakVwYWtLMTU4bEszMVIyVVdKQ2IzVU1jOG5nV1NDWDlBVG9GbzhSaVhlQjRMeVVzbDhfMFFvbVhVSXlYVG1wd2RQUHZUZ2pTT1VQODRvMlFPX05vc09sUDBlaTYwZmxwcjFjeWJLby1KWjB5S1RQTTgzVDRfUE1wdW56V2gwMW5JSUgtZlZYdVRTcXVkcVhTTnY5MnFQUFhseWFlUktRZ1dwSVVVV190a3EwMlI4TzlnWUNkc29RQ3V6TTdYcllrR2x2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 16:42:41 GMT",
+   "summary": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -406,24 +406,16 @@
    "source": "reuters-markets",
    "title": "FlightAware sues Kalshi over flight-cancellation markets",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hSR282WnlrOEkxc2hWeDJYdkFHWjBIVm9tb0p1bmViU0steWR2ZW9JUnVHRjVZZ3NXb2s0RFZqOVVCRVFERjB5N2RtcmtfbllJQm1MdnVGaThvbjVpaEs4XzVCeFZ4U1BQdS13V21JS0lnNHRvLWxRQ0xQT2NuTXd1VW5pS1EyTF9aM2JIcmZza3EtWVg1Z18tcUpIcDJYbkNISkY4M05aTE1ub0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 14:58:07 GMT",
+   "published": "Tue, 11 Aug 2026 16:26:32 GMT",
    "summary": "FlightAware sues Kalshi over flight-cancellation markets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St inches lower as tech drags, US-Iran peace optimism fades",
+   "title": "Wall Street falls as US-Iran peace optimism fades",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 16:57:50 GMT",
-   "summary": "Wall St inches lower as tech drags, US-Iran peace optimism fades &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Norway wealth fund CEO says fund's entire value could be lost if market collapses",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXM4c0FCQ01mNlZ0S2RJNVZWdnBiNHFSYjRnWFFEZ0VYR3U2WWw2bjFkdWwybkEwZDJjeTI1aE9rQ1ZRTUVrVWFuN1FaYXdBSUllVVZZeWlmUEVBd0FIbHM4TElBd3FKUnlpalJSR2NxaVBidjJ6VFN6dXNUZmlKQWhMREZvZnVheEk3VDRrTXNyOVhCT3pCQndxZEFkeXdrVUVVeTBpWkt3TGVLaTMzVFhnWW51UVp6Rnd3YQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 15:55:48 GMT",
-   "summary": "Norway wealth fund CEO says fund's entire value could be lost if market collapses &nbsp;&nbsp; Reuters",
+   "published": "Tue, 11 Aug 2026 18:43:28 GMT",
+   "summary": "Wall Street falls as US-Iran peace optimism fades &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -436,10 +428,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Gold gains as markets await key US inflation data",
+   "title": "Norway wealth fund CEO says fund's entire value could be lost if market collapses",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXM4c0FCQ01mNlZ0S2RJNVZWdnBiNHFSYjRnWFFEZ0VYR3U2WWw2bjFkdWwybkEwZDJjeTI1aE9rQ1ZRTUVrVWFuN1FaYXdBSUllVVZZeWlmUEVBd0FIbHM4TElBd3FKUnlpalJSR2NxaVBidjJ6VFN6dXNUZmlKQWhMREZvZnVheEk3VDRrTXNyOVhCT3pCQndxZEFkeXdrVUVVeTBpWkt3TGVLaTMzVFhnWW51UVp6Rnd3YQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 15:55:48 GMT",
+   "summary": "Norway wealth fund CEO says fund's entire value could be lost if market collapses &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Gold edges lower as markets await key US inflation data",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3pfajk5NldmMDliSlhNU3ZYd1J6UGt3cWM4ZHBzTkxnYTVGbnVWU0ZOVFFqLUk2eFYyQnhxdUxiUFp5Y0lXTnpEOGIwMHBveTR5bzBvZmxjWTA4TmR6OUt0U1ZSd2V0dDhkMlg4TkpFdlFCSEtJN3BXYXJQMFZLZDgyZjR6UTRXeU5fRFZ1MHM1WXpCMEtTOF9CNmptQTJmNzBQN1JyMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 15:21:55 GMT",
-   "summary": "Gold gains as markets await key US inflation data &nbsp;&nbsp; Reuters",
+   "published": "Tue, 11 Aug 2026 18:47:17 GMT",
+   "summary": "Gold edges lower as markets await key US inflation data &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -456,6 +456,14 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xS3puc0RUSWFqdTB4ZjNKY3Z0UHNsNklsc1ZsajlRQTBNRFd4aUNCRlZuaVVrNEJmNUtvemtNZFZ1djNfbXJwcU00UHdJSG9pU1Z5Q0dxWmFHSHdOeEN2TnVEQ1FjRVBxQ1FSVThRZEs3dUpxLXlvYzFHeENRblE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 11 Aug 2026 05:46:29 GMT",
    "summary": "Morning Bid: Middle East deadlock &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "India's index-options trading faces near-term drag from new stock closing, Bernstein says",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOREhJZ0tyVTVfZHhlckQ5SkdrdTkwQmJpaWd0RDEteW82NnZST3FqQUFWVnQ5b0NlQ1JQbmxXVzhFYzZrZGgycThyUmdnTms4VHZkamhZdTNlYzhoSjg2ZGNaS0xsUlRybmlKQTM1VzFmMnk4SWJ2d01xUFhzdmVmdXZFQmJkOGlxMnY1Wjk1QjJlY1o4X3FtU05uNVB2d3ZRYVhEeDhoM1NBTUFnaGxnWXowc0Y4T1RzR19HOWFDMVZndHlGYTkwTkRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 09:16:13 GMT",
+   "summary": "India's index-options trading faces near-term drag from new stock closing, Bernstein says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,14 +508,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPakVwYWtLMTU4bEszMVIyVVdKQ2IzVU1jOG5nV1NDWDlBVG9GbzhSaVhlQjRMeVVzbDhfMFFvbVhVSXlYVG1wd2RQUHZUZ2pTT1VQODRvMlFPX05vc09sUDBlaTYwZmxwcjFjeWJLby1KWjB5S1RQTTgzVDRfUE1wdW56V2gwMW5JSUgtZlZYdVRTcXVkcVhTTnY5MnFQUFhseWFlUktRZ1dwSVVVV190a3EwMlI4TzlnWUNkc29RQ3V6TTdYcllrR2x2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 16:42:41 GMT",
-   "summary": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Tech News | Today's Latest Technology News",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsc1JxYWZtanlYeGRJWTg2Y0pqVmRQTlJtTEs3UGxTSXc2YnpCaVc1bWtEWmg0RW4wUUd6M0lRUXNHOVU1YkM2X0lOVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 26 May 2016 05:11:17 GMT",
@@ -524,18 +524,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYjhhM0k2TW1GaTh6RmNnUlFzY2ZER1FHWDhNMUJpSm1kNWNNU1dURjhCRXFydDBrNzdMeGdnaHE1T1R0RmJWNEp4QTN4SmlJdUxCQWxzOXdkbTQtdzlkWkpVWmxKcGl0MGdwWnY5aHlvMER2UU1scW5lVGhFbDNGUUlrSU5oVDVWcGo1bEhxaXB3NjNSRklLVmk4d0Z0ejFZRDRkQVpDZ2dvRkpuaUM4dnoxbDdpNkZiaDRsbFV2bXZXcVg0ZkUwRkFCVnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 09 Aug 2026 01:23:00 GMT",
-   "summary": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports &nbsp;&nbsp; Reuters",
+   "title": "AI startup Manus to resume independent operations as deal with Meta unwinds",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0dMMWNmSmw3UWpjbTRpZVBDVFMtRGNEUDFTSlJ3Y01CVXMwSUJXcENKZDdBZThWSUhCX1VlTnZUWkhWaFZxSFpLbEYtRFZJbkhlT3lPOFNXZHpwamhKQkFMU3ZEelFZbUhzaFZYemI2SXRBM0d1NWVCbjFaYlVxZXBmR3hvTWRCYXRndExjcE9GbW5DTmIwdS1tMXhMUEJIenJYS2dBRkh3dzFpX2VoeUhvVmZDRUpM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 15:31:43 GMT",
+   "summary": "AI startup Manus to resume independent operations as deal with Meta unwinds &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Battery technology firm Sila receives $1.4 billion Pentagon loan commitment",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2N5NFc0bmFRVVg1d2duUTVhbFphZWQ0QTIxcVJqcjFOTDFQYzBoeUo3dDdkNTJZS0luc2k3WXFYV0c3dUJKSHpEcHJVajJsS1BfNjJFQWRkTi1WRU5TUnNDbWlwTlVMc1ZVd1ZqdzNPVjlrUV80TEVzdTF0M3ZLcHFPUmM2X3VILWk4b0lueUxWTlA4V1RDS3U1aGViTDNQOXNiY1hULU9ZY3d2akFsRzBhdFd5Y3M4a1I3Qw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 07 Aug 2026 21:58:02 GMT",
-   "summary": "Battery technology firm Sila receives $1.4 billion Pentagon loan commitment &nbsp;&nbsp; Reuters",
+   "title": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYjhhM0k2TW1GaTh6RmNnUlFzY2ZER1FHWDhNMUJpSm1kNWNNU1dURjhCRXFydDBrNzdMeGdnaHE1T1R0RmJWNEp4QTN4SmlJdUxCQWxzOXdkbTQtdzlkWkpVWmxKcGl0MGdwWnY5aHlvMER2UU1scW5lVGhFbDNGUUlrSU5oVDVWcGo1bEhxaXB3NjNSRklLVmk4d0Z0ejFZRDRkQVpDZ2dvRkpuaUM4dnoxbDdpNkZiaDRsbFV2bXZXcVg0ZkUwRkFCVnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 01:23:00 GMT",
+   "summary": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]

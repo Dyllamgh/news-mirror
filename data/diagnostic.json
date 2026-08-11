@@ -14,12 +14,12 @@
  },
  "nyt_via_jina": {
   "status": 403,
-  "size": 701,
+  "size": 639,
   "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Tue Aug 11 2"
  },
  "reuters_via_jina": {
   "status": 403,
-  "size": 799,
+  "size": 739,
   "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Tue Aug 11 2"
  },
  "nyt_svc_api": {
