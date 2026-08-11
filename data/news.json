@@ -1,13 +1,45 @@
 {
- "generated_at": "2026-08-11T04:52:19Z",
- "count": 63,
+ "generated_at": "2026-08-11T09:36:12Z",
+ "count": 66,
  "items": [
   {
    "source": "nyt-world",
-   "title": "Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
-   "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
-   "published": "Tue, 11 Aug 2026 00:21:33 +0000",
-   "summary": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings.",
+   "title": "A Syrian Holdout Province, Sweida, Fears a Government Takeover",
+   "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-sweida-province-druse-government.html",
+   "published": "Tue, 11 Aug 2026 09:00:20 +0000",
+   "summary": "In Sweida Province, dominated by the country’s Druse minority, many say it is just a matter of time before the central government moves to assert control over the region.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
+   "url": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
+   "published": "Tue, 11 Aug 2026 09:00:37 +0000",
+   "summary": "The Castro family envoy, Raúl G. Rodríguez Castro, who has been in talks with the Trump administration, was once named in a case targeting a Cuban smuggling ring.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "In a Sweltering Summer, These Italians Want Romans to Curl",
+   "url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
+   "published": "Tue, 11 Aug 2026 04:01:06 +0000",
+   "summary": "By setting up a curling rink in the shadow of the Colosseum, sports officials hope to capitalize on the fresh popularity of the Winter Olympics phenomenon. Even in a heat wave and without any ice.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "France Bans Unsolicited Telemarketing Calls",
+   "url": "https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html",
+   "published": "Tue, 11 Aug 2026 04:01:05 +0000",
+   "summary": "Companies will no longer be allowed to advertise goods and services through cold calls without previous consent from consumers.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Major Quake Hits Colombia, Killing at Least 111",
+   "url": "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html",
+   "published": "Tue, 11 Aug 2026 00:14:45 +0000",
+   "summary": "Rescue crews and regular people searched for survivors, and the death toll was likely to rise. More than 1,500 homes were damaged, the president said.",
    "full_text": ""
   },
   {
@@ -51,35 +83,35 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Police in India Use Tear Gas to Break Youth Protest",
-   "url": "https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html",
-   "published": "Mon, 10 Aug 2026 19:30:08 +0000",
-   "summary": "Thousands of protesters in the eastern state of Jharkhand claim irregularities in qualifying exams for government jobs and are demanding an overhaul of the system.",
+   "source": "nyt-business",
+   "title": "In a Summer of Climate Misery, Businesses Confront the Need to Adapt",
+   "url": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
+   "published": "Tue, 11 Aug 2026 09:04:05 +0000",
+   "summary": "Repeated heat waves, wildfires, droughts and storms are solidifying the understanding that new investments are unavoidable.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "How Taiwan Simulated a Potential Chinese Attack",
-   "url": "https://www.nytimes.com/2026/08/10/world/asia/taiwan-internet-china-invasion-drill.html",
-   "published": "Mon, 10 Aug 2026 11:08:25 +0000",
-   "summary": "The 30-minute simulated disruption was part of the island’s effort to test and build people’s resilience in the face of a potential Chinese attack.",
+   "source": "nyt-business",
+   "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+   "url": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+   "published": "Tue, 11 Aug 2026 09:03:41 +0000",
+   "summary": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "He Transformed His Spanish Hometown. Did He Also Spoil It?",
-   "url": "https://www.nytimes.com/2026/08/10/world/europe/malaga-spain-mayor-torre-urban-regeneration.html",
-   "published": "Mon, 10 Aug 2026 04:01:10 +0000",
-   "summary": "Francisco de la Torre, the mayor of Málaga, is credited with turning the once drab port into a culture and tech hub. Critics say he’s also destroyed the city’s soul.",
+   "source": "nyt-business",
+   "title": "Should You Be Dating While Unemployed?",
+   "url": "https://www.nytimes.com/2026/08/11/business/dating-unemployed.html",
+   "published": "Tue, 11 Aug 2026 09:02:32 +0000",
+   "summary": "If you’re single and unemployed, it may make sense to prioritize job hunting. But that doesn’t have to mean putting your life on pause.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Malaysia Was Confident in Its Social Media Ban, but Kids Are Still Logged In",
-   "url": "https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html",
-   "published": "Mon, 10 Aug 2026 08:27:16 +0000",
-   "summary": "Officials told platforms to verify children’s ages using government-issued documents, like identity cards. But the companies have balked, apparently over privacy concerns.",
+   "source": "nyt-business",
+   "title": "As Credit Card Debt Mounts, Home Becomes a Piggy Bank",
+   "url": "https://www.nytimes.com/2026/08/11/business/home-equity-credit-card-debt.html",
+   "published": "Tue, 11 Aug 2026 09:00:59 +0000",
+   "summary": "A rise in home equity to record levels has led many Americans to refinance their mortgages to pay their bills.",
    "full_text": ""
   },
   {
@@ -131,38 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Boeing to Sell 3 Autonomous Flight Subsidiaries",
-   "url": "https://www.nytimes.com/2026/08/10/business/boeing-subsidiaries-sale-archer-aviation.html",
-   "published": "Mon, 10 Aug 2026 18:09:38 +0000",
-   "summary": "In exchange for the sale to Archer Aviation, which is developing a piloted electric aircraft, Boeing will receive a 16.5 percent stake in Archer.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Private Equity Is Stuck With 33,575 Unsold Businesses",
-   "url": "https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html",
-   "published": "Mon, 10 Aug 2026 09:01:50 +0000",
-   "summary": "Even amid a booming deal-making environment, private equity firms are unable to exit a growing number of investments at values their investors require.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Can A.I. Get You Where You Want to Go for Less?",
-   "url": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
-   "published": "Mon, 10 Aug 2026 11:24:07 +0000",
-   "summary": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Why Are So Many People Upset About Flock Cameras?",
-   "url": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
-   "published": "Mon, 10 Aug 2026 15:58:27 +0000",
-   "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
    "url": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
@@ -184,6 +184,22 @@
    "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
    "published": "Mon, 10 Aug 2026 20:04:24 +0000",
    "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Can A.I. Get You Where You Want to Go for Less?",
+   "url": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
+   "published": "Mon, 10 Aug 2026 11:24:07 +0000",
+   "summary": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Why Are So Many People Upset About Flock Cameras?",
+   "url": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
+   "published": "Mon, 10 Aug 2026 15:58:27 +0000",
+   "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
    "full_text": ""
   },
   {
@@ -211,27 +227,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Meta Ordered to Pay $567 Million Fine by New Mexico Judge",
-   "url": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
-   "published": "Fri, 07 Aug 2026 09:50:24 +0000",
-   "summary": "The penalty, imposed by a state judge, is on top of a $375 million fine ordered by a jury that found Meta misled users about the safety of its platforms.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "UEFA, AFC, CONCACAF renew attacks on Infantino over failed World Cup stake sale proposal",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3k1MmQ0NXQ1SXJLbTdKbVM4blFGTDh1MUNPZHB0M0dzcGhSYUZ2YkljeTZNM05tYlhJczdGaEs5anljMDc1SlkxWEphZVdWTVViV1A3dGFtXzdyUkxZNzI3VWpXZ3VfMkV3QXIzUFlMdFZfcnJIM1ZFWnFtSmFkZWVxV3Nld18zZVRJLUd4MHRxWDc0eTA1U1RyOWlaNC12X01rWWxmOXJKNVBZcS1TUw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 08:41:00 GMT",
    "summary": "UEFA, AFC, CONCACAF renew attacks on Infantino over failed World Cup stake sale proposal &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Gold gains for third session, inflation reports in focus",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3pfajk5NldmMDliSlhNU3ZYd1J6UGt3cWM4ZHBzTkxnYTVGbnVWU0ZOVFFqLUk2eFYyQnhxdUxiUFp5Y0lXTnpEOGIwMHBveTR5bzBvZmxjWTA4TmR6OUt0U1ZSd2V0dDhkMlg4TkpFdlFCSEtJN3BXYXJQMFZLZDgyZjR6UTRXeU5fRFZ1MHM1WXpCMEtTOF9CNmptQTJmNzBQN1JyMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 00:48:00 GMT",
-   "summary": "Gold gains for third session, inflation reports in focus &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -252,10 +252,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Swedish security service says it broke up Russian spy plot",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEFPNHFDYjhabjlIdmttTXpNenRWaUlJMHFjbTBjUnJLb3hyTm5IQktaU1FycVdWek1xYTF3TS1uYnhtYTJ6dk1RdDVNQjloTGhTT0J5UlBHSGNRaXhZdDJzZGxvRUdNNE1IWVdEQmxRekZ2cWpKdUpVeVdRbDBXbGhNTXNsbkU4X1BteTZtUFBRN0hvVHRMV1JDTEtTSHd0cWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 15:24:59 GMT",
-   "summary": "Swedish security service says it broke up Russian spy plot &nbsp;&nbsp; Reuters",
+   "title": "Gold eases from over two-month peak, inflation reports in focus",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3pfajk5NldmMDliSlhNU3ZYd1J6UGt3cWM4ZHBzTkxnYTVGbnVWU0ZOVFFqLUk2eFYyQnhxdUxiUFp5Y0lXTnpEOGIwMHBveTR5bzBvZmxjWTA4TmR6OUt0U1ZSd2V0dDhkMlg4TkpFdlFCSEtJN3BXYXJQMFZLZDgyZjR6UTRXeU5fRFZ1MHM1WXpCMEtTOF9CNmptQTJmNzBQN1JyMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 07:32:53 GMT",
+   "summary": "Gold eases from over two-month peak, inflation reports in focus &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,14 +268,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Yen steadies as intervention boost fades; RBA in focus",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzhZVWVFX0IxZHRHRTExeHVkajFlQ3U3X3RhbjdFbW5uNnFHR0lLNmd5ZVZRT0tqd1h2X090Snd4bk5VLWhKd0UwaTlDUTNkbnpsLWRIdXFJWE1wdDlUbVd0SXJjb1JYaVlKTVVxUllYQ2lRZjNZcFA1LWVEY2xZRTVHdkNEd3cyNGRNNDhHUDRYem15Szg5dFFadXRCNnFYNHQ1Yg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 01:34:00 GMT",
-   "summary": "Yen steadies as intervention boost fades; RBA in focus &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 09:21:03 GMT",
@@ -284,18 +276,34 @@
   },
   {
    "source": "reuters-world",
-   "title": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 02:36:00 GMT",
-   "summary": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list? &nbsp;&nbsp; Reuters",
+   "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHdGT2JicUc2MmpyR1JUOE1jNGgxT1V2ZDlzdG9Fd2tzeWdVSWJkWDdIbmJZWjhkUVQzZUxGeFg1RlR5X0pMOXdmclBpbmlwOGhjYkdhRWJOUUdUemdZaEc4M2tUV2tZOXJISDFiTlhsdnVxdWJ3b0o0SktBSk5fNE9VekdGNHlyNU9wRUFkTkRYTkhFaG53TGNmTUZxZmNwYTJhWFRDb1BTWXJpY25TZg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 08 Aug 2026 19:42:13 GMT",
+   "summary": "Ex-President Joe Biden's cancer has spread, is very painful, son says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Glencore's exposure to Radiant World more than $500 million, sources say",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYldFMF9PQ3J2WUkzMXR5cHlhYU1SZEZkMVdRY2VqM0hoYXNwSmVnc2c0S0lmU0l1N0U1MEJBZEhpckV3M0tTUDdqcmtfNE4yYlctb2FrRzFxZFZ2Y3RGcEx1cjNiMWk1V2l2b1NkOEhzZEtpcDBfbXhYSHFqaTF5OUsybnJtSlFmUGl3a3hZQTF5YTZUZzFIcFlFYjZndEhVTkJmLXIxbEtxMUhScEZBRENucWdnNVBYcU10LU1zVTJqQjhLR1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 14:08:54 GMT",
-   "summary": "Glencore's exposure to Radiant World more than $500 million, sources say &nbsp;&nbsp; Reuters",
+   "title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 07 Aug 2026 19:35:07 GMT",
+   "summary": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Trump says future of 'weaponization' fund is up to Blanche",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa2Jva1gzS2MwTnNvRVRFWWk5SUF4aXpaYy1RcEhUTjdFQ2dYbEsxOHZKSTU4czYydE9JNEJvd0k1TkxNWnZudmVJaXU0Yl9sMUJIblJ0bm5tOC1EMDlzUHVLc1doYW1zQ2s3ZGVRNk55Q25adEx4OHo0MHhKXzVFQkUzUExaRWJJVkVhUllVQmk0ZjdZTXdMRFhGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 23:56:41 GMT",
+   "summary": "Trump says future of 'weaponization' fund is up to Blanche &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGs5LVJQSnlqLXhUVEdVN1h2OTdZaXlLVzVnaW9xVk50VGdvM004MWpQNXIyLUVxMjV1aGhoSXhVcmhlMmZqNVltVUhyblg2MmtIbjBpZldLSmRLLWxCX0xvVGhmVFJKbk81S1NQQnM0TTYzM0tTLUotcC1DQ1JGVGx6dG8xVktZOHJydHNnODNvXzhKWDhXVENkX2RWRnJBM1Aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 15:20:00 GMT",
+   "summary": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,22 +340,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "RBC, BMO to sell Moneris to Francisco Partners in $1.44 billion deal",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLTk5bjVsQUY3VGxVQTlWeWsxSmxtUlpISjdFOUIwZzcyM2YyYmw5OFBzQXIyQ29rQ3I4dlBHR2FsdG8ybHdOZFJ2VkNrdEswMU5zalNFNF9jYlROY25aTGRrc1ViaWYzdUwwaTBMV25IM21IemU1ZVhMemd5YWFjQWtVSm9yWVVyVjR3Z2s0Y1d3bDVTZ1hYcDRTSjNlc0JhYTF0TU5KV3ZaSFFxMWR1VGVn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 23:27:04 GMT",
-   "summary": "RBC, BMO to sell Moneris to Francisco Partners in $1.44 billion deal &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Oil steadies near one-week highs as US-Iran peace deal hopes dim",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 00:40:39 GMT",
-   "summary": "Oil steadies near one-week highs as US-Iran peace deal hopes dim &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "India's TCS flags alleged exposure of some employee data, says customer data not impacted",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVE5aa2J3QnllSUtjVVBrWGhuTmZYUVpkOHRHUVhtYUdlRG91MlIwMkxSbFowTlhEanRObzY1TnpRazRqc0steGRZUkhKejJLOWY4YXRIa18wbkpoajV1VXczdHNhUHItby1VNEdSSHgxME56WGx2eXV1dFhwMWluYUxwZjFNMURST1VNRjh1bENZZWkxLW16em9rSktpV1V1STdqU1dRX21OY040TmNPcGtQLUpNQU0?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 11:24:14 GMT",
@@ -356,10 +348,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "US sells for scrap two sanctioned oil tankers seized after Venezuela raid",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlIwNk4tOUlhVkJnVG03OWlXUUlvUzR1RW5MQXlEVFpjbVZ1SDBsd3dIeUc0endMTm9lT2dLZjhxdXNlT3EyMEQteC1BbHlGQURTTzZ5T0pTRzNibUQ1QnNTRDh2WmU4NDdRX0dhdWZyLTlMN2hFSlBVdlN1VFJQenJLajJudG9tOHlzVDVXSFBlb1czWkRxYWVGS24xRnlwbGxfRTgxaWNEOVRMdGRNR0NHRUJHRHBRVGVQRVZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 23:53:43 GMT",
-   "summary": "US sells for scrap two sanctioned oil tankers seized after Venezuela raid &nbsp;&nbsp; Reuters",
+   "title": "Oman says grounded tanker oil spill covers 400 square km",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3dqbHVnc1RTLW5XOVYycjU1dExQZEUxRy1ORVBiWEtWLWFLQ3VoVGtTaFk5U3hQcThZRGdobnlSczZwYkJDOWR2OGtXbWhVMmdqTFV0U0xhVWtNMXQ1Z25GVnNtME0xWjJIV3RtNnpUUHFtOGFOSEtlblpZN3F0RUp3MzRreDRXVXRCaFlVczlOTmRSczlCQTBvODF4bnM0ZUJPeS1qNC1ZSzhwZXNEV0RoRDV2a0swVVFYTHNUU1dvcEFaT0xzY1VxTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 11:57:00 GMT",
+   "summary": "Oman says grounded tanker oil spill covers 400 square km &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "RBC, BMO to sell Moneris to Francisco Partners in $1.44 billion deal",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLTk5bjVsQUY3VGxVQTlWeWsxSmxtUlpISjdFOUIwZzcyM2YyYmw5OFBzQXIyQ29rQ3I4dlBHR2FsdG8ybHdOZFJ2VkNrdEswMU5zalNFNF9jYlROY25aTGRrc1ViaWYzdUwwaTBMV25IM21IemU1ZVhMemd5YWFjQWtVSm9yWVVyVjR3Z2s0Y1d3bDVTZ1hYcDRTSjNlc0JhYTF0TU5KV3ZaSFFxMWR1VGVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 23:27:04 GMT",
+   "summary": "RBC, BMO to sell Moneris to Francisco Partners in $1.44 billion deal &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US officials work to close supply chain gaps as foreign investment grows",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTTRUWmpFNVJUbUl3c1FNTWU2T3ZnR3VNclhLQlBZSUx4aXJTb0lNc0RMNTc3VXdJX1RLMDc3QUJvSERPdmhERExKQzlSVWZSRng4WndTU1ZhZkh2NUc5S1IwVDYyLWhrUE5YNjdmYmhDdjVPV0tqekxGeVNEWERyY0t5WE5uYlM4QjJhQjZ3SGlORVhPWkdzS1NtVm05dDNOSTJkdkctTFVKNjN4ZXBXV1FCOU9hdkd4ZXd5dGdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 02:12:32 GMT",
+   "summary": "US officials work to close supply chain gaps as foreign investment grows &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,138 +380,154 @@
   },
   {
    "source": "reuters-business",
-   "title": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPakVwYWtLMTU4bEszMVIyVVdKQ2IzVU1jOG5nV1NDWDlBVG9GbzhSaVhlQjRMeVVzbDhfMFFvbVhVSXlYVG1wd2RQUHZUZ2pTT1VQODRvMlFPX05vc09sUDBlaTYwZmxwcjFjeWJLby1KWjB5S1RQTTgzVDRfUE1wdW56V2gwMW5JSUgtZlZYdVRTcXVkcVhTTnY5MnFQUFhseWFlUktRZ1dwSVVVV190a3EwMlI4TzlnWUNkc29RQ3V6TTdYcllrR2x2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 16:42:41 GMT",
-   "summary": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings &nbsp;&nbsp; Reuters",
+   "title": "July US container imports hit fourth-highest on record, Descartes says",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFp5eTRqbmJxRHF0bkxpcUZmQ1NEX1NrVVlRdFltLTY4V3dROGhnT01PUTZxZzVkN3R3bDcyRHdWNVIzclktOVdub0pWLW5raUJ5WWxNU3JLb3hQVll0YkVWV2pQc0dSaTJGaFJoMXJnSVFsUVVGYkZjWDFqck0wRkc5OWhfaGxPOWp5S0Z4ZzBMRnZwNGRqN0lDYk1MdjU3end0cEhsaVVqRGkyZ0V1UmkxWlYxNFVRTlJZSElSWHI5alV4eHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 14:24:27 GMT",
+   "summary": "July US container imports hit fourth-highest on record, Descartes says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall Street ends down as expectations of Hormuz deal fade - reuters.com",
+   "title": "US-Iran standoff sends oil up, dents stocks",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 08:44:10 GMT",
+   "summary": "US-Iran standoff sends oil up, dents stocks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Morning Bid: Middle East deadlock",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xS3puc0RUSWFqdTB4ZjNKY3Z0UHNsNklsc1ZsajlRQTBNRFd4aUNCRlZuaVVrNEJmNUtvemtNZFZ1djNfbXJwcU00UHdJSG9pU1Z5Q0dxWmFHSHdOeEN2TnVEQ1FjRVBxQ1FSVThRZEs3dUpxLXlvYzFHeENRblE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 04:32:00 GMT",
+   "summary": "Morning Bid: Middle East deadlock &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 23:23:26 GMT",
+   "summary": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Wall Street ends down as expectations of Hormuz deal fade",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 23:19:10 GMT",
-   "summary": "Wall Street ends down as expectations of Hormuz deal fade &nbsp;&nbsp; reuters.com",
+   "summary": "Wall Street ends down as expectations of Hormuz deal fade &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Oil prices rise, Asia stocks drift amid US-Iran stalemate - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 01:41:00 GMT",
-   "summary": "Oil prices rise, Asia stocks drift amid US-Iran stalemate &nbsp;&nbsp; reuters.com",
+   "title": "Yen on defensive as intervention impact fades; Aussie steady after RBA",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzhZVWVFX0IxZHRHRTExeHVkajFlQ3U3X3RhbjdFbW5uNnFHR0lLNmd5ZVZRT0tqd1h2X090Snd4bk5VLWhKd0UwaTlDUTNkbnpsLWRIdXFJWE1wdDlUbVd0SXJjb1JYaVlKTVVxUllYQ2lRZjNZcFA1LWVEY2xZRTVHdkNEd3cyNGRNNDhHUDRYem15Szg5dFFadXRCNnFYNHQ1Yg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 01:34:00 GMT",
+   "summary": "Yen on defensive as intervention impact fades; Aussie steady after RBA &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "BOJ's rate-hike path runs into Takaichi's bond market problems - reuters.com",
+   "title": "BOJ's rate-hike path runs into Takaichi's bond market problems",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVU4YTMyZzBlVkRSS1puYTluVjgycklHS2dRbnVCSkxVMWdjcEUtdlZ0NVpIakhpckplY0dGSGQyOFkxQmhpTnMzT0dRNWlfRHg5R2MzQ3BUcV90cTFjMlF5elB3SUVlMWloQnpleUowUHNHSFJKeW1iV2lkNnhtdGtWUURyQi1DcURaaG1SR18xa3lmd2MtaEsyb2E1Q082c25nX2E3UEYzV0JJcUQxOGNfMFZrdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 23:08:35 GMT",
-   "summary": "BOJ's rate-hike path runs into Takaichi's bond market problems &nbsp;&nbsp; reuters.com",
+   "summary": "BOJ's rate-hike path runs into Takaichi's bond market problems &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Unemployment rate remains Fed's labor market lodestar - reuters.com",
+   "title": "Dollar gains, yen weakens as markets eye US CPI",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNXbzdKZzN4SWREMXRobGFBNUZTbkhiRERVTXVER0xFMndJbzBGXzRwckk4SWJLTlJtUHNaSDN1Uy1BRUMwZDY2U3dYRVRzeWV1NTNWN3QzazF5NHZuNGUteGpmanpqQnloXzBQWk1oY1FKWWFjUWYyX0ljSF91NXhWQVl0ek5RVWhwakpoZWZTbXJFelRXN3hIZnlfMlk3elZtUEtzbU5DQWZiamc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 18:51:21 GMT",
+   "summary": "Dollar gains, yen weakens as markets eye US CPI &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Unemployment rate remains Fed's labor market lodestar",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2NvR0U1UFptOEF6cERsd1diMU9McnU3VDFneDhZSlBSTWcyemxieGwyRW5LaUpwRWRtNnVlZU5zT3JBVE14b29YNHNxVEJ4Ykhn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 23:30:26 GMT",
-   "summary": "Unemployment rate remains Fed's labor market lodestar &nbsp;&nbsp; reuters.com",
+   "summary": "Unemployment rate remains Fed's labor market lodestar &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Trading Day: Strait talking - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGhYemdzMXJoV2ZfYlM1UlZaOWs4bmhCTkpGUExYTmVWRVhUT1Jtb09OT2dLakZ1azVNWWpLZzIwdkw2R045YTI5eU9YSWI3azJmZ2Z3aXBZYmRfQTU3ZDQ4MGlSLUlmM2d0V09IdkRFSlFmbXQ1STVzM3RTMHV3T3Y4S2dwYi1CZGg4SGFIOVROSzJRUjNRVFBsa09tR3lnX3ltZkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 21:05:19 GMT",
-   "summary": "Trading Day: Strait talking &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "SEC settles charges over SpaceX, Klarna, pre-IPO share fraud - reuters.com",
+   "title": "SEC settles charges over SpaceX, Klarna, pre-IPO share fraud",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM3ZsTGVPUklIeV9qX0NUZGtzVFlvNTZxb3lZZUVoOG1HRUkzZVlOdWZWcmZIYzR4eDNlZzJlTjNkQkRsa2ZJaFFKVk1iRTZhWFJTTEJOcUk5dGd4MF9aUWdIcm5BTXRVOGxnYzZsT3JZWEtWT0kxUGQ0aDNKdEFsMU5NQnBRVHZWNmh6YmViR3BvV1k3T0pHOWFOSDEwQ2NuQUtWOVhSR2JBWEJnRmEyemk1aFhCbm5xeF9ZeWZLTWlVcHgxZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 21:53:00 GMT",
-   "summary": "SEC settles charges over SpaceX, Klarna, pre-IPO share fraud &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "FOMO fuels Wall Street's breakout rally as traders pile in - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkpEM1BlSlZXSUZmWnBXOU0tcGVCb3kyRWpQV0gtR3VVR3JraTVKdjYzemxKeS0wYVFYRmplNDlxaUVEU1JsVTJfTVQxZ3Ricy1Wa3dwTUxYWjRrYnRoX0NzQnoyX1F3aEIxVnJWbk9VQkhGNHZFQjktUGxXU0NHd2QtQjZEY3F2YkFFNnNxbTQ1YV9BLVhianAxLUw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 09:11:03 GMT",
-   "summary": "FOMO fuels Wall Street's breakout rally as traders pile in &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "India considers curbing use of cane for ethanol to tame record-high sugar market - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFlBY3Z1VkdMUVE1dDZYQW1FM1hRWFJXTWhqcGZkOFlGbi02U2ZTNldBMXhqWDMtaXlwa2lMWGVJS0stUUxNYThOdngxckw5VENJeERyMjh5MGJVRmpXcjMtMFhKNmZnNWtza2p0d2JxNENEQm9mT2M1YU92d0tmWXVOYmI3RFZJaDBCSlB4dDhhQkVtcW13RWV2YUlGbHBNRGtnY2dfUnRnR09TX3pSaFhadkhrYlZvcUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 10:49:11 GMT",
-   "summary": "India considers curbing use of cane for ethanol to tame record-high sugar market &nbsp;&nbsp; reuters.com",
+   "summary": "SEC settles charges over SpaceX, Klarna, pre-IPO share fraud &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - reuters.com",
+   "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 19:48:45 GMT",
-   "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents &nbsp;&nbsp; reuters.com",
+   "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Microsoft plans to unveil next-generation AI chip in September, The Information reports - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenR3bGI3XzFrd0ZXY205bU84b3ZLUFR5VEFhYjBGMEVWekNKeHhWZnJYaEE2TC1ETk9oNVZreEJDeEZWaU8zbjVVMHhNRlZjcGRQNXRXWlJOOTdFQWJ3RkNCRmVrdDJuOTl6eTRTUzRQdXNNN3g3RkdnUHp2eFlPM3lCM2xQN3NYSlJ3bmFyXzNpNHo2SzUwNGZqN0RVVjh5cjF4ZUNvWTNId1MyZG9IdkdvMzNGb1VkSUZGZXdRWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 17:45:47 GMT",
-   "summary": "Microsoft plans to unveil next-generation AI chip in September, The Information reports &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "US communications agency is the unlikely spearhead of Trump's China policy - reuters.com",
+   "title": "US communications agency is the unlikely spearhead of Trump's China policy",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0R4dFEwM2prOUZJNjN3VXJUYU5VdjNPajBNSDJWWmJGbDFJa2Y4cGxHRWk2QkVUM2FCalcxZEZMaFBvVTRQci1wUUJ0LWhobEtQRzF2dzdlY2RBRVJGUVVNNDUyQm15NHdXNGE0bTlZQ182ckQ3R2JwbVpReGlzNXBGSkMzRU1IRkVxWklYbTcza1lQd1Z5N3dCcEV3N2IyNjIwMFp3dS1DUDJ1c04zY2tVY2Zhc3ZPVTdv?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 19:55:39 GMT",
-   "summary": "US communications agency is the unlikely spearhead of Trump's China policy &nbsp;&nbsp; reuters.com",
+   "summary": "US communications agency is the unlikely spearhead of Trump's China policy &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms - reuters.com",
+   "title": "Microsoft plans to unveil next-generation AI chip in September, The Information reports",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenR3bGI3XzFrd0ZXY205bU84b3ZLUFR5VEFhYjBGMEVWekNKeHhWZnJYaEE2TC1ETk9oNVZreEJDeEZWaU8zbjVVMHhNRlZjcGRQNXRXWlJOOTdFQWJ3RkNCRmVrdDJuOTl6eTRTUzRQdXNNN3g3RkdnUHp2eFlPM3lCM2xQN3NYSlJ3bmFyXzNpNHo2SzUwNGZqN0RVVjh5cjF4ZUNvWTNId1MyZG9IdkdvMzNGb1VkSUZGZXdRWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 17:45:47 GMT",
+   "summary": "Microsoft plans to unveil next-generation AI chip in September, The Information reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVNnS0VwTFZ2OE9CVlZ5NkVxd18wQlpSN0MxOHBtTHZIOVpDdDd6RThJRFd4dUZmRWNicVgzeVdHdVROcHYyWFFqR3dZWGUteWNhbENKLVBsRXlpaExCS18wZ3FWVEhwZDIteHBuQ2R5SjFsam9RekJMRUc3YThFWFBrWTJKMUljTTJSSUVYck4wYTVtOThDOF9UTi0ycXlQMFc1MFJZMFA1Q2dweXVmZEFNZUw1RTFUamlIdkVGTlN4QzJJLVJV?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 10:15:15 GMT",
-   "summary": "Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms &nbsp;&nbsp; reuters.com",
+   "summary": "Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength - reuters.com",
+   "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1QwcG1rS0tYLXJ3R0JXc0IzMDhhNm9XMW9SX3RiMW1abW9VZEQ4OHRGd2FzSWFsNVNCUXFUQkhUdEFTXzVJQWwwR1JUX2t0UWpnNkxmVlZmSTVSTU9PUS1qTk9mOERWclA0UzNGNVAxNm45RGdiNmd6bWZFX2lnbnVWUFR1SHB5WGZEOURwV09iYU9KdkpHTlBTeUtCR2MteWI5TWFTQmNJSnRSSUE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 06:20:00 GMT",
-   "summary": "J.P. Morgan lifts 2026-end target for S&amp;P 500 to 8,000 on AI, earnings strength &nbsp;&nbsp; reuters.com",
+   "summary": "J.P. Morgan lifts 2026-end target for S&amp;P 500 to 8,000 on AI, earnings strength &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "South Korea to launch $3.5 billion chip fund, speed development of semiconductor hubs - reuters.com",
+   "title": "South Korea to launch $3.5 billion chip fund, speed development of semiconductor hubs",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnZjclJ4ZTNzOU1TQllqMUJkMTRUWDVXakRfV21XQWpXWGg1OVlzYUhDV2RPSTlwQnhrVVhCZm5ZMWVVZmNPMUlPN2FVZ0RtOVBOTHNWRzZmRXRJYUh5bU00UW0yYjY2SC1jcEE2ekIxbHpyNTM1YzQ3TTdOaExTN3o0cnM2WTRsNExXVFVSN0wtclpxVDctZWl6Uk9FM2RMREIwbGV0Z3NhRW9Xa0VENUhFdGo4SV9sdHV2QXctSTJnVERCM2I1LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 06:13:00 GMT",
-   "summary": "South Korea to launch $3.5 billion chip fund, speed development of semiconductor hubs &nbsp;&nbsp; reuters.com",
+   "summary": "South Korea to launch $3.5 billion chip fund, speed development of semiconductor hubs &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "North Korean hacking group builds AI tools for cyberattacks, report says - reuters.com",
+   "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 01:08:00 GMT",
-   "summary": "North Korean hacking group builds AI tools for cyberattacks, report says &nbsp;&nbsp; reuters.com",
+   "summary": "North Korean hacking group builds AI tools for cyberattacks, report says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Crypto bill faces long odds after Senate punts vote to September - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkFmSmV0M3c2anhzbmdvbHlzUXpkQ3M5b3JmMW8tNzdiZ21MdWp0RHAxNjFDb21BRlh4ZGFDclJ3SkRySDlES01renJuUzNhWGdhYmhfTlUxWk9vU2l5WEhMSk56aHo2Q0VUTGlNQmVFa3dLbmtYNGFpLW1vcVhsc2o3LTRIVnVHNExScHY4bkxJdkw1MXd4Q3ItcXJjTS1XN1dQbm9aYk82ZzV0bDVJTGg2R3o?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 18:42:47 GMT",
-   "summary": "Crypto bill faces long odds after Senate punts vote to September &nbsp;&nbsp; reuters.com",
+   "title": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 02:36:00 GMT",
+   "summary": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list? &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjZyV0hiRlRDWVM4Q055T3FDV1BXeWNZUGVyRVNOS2ZCamVwUXBnbmRZOGw0Vm5IMS12VEwwd25NdlFxNE5MNEVZc1kyclJLVVNjZjZFb1F4dmRPeWNOeFhqblVwRU9NNzItR0gtOWs0X0R3dWNuckVQcGVILXM4OHJUdWM0U2pBQ1ZqWjY2Z3RnX1V1bjMzblBrOGlxOXRPY0hBVDQxVzBMRVhkMWY0bVB4WDJ1WHdwUVV1dUY0V2lvZU9J?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 12:08:09 GMT",
+   "summary": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
