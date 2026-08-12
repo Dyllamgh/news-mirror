@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-12T19:50:59Z",
+ "generated_at": "2026-08-12T22:24:50Z",
  "count": 66,
  "items": [
   {
    "source": "nyt-world",
-   "title": "Live Updates: First Total Eclipse in Europe in Decades Turns Day to Night",
+   "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
    "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
-   "published": "Wed, 12 Aug 2026 19:44:27 +0000",
+   "published": "Wed, 12 Aug 2026 21:57:06 +0000",
    "summary": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
    "full_text": ""
   },
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
    "url": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
-   "published": "Wed, 12 Aug 2026 07:59:50 +0000",
+   "published": "Wed, 12 Aug 2026 20:37:58 +0000",
    "summary": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.",
    "full_text": ""
   },
@@ -62,7 +62,7 @@
    "source": "nyt-world",
    "title": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
    "url": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html",
-   "published": "Wed, 12 Aug 2026 16:19:27 +0000",
+   "published": "Wed, 12 Aug 2026 21:04:36 +0000",
    "summary": "Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of partygoers came too.",
    "full_text": ""
   },
@@ -80,6 +80,22 @@
    "url": "https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html",
    "published": "Wed, 12 Aug 2026 04:01:21 +0000",
    "summary": "President Hakainde Hichilema was elected five years ago, promising to protect civil liberties in his copper-rich African nation. Now, he’s accused of trampling on them.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Treasury Scales Back Scrutiny of U.S. Shell Companies",
+   "url": "https://www.nytimes.com/2026/08/12/us/politics/treasury-scrutiny-shell-companies.html",
+   "published": "Wed, 12 Aug 2026 20:52:00 +0000",
+   "summary": "The Trump administration will not enforce reporting requirements of the 2021 Corporate Transparency Act, which was intended to crack down on money laundering.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment",
+   "url": "https://www.nytimes.com/2026/08/12/business/forbes-editor-fired.html",
+   "published": "Wed, 12 Aug 2026 20:53:09 +0000",
+   "summary": "Randall Lane, the magazine’s chief content officer, received the money from the founder of Shook Research, which has worked with Forbes on content about wealth advisers.",
    "full_text": ""
   },
   {
@@ -147,22 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "July CPI Report Is Expected to Show Falling Energy Prices",
-   "url": "https://www.nytimes.com/2026/08/12/business/economy/energy-oil-prices-inflation.html",
-   "published": "Wed, 12 Aug 2026 11:14:18 +0000",
-   "summary": "The war with Iran injected volatility into the oil and gas market, with prices rising and falling in concert with the conflict.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Homeowners tight on cash are tapping into their homes’ equity.",
-   "url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/homeowners-tight-on-cash-are-tapping-into-their-homes-equity",
-   "published": "Wed, 12 Aug 2026 12:19:01 +0000",
-   "summary": "",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
    "url": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
@@ -192,6 +192,14 @@
    "url": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
    "published": "Mon, 10 Aug 2026 20:37:37 +0000",
    "summary": "As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "3 Ex-Georgia Deputies Used Flock Cameras to Stalk People, Sheriff Says",
+   "url": "https://www.nytimes.com/2026/08/12/us/georgia-sheriffs-flock-cameras-stalking.html",
+   "published": "Wed, 12 Aug 2026 20:27:33 +0000",
+   "summary": "The former Bibb County deputies were arrested this week amid a growing national debate over Flock cameras, which can be found on roads in every state but Alaska.",
    "full_text": ""
   },
   {
@@ -227,14 +235,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
-   "url": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
-   "published": "Mon, 10 Aug 2026 09:02:19 +0000",
-   "summary": "As data centers gobble up memory chips, other industries that need the components, including electronics companies like Apple and medical device makers, are asking for government help.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "Britain's JCB Hydromax sets world land speed record for a hydrogen-powered vehicle",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDFtMHpHQjBmZ3VDeGduQ1VXNW84TGlPSWtpbDduZHpDNjRDbkxiVWVpVWItcU83U3hpaUNxMXlQV01QT2pEM3NoaXphMjh0Tl9rNDBhR25FZHd0Yk1IOUFLR0NVNndLdGJsNzNQSE93RUpEMUl2MGw4bW1jd2hscDNhWXZqOUMtZnctZVBYWEplY0xnUmhoVk5JaEcxYk9NY2J1YUM5NXlSdFFDSm1pT3VCU1RaQXZ3RF9ybw?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -252,10 +252,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Where to see the August 12, 2026 total solar eclipse in Europe and when to catch the next one",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SZk5LYjRMSUUxejY5UERWS0R1dy1ZaDJxZklRaEtvRDV4U3RkTDhHcTZSTXZZMW9xSGZsd0lJaWJFZFpJclVNUFpqSFJ4dldxRkpLcUtpcnlRMHp4QTFNVVdDMnEyZWNFbk9BNnFXVTgyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 08:00:00 GMT",
-   "summary": "Where to see the August 12, 2026 total solar eclipse in Europe and when to catch the next one &nbsp;&nbsp; Reuters",
+   "title": "India's inflation accelerates to 4.45%, but unlikely to shift RBI rate outlook",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMV9vVDJlMjFzdW1rYklSTWtRbGJkSGM3TmFOVHcyRjQ5UnNDODhyR2RPZzJTblg2Q1o1cGowR2szbk1JRk1VdWpsU242Q0l6OFoyTUhkYnZGRFNENjNWRGRJZmZfUThpZEVibVpZOVdWbW9OaWpSWmcyd0U4MnFUY3JLcklpN0xiazl0V0o4T2JOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 12:39:14 GMT",
+   "summary": "India's inflation accelerates to 4.45%, but unlikely to shift RBI rate outlook &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNejR2WHZkaWNtdDFyTnFtTFhtUnE1cEJ5SkhVMlBLNG9rWmd1Sjc0OFlSczVJR24xdVJLUUpQY1VjbW9HeVZaNTY3ZXFhcnlVY3RtUXhCbEJfRnlDYklWM05jbFp6MkxWM1dGUWxTalM4QjF5SVd0aXhncEpBVXoxR3dsSTVPdGlYeTlzcXd5Rl8tSndmNEczNFR5UDR4dGswUWxWck1iVUhfSnBTbzQ5WGxPNm9iMjBzdXdINUl5aUU4OHdZQVA4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 15:59:10 GMT",
+   "summary": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,34 +276,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Hormuz shipping traffic falls to one-week low amid hostilities",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1dzT200SXd2Z1ZNMmhKMEN1b1NITFZ5WGRCcU00Zm1KOUd4dC1sU0lERk1SNk5SaExMUlFBc1hzbmQ4YTJQNm15elZ6eUJCRlMzYzZabV9WTGNtWkFpQy02elVaeXhvQmRMSG5oRzgxWFc1b2Faa1hUNGJtV3pZbDZfMzJzMnJWdVM0UU9jMXVKbEpuWTVZSlhkMENxdGRfTFRCLVRqbjhSVXdkQ3lYb2RKYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 05:18:00 GMT",
-   "summary": "Hormuz shipping traffic falls to one-week low amid hostilities &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Indian rupee nudges up on RBI intervention; investors eye inflation data",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkVjdXVldDVubjVPQkdhWGoyYU05dG1EOU92WkhLbFlYTWktS0hPVTZkeC03T055Z2dMbzJJMjRrVzJFNXhjSFdROS03S0Vfb1RuaVlYVklha0ljS08wUEM4bzAxSGtlcXJsTUZ4bG1QWXVMUWlGaUpzbm9ROGJOUXNpVzBzLVByVEtCd2d3cHJ1dWhrQ0VTbTNTOHdDVTI2SHNCdzZWVTc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 02:59:00 GMT",
-   "summary": "Indian rupee nudges up on RBI intervention; investors eye inflation data &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "India's world championships organisers hire monkey whisperers",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHhuVnIwRnd6LVVPM25WaFdKZ2ducDNpdjVSV0tHR0JQSGdpRGlZX1ZpalZzZjEtRlFiTlhoeVFZTVcyS3M3dUxTNlVkNlRrb0VOMWNMR2xFYzBKb0FQRk9CYjFUY1ZoZDhYcWF1ZWpLcm1fcEk4YjBZZEhmaF9wM1ljMlpHMS04UUpoVHY2U2FTMllXMkZYTXpRWTBDdHlVWUNrRFZBN2I1eU40?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 10 Aug 2026 15:47:22 GMT",
    "summary": "India's world championships organisers hire monkey whisperers &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "India's inflation accelerates to 4.45%, but unlikely to shift RBI rate outlook",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMV9vVDJlMjFzdW1rYklSTWtRbGJkSGM3TmFOVHcyRjQ5UnNDODhyR2RPZzJTblg2Q1o1cGowR2szbk1JRk1VdWpsU242Q0l6OFoyTUhkYnZGRFNENjNWRGRJZmZfUThpZEVibVpZOVdWbW9OaWpSWmcyd0U4MnFUY3JLcklpN0xiazl0V0o4T2JOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 12:39:14 GMT",
-   "summary": "India's inflation accelerates to 4.45%, but unlikely to shift RBI rate outlook &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -308,6 +292,22 @@
   },
   {
    "source": "reuters-world",
+   "title": "Judge blocks US Postal Service from restricting mail-in voting",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3gxcU4tU2Z6TWNMR2VWV3B6TlA0cWdOYVFDejBMcnE2TUx3Q3gxMGJwMGV2MTJvajdiRWRkMkg3V1dtQ0xPYnZ3aWNpVkRBcFdVYW10blNNajFqN3EzWVNmUnpGTExjU0NrS3I5MlhYVnVPdWFzaFM3bkg3bzhpRnp5VXBoTXVNRnhNVV9RS1VUNHo4Zmd1ZkZUTVlfb2pm?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 21:09:00 GMT",
+   "summary": "Judge blocks US Postal Service from restricting mail-in voting &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Hormuz shipping traffic falls to one-week low amid hostilities",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1dzT200SXd2Z1ZNMmhKMEN1b1NITFZ5WGRCcU00Zm1KOUd4dC1sU0lERk1SNk5SaExMUlFBc1hzbmQ4YTJQNm15elZ6eUJCRlMzYzZabV9WTGNtWkFpQy02elVaeXhvQmRMSG5oRzgxWFc1b2Faa1hUNGJtV3pZbDZfMzJzMnJWdVM0UU9jMXVKbEpuWTVZSlhkMENxdGRfTFRCLVRqbjhSVXdkQ3lYb2RKYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 05:18:00 GMT",
+   "summary": "Hormuz shipping traffic falls to one-week low amid hostilities &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Wisconsin Democrats nominate moderate Crowley for governor; Trump ally beaten in Minnesota",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNW56VkdwbmhvUC1XSUVxUGw5UWNZdWwzSmlZU0hpR3JxWXkza281YWEyYkhpWU9zYmN3Ty1FZlc3dGVWU0drcXJQRVpnbDd1Q3l5cnJBSk5KOGV2SGVPOUdIM04zZloyN1NkalB5clZjNVhQbVkzSTh0aUdLS2tKVEdPVlNZSDcwVzlRbFk1d0ktZlNjZk10UXNiV1FIcVVlcmRtVTNvZjRIRTlqb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 11 Aug 2026 10:07:00 GMT",
@@ -316,10 +316,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Peltz-led group preparing bid to take Wendy's private, source says",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUVYbmhqT2xxdVBlYmdpc1VvUDJuVUFzWnc2QWxRMm5PVEFVQm85TDJhY3lYdHZXZ2tJeDFkWlZEQm82ajBodW9ISlYwZkNSdEM2ck9qd3llMlZuM1h5Mkk3bGJOT1VmaUw1YjliUWlMNGVEOHRFT01DUzRUYjYyVjNwVmZsS1VKUlhZM0lLMjQ4ZmluZENQTDNXWWdHTFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 18:19:59 GMT",
-   "summary": "Peltz-led group preparing bid to take Wendy's private, source says &nbsp;&nbsp; Reuters",
+   "title": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObm51WFhRd2F0bzV5VHZ0WUFsaS0xaVNkWWZiaWtscnE2VXZNUXJ2WWVubE1CV1J1cnpFTDhPWTF5dktfN2RoRXpVOGtqRUctZGd6YzI3MWJyNkQ3bUNFR3pNc2RuSmdiNW90Y2E3dEhEbXFVamNMZTFkMkF6am5xaklyVzAzS291dFpNUmJKaXB4NFBlM1ZYNkM1QjFzdlRqdTZwMVJ6UEtyNEZPd3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 17:36:49 GMT",
+   "summary": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,10 +340,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObm51WFhRd2F0bzV5VHZ0WUFsaS0xaVNkWWZiaWtscnE2VXZNUXJ2WWVubE1CV1J1cnpFTDhPWTF5dktfN2RoRXpVOGtqRUctZGd6YzI3MWJyNkQ3bUNFR3pNc2RuSmdiNW90Y2E3dEhEbXFVamNMZTFkMkF6am5xaklyVzAzS291dFpNUmJKaXB4NFBlM1ZYNkM1QjFzdlRqdTZwMVJ6UEtyNEZPd3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 17:36:49 GMT",
-   "summary": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push &nbsp;&nbsp; Reuters",
+   "title": "U.S. crude inventories rise by most in 3.5 years as exports slump",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjM2aE5yRXh3eEZaZVVMQWVZTXZ1NlY0WHZPcW84emhST0VNYjBmY2lkakhRU2RMbXp2MjBfRlBDT2d5LWdGMUplVThhd01jR1VLci03ZGtjUXAxbS1hTHFLQi1aMnpkSzg4RlFJUWhDOXo4WUFVM2l5a1FkaFdsN2pnYUVMRnVfdUZxY0daOGNxMmQwb0FGRzlpLUhMeGhuZHVscldDQy1oTXR5U1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 15:52:43 GMT",
+   "summary": "U.S. crude inventories rise by most in 3.5 years as exports slump &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Peltz-led group preparing bid to take Wendy's private, source says",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUVYbmhqT2xxdVBlYmdpc1VvUDJuVUFzWnc2QWxRMm5PVEFVQm85TDJhY3lYdHZXZ2tJeDFkWlZEQm82ajBodW9ISlYwZkNSdEM2ck9qd3llMlZuM1h5Mkk3bGJOT1VmaUw1YjliUWlMNGVEOHRFT01DUzRUYjYyVjNwVmZsS1VKUlhZM0lLMjQ4ZmluZENQTDNXWWdHTFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 18:19:59 GMT",
+   "summary": "Peltz-led group preparing bid to take Wendy's private, source says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,26 +364,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "CoreWeave, Super Micro surge on signs of sustained AI buildout",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 15:47:43 GMT",
-   "summary": "CoreWeave, Super Micro surge on signs of sustained AI buildout &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "VIEW Market shrugs off in-line July CPI report",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzYwSG5ld0hGWFJxWEVhU2dWeERON1g2Y3NvOUVLaEZIak43ekFnbWlWbDNYaGFFUnlLSU1SQ3VyTHNfQzBnSkY1ajBFb2Vpc1hXRmJjOG5hYlNVdGtESDBqWWl1QzEzd3RIYTgtS1RmUHNaMG9CZjdVc09LaGllRFYzTmlpOWxvMVI1N1NaSzVXdmt6cEE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 12 Aug 2026 13:41:39 GMT",
    "summary": "VIEW Market shrugs off in-line July CPI report &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US existing home sales fall further; small business sentiment at 11-month high",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdENNMDRvOG1raHczd3h3NEpUSzVmUzFEZjE2N0V6cloteHZlYkZRelZ5Q3lNR3NDWHhVREVQakgxRnFRaHNMQnQ4VWN5MDRleEc2WWlfeDQ3VzlVcUtHRnhZTU1iNHZrRXRSY3U1ZEpwVkVVcVBnVFdCOWJfOUJzTVRKZUtkZXFNWXBkVmVBN0otUlZSS3A2R3U0cFZxMUVVUXNONEN4OXIzSXl2cHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 17:38:17 GMT",
-   "summary": "US existing home sales fall further; small business sentiment at 11-month high &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,10 +380,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "U.S. crude inventories rise by most in 3.5 years as exports slump",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjM2aE5yRXh3eEZaZVVMQWVZTXZ1NlY0WHZPcW84emhST0VNYjBmY2lkakhRU2RMbXp2MjBfRlBDT2d5LWdGMUplVThhd01jR1VLci03ZGtjUXAxbS1hTHFLQi1aMnpkSzg4RlFJUWhDOXo4WUFVM2l5a1FkaFdsN2pnYUVMRnVfdUZxY0daOGNxMmQwb0FGRzlpLUhMeGhuZHVscldDQy1oTXR5U1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 15:52:43 GMT",
-   "summary": "U.S. crude inventories rise by most in 3.5 years as exports slump &nbsp;&nbsp; Reuters",
+   "title": "US fuel exports to Cuba spur chaotic black market",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnMyemdyTXd6SlJlZE1sTWM1VXhPV3NuVTJwRHJhUEVQa1NBVWpDT1pGZnNRcUZFOS1HSG5Ga2I0dW11S3h6eHNyUWI3SWEyb0hKSWtMdEZsdXJveklJNlAzZGNrRGhmTjBvWTgzWkVoTVBPQUxsRmJ6WDRuemRVR3JBdnRkSHVocFZHdGhrUzYyTk5wTTZtYUlNUmF3NllwcGxvU3U3eFpMVmwzcDd2ODJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 17:50:49 GMT",
+   "summary": "US fuel exports to Cuba spur chaotic black market &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHpmV1NwTWxHeTRKVUtlY3lwWmlUVWtzX0NUYkhGR2VFRzZDQ0JXRXp1LVZ4alp5SXplU2RHTmRFNG5EaG9GWVpRbkVPZE4tS2NxUlc2UXhBVTMteFRHVWo0a0xZZGdNWFNWNmVnOTdZcHBvcGx6bnEycGlqaHNqRDI4Vkw4YTVkcnhPZEI3cGVRa0psa2xFWWE2b2g1SkJ0T0RhWlRiODVSLVBxdUxIWkl4Zl9uN1Ew?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 17:03:14 GMT",
+   "summary": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,10 +404,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "S&P 500 rises as CoreWeave results fuel AI optimism",
+   "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 18:30:15 GMT",
-   "summary": "S&amp;P 500 rises as CoreWeave results fuel AI optimism &nbsp;&nbsp; Reuters",
+   "published": "Wed, 12 Aug 2026 20:26:00 GMT",
+   "summary": "S&amp;P 500 ends higher as CoreWeave results fuel AI optimism &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,10 +428,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Dollar slips as in-line CPI tempers rate-hike bets",
+   "title": "Dollar gains, yen slips as US CPI meets expectations",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 13:39:02 GMT",
-   "summary": "Dollar slips as in-line CPI tempers rate-hike bets &nbsp;&nbsp; Reuters",
+   "published": "Wed, 12 Aug 2026 00:57:00 GMT",
+   "summary": "Dollar gains, yen slips as US CPI meets expectations &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -452,10 +452,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 02:41:00 GMT",
-   "summary": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; Reuters",
+   "title": "Investors worry leaner Fed guidance may come at a price",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUzF6bWRnZTAtRTVySFB0cnNKV1FtaDlUMlhpNVl4dmM1Vy1SQnBmem9MRVFISG1Ta1VicWtOWDlOdzFKWGRrS2hyWURSTlZQS1RRU0FfZk9nMUp6Wm45S3hKOEcxMUl1VW5iNWNBVEZhaVUtMkV2eU01WnJobTM2MnpYOUx5SlpmTlc0RUkwbXV3WHc5Y0g5dkxLMXpNSkJZODlwdDdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 10:29:14 GMT",
+   "summary": "Investors worry leaner Fed guidance may come at a price &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -476,18 +476,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Australia to make tech companies pay more outlets for content under reworked media law",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlJPZk91d3EyU2RiRkFZYjRaMzlSVWh6Q3JTZVJKTWVsOFBNVjRWRFVvaDZCaEttN1Btbnk4MmlkZ21jSVZ2UkZ4ZHJZcU1FRWJZelB0djloYms3OHc4M3QzbDBUZmk1TC1VZm52cG1DaEdqRWRJX1o0dnFXYzFmd1NfZnpuM0pIRXZSYVFEdTZTZzVqdWZLYloyNlNDS3kyWnkxYmtveVhFV1F1R0hUcmY0RV95UER5SVRoMG04eXF1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 18:13:43 GMT",
-   "summary": "Australia to make tech companies pay more outlets for content under reworked media law &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnc2ZXQxTHpZQU1SNDdJczNXWUdBamNIaGxDXzY2dXlGUEFBMDQyM29WaERCSWdiRVB6Mm1tX0psSzhDUkh3Z25xamdDd0JfQ0JWMi1MZ3ZMcEZjMmpNSmo5TWVTVEdsa1RlSk82Z3BXVWJFSWxDdUhrMm4xczhWVEZzNlY4Rm91eFFtQjNsU3k0ckxKRmY2c1FGOV9XS0M3NFJ1THNRMF9hOThzZENsMDVLV3lDb1BfMk9pMg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 11 Aug 2026 23:08:42 GMT",
    "summary": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Australia to make tech companies pay more outlets for content under reworked media law",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlJPZk91d3EyU2RiRkFZYjRaMzlSVWh6Q3JTZVJKTWVsOFBNVjRWRFVvaDZCaEttN1Btbnk4MmlkZ21jSVZ2UkZ4ZHJZcU1FRWJZelB0djloYms3OHc4M3QzbDBUZmk1TC1VZm52cG1DaEdqRWRJX1o0dnFXYzFmd1NfZnpuM0pIRXZSYVFEdTZTZzVqdWZLYloyNlNDS3kyWnkxYmtveVhFV1F1R0hUcmY0RV95UER5SVRoMG04eXF1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 18:13:43 GMT",
+   "summary": "Australia to make tech companies pay more outlets for content under reworked media law &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -518,7 +518,7 @@
    "source": "reuters-tech",
    "title": "Meta AI model hacks another company during testing",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1VqeGo0bjJGSmZQNEpqOWkyMjdCd0F0ZDlnZFZab2xwX2hwM1lCc3RoLWpTRF96ZlI3SHNnMVNoTWFzY05Sb2FrbG9hQmNhNlJCUS10VjJHYUtUSkt6NHJ3d0hSNGREMlVPUUR5WkUyRjRFU014eU5uM1dpbHgwUFZTUTFwV2Z1dFl4SzItQUFxWkRJdHN3TWRxNTRuUGhtb1liMXFvbFotdDRJTHU3T2hhTHlvQjBNcTE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 05 Aug 2026 22:29:00 GMT",
+   "published": "Thu, 06 Aug 2026 01:49:06 GMT",
    "summary": "Meta AI model hacks another company during testing &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
