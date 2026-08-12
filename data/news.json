@@ -1,7 +1,63 @@
 {
- "generated_at": "2026-08-12T06:57:21Z",
- "count": 29,
+ "generated_at": "2026-08-12T11:13:46Z",
+ "count": 69,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "In Europe, the Total Solar Eclipse Is Hours Away",
+   "url": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe.html",
+   "published": "Wed, 12 Aug 2026 04:01:13 +0000",
+   "summary": "Sky watchers have flocked to places, from Iceland to Spain, where the moon will completely block the sun.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "In Bali, a Quest to Restore the Sacred Glow of Fireflies",
+   "url": "https://www.nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html",
+   "published": "Wed, 12 Aug 2026 07:35:12 +0000",
+   "summary": "The insects, revered in local culture, are disappearing for many reasons, including rapid development to cater to tourists.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
+   "url": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
+   "published": "Wed, 12 Aug 2026 07:59:50 +0000",
+   "summary": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
+   "url": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
+   "published": "Wed, 12 Aug 2026 09:02:30 +0000",
+   "summary": "Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Trump Tariffs Force Some Canadian Companies to Move South of the Border",
+   "url": "https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html",
+   "published": "Wed, 12 Aug 2026 09:02:04 +0000",
+   "summary": "If President Trump moves ahead with 50 percent tariffs on a wide range of Canadian products later this month, some companies may only survive by relocating to the United States.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Thailand Halts New Gun Permits After Mass Shooting at a School",
+   "url": "https://www.nytimes.com/2026/08/12/world/asia/thailand-gun-permits-school-shooting.html",
+   "published": "Wed, 12 Aug 2026 09:39:20 +0000",
+   "summary": "It remains to be seen how far the government will go to tighten gun control in the country, which has experienced a string of high-profile shootings in recent years.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Zambia Election: President Hichilema Faces Backlash Ahead of Vote",
+   "url": "https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html",
+   "published": "Wed, 12 Aug 2026 04:01:21 +0000",
+   "summary": "President Hakainde Hichilema was elected five years ago, promising to protect civil liberties in his copper-rich African nation. Now, he’s accused of trampling on them.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
@@ -27,59 +83,35 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "The Eclipse Is Coming, and Iceland Is Looking for a Break in the Clouds",
-   "url": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html",
-   "published": "Tue, 11 Aug 2026 13:39:09 +0000",
-   "summary": "Rooms were booked years ago, and officials have been making plans. But there’s no telling where, exactly, Icelanders might go to find the best possible view.",
+   "source": "nyt-business",
+   "title": "Homeowners tight on cash are tapping into their homes’ equity.",
+   "url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/homeowners-tight-on-cash-are-tapping-into-their-homes-equity",
+   "published": "Wed, 12 Aug 2026 11:01:31 +0000",
+   "summary": "",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
-   "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
-   "published": "Wed, 12 Aug 2026 00:44:28 +0000",
-   "summary": "“We heard them screaming,” said one rescuer in Cali, where emergency workers and volunteers are racing against time to find the living trapped in the rubble.",
+   "source": "nyt-business",
+   "title": "The labor market slowed as employers grew wary of hiring.",
+   "url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/the-labor-market-slowed-as-employers-grew-wary-of-hiring",
+   "published": "Wed, 12 Aug 2026 11:01:11 +0000",
+   "summary": "",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
-   "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
-   "published": "Tue, 11 Aug 2026 18:29:19 +0000",
-   "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons.",
+   "source": "nyt-business",
+   "title": "What to know about the report.",
+   "url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/what-to-know-about-the-report",
+   "published": "Wed, 12 Aug 2026 11:00:56 +0000",
+   "summary": "",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Ex-Marine Robert Gilman Is Freed by Russia After 4 Years in Prison",
-   "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html",
-   "published": "Tue, 11 Aug 2026 20:01:17 +0000",
-   "summary": "The Kremlin released Robert Gilman, whose family and an advocacy group had said he was in dire physical condition, on “a humanitarian basis,” President Trump said.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge",
-   "url": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html",
-   "published": "Tue, 11 Aug 2026 14:44:51 +0000",
-   "summary": "Claims swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-   "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
-   "published": "Tue, 11 Aug 2026 15:00:43 +0000",
-   "summary": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "What We Know About the Earthquake in Colombia",
-   "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
-   "published": "Tue, 11 Aug 2026 19:05:14 +0000",
-   "summary": "The 7.4-magnitude quake, which killed more than 100 people and damaged hundreds of buildings, was the strongest recorded in Colombia in a decade.",
+   "source": "nyt-business",
+   "title": "Heat Kills Hundreds of Workers Each Year. A Postal Carrier Was One.",
+   "url": "https://www.nytimes.com/2026/08/12/business/extreme-heat-worker-deaths.html",
+   "published": "Wed, 12 Aug 2026 09:01:56 +0000",
+   "summary": "About half a dozen states explicitly protect workers from excessive heat. And some others, like Texas, prevent local governments from passing their own laws.",
    "full_text": ""
   },
   {
@@ -102,7 +134,7 @@
    "source": "nyt-business",
    "title": "Frenzy for Solar Eclipse Glasses Takes Over London",
    "url": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
-   "published": "Tue, 11 Aug 2026 15:22:49 +0000",
+   "published": "Wed, 12 Aug 2026 10:37:06 +0000",
    "summary": "Ahead of Wednesday’s rare cosmic event, thousands of people in London are searching for protective eyewear, as prices surge and stocks sell out.",
    "full_text": ""
   },
@@ -131,31 +163,7 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "The Perils of Wall St.’s Race to Pour Billions More Into A.I.",
-   "url": "https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html",
-   "published": "Tue, 11 Aug 2026 11:59:33 +0000",
-   "summary": "Investors including BlackRock have committed an eye-popping amount to lend to the artificial intelligence industry. That enthusiasm isn’t shared by everyone.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate",
-   "url": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
-   "published": "Tue, 11 Aug 2026 18:57:37 +0000",
-   "summary": "The stalemate over the Iran war hardened and commercial shipping in the Strait of Hormuz continued to dwindle.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Heat, Fire, Smoke and Storms Are Wreaking Havoc on the Economy",
-   "url": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
-   "published": "Tue, 11 Aug 2026 16:58:58 +0000",
-   "summary": "Businesses are reckoning with the financial toll of this year’s brutal climate shocks.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
+   "source": "nyt-technology",
    "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
    "url": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
    "published": "Tue, 11 Aug 2026 13:23:38 +0000",
@@ -232,6 +240,318 @@
    "url": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
    "published": "Tue, 11 Aug 2026 13:12:49 +0000",
    "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Australia sets 'world-leading' minimum pay and insurance rules for gig delivery workers",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTAyd3pqTU1uQVFBYy0zTEM5YzBGdUdLYTBudHBKNm1WTVVWWlIwTnVQTThXTjBYSW1LMjgwX2NwdUE1blZVTVBOdW5La2NzamtEdnhKT3lUTW5RQUpkNGxTdTRhVFFpYVdua3E2cU5EeWFWSXZZZXZhZktPSHRUTFNtYmR6YWVFRnJieFcxZFd5VVYxTlVPekJ1SzJ0ZkZhT0RuRmhNSWRZRjlXMVNidVBHelpad0RxRl85VHpxN3pzODNvY2FDVVhIb3JNUXhFU1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 03:20:00 GMT",
+   "summary": "Australia sets 'world-leading' minimum pay and insurance rules for gig delivery workers &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Britain's JCB Hydromax sets world land speed record for a hydrogen-powered vehicle",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDFtMHpHQjBmZ3VDeGduQ1VXNW84TGlPSWtpbDduZHpDNjRDbkxiVWVpVWItcU83U3hpaUNxMXlQV01QT2pEM3NoaXphMjh0Tl9rNDBhR25FZHd0Yk1IOUFLR0NVNndLdGJsNzNQSE93RUpEMUl2MGw4bW1jd2hscDNhWXZqOUMtZnctZVBYWEplY0xnUmhoVk5JaEcxYk9NY2J1YUM5NXlSdFFDSm1pT3VCU1RaQXZ3RF9ybw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 21:23:00 GMT",
+   "summary": "Britain's JCB Hydromax sets world land speed record for a hydrogen-powered vehicle &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Nairobi submits bid to host 2029 World Championships",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOemxCbE04cXU3bllrMXpyaFVCbUNGNWJZZzV3YnQtd21DcVNJR0k4bWZQRE1MQzVjSnpremVxaE4xVTFVZTNyRGctNmQ0ZnV6TWxMM0NxOHJZYWl3WEJUTmxobklxLVltOHppMS0yQloxRHdaS3ZxUmRfSlNVblJQLXltNTM2aURTT3kyd3hLNXp1NEtyX3g4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 09:06:11 GMT",
+   "summary": "Nairobi submits bid to host 2029 World Championships &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "India's world championships organisers hire monkey whisperers",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHhuVnIwRnd6LVVPM25WaFdKZ2ducDNpdjVSV0tHR0JQSGdpRGlZX1ZpalZzZjEtRlFiTlhoeVFZTVcyS3M3dUxTNlVkNlRrb0VOMWNMR2xFYzBKb0FQRk9CYjFUY1ZoZDhYcWF1ZWpLcm1fcEk4YjBZZEhmaF9wM1ljMlpHMS04UUpoVHY2U2FTMllXMkZYTXpRWTBDdHlVWUNrRFZBN2I1eU40?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 15:47:22 GMT",
+   "summary": "India's world championships organisers hire monkey whisperers &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Where to see the August 12, 2026 total solar eclipse in Europe and when to catch the next one",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SZk5LYjRMSUUxejY5UERWS0R1dy1ZaDJxZklRaEtvRDV4U3RkTDhHcTZSTXZZMW9xSGZsd0lJaWJFZFpJclVNUFpqSFJ4dldxRkpLcUtpcnlRMHp4QTFNVVdDMnEyZWNFbk9BNnFXVTgyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 08:00:00 GMT",
+   "summary": "Where to see the August 12, 2026 total solar eclipse in Europe and when to catch the next one &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "New attacks on shipping as Iran war talks hit fresh impasse",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 15:18:00 GMT",
+   "summary": "New attacks on shipping as Iran war talks hit fresh impasse &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "UEFA, AFC, CONCACAF renew attacks on Infantino over failed World Cup stake sale proposal",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3k1MmQ0NXQ1SXJLbTdKbVM4blFGTDh1MUNPZHB0M0dzcGhSYUZ2YkljeTZNM05tYlhJczdGaEs5anljMDc1SlkxWEphZVdWTVViV1A3dGFtXzdyUkxZNzI3VWpXZ3VfMkV3QXIzUFlMdFZfcnJIM1ZFWnFtSmFkZWVxV3Nld18zZVRJLUd4MHRxWDc0eTA1U1RyOWlaNC12X01rWWxmOXJKNVBZcS1TUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 08:41:00 GMT",
+   "summary": "UEFA, AFC, CONCACAF renew attacks on Infantino over failed World Cup stake sale proposal &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Judge blocks US Postal Service from restricting mail-in voting",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3gxcU4tU2Z6TWNMR2VWV3B6TlA0cWdOYVFDejBMcnE2TUx3Q3gxMGJwMGV2MTJvajdiRWRkMkg3V1dtQ0xPYnZ3aWNpVkRBcFdVYW10blNNajFqN3EzWVNmUnpGTExjU0NrS3I5MlhYVnVPdWFzaFM3bkg3bzhpRnp5VXBoTXVNRnhNVV9RS1VUNHo4Zmd1ZkZUTVlfb2pm?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 21:09:00 GMT",
+   "summary": "Judge blocks US Postal Service from restricting mail-in voting &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Democratic senators question Belgian diamond industry about ring given to Trump",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0E2Yk9Kd1NTbWJnRDhud3hLNnBqZE5BTmlWYVJCZ1NHY3dFenB4aWVCcGVZNXl5bEtQTGgyUU5ZMjNZb0xCNHJzNmhyNzM4V1FEaFo4RmZ4dl94SFQ2MTlMei0waTVuOXdNU180Z01YQklnNmlMNTNzeHVrSHdCVTJoME5GODcxNzdQWUtnRkYxdGZEWDliVk80WUU1QnU3LTNzNVFmU19MVnJoeFBiWlp2czA2RWo3dklERER3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 20:23:54 GMT",
+   "summary": "Democratic senators question Belgian diamond industry about ring given to Trump &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 02:36:00 GMT",
+   "summary": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list? &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: HSBC global insurance business head Moncreiffe to leave, sources say",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzNoUHpuX1NuelNIdkZybVRqeFpSTkpKZWZRbFl4MGtIT184WmtJdXhlbVFBS0JpbHBwa3hHVThOOXVWMzlxcFdfWWMxaXpOdDhIU2lVM3I1NVlPS3k0b2YzczdScHpRX1F6SkFEWkV5dzlHZzBmV19IN1MxS1Q1Y0dzWDJKUEFKaHlaMUZQTlYxOVkwaU4weEctMzFUZVRqY1BzQUM3d2VqYkFCekE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 05:49:00 GMT",
+   "summary": "EXCLUSIVE: HSBC global insurance business head Moncreiffe to leave, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "IEA slashes 2026 supply forecast as Hormuz reopening remains elusive",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm5jZkFKN2RpUWZWbG9rSXctekpyeml5UDgwTENteGwtSmFWbHd0cGFjYV9LRVBXeHRENktmbWVKNVZCeFp0U0YxeTFQcFdqZTJ5Z0sxWjg1TGUwRm13Mm5rSWRoUWw2MzZhNlhFeUV2Wk9mRFNFWDB6QWhSckZDbUtlZ3pzSWQyU0pjS0Q1d2dRT1EtcWt0SVhuQXlPTHZiZlhZTzFWSUoxcXVDdl9qUnA0SnJWR1Zf?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 08:05:26 GMT",
+   "summary": "IEA slashes 2026 supply forecast as Hormuz reopening remains elusive &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US existing home sales fall further; small business sentiment at 11-month high",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdENNMDRvOG1raHczd3h3NEpUSzVmUzFEZjE2N0V6cloteHZlYkZRelZ5Q3lNR3NDWHhVREVQakgxRnFRaHNMQnQ4VWN5MDRleEc2WWlfeDQ3VzlVcUtHRnhZTU1iNHZrRXRSY3U1ZEpwVkVVcVBnVFdCOWJfOUJzTVRKZUtkZXFNWXBkVmVBN0otUlZSS3A2R3U0cFZxMUVVUXNONEN4OXIzSXl2cHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 17:38:17 GMT",
+   "summary": "US existing home sales fall further; small business sentiment at 11-month high &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Tencent Q2 revenue climbs 11% on AI-driven ad gains, but profit falls short",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPME1fZ1hpS0p2TGRTeXFQblA3YTR1ZVlydUQ4RmI2Zk9GbmNXMm1JaWQ4ZldBVHliTVN1ZWtHX0pCSlZzMW9id3BpcnY2a1VFQzhqYUlIRmJHakk0NWkxMWloY19xU3dTVkhCVzVGbGJYY05kNFQtTFBad1lsNmdGMlA3d2hGNVRqSldrdFNoc09xMExZZi1STm92YWQxa3VqRUMtQm1SX19zb3dUS0xUdkxYWUlhaG5fdEQ1NVBqdWo3a3hDeElvUER3RkxqNWtBS0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 09:15:06 GMT",
+   "summary": "Tencent Q2 revenue climbs 11% on AI-driven ad gains, but profit falls short &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US fuel exports to Cuba spur chaotic black market",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnMyemdyTXd6SlJlZE1sTWM1VXhPV3NuVTJwRHJhUEVQa1NBVWpDT1pGZnNRcUZFOS1HSG5Ga2I0dW11S3h6eHNyUWI3SWEyb0hKSWtMdEZsdXJveklJNlAzZGNrRGhmTjBvWTgzWkVoTVBPQUxsRmJ6WDRuemRVR3JBdnRkSHVocFZHdGhrUzYyTk5wTTZtYUlNUmF3NllwcGxvU3U3eFpMVmwzcDd2ODJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 17:50:49 GMT",
+   "summary": "US fuel exports to Cuba spur chaotic black market &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Trump administration finalizes ownership reporting exemption for US firms",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVG9oY0s2YVpDSk11WE1VYUVWc3Z6eVZ1cjY3UXBMdGxVcVB0amROZXViRlJqenZYQ0VubW9iWEZEemxVczFVblRzSEZGY09XajRrQ1hQWU1Sc1FkZ3lzNHBXNG5ld0IzYWNtQjhrVUhWU3U0cG9KcE12VjZYUkJ1bjI2NEM4ZEE3RGpqdUdadXhfT005MjhuYmlNSWhnTEVoREJoZTNHTmpGa1RkRk12WXYwcUdJQU5PWkVZOUg0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 22:53:22 GMT",
+   "summary": "Trump administration finalizes ownership reporting exemption for US firms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Dollar ticks up on Iran tensions, with US data in focus",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 00:57:00 GMT",
+   "summary": "Dollar ticks up on Iran tensions, with US data in focus &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Flowers Foods seeks to divest Tastykake baked goods business, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOODB1RW1jNkg0QzRTclNjMllXLWNteFFxek5oTXd4bEtMNzlSV1VtQW5tYWtickZYTTRyakRvOWFFNGZJUXJTNWNKMDNJcTYtcTVuS0ZaNUVpZUctRDRnSlZ6VmtQb2RRTGpNTUNRMmFmREJpd1VxUFB4RjI1dnMyVnZad18tYXV2Mk9xVEZUME5PXy1VQVBGRkM0cHBKVVVhY1RxWGhDWVpMcXpMRVgxT21xNmU1c2ZfSmUxYXNMVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 21:42:22 GMT",
+   "summary": "Flowers Foods seeks to divest Tastykake baked goods business, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "UK PM Burnham promises business help within 'difficult' financial outlook - BBC",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTFQLThZdm9uNTQ5dHh5MHNENk5VekRYTzBkOVh2TWlJTzZOOHAyVGRrNmZkRS1VSlp4N29zcmpUOTFwXzRvbjdBdHFTNmp1UHVsZ0R1Mm1UcG9jenVKbTFkMm5yNThwWUl2ZVFwenhnallFYy1tcmtqRDdDbktNMnc5WVdqVlVtQVoxenJmcWxRQTh0TWxtLXNRT1d1Qm9NU1lONmdQcjBuQUc1OTBQM0gtaHlQZC1zSGRwWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 04:35:43 GMT",
+   "summary": "UK PM Burnham promises business help within 'difficult' financial outlook - BBC &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EU packaging rules take effect with limits on 'forever chemicals', plastics curbs",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUGYyZ2lqVDNPcU55TXU5dlozM21zb1l6aHR3YlE5a3REX2gyNkRZVEg2NmgxU0oyLW5qMWJscElRd2lxaWVpaG1mZjRqa0EtZ2NVaUFLbUQ0ZTA3amtrZWlYR2lvLUs4WGNyY0s5UnlBMlNxZEdBc281ZVRweUR5Tl9VQkM5S2NYcWhhTy1JU1lSVTI5M3lMQS1sQ0pxR3IyVllsV013OHZQR3hJQ1NTUjVZQjZld0loZnpsZ0poamszUDQxUEdxTWtLLWk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 15:28:45 GMT",
+   "summary": "EU packaging rules take effect with limits on 'forever chemicals', plastics curbs &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "European stocks steady, oil rises before CPI",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 02:19:00 GMT",
+   "summary": "European stocks steady, oil rises before CPI &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Morning Bid: Hot spots sizzle, CPI looms",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iVmtCTVJVU1gwZExtOFZ4QkppNmdUU1FpWjRDZFUzb0RpZENILVVNY3Z6NmY4dld4VWVEU0Roa2dIM2hjOWhKSXZqR0NGbzJ3c3Z2RDJRbmpIMFVUVkxCQzdoa1ppMk9BVE5mVkVxTWcxcVNqdTVxUmdZM19sbWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 04:32:00 GMT",
+   "summary": "Morning Bid: Hot spots sizzle, CPI looms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Japan fund managers chase retail cash as JGB yields surge",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUJDMkhDRV9BVl9wM2JSTXpRTGhwSGptNkVTYUdnVTVvdGwwTGQ0LS1lZnlhSTRIVi1NaHAxdVRxT29kcV9JM3F4c3BBSnhIYTFScU14QWRuM3g2QWxWSFg3WFZqeHVQcE1aWm5BNGhQeTA1bmcwMnZDUnRFWU1FTmVqZ0xfYjNkT2d3eTRGeTRlZUprT1JXZ3BHcGNnTzN4NGFDb0NvdXJDalcyN2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 06:08:00 GMT",
+   "summary": "Japan fund managers chase retail cash as JGB yields surge &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Oil rises after attacks on ships in Hormuz, Bab el-Mandeb",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 00:58:00 GMT",
+   "summary": "Oil rises after attacks on ships in Hormuz, Bab el-Mandeb &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 02:41:00 GMT",
+   "summary": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Norway wealth fund posts record $184 billion profit in first half of 2026",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHFOUndUSGhkUDVOYXRlcXNzUkZUazF1cHBHa2o0OEx1Ylh5Rk9lU1ZYMzM5ZW5obmtDS2MtcGdkUEpHREszYWlVSUsxM241RVR2dE1MYUs4emFySnpYS3VwdjRMRXBieWl0aXpxQVE5OTdweHVIMjlIbTUzVVFwXzh6b0Y0RC14Z0JuTDY4VkZDdTRlZVVVLUNvUlo2RVp0V0xfOWk3Um8?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 19:19:00 GMT",
+   "summary": "Norway wealth fund posts record $184 billion profit in first half of 2026 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "US Treasury yields seen heading lower but strategists' conviction wavering",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDExTU5zM21TYmxjTGVKcXpONnA0WlRuTDJjdmplWXA3Z3BWaDlsWGZOdU0xd3lqc0NRQTJQV2hycXJGV0F3aVBTMm1KQk43VHlUM0FRazdGTTZVMnRUY3lyQzVsQWtkX2FPV2ZkN0ktVENJaFIyZUVkVHd2UDVGNVdDcFpOOXBMT3pvVXAzNUI1aVdvTXRwWnhpYUZ6cVJYbHM5UXNjZEFubFV6MXpxbzVIRmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 19:27:43 GMT",
+   "summary": "US Treasury yields seen heading lower but strategists' conviction wavering &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "European stocks steady ahead of US inflation data; geopolitical risks in focus",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEJrelVuLWNvQVpMQ0FHVXF0aE9vZTZqcklqQUNLSHpCOGxiQkl3Tko1UVJZTHpnVUhUQ0R6RTNWc08yMXRrb2tMNUI1MWpFby1qM1RUWVllYU9NT0x6MzFzQk1tY0U2Q0lCcGhrNUVRYjJtdDVEbVFObndDeFBiVDdmTXdsQW5FV09uRl9aSzFzWVMtVTdkQkFWMFZPdjBzdk1pWA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 09:04:53 GMT",
+   "summary": "European stocks steady ahead of US inflation data; geopolitical risks in focus &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Norway wealth fund CEO says fund's entire value could be lost if market collapses",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXM4c0FCQ01mNlZ0S2RJNVZWdnBiNHFSYjRnWFFEZ0VYR3U2WWw2bjFkdWwybkEwZDJjeTI1aE9rQ1ZRTUVrVWFuN1FaYXdBSUllVVZZeWlmUEVBd0FIbHM4TElBd3FKUnlpalJSR2NxaVBidjJ6VFN6dXNUZmlKQWhMREZvZnVheEk3VDRrTXNyOVhCT3pCQndxZEFkeXdrVUVVeTBpWkt3TGVLaTMzVFhnWW51UVp6Rnd3YQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 15:55:48 GMT",
+   "summary": "Norway wealth fund CEO says fund's entire value could be lost if market collapses &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "South Korea unveils future technology drivers, targets moon landing by 2030",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWloxM0JBWi1KZHlmdHJEZzZFWnhNeXVnVHRZa0JCdFhfZW5wTF9jeEdrRk9XM2xaWWlMWnhtbS1EVGNpX3Bta2dGcHBHYlF3UVlhV3ZodE1SWjNIMzNrUWc0aXdKQURNdkFZZ3FQMzVEb2FHQ1loTldoREwzaWotLU4yVVJsQWVqQ2k2blctRW9UaXI2Zm9Dc2dIQTJXVkN6OTB5UlFGS2NuX1hLWmFuS2ViY1JHeXVwM242SzgxaFdKLW85VEZodkNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 07:23:56 GMT",
+   "summary": "South Korea unveils future technology drivers, targets moon landing by 2030 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Oracle, Quantinuum partner to bring quantum computing to cloud",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkNpOTRmeU9LVTNtWFRYcHVnMHc4SU9hN2pRVk5rdUYtLTJMLUNRV2tXWjRRQXJCSVBrOFZDUTQtT1RIMjI3T2EtUFJKUTVTR0poNVB6YlZTWW9KRkVaVUU2U0dYUmJuX0NhRUI3RGpKUWZvZGhqd3NLOVRyMzlYUEpBNDNZU28xV3VMSE1nR1E4SDJLc0ZSOVVoZy1WdWg1MVE5bQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 20:07:45 GMT",
+   "summary": "Oracle, Quantinuum partner to bring quantum computing to cloud &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnc2ZXQxTHpZQU1SNDdJczNXWUdBamNIaGxDXzY2dXlGUEFBMDQyM29WaERCSWdiRVB6Mm1tX0psSzhDUkh3Z25xamdDd0JfQ0JWMi1MZ3ZMcEZjMmpNSmo5TWVTVEdsa1RlSk82Z3BXVWJFSWxDdUhrMm4xczhWVEZzNlY4Rm91eFFtQjNsU3k0ckxKRmY2c1FGOV9XS0M3NFJ1THNRMF9hOThzZENsMDVLV3lDb1BfMk9pMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 23:08:42 GMT",
+   "summary": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Teledyne to acquire Varex Imaging in $1.1 billion deal",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZS1tc1Myekp4eHhXQ3prQ1Q1dF84N2g4TmExbWlhY3FlZTRMUHU4M0dkZVV1czZGNG1HUmQ1WUFTWG5vQXNwX2pGaHFTLVVKc0drTDNkd3pmcGxPdkczTmxBSEF3Vk9yOWoyU0o3bkJYd0ZwMmIwd0VjcHNhUUFvS2otbHNlTHExTGxZR2V0d3lTeTY1ZDhOWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 19:05:44 GMT",
+   "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Samsung Electronics launches next-generation AI memory technology",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 04 Aug 2026 19:42:53 GMT",
+   "summary": "Samsung Electronics launches next-generation AI memory technology &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Meta AI model hacks another company during testing",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1VqeGo0bjJGSmZQNEpqOWkyMjdCd0F0ZDlnZFZab2xwX2hwM1lCc3RoLWpTRF96ZlI3SHNnMVNoTWFzY05Sb2FrbG9hQmNhNlJCUS10VjJHYUtUSkt6NHJ3d0hSNGREMlVPUUR5WkUyRjRFU014eU5uM1dpbHgwUFZTUTFwV2Z1dFl4SzItQUFxWkRJdHN3TWRxNTRuUGhtb1liMXFvbFotdDRJTHU3T2hhTHlvQjBNcTE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 05 Aug 2026 22:29:00 GMT",
+   "summary": "Meta AI model hacks another company during testing &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "UK announces nearly £130 million funding for zero-emission vehicle technology",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaW1xcXdvQ1hnWmlvT29seTF0bEk3bnpmVWJ0V2JVTmJCNW51Rl95YndDcFdQWnY2UjJWenNycGV0NUZzck40MHhaUEhXa0R0cUplOTc0eGxhOUJPZERURzZ5Q3JYc0MyaXdOWHgwR2hZSnE5M1JGN3ZQNnNxREVuSzFoWENmUEc0T2t1Wlo4NUlnR0dyblZtVDFqMUhCNEJxSzZRUHNtdjc4ZjFiRmt0NW1Wakx6NlJm?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 09 Aug 2026 23:18:25 GMT",
+   "summary": "UK announces nearly £130 million funding for zero-emission vehicle technology &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Spotify to slap 'AI Persona' badges on AI-generated artist profiles",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWRqZlVVZVlHNlhTSjRPV19sWE1IWDdsVEtFUktMdVRMcnI2WWl2Vm5KZy16WWtyS3hqbllpeGgtX2xidXoySUE1TFBCZkIwUk42WTFCWmltRnVKUkJOdHRjcDZBUkUxaDhWei11SURjOFJyWmpPcjFiQlctd184TWFzeEJIM3VDSHN1WmxLazJfNE1oWi1nWENuR2lDWnVXdmd6S053OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 11 Aug 2026 19:43:38 GMT",
+   "summary": "Spotify to slap 'AI Persona' badges on AI-generated artist profiles &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPakVwYWtLMTU4bEszMVIyVVdKQ2IzVU1jOG5nV1NDWDlBVG9GbzhSaVhlQjRMeVVzbDhfMFFvbVhVSXlYVG1wd2RQUHZUZ2pTT1VQODRvMlFPX05vc09sUDBlaTYwZmxwcjFjeWJLby1KWjB5S1RQTTgzVDRfUE1wdW56V2gwMW5JSUgtZlZYdVRTcXVkcVhTTnY5MnFQUFhseWFlUktRZ1dwSVVVV190a3EwMlI4TzlnWUNkc29RQ3V6TTdYcllrR2x2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 16:42:41 GMT",
+   "summary": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Tech News | Today's Latest Technology News",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsc1JxYWZtanlYeGRJWTg2Y0pqVmRQTlJtTEs3UGxTSXc2YnpCaVc1bWtEWmg0RW4wUUd6M0lRUXNHOVU1YkM2X0lOVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 26 May 2016 05:11:17 GMT",
+   "summary": "Tech News | Today's Latest Technology News &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
