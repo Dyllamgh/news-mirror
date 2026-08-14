@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-14T21:02:05Z",
- "count": 67,
+ "generated_at": "2026-08-14T22:55:07Z",
+ "count": 66,
  "items": [
   {
    "source": "nyt-world",
@@ -28,10 +28,10 @@
   },
   {
    "source": "nyt-world",
-   "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead",
+   "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
    "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-   "published": "Fri, 14 Aug 2026 19:53:04 +0000",
-   "summary": "The British police said a man had been found dead at a home linked to Mr. Arday, who resigned after the university announced an investigation into allegations of plagiarism and fabrication.",
+   "published": "Fri, 14 Aug 2026 21:34:18 +0000",
+   "summary": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.",
    "full_text": ""
   },
   {
@@ -110,7 +110,7 @@
    "source": "nyt-business",
    "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
    "url": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
-   "published": "Fri, 14 Aug 2026 16:56:45 +0000",
+   "published": "Fri, 14 Aug 2026 21:02:34 +0000",
    "summary": "Higher premiums and rising medical bills have intensified Americans’ dissatisfaction with their medical coverage.",
    "full_text": ""
   },
@@ -228,10 +228,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Woman charged over vandalism of Washington's World War Two memorial",
+   "title": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHAzWlJUdUZ3VndvNDNVbU1vRjMwalBSZUxCVHVwWFBaWnJuend3SXZVMDI3YjA0c2F6SWh2emFEM2lPRWtOWV85MmRRTlYxUWxBbkE4S0dha0toS2xnVXh5UmVNcGxzWWxOQzlrRGRGLW03UGxSa2ZLLUk5SjRlX041LWFWdEV0cDJwLUlKZGlVU1FEbWV5SFYwZ0w1bGVOeW9HWTRtV1pvbkZ6TDNNZ183eXFTTWVmZ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 20:30:30 GMT",
+   "summary": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Woman charged over vandalism of Washington's World War Two Memorial",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 18:01:37 GMT",
-   "summary": "Woman charged over vandalism of Washington's World War Two memorial &nbsp;&nbsp; Reuters",
+   "published": "Fri, 14 Aug 2026 21:33:52 GMT",
+   "summary": "Woman charged over vandalism of Washington's World War Two Memorial &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -244,14 +252,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHAzWlJUdUZ3VndvNDNVbU1vRjMwalBSZUxCVHVwWFBaWnJuend3SXZVMDI3YjA0c2F6SWh2emFEM2lPRWtOWV85MmRRTlYxUWxBbkE4S0dha0toS2xnVXh5UmVNcGxzWWxOQzlrRGRGLW03UGxSa2ZLLUk5SjRlX041LWFWdEV0cDJwLUlKZGlVU1FEbWV5SFYwZ0w1bGVOeW9HWTRtV1pvbkZ6TDNNZ183eXFTTWVmZ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 20:06:10 GMT",
-   "summary": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "World War Two memorial in Washington vandalized with bubbles and graffiti",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDQxWXZNVFZOQVFVeTNWX2hPaXNnbjkxQ01KbGZhY0hCSVlsd2NSU1pPdkVPSTk4MnhsbFdOWkZpanhBbWV1MXY1elJYeHFMSjZybmpJNmNZWVJ0d0VXSkVvbTY2SzVwYWwzbG9CcTJ5WFlCbWcxQXVjY1lJM2RCZlJXWHdMcmp0Z29FVHBUcGNRMXlhNDZ6NGw4SURUeDhlamNSN1VocHpqQkNoaWlqSg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 13 Aug 2026 22:28:00 GMT",
@@ -260,18 +260,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "AI-driven surge in bond yields could be next risk for markets and growth",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 04:10:00 GMT",
-   "summary": "AI-driven surge in bond yields could be next risk for markets and growth &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "While the world is distracted, China steps up its strategic game",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFc0bWlGZ294ZWg0NnB1eGJKN3FROERvclpMS0hIZkVraGEyS0tRZW5kQVdCYXExTEF1ejdTNG9jU3lrbjBSSktNYVlBaWxaLWZnR3o2endjWmRTbHBleVdMT0RPMEdZRTNVM3UyRFk4emRZZFVnM09tdGJyNWR2N29HUFViWVlqRUxVMkVCLUNnMGxBMFhGeWhJNk1hRi0walVqT3p4eW1Gdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 13:35:42 GMT",
    "summary": "While the world is distracted, China steps up its strategic game &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "AI-driven surge in bond yields could be next risk for markets and growth",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 04:10:00 GMT",
+   "summary": "AI-driven surge in bond yields could be next risk for markets and growth &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -324,14 +324,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "Stellantis considering sale of Canada plant, autoworker union says",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0hiR1U3YVlKb09jSkh6R0tROGpnM3ZfUEp5SnlHQkIzeGlOOUdJcVlfWEM1RFRrb21sS3RkaENvY0J3VlRMbXFxMHZrVktyTlg4ZlMxMzgyeXl5SGFHcFpTTThlSWFCMHptTHJaUF9KLXJ3VVVXRDVPZjcxZDBNdWVlaVREY1hidU1HUXktbU42NU1FaXVMR0lJTzh4WkV4QktheHVwZFp0NmJNb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 20:38:35 GMT",
-   "summary": "Stellantis considering sale of Canada plant, autoworker union says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Workday buyout may restore confidence in battered software valuations, analysts say",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckhpNTJ6R0lFYnYxVDJfVG5xZGtHdWpyUVZOSFVYbWh4SjNsZ2ptcnlTWDZCZHdVSkhZVWZWZzdrLVctQmhlTExoNTNETzdaYVUzSTNnZ3hxZnpKblZ4QTV4QUpoX3NLMGJtVWd2alZwQUFSbWRjNXYzQkFqeGRrbXBQYkNvT1R4THhiaGJ4ay1CMjhtOXRGbDF0SUlRSE9SNmZ5Snd3RkZMM01IUGtVTlRnbENTdW1meUdUUVM4cXd4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 17:38:48 GMT",
@@ -340,34 +332,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Oil climbs over $1 on tanker attacks, no progrees on peace",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 19:21:47 GMT",
-   "summary": "Oil climbs over $1 on tanker attacks, no progrees on peace &nbsp;&nbsp; Reuters",
+   "title": "S&P 500 ends lower as investors weigh data, Middle East tensions",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 20:25:39 GMT",
+   "summary": "S&amp;P 500 ends lower as investors weigh data, Middle East tensions &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnFnU0RILVBlaHA5a1NTVHdsNzAtVkdlMklMbFpLOS1iRG1ibDRtWXpXSEg0ZDBod2dOUGNuQnl4UkZJQkhqZ0dib3lNWGdWS2R5QjFwb2YxYjhPWjZ0eFpRNEZKRFdQbHdVdVA2ZzJxTEFrYzVHRGEwYzdzTkRsOTFoWENYYmFnM1BWOEc2bE45NVFYSk9Ib3UxUGdaeUdJRGhVMnFjbnZTczdqNjZKX1VSaGo2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 17:28:48 GMT",
-   "summary": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Fed should raise rates to restrain growth and inflation, Hammack says",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUdoTjE1RmluSXRxUUpkQXFqUkRXR0RHZ3Fxakh4dEJYY0FUM2toSTNyMFlCc3VpTHlCVTZUbGMtZGZFN0hkVG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 21:24:49 GMT",
-   "summary": "Fed should raise rates to restrain growth and inflation, Hammack says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Ice cream makers bet consumers still want treats, just healthier ones",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2NWbElFc1NqcnN5bkFZbHQzUEc5V1ZRQ21vcjd6TVF2WTljV2NfLThWYWV4OVJzdjlGLTVOTDRtOVBIVEVHWFRDYWwyVElybktsdUFYaEZtTEJPeUtmeG1CQkJhMHc0WkY2RVNxSktMRjE3QTF2N1VDUkZfWUJVeERNU0VFM1FZQ1lxYUpPZkRQdjRqQ3Zkcno2Nm4yRVlHYVBGZHh0aFlOSHh5bjZwZjhHRDJUbkU3RDNEYU5R?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 09:46:02 GMT",
-   "summary": "Ice cream makers bet consumers still want treats, just healthier ones &nbsp;&nbsp; Reuters",
+   "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVA1a0NLTjhHeURuaEhabm43aGxjVDhySUplSldiTnB0cXphQzFINlVBYlNWYlZxMHVYc3BxOWtEaVhuRUUyRFpGa1VRbkp0Q2pCTUNmTmtXSlBxNTF5YmNEMVBocUo1S0VZZmpTakVxVi1rYlJzUnVQdnpRQzY1aHFHWVU3V0pGa2F3RkJwdmJCZUoweWVkYUg1OTJVX0l5OW45X0ZiR2toOUdYbkpQNG02S0VIRDIxVGZJdg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 19:31:04 GMT",
+   "summary": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,6 +356,30 @@
   },
   {
    "source": "reuters-business",
+   "title": "Maersk raises outlook again as strong demand, freight rates lift profit",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQW5qM2VYQ3RlX1Q5SWhodmtJeXJpTkI3YzNiMFBQc3l5VUlQOTctcGctMHIxaU1hdE03MmdodV9ub1V1YjQzSGlLcTN2MzEyY2dxSnlDSTc1U0JiY1BIcDNZNjk1MmFVVzFIRURheEVUVEwzeDR4S2trQ1B0eUJmWF9mb1F6cl9Kc3V3OWpOMWY4enZMbGd3ZFNjdUpYZHc0aXY0dXRuZkU0a3JHOHVsY3JVdmJGdXNL?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 06:05:00 GMT",
+   "summary": "Maersk raises outlook again as strong demand, freight rates lift profit &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Oil climbs over $1 on tanker attacks, no progrees on peace",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 19:21:47 GMT",
+   "summary": "Oil climbs over $1 on tanker attacks, no progrees on peace &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Rise of AI shopping pushes merchants to protect loyalty, Adyen says",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNel8wZ2xacEtpNDU0anhxdVNWUEFQUDVjVW9qWU5BdU9WX1VzT3pZTHAxam9ONkZxQ0VFVTNZdE5ZbVdMT3JzOHlBZHZoNXpnbkJiNmh5cllpTFM5MlRWcWVNWUI2amFwMHlJUG5yblZja0h5VHE1TENzQ2NUa1hUOVpEcEdTVVM3VGpoNzZtZmthcXRWU0tmVkNlM0xCaHVraE9YLVBHbWsyLUFoX203SS0yVnJha0FZbV9FU1ln?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 16:47:12 GMT",
+   "summary": "Rise of AI shopping pushes merchants to protect loyalty, Adyen says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Boeing's Wisk sale unlikely to kick off another divestment round",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXp0UHdERzJGbl9GNU9RTHZSeDZqaHlQanFYd3REZmQzRFZWd0dKczNKYzZ0M2lFOFhvOVFTbzBkZDVydnRpM1NJSm9mQTRLc1RPbmc5QTJwWlF0SEZ1TmJsRldNczZPNlZSZnhRS3FrZkczNU02aUh4Z0lZdm1DdWpYZlI0OGItaXA0VE1WV2VxZk5BdGptM3o1QXRhaE1OalJnci1qWmNJMTVrOGVyeFBZWVYxWkE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 16:04:31 GMT",
@@ -388,10 +388,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "S&P 500 falls from record high as investors weigh data, Middle East tensions",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 18:47:48 GMT",
-   "summary": "S&amp;P 500 falls from record high as investors weigh data, Middle East tensions &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Jane Street took $15 billion hit in July tied to Situational Awareness, AI selloff, sources say",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2EtYUxGWFNvME5USWtGejIxeFI4bENXODFmX1hnWU5BMl9TbW81Ym1DUzZQZlk3VE1sUlpLQUtjV0x5S3JEcjNBTVBZOHdhVEZlN0pYOVhKTmwzSnc3eTV2VGI3UXNqODRhdlo1UHgyd1otM0RQMzVFQWZoclNWdm9ENkN1bS1zcmQtOGJMR21fTzdZSUtWazROcVRJclBTY050czlRMjVwNFN4ME9nOU9PNmxkdGoxa2pRTVRRN1VKTXpkYXpJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 22:01:33 GMT",
+   "summary": "EXCLUSIVE: Jane Street took $15 billion hit in July tied to Situational Awareness, AI selloff, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,10 +412,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Oil prices rally as global stocks retreat",
+   "title": "Oil prices rally, US data dents chances of Fed rate hike",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 02:32:00 GMT",
-   "summary": "Oil prices rally as global stocks retreat &nbsp;&nbsp; Reuters",
+   "summary": "Oil prices rally, US data dents chances of Fed rate hike &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -436,14 +436,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 04:21:00 GMT",
-   "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Japan may see more yen intervention, faster BOJ rate hikes, ex-top FX diplomat says",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVpGWmVRR1JoWVkxSnIwWGVia0EwTnlpRkh6MEgtRHpjSUhtaTIxdWZDdzFnUFRYekw3VjRNdC1xSVQtem52d3BoOXF3cEV6WElWOFJPNnpsTnJqeUZBTFl3X1ZHNkhIYkpYaWJOTzVDVjZvVjJGS1JiQ215emxLUlB0VFdVQjZTbF9QMHdDMkNTWlV1QTZiZHB5eDBXZkU2WHNuZUU5UjBCTHRSZ2pHWF9aY3JfMkVyOFg2MW5qQTYwdm5DNWctZllOSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 00:02:00 GMT",
@@ -456,6 +448,14 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE1Jd01iTWNHTjJIOVNSdG1pVFRlTDVSZVBxY0tYSTdGU0t1T1ZzN3ZPQnYxSGpyeUtxbUhDZG1TVElrcUVrTmVmSnk1a3BCRDJoMUZoSHBjaTdfaURDcERHS2hHU2N5c05lbjJwYzluMFlkU1JnUmtEQjlmbVVIcVZ5QTVXUllxTEFZaXJlSjdKMWV6VV93YTNhSzNELUpSejZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 02:28:00 GMT",
    "summary": "Indian shares end week lower as higher crude tempers risk appetite &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Anthropic in talks to buy Decart AI, source says",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRlV4bzBCa2VxRlZkN1VMdzh3UVR0VmJ5d0VIUEpLQkZBRFBpaC1sSkFuTzAtaU0zZkdjNmh1dFB0ZXdQLW5rcU82Q3g3SW1xOEpXWjl6MmpuOUQzVkhFcXBFRFRsWnpXb0t6RFNFRlZfV0d5VXdJSVVKUjBKcGI0YTJvM2ltekctTHQ0WlhyWkFQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 03:56:33 GMT",
+   "summary": "Anthropic in talks to buy Decart AI, source says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -528,14 +528,6 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWVpNmZ4SENLdUxheHhSSFZZTHhaVC1POGJwQWRnY055WUswNl9FX04wd1YxZERMWE9Hb1VTc0VaOW5Ld3hnRUQwNTItRE9OWnZZdWwzYy05WUtHZFotSWpkcTNEQUZSLVFKMHhJNzN2aXJreHBzTzYwQXl1R1d1SWxiNUZWMUZ6eXN5TlNIVVdQajdjNzFBLVY0dDZJWVhNeEI0aHFnZzZ4SFg0YkVjUGhiVl9QUTdwXzJGcFl0alhoUTB1RzhjOGdnZl9UQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 17:02:14 GMT",
    "summary": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "S&P 500 notches record-high close as rate-hike worries ease",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 23:35:02 GMT",
-   "summary": "S&amp;P 500 notches record-high close as rate-hike worries ease &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
