@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-14T00:09:52Z",
- "count": 69,
+ "generated_at": "2026-08-14T06:58:17Z",
+ "count": 67,
  "items": [
   {
    "source": "nyt-world",
@@ -62,7 +62,7 @@
    "source": "nyt-world",
    "title": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
    "url": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
-   "published": "Thu, 13 Aug 2026 11:21:58 +0000",
+   "published": "Thu, 13 Aug 2026 11:21:59 +0000",
    "summary": "Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.",
    "full_text": ""
   },
@@ -70,7 +70,7 @@
    "source": "nyt-world",
    "title": "Train Derails Near Town of Lewes in East Sussex, U.K.",
    "url": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
-   "published": "Thu, 13 Aug 2026 21:22:55 +0000",
+   "published": "Thu, 13 Aug 2026 21:22:56 +0000",
    "summary": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Eighteen other people were less badly hurt.",
    "full_text": ""
   },
@@ -78,8 +78,16 @@
    "source": "nyt-world",
    "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
    "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-   "published": "Thu, 13 Aug 2026 22:38:31 +0000",
+   "published": "Thu, 13 Aug 2026 22:38:32 +0000",
    "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Kalshi Ordered to Cease Most Operations in Washington State",
+   "url": "https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html",
+   "published": "Fri, 14 Aug 2026 00:49:57 +0000",
+   "summary": "In a preliminary injunction, a state judge barred the prediction market from allowing residents to place bets on the bulk of its offerings.",
    "full_text": ""
   },
   {
@@ -155,14 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Who Is Joshua Kushner, the New Lakers Co-Owner?",
-   "url": "https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html",
-   "published": "Thu, 13 Aug 2026 00:46:05 +0000",
-   "summary": "The brother of Jared Kushner is an influential venture capitalist with big bets on A.I. and health insurance.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering.",
    "url": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
@@ -198,7 +198,7 @@
    "source": "nyt-technology",
    "title": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up",
    "url": "https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html",
-   "published": "Thu, 13 Aug 2026 21:15:40 +0000",
+   "published": "Thu, 13 Aug 2026 21:15:41 +0000",
    "summary": "Denise Dresser, who was previously the C.E.O. of Slack, is the latest in a string of executives to leave the artificial intelligence start-up.",
    "full_text": ""
   },
@@ -236,9 +236,17 @@
   },
   {
    "source": "reuters-world",
+   "title": "World War Two memorial in Washington vandalized with bubbles and graffiti",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDQxWXZNVFZOQVFVeTNWX2hPaXNnbjkxQ01KbGZhY0hCSVlsd2NSU1pPdkVPSTk4MnhsbFdOWkZpanhBbWV1MXY1elJYeHFMSjZybmpJNmNZWVJ0d0VXSkVvbTY2SzVwYWwzbG9CcTJ5WFlCbWcxQXVjY1lJM2RCZlJXWHdMcmp0Z29FVHBUcGNRMXlhNDZ6NGw4SURUeDhlamNSN1VocHpqQkNoaWlqSg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 22:28:00 GMT",
+   "summary": "World War Two memorial in Washington vandalized with bubbles and graffiti &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "UK economy gains from Gulf ceasefire, World Cup and sunshine",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVFNERBU2hR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 12:15:59 GMT",
+   "published": "Thu, 13 Aug 2026 06:13:00 GMT",
    "summary": "UK economy gains from Gulf ceasefire, World Cup and sunshine &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -252,18 +260,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Dollar mixed after flat PPI, rate hike bets cool",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDIyRHVUbzNzMFctT0VkQXpIZWt2V09QNEtwc2VhYVlmZWRyM1NCd0NWSUZEUEFQb2VzWVFqOEdtZmpYNEc3dDFna1dQSktGZU1ONGQySmNlYVcyVHN5c05iT2V5REVnMFA0cnFKNVI3enRtTXpGaUsxdGlSZ2xFbFo5VEVwWkV5eXNvMVA2Rmx5YzhxeVd1TkQ2YkpISXc3OUV5cHpaR2dxNHNOVXltdjBfSVo?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 04:12:00 GMT",
-   "summary": "Dollar mixed after flat PPI, rate hike bets cool &nbsp;&nbsp; Reuters",
+   "title": "Britain's JCB Hydromax sets world land speed record for a hydrogen-powered vehicle",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDFtMHpHQjBmZ3VDeGduQ1VXNW84TGlPSWtpbDduZHpDNjRDbkxiVWVpVWItcU83U3hpaUNxMXlQV01QT2pEM3NoaXphMjh0Tl9rNDBhR25FZHd0Yk1IOUFLR0NVNndLdGJsNzNQSE93RUpEMUl2MGw4bW1jd2hscDNhWXZqOUMtZnctZVBYWEplY0xnUmhoVk5JaEcxYk9NY2J1YUM5NXlSdFFDSm1pT3VCU1RaQXZ3RF9ybw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 09:24:43 GMT",
+   "summary": "Britain's JCB Hydromax sets world land speed record for a hydrogen-powered vehicle &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Spain rejects discussing sovereignty of enclaves with Morocco",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW9YV1hRXzRJbmZmejdpLWx5bGl4WHk0VlBJcjJVTDNWaGVDVkhjbkJTNS1GZHp2UlhmYmxXR3cyLXlkaXl5SXBvZ2NMVUVkbEhEWGJpdTBKY0k5OVVGbDI3MGFJS01uRGdVRlNzZUhxLUdmdnMxekRDRXV2RFBEZXJXOG1ibW1pVXR4RGNERkdzV0J6czRDLXZna0hQSENMM29VNGFkcFV1X3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 23:38:32 GMT",
-   "summary": "Spain rejects discussing sovereignty of enclaves with Morocco &nbsp;&nbsp; Reuters",
+   "title": "Yen's weekly loss puts more intervention on traders' radar",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdOaGFHQW9UT2djdjRLSnBkeE9pMnJ4N3NkSVlxczRQZ0otbmJTNS1fa2VOU3dqcExCRGgwYVAxY0lKQnZvc2JUSk9BcGlkT3pPdTlRLWQzVlRuR1F4ZTBFd2FkRkVNZnFLQ2dwUXY4RlZQdjFjNngyZVp5SWd0LVJSUnNidmcwTUdnRDJOd2hsa0xaQ1Z5VmM1WmdjS3NnNmRubmdFVXpaTUk2LURMZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 01:47:00 GMT",
+   "summary": "Yen's weekly loss puts more intervention on traders' radar &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -276,18 +284,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Britain's JCB Hydromax sets world land speed record for a hydrogen-powered vehicle",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDFtMHpHQjBmZ3VDeGduQ1VXNW84TGlPSWtpbDduZHpDNjRDbkxiVWVpVWItcU83U3hpaUNxMXlQV01QT2pEM3NoaXphMjh0Tl9rNDBhR25FZHd0Yk1IOUFLR0NVNndLdGJsNzNQSE93RUpEMUl2MGw4bW1jd2hscDNhWXZqOUMtZnctZVBYWEplY0xnUmhoVk5JaEcxYk9NY2J1YUM5NXlSdFFDSm1pT3VCU1RaQXZ3RF9ybw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 09:24:43 GMT",
-   "summary": "Britain's JCB Hydromax sets world land speed record for a hydrogen-powered vehicle &nbsp;&nbsp; Reuters",
+   "title": "Rate hike bets leave yen's post-intervention gains at BOJ's mercy",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjZNRUNjVFhMSjRuaXZCV2lWYTRuTUpKYWcxV2lvd1RSd2paanU4QjJxTHRpaGNGQUF5aU1MRzExdVFfTU1UMzFXYlNCT0d5aXdGMFhDUlM5a1ZnYWxLTXlLc0F1UkFjTE1vSk9xMUs1SE1HTnRMR3ZUNndBOVZoUTZBNmNKMWJnUXF0SW4xNHdXUWxDY19EX2hNblhhV21PY1ltdzFKV0FLQ3lLeGpqLTlEcHBpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 22:00:23 GMT",
+   "summary": "Rate hike bets leave yen's post-intervention gains at BOJ's mercy &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Israel sends troops into West Bank homes besieged by Jewish settlers",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnkwN181TzdJQXA2ajNoUENXQTVxVTBvaDVrMHNfT0FldklHZGZ0Y094aFRMM3B2ZXpBbjdneUdKQ2h4aFQyTjdweE1uNXRtWEpXdVhWc29HbkVyU01qcUtnek0yTjVqdU5pQUlkUVdEeGFxUVhEdGRjQ2hPT0JmYTRuMTVtVVhFU050aVhnVnlUZ2ltRVZROEJoQ3lUZC1jYVI3ZV9nSm53bU9pcGtmdjBSQXJQMFBJdzc4aGw3aU0wQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 21:20:13 GMT",
-   "summary": "Israel sends troops into West Bank homes besieged by Jewish settlers &nbsp;&nbsp; Reuters",
+   "title": "Are global oil stocks big enough to weather another six months of US-Iran war?",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 21:21:16 GMT",
+   "summary": "Are global oil stocks big enough to weather another six months of US-Iran war? &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,26 +308,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "CAF support for Infantino is no guarantee of African votes at FIFA election",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdndlRxVUdyRkRlLUt5YjBRMnNqaXV2MUJ5NU5NM2lKcmJsVFIxVzh5S1M0RnpsWkVxRVNKTi1NRDRqbU9LNWx4RzNfMGtMUXE1STIxRWVHRTBiaXByYmpkOEdxbUZUNjkzUHZyZHNvTHY1ajJJSHNhdG90bDF0SG04dzJubXowdEsySUlsVzFydDJodWZvOXhfcUpmSXM3SF9Qc041cXVvbXZuV3Y4ZU5XLS0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 10:57:54 GMT",
-   "summary": "CAF support for Infantino is no guarantee of African votes at FIFA election &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "India's inflation accelerates to 4.45%, but unlikely to shift RBI rate outlook",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMV9vVDJlMjFzdW1rYklSTWtRbGJkSGM3TmFOVHcyRjQ5UnNDODhyR2RPZzJTblg2Q1o1cGowR2szbk1JRk1VdWpsU242Q0l6OFoyTUhkYnZGRFNENjNWRGRJZmZfUThpZEVibVpZOVdWbW9OaWpSWmcyd0U4MnFUY3JLcklpN0xiazl0V0o4T2JOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 12:39:14 GMT",
-   "summary": "India's inflation accelerates to 4.45%, but unlikely to shift RBI rate outlook &nbsp;&nbsp; Reuters",
+   "title": "Iran, US make competing claims over control of Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 17:51:32 GMT",
+   "summary": "Iran, US make competing claims over control of Strait of Hormuz &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Sandisk forecasts mid-to-high-teens revenue growth through 2030",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEg3aWlJTVQ4NXJyNVFQOTlLX3EyTDZRcnJKclpnQ2h2Q2pqS3pqYjZuZDRDYVF3clFENzlVTXFKcnRaNGdXMDFzUTFjSmgwd1hWMVlFSWg0eVU2bmwzcGpQZEE3T3VrNzlpQWpFUkQ3WFRzUkRsbUVXT1M0eTktZUNob3BuZUZaRTloc0NfY1NSUWp3WWNjTDJXZ1BxX1N1b0d2cVFUdkwzWVB5?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 19:14:14 GMT",
-   "summary": "Sandisk forecasts mid-to-high-teens revenue growth through 2030 &nbsp;&nbsp; Reuters",
+   "title": "White House says transshipped goods cost $19 billion to $26 billion in lost tariffs",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnd4NlphQnNDV1c5X0xlSW9rQmd2bGRDX2xPMi1HT0RzM1NpX0xhVDJkTnNQX2hoQ0xoNHFyc29JNTAtaGlDaFo4ODJMU1ZJRk80bEs0bDR2Nzk5U0c4WWRVb09ER2dHTE42Q1hVZ2xtUXB4NFZNSkJXdWVHT3NEZnJIeXh2aEZQNnc5VU9DOTBfRkY4Szk5Q0UzUkZ6ZTVFeWt5SzBST1JtNlZrWmF1NGVaakdDLWIzYmJCNzRVQU80SFJvaXpyUGVsUGY1MHlJcndJVkM3REw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 00:15:00 GMT",
+   "summary": "White House says transshipped goods cost $19 billion to $26 billion in lost tariffs &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,33 +332,33 @@
   },
   {
    "source": "reuters-business",
-   "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnFnU0RILVBlaHA5a1NTVHdsNzAtVkdlMklMbFpLOS1iRG1ibDRtWXpXSEg0ZDBod2dOUGNuQnl4UkZJQkhqZ0dib3lNWGdWS2R5QjFwb2YxYjhPWjZ0eFpRNEZKRFdQbHdVdVA2ZzJxTEFrYzVHRGEwYzdzTkRsOTFoWENYYmFnM1BWOEc2bE45NVFYSk9Ib3UxUGdaeUdJRGhVMnFjbnZTczdqNjZKX1VSaGo2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 17:28:48 GMT",
-   "summary": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding &nbsp;&nbsp; Reuters",
+   "title": "Oil steadies after US threatens indefinite blockade of Iran",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 01:36:00 GMT",
+   "summary": "Oil steadies after US threatens indefinite blockade of Iran &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Mighty Norway wealth fund warns of erosion in shareholder rights",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOFdQTUM2blBTRDR3NFBQOElEclJzTFV1OG50c2tCSnRVeFhESGQ1TlpoaWstTTNZaW5jR0hRckx1RWpLdXRwOUc2S1IyeWtraWdGZTFiZjhXQjY2Q1BxOXNhMDZoWVdMQVpsSWtEVjlBbGUySWYzb09ZRC1DTmR1SHNEZXpVYlQwWmw0S0d5eE5GOFNvd1ByYVM5b25hS28wRzhLNm1TZ0xxWmJNYkhySE5lRjZMV21z?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 17:08:59 GMT",
-   "summary": "Mighty Norway wealth fund warns of erosion in shareholder rights &nbsp;&nbsp; Reuters",
+   "title": "Tyson Foods will close or sell three US beef facilities as industry struggles",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRlgyT1ZTbzNSSzV5S1NiTzRUbHAxMjlSTjBZdnNib2s4UGZTV0VrTHQ0TTF0OW1DY040WWVORjF1U3NSUjRyWFFNX0NScWdLQ1ltSFFYaE5CeERkZXhlV0FlTzdDbmVzNjBFVUk0UkFlOE8xWjI0bXhUNFB0Snhlc1dURld6WENZUGhiYThjalBNYy1wN2NXbnVjbldDOGlFM0ZxSENLZFp0ZWhRdnVhV013Y2xJU240RHk3Z3hQSkN5R2s2QzJMWDk1RExkREgy?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 22:27:43 GMT",
+   "summary": "Tyson Foods will close or sell three US beef facilities as industry struggles &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Thoma Bravo to take Accelerant private in more than $4 billion deal",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDFFOUk4UnFfTGJGZTNHcTlCeXk5UHVvX2NYcldBYTdRVzdxWVdnVlBFb1FFcGRCUkhfMjBqVHBMX2dpY3NyNE1fYlZ3UGJZT2wzaTRXYUtDVXdWeWl1QnEwR1lOWHkwdzBicnVxSWlZQVJWcFI5RlphdkR5S2swVk5abjJnVDFoTzNyLUdWUC1pTkU2Y1AxMWdsc28?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 14:04:37 GMT",
-   "summary": "Thoma Bravo to take Accelerant private in more than $4 billion deal &nbsp;&nbsp; Reuters",
+   "title": "Rise of AI shopping pushes merchants to protect loyalty, Adyen says",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNel8wZ2xacEtpNDU0anhxdVNWUEFQUDVjVW9qWU5BdU9WX1VzT3pZTHAxam9ONkZxQ0VFVTNZdE5ZbVdMT3JzOHlBZHZoNXpnbkJiNmh5cllpTFM5MlRWcWVNWUI2amFwMHlJUG5yblZja0h5VHE1TENzQ2NUa1hUOVpEcEdTVVM3VGpoNzZtZmthcXRWU0tmVkNlM0xCaHVraE9YLVBHbWsyLUFoX203SS0yVnJha0FZbV9FU1ln?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 16:47:12 GMT",
+   "summary": "Rise of AI shopping pushes merchants to protect loyalty, Adyen says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "Ice cream makers bet consumers still want treats, just healthier ones",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2NWbElFc1NqcnN5bkFZbHQzUEc5V1ZRQ21vcjd6TVF2WTljV2NfLThWYWV4OVJzdjlGLTVOTDRtOVBIVEVHWFRDYWwyVElybktsdUFYaEZtTEJPeUtmeG1CQkJhMHc0WkY2RVNxSktMRjE3QTF2N1VDUkZfWUJVeERNU0VFM1FZQ1lxYUpPZkRQdjRqQ3Zkcno2Nm4yRVlHYVBGZHh0aFlOSHh5bjZwZjhHRDJUbkU3RDNEYU5R?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 17:13:31 GMT",
+   "published": "Thu, 13 Aug 2026 06:02:00 GMT",
    "summary": "Ice cream makers bet consumers still want treats, just healthier ones &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -372,14 +372,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "EXCLUSIVE: S&P 500 CEO pay jumps to record as Musk-inspired compensation plans spread",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUJTTzhvYWR4dlFwd3NWQ1VLVEdxVGRKc0ZtSlhOTFFwTUFTUE5xMTQ3VFp5ZVdnNktGeFViZlBHbTNtaC13TjNtOEI4UUwzVm1UTVd1VlM1OTlGajctZVQxb3Nlb09CMXJONWhRS0c5YWZHdWhydlVWVXd5MjVaOTk1RUota3Z6LWxjWkg5UkpOZnlBd2VUOXl4bjVTWkdqLWlKYnN2VFhPM1Q2UDJndWdYLS1wSVJzVWI4cWs5cmQzTXRp?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 20:22:39 GMT",
-   "summary": "EXCLUSIVE: S&amp;P 500 CEO pay jumps to record as Musk-inspired compensation plans spread &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Treasury Wine shares notch 8-month closing high on stable earnings outlook",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR284VkFiYXZkb1BMVENUdVBKcXZSb2Qxb0ZLRjRTczIySWczeDVSUExwVk9YM0Z0MWJNczlNQ1hSTHZ2eWhDYm5yV2hOVGxiRDZOeGRjRXdDY1IybEFTcjNYRG84UXE4ZXJiZmlTcUk0ZUtBTjFfQ2hmd1FJNUxELVc1a3M5cnFwcVlVNmZ1OE9jbGtrR09fYzhGVS1raTB5cjNXX3gyRkpmY1puZHJVa2h6VGZmNHlHZDNaMTBRS0hDbm82Tmc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 12 Aug 2026 23:16:00 GMT",
@@ -388,10 +380,58 @@
   },
   {
    "source": "reuters-business",
+   "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnFnU0RILVBlaHA5a1NTVHdsNzAtVkdlMklMbFpLOS1iRG1ibDRtWXpXSEg0ZDBod2dOUGNuQnl4UkZJQkhqZ0dib3lNWGdWS2R5QjFwb2YxYjhPWjZ0eFpRNEZKRFdQbHdVdVA2ZzJxTEFrYzVHRGEwYzdzTkRsOTFoWENYYmFnM1BWOEc2bE45NVFYSk9Ib3UxUGdaeUdJRGhVMnFjbnZTczdqNjZKX1VSaGo2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 17:28:48 GMT",
+   "summary": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObm51WFhRd2F0bzV5VHZ0WUFsaS0xaVNkWWZiaWtscnE2VXZNUXJ2WWVubE1CV1J1cnpFTDhPWTF5dktfN2RoRXpVOGtqRUctZGd6YzI3MWJyNkQ3bUNFR3pNc2RuSmdiNW90Y2E3dEhEbXFVamNMZTFkMkF6am5xaklyVzAzS291dFpNUmJKaXB4NFBlM1ZYNkM1QjFzdlRqdTZwMVJ6UEtyNEZPd3c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 12 Aug 2026 15:48:00 GMT",
    "summary": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "AI-driven surge in bond yields could be next risk for markets and growth",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 04:10:00 GMT",
+   "summary": "AI-driven surge in bond yields could be next risk for markets and growth &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 04:21:00 GMT",
+   "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Asian stocks head for strong weekly gains as US rate hike bets fade",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 02:32:00 GMT",
+   "summary": "Asian stocks head for strong weekly gains as US rate hike bets fade &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Japan may see more yen intervention, faster BOJ rate hikes, ex-top FX diplomat says",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVpGWmVRR1JoWVkxSnIwWGVia0EwTnlpRkh6MEgtRHpjSUhtaTIxdWZDdzFnUFRYekw3VjRNdC1xSVQtem52d3BoOXF3cEV6WElWOFJPNnpsTnJqeUZBTFl3X1ZHNkhIYkpYaWJOTzVDVjZvVjJGS1JiQ215emxLUlB0VFdVQjZTbF9QMHdDMkNTWlV1QTZiZHB5eDBXZkU2WHNuZUU5UjBCTHRSZ2pHWF9aY3JfMkVyOFg2MW5qQTYwdm5DNWctZllOSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 00:02:00 GMT",
+   "summary": "Japan may see more yen intervention, faster BOJ rate hikes, ex-top FX diplomat says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "US producer prices unchanged in July, further dimming rate hike odds",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJMQngwSWd3ZlZVVGluVU44dU9XbWU4bnR4YlBVLWVqSWVSUnYybjlaTDdPQzBxRFQ2YVVQQlVvZlB0ek91SVdPSEFrcWx4TWJaOGNHbXFTN0lzS0ViVkozcHY2c0IyZGpiSVFLUDBOSkFqWjFUNzNZdTk4cTBzS0FPaTg4R3lEVnIzS1RhaXVaTXJ3bHRkMXAtOFNxUUxvb2RFZVlKLWx1S3RiX2Zya1h5RlN0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 23:01:10 GMT",
+   "summary": "US producer prices unchanged in July, further dimming rate hike odds &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -406,32 +446,8 @@
    "source": "reuters-markets",
    "title": "S&P 500 notches record-high close as rate-hike worries ease",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 20:28:32 GMT",
+   "published": "Thu, 13 Aug 2026 23:35:02 GMT",
    "summary": "S&amp;P 500 notches record-high close as rate-hike worries ease &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "US producer prices unchanged in July, further dimming rate hike odds",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJMQngwSWd3ZlZVVGluVU44dU9XbWU4bnR4YlBVLWVqSWVSUnYybjlaTDdPQzBxRFQ2YVVQQlVvZlB0ek91SVdPSEFrcWx4TWJaOGNHbXFTN0lzS0ViVkozcHY2c0IyZGpiSVFLUDBOSkFqWjFUNzNZdTk4cTBzS0FPaTg4R3lEVnIzS1RhaXVaTXJ3bHRkMXAtOFNxUUxvb2RFZVlKLWx1S3RiX2Zya1h5RlN0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 23:01:10 GMT",
-   "summary": "US producer prices unchanged in July, further dimming rate hike odds &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Robinhood's second fund for retail investors eyeing private markets starts trading",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcjF4dEVha1N3MWtDbGF0S1l4TUlFZHdiaHF4V1pGbFFkaGN2M3A5RHFBRmZaOTNGZlo1RkJ1YVRkZGt0eDhmVVVhcHdfNGpOUHd3OTVBcVJLcTVMY3Z0dlpLMi11YWh6Z25ma3F4VFV1TWlWMFZDcW54R055TW44b1BIV1E2dXhlLXduWVJDc3JUZEo5UWhmVzNFUVJ4R1VxNEdaYzFaZHNuZUxWRzlnU2ZEc0JHYlB5bGl1QXUxSkZuSnZtak9QR0dnQVZqb3pW?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 16:50:11 GMT",
-   "summary": "Robinhood's second fund for retail investors eyeing private markets starts trading &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Morning Bid: Fed bets cool, BOJ wagers heat up",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oM0FFVzBuNGtQVW9IOG1zaU44UGdVei1MVEx3MUY0RVhjOE5zYndQM0tMMDNfZW9lU0wyM1o4eUlnU2RFZGJIdlA1SmREYUtBZk4xdS1RYUhOeFA2T1U4ZV9pZ0ZlaXpqTTEtVFFDSlNUYWhmaFRHclBCMWlkTVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 04:31:00 GMT",
-   "summary": "Morning Bid: Fed bets cool, BOJ wagers heat up &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -440,38 +456,6 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 13 Aug 2026 01:02:00 GMT",
    "summary": "Stocks rise as traders reduce rate hike bets, oil prices drop &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Rate hike bets leave yen's post-intervention gains at BOJ's mercy",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjZNRUNjVFhMSjRuaXZCV2lWYTRuTUpKYWcxV2lvd1RSd2paanU4QjJxTHRpaGNGQUF5aU1MRzExdVFfTU1UMzFXYlNCT0d5aXdGMFhDUlM5a1ZnYWxLTXlLc0F1UkFjTE1vSk9xMUs1SE1HTnRMR3ZUNndBOVZoUTZBNmNKMWJnUXF0SW4xNHdXUWxDY19EX2hNblhhV21PY1ltdzFKV0FLQ3lLeGpqLTlEcHBpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 22:00:23 GMT",
-   "summary": "Rate hike bets leave yen's post-intervention gains at BOJ's mercy &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Oil settles down 2% on weak demand outlook, hefty US crude build",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 19:38:00 GMT",
-   "summary": "Oil settles down 2% on weak demand outlook, hefty US crude build &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Gold retreats on profit-taking after hitting two-month peak following inflation data",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWRyNnFQd2twNlNReDRyTy1GMGJWTktnY1RhMWY2SXZXRTluaDQ5TW8tdi11YTJ1VEppaUVwWTdyZkNUMGZMQXdIdG1Bdm9uQnNFOUNMY0UyREk2NU45UzF0SDlXcjNrWmswYldOZ3dKUzg2YUZaTjJZYm5lNldFTlFXcmJnVl94VGdfRnlEbElyRG1SZE9ERG5NRVNicUdJOXhNNDdLbTNEbzVTOFNpSWI0OUM4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 19:02:54 GMT",
-   "summary": "Gold retreats on profit-taking after hitting two-month peak following inflation data &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Australia central banker says rate risks are skewed higher",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVdjRGEwT3VzN19CS25SX29Nc0dnTlpmOXhhRzZDRTdpS3J6RUtzeW5GdHh3LVQ5eS1ac1R0aS11a2FJZ3otZW1FcEZ5cFgtdFJMMWRvNFZDVzVLN0ZkdVF6TDQybmRQTVRsWXhXTlpTZVlFakM5OEtmMUNjYk5vY1dHR2s4NlhYMGI2dUpHYWpQMHN2SjRKWDdRMzFUYjhfeml2b1pnN1ZjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 01:02:00 GMT",
-   "summary": "Australia central banker says rate risks are skewed higher &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -494,8 +478,16 @@
    "source": "reuters-tech",
    "title": "South Korea unveils future technology drivers, targets moon landing by 2030",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWloxM0JBWi1KZHlmdHJEZzZFWnhNeXVnVHRZa0JCdFhfZW5wTF9jeEdrRk9XM2xaWWlMWnhtbS1EVGNpX3Bta2dGcHBHYlF3UVlhV3ZodE1SWjNIMzNrUWc0aXdKQURNdkFZZ3FQMzVEb2FHQ1loTldoREwzaWotLU4yVVJsQWVqQ2k2blctRW9UaXI2Zm9Dc2dIQTJXVkN6OTB5UlFGS2NuX1hLWmFuS2ViY1JHeXVwM242SzgxaFdKLW85VEZodkNn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 06:01:00 GMT",
+   "published": "Wed, 12 Aug 2026 09:47:00 GMT",
    "summary": "South Korea unveils future technology drivers, targets moon landing by 2030 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "SMIC profit more than triples on AI-driven chip demand",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaW5SbklFWFdseXViUWtFTU5ybS1EX1NDUzRHM3lIaGZJcUFVMC1TLXQtbXRBem02TlRoX1U5QnRjTUwxMXRuZWxMS1NNVUUwREVXbXdLRlZFVF94eHF1dWxoWThRWWV2WG9RMHYxQWZwbElNeWtMM0k5bnV5a3loV1lBd3p5UDFtZ0xRbmcxcFpDWHhUbmhCWklGRWcxNG82?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 09:38:16 GMT",
+   "summary": "SMIC profit more than triples on AI-driven chip demand &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -516,26 +508,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Uber Freight says its investigating cyber incident following hacker claims",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0lNTklzVGoxODIzU1YzX2JDVHRpT0lMX2pZVXBROGxjUjhmcGlxTk1XZF82RHl6SXRCLUtCWWRMaGlkYUFqei1GLTU5bDJfTXVaT0N0bWR3R0doaktwODFCcU5DbFp2UXl6aDVBRkJSVkZkcE9NSmcydUM5OFNIMDZpdVZGcy1kRWxpOGpKYl9EcnZ6di01LW5oM0ducDRTUkdTeVlyVkF0dDZLZEdLYnVtQVRyWXAwcURoNEpPSVdlYTlrVGlyb0pfN2JIbTRZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 19:44:00 GMT",
-   "summary": "Uber Freight says its investigating cyber incident following hacker claims &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWHhnY3hNVEUwNHV3VnA0WGtlZnRlN1NkeEdaejNXdW1KaTQwN3NCbzV0c2Q2cF9pX2oyRnNCWG1TZjhyZ0lNTHBiTFZhSjNsdkhHUDhVcWRNQUYxQjdQamlEVmxTRExzZlJoMExMSHFoVWZXT3VOTV9hZ1JLbkd4SjMybUdROUxzenkxSGJXeHE4NVFINVI5Mlk3STlabndYVWMwY3dlV0RjdmdNRzVBbVBJR29CZnF2b2p6bEdvdG9IUlM0LUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 13:57:35 GMT",
-   "summary": "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Teledyne to acquire Varex Imaging in $1.1 billion deal",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZS1tc1Myekp4eHhXQ3prQ1Q1dF84N2g4TmExbWlhY3FlZTRMUHU4M0dkZVV1czZGNG1HUmQ1WUFTWG5vQXNwX2pGaHFTLVVKc0drTDNkd3pmcGxPdkczTmxBSEF3Vk9yOWoyU0o3bkJYd0ZwMmIwd0VjcHNhUUFvS2otbHNlTHExTGxZR2V0d3lTeTY1ZDhOWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 10 Aug 2026 19:05:44 GMT",
-   "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal &nbsp;&nbsp; Reuters",
+   "title": "US securities regulator cancels meeting to vote on crypto rules",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnYxOThqVXVKMnVRWVQ3UnBtaldTQmJQSDVRRFladjBwc09tMk1YaHc1aUJtREtacEVPMGh3UnFrZmx4a05NQ01aYmVKeDByQ0ROaFo3ZDAzU0xVeW1oczU1ZWhIZHNnVUJoSHp5Y0NGMVlwaWdtaWtEek5jd19TNkRIdUstVUlHSEdZR2VFa0RXUG80M0dxSnJ5dDloZTBW?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 22:57:41 GMT",
+   "summary": "US securities regulator cancels meeting to vote on crypto rules &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -548,10 +524,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Super Micro forecasts upbeat annual revenue on data center adoption",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNemJyeGtwLU1oZUFlRktXdmpLWGc5bEZHcEdBQjVxRUFlY1pueGt1WWYtVXQ2dDRhbldWRUhmSzFmVzRPZlcyVVROQnZFN3dEemRvOGRwcHpldHFJS3ZMR0toUS0xVi1NUnFYbll4WWpHendSU1paWTc2NGJuR09sdXVibzdLTERnSWN1anFKMDJVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 21:58:53 GMT",
-   "summary": "Super Micro forecasts upbeat annual revenue on data center adoption &nbsp;&nbsp; Reuters",
+   "title": "Teledyne to acquire Varex Imaging in $1.1 billion deal",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZS1tc1Myekp4eHhXQ3prQ1Q1dF84N2g4TmExbWlhY3FlZTRMUHU4M0dkZVV1czZGNG1HUmQ1WUFTWG5vQXNwX2pGaHFTLVVKc0drTDNkd3pmcGxPdkczTmxBSEF3Vk9yOWoyU0o3bkJYd0ZwMmIwd0VjcHNhUUFvS2otbHNlTHExTGxZR2V0d3lTeTY1ZDhOWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 10 Aug 2026 19:05:44 GMT",
+   "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWHhnY3hNVEUwNHV3VnA0WGtlZnRlN1NkeEdaejNXdW1KaTQwN3NCbzV0c2Q2cF9pX2oyRnNCWG1TZjhyZ0lNTHBiTFZhSjNsdkhHUDhVcWRNQUYxQjdQamlEVmxTRExzZlJoMExMSHFoVWZXT3VOTV9hZ1JLbkd4SjMybUdROUxzenkxSGJXeHE4NVFINVI5Mlk3STlabndYVWMwY3dlV0RjdmdNRzVBbVBJR29CZnF2b2p6bEdvdG9IUlM0LUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 13:57:35 GMT",
+   "summary": "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
