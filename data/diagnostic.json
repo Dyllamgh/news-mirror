@@ -13,19 +13,19 @@
   "token_len": 224
  },
  "nyt_via_jina": {
-  "status": 403,
-  "size": 739,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Sat Aug 15 2"
+  "status": 200,
+  "size": 242,
+  "sample": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html\n\nWarning: This page maybe requ"
  },
  "reuters_via_jina": {
   "status": 403,
-  "size": 771,
+  "size": 721,
   "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Sat Aug 15 2"
  },
  "nyt_svc_api": {
-  "status": 404,
-  "size": 68667,
-  "sample": "<!DOCTYPE html>\n<html lang=\"en\"  xmlns:og=\"http://opengraphprotocol.org/schema/\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <title data-rh=\"true\">Not "
+  "status": 200,
+  "size": 1222278,
+  "sample": "<!DOCTYPE html>\n<html lang=\"en\" class=\"  nytapp-vi-homepage  tpl-always-light\"  xmlns:og=\"http://opengraphprotocol.org/schema/\">\n  <head>\n    \n    \n  "
  },
  "reuters_pf_api": {
   "status": 401,
