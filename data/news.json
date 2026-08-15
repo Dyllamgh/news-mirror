@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T19:02:25Z",
+ "generated_at": "2026-08-15T20:51:37Z",
  "count": 65,
  "items": [
   {
@@ -36,6 +36,14 @@
   },
   {
    "source": "nyt-world",
+   "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+   "url": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+   "published": "Sat, 15 Aug 2026 20:48:05 +0000",
+   "summary": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
    "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
    "url": "https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html",
    "published": "Sat, 15 Aug 2026 04:01:09 +0000",
@@ -44,10 +52,10 @@
   },
   {
    "source": "nyt-world",
-   "title": "Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.",
+   "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
    "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
-   "published": "Sat, 15 Aug 2026 14:52:47 +0000",
-   "summary": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government has not commented.",
+   "published": "Sat, 15 Aug 2026 19:36:20 +0000",
+   "summary": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots.",
    "full_text": ""
   },
   {
@@ -75,18 +83,10 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
-   "url": "https://www.nytimes.com/2026/08/15/world/europe/belgium-heat-wave-deaths.html",
-   "published": "Sat, 15 Aug 2026 11:03:26 +0000",
-   "summary": "A June heat wave in Belgium and neighboring countries exposed a lethal lack of readiness. That’s a risk as another wave hits Europe.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-business",
    "title": "2 Planes With Same Call Sign in Phoenix Could Have Been ‘Disastrous’",
    "url": "https://www.nytimes.com/2026/08/15/us/american-airlines-call-signs-phoenix.html",
-   "published": "Sat, 15 Aug 2026 17:33:17 +0000",
+   "published": "Sat, 15 Aug 2026 19:10:35 +0000",
    "summary": "An air traffic controller noticed that two planes — one departing, one landing — were both flight 2482. He acted quickly to avoid confusion.",
    "full_text": ""
   },
@@ -126,7 +126,7 @@
    "source": "nyt-business",
    "title": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
    "url": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
-   "published": "Sat, 15 Aug 2026 09:01:56 +0000",
+   "published": "Sat, 15 Aug 2026 19:38:20 +0000",
    "summary": "The Trump administration delayed a rule last year that could have sped up the effort to pinpoint the source of the contamination. Critics charge that food safety oversight has eroded overall.",
    "full_text": ""
   },
@@ -236,6 +236,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "PSG sign Spain's World Cup hero Torres from Barcelona",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnBzODktMUh1OHVxX3l5UlFuTnlEdkJVSGFBY3FPb3JHMUQycGxXZ2lyTHZwUllQb1NXX0ZVcUp0RWlTZXl4bGlaQndRU09CZFdDSmxVV1pEYUtLY0RTeklUYi1QTHpNQ1V4RGlqV3NBSUE3b3lsWUVXS3dWYktVUWhWS1pKRkNNT1oyNVFXMHQtWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 15 Aug 2026 12:54:59 GMT",
+   "summary": "PSG sign Spain's World Cup hero Torres from Barcelona &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Woman charged over vandalism of Washington's World War Two Memorial",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 21:33:52 GMT",
@@ -260,26 +268,18 @@
   },
   {
    "source": "reuters-world",
+   "title": "AI-driven surge in bond yields could be next risk for markets and growth",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 04:10:00 GMT",
+   "summary": "AI-driven surge in bond yields could be next risk for markets and growth &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 21:53:39 GMT",
    "summary": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Record low Danube levels reveal sunken World War Two warship wrecks",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeTN1aFZJUEI2R1hObVMtbGp6VmdXRno1Y2xEQXFkaGFQNVozX1JSV19KY2FtNEgzSnZLUzE4dWQzZ3A5TTM5eS05UmdYdzBwTlh6OXpVaGNjeVh2Um1ncFNRN1RfUE0yRmdmRjFocDVYYUp6aXp1VnpkeGhpTWc4MFdXOGNXYzVoUTJNb3pLT1RVNy1nVVl0VV9aUERqVUN2MTNHaWUyMkkxa2tEZlR5bXhjWVQtSmctX0YtNWJrR0dQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 13:17:43 GMT",
-   "summary": "Record low Danube levels reveal sunken World War Two warship wrecks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "PSG sign Spain's World Cup hero Torres from Barcelona",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnBzODktMUh1OHVxX3l5UlFuTnlEdkJVSGFBY3FPb3JHMUQycGxXZ2lyTHZwUllQb1NXX0ZVcUp0RWlTZXl4bGlaQndRU09CZFdDSmxVV1pEYUtLY0RTeklUYi1QTHpNQ1V4RGlqV3NBSUE3b3lsWUVXS3dWYktVUWhWS1pKRkNNT1oyNVFXMHQtWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 15 Aug 2026 12:54:59 GMT",
-   "summary": "PSG sign Spain's World Cup hero Torres from Barcelona &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,10 +292,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "AI-driven surge in bond yields could be next risk for markets and growth",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 04:10:00 GMT",
-   "summary": "AI-driven surge in bond yields could be next risk for markets and growth &nbsp;&nbsp; Reuters",
+   "title": "Record low Danube levels reveal sunken World War Two warship wrecks",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeTN1aFZJUEI2R1hObVMtbGp6VmdXRno1Y2xEQXFkaGFQNVozX1JSV19KY2FtNEgzSnZLUzE4dWQzZ3A5TTM5eS05UmdYdzBwTlh6OXpVaGNjeVh2Um1ncFNRN1RfUE0yRmdmRjFocDVYYUp6aXp1VnpkeGhpTWc4MFdXOGNXYzVoUTJNb3pLT1RVNy1nVVl0VV9aUERqVUN2MTNHaWUyMkkxa2tEZlR5bXhjWVQtSmctX0YtNWJrR0dQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 13:17:43 GMT",
+   "summary": "Record low Danube levels reveal sunken World War Two warship wrecks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,6 +332,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "EXCLUSIVE: Jane Street took $15 billion hit in July tied to Situational Awareness, AI selloff, sources say",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2EtYUxGWFNvME5USWtGejIxeFI4bENXODFmX1hnWU5BMl9TbW81Ym1DUzZQZlk3VE1sUlpLQUtjV0x5S3JEcjNBTVBZOHdhVEZlN0pYOVhKTmwzSnc3eTV2VGI3UXNqODRhdlo1UHgyd1otM0RQMzVFQWZoclNWdm9ENkN1bS1zcmQtOGJMR21fTzdZSUtWazROcVRJclBTY050czlRMjVwNFN4ME9nOU9PNmxkdGoxa2pRTVRRN1VKTXpkYXpJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 21:35:00 GMT",
+   "summary": "EXCLUSIVE: Jane Street took $15 billion hit in July tied to Situational Awareness, AI selloff, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Ukraine's war-hit steel industry faces new obstacle: EU rules",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkpxWjhTWG5yaE9jV0VIajBSSzBJMGRoX01zU0RUMGU5cWQ3eEhKbmJFV3YzSGRNOEZsTDVsTGQyeEE0ZXRhMlV4X2g0ZFAtWUlMcHF4Q2dBeUg4bWxBeGxuYWVGdkhsM0MyYkFxTnFRVWNxeFR1Z3F5NjFNdW9ZZzZMMmtOOWtmRlVNZS15VE5VbFMweHYwa0FDQVczX1k0N0g1WmRXbw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 06:03:00 GMT",
@@ -344,22 +352,6 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTERjbHBXeUxvR0JSMUpreTA0SnpXOFVpUUtXLXZCdnhaemtsTjFBeWNfU01Xa0pWMDJUZUt6M0RuMVdLMmdpNTJhSERFZzNYclV3TDdGc1l6OWsyRGF2ejR1aHFmWUlIQWNzb1Q2SXBKWlZHWnljQ2pmdk9GdDB5a3haeFRUcWFfNGJCdVRQWjIyUy0tS0tKek51OVc5aV9nUWhuWWFENm1BLXdJYXNjWVRfaVEyTkdyNG5iQXhCVFBfaHRDLTFBdEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 20:41:00 GMT",
    "summary": "Alphabet becomes Berkshire Hathaway's third-largest investment &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "EXCLUSIVE: Jane Street took $15 billion hit in July tied to Situational Awareness, AI selloff, sources say",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2EtYUxGWFNvME5USWtGejIxeFI4bENXODFmX1hnWU5BMl9TbW81Ym1DUzZQZlk3VE1sUlpLQUtjV0x5S3JEcjNBTVBZOHdhVEZlN0pYOVhKTmwzSnc3eTV2VGI3UXNqODRhdlo1UHgyd1otM0RQMzVFQWZoclNWdm9ENkN1bS1zcmQtOGJMR21fTzdZSUtWazROcVRJclBTY050czlRMjVwNFN4ME9nOU9PNmxkdGoxa2pRTVRRN1VKTXpkYXpJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 21:35:00 GMT",
-   "summary": "EXCLUSIVE: Jane Street took $15 billion hit in July tied to Situational Awareness, AI selloff, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Russian share of India's oil imports surges to record high in July",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkxHbTB6WThhNjVWQU5yUmpiMmpHWjV5V29PeHJtamcycVNGdUwwUWhOX3RTby1UZzJfeDZjaHhvSWNtQ0ZkNTNfSTg2a2Q0cWUtb3hhbHJsOU9ZSVlQaFFwMXZHOWNPN0ltbUJnSWVjSWl0SkVSVzVJN3ROd2VQSnRFTzFtQ0w5cFg3SUptVFdBa054RGhoeVdYa01pTmFESEVQeG5FSEJsZEdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 04:56:00 GMT",
-   "summary": "Russian share of India's oil imports surges to record high in July &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,10 +372,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Jana Partners cuts stake in Fiserv, filing shows",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd1NWbmpwdXZOcXNMaDJYLTU1R0gtc21XQURfRXY2UXNORkVwLXI0RURwM2pYNVRZOHdMM0dvQmN0U0k2WjlLVGRsMUhCSjVsVkhCaWlVX3ZqVWlYbTlDMHRNZE1vZWVua0VjYzJxZ0tXZDh3b2JHUExjdEQyT1FIMEJrbGY4UkwtamNTS2VFanZLVlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 20:47:07 GMT",
-   "summary": "Jana Partners cuts stake in Fiserv, filing shows &nbsp;&nbsp; Reuters",
+   "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnFnU0RILVBlaHA5a1NTVHdsNzAtVkdlMklMbFpLOS1iRG1ibDRtWXpXSEg0ZDBod2dOUGNuQnl4UkZJQkhqZ0dib3lNWGdWS2R5QjFwb2YxYjhPWjZ0eFpRNEZKRFdQbHdVdVA2ZzJxTEFrYzVHRGEwYzdzTkRsOTFoWENYYmFnM1BWOEc2bE45NVFYSk9Ib3UxUGdaeUdJRGhVMnFjbnZTczdqNjZKX1VSaGo2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 17:28:48 GMT",
+   "summary": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "VIEW Market shrugs off in-line July CPI report",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzYwSG5ld0hGWFJxWEVhU2dWeERON1g2Y3NvOUVLaEZIak43ekFnbWlWbDNYaGFFUnlLSU1SQ3VyTHNfQzBnSkY1ajBFb2Vpc1hXRmJjOG5hYlNVdGtESDBqWWl1QzEzd3RIYTgtS1RmUHNaMG9CZjdVc09LaGllRFYzTmlpOWxvMVI1N1NaSzVXdmt6cEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 13:41:39 GMT",
+   "summary": "VIEW Market shrugs off in-line July CPI report &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -476,6 +476,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0FCdTI1SGh5eDRUY3I3MVF3amRXWU1aV3RrWC1kM01zR0Z6WWl0cGs4Rmk0U3lfeVpOU2FkM081ZUNHN0hFa3c3U0FuR21nWVJ5MzZyMWlxRWUyVG1mTzVSMjc4VWM5ZlFtbTFCbjM0dFdvbXlLeDFXOEJQbDU3MUhGSm9WZlpBTTFnY3FPNDRDRXBxbjFCT2pZWVZKM0VkMTd2dVloQ19SdGpCamJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 18:29:43 GMT",
+   "summary": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWVpNmZ4SENLdUxheHhSSFZZTHhaVC1POGJwQWRnY055WUswNl9FX04wd1YxZERMWE9Hb1VTc0VaOW5Ld3hnRUQwNTItRE9OWnZZdWwzYy05WUtHZFotSWpkcTNEQUZSLVFKMHhJNzN2aXJreHBzTzYwQXl1R1d1SWxiNUZWMUZ6eXN5TlNIVVdQajdjNzFBLVY0dDZJWVhNeEI0aHFnZzZ4SFg0YkVjUGhiVl9QUTdwXzJGcFl0alhoUTB1RzhjOGdnZl9UQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 14:49:00 GMT",
@@ -512,14 +520,6 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 13 Aug 2026 23:35:02 GMT",
    "summary": "S&amp;P 500 notches record-high close as rate-hike worries ease &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Oracle, Quantinuum partner to bring quantum computing to cloud",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkNpOTRmeU9LVTNtWFRYcHVnMHc4SU9hN2pRVk5rdUYtLTJMLUNRV2tXWjRRQXJCSVBrOFZDUTQtT1RIMjI3T2EtUFJKUTVTR0poNVB6YlZTWW9KRkVaVUU2U0dYUmJuX0NhRUI3RGpKUWZvZGhqd3NLOVRyMzlYUEpBNDNZU28xV3VMSE1nR1E4SDJLc0ZSOVVoZy1WdWg1MVE5bQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 20:07:45 GMT",
-   "summary": "Oracle, Quantinuum partner to bring quantum computing to cloud &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
