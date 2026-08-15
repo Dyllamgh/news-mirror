@@ -14,18 +14,18 @@
  },
  "nyt_via_jina": {
   "status": 403,
-  "size": 683,
+  "size": 739,
   "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Sat Aug 15 2"
  },
  "reuters_via_jina": {
   "status": 403,
-  "size": 753,
+  "size": 771,
   "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Sat Aug 15 2"
  },
  "nyt_svc_api": {
-  "status": 200,
-  "size": 1375486,
-  "sample": "<!DOCTYPE html>\n<html lang=\"en\" class=\"  nytapp-vi-homepage  tpl-always-light\"  xmlns:og=\"http://opengraphprotocol.org/schema/\">\n  <head>\n    \n    \n  "
+  "status": 404,
+  "size": 68667,
+  "sample": "<!DOCTYPE html>\n<html lang=\"en\"  xmlns:og=\"http://opengraphprotocol.org/schema/\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <title data-rh=\"true\">Not "
  },
  "reuters_pf_api": {
   "status": 401,
