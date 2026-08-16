@@ -1,7 +1,39 @@
 {
- "generated_at": "2026-08-16T09:02:38Z",
- "count": 65,
+ "generated_at": "2026-08-16T10:52:46Z",
+ "count": 66,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+   "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+   "published": "Sun, 16 Aug 2026 09:31:10 +0000",
+   "summary": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Trump’s Other Hold on the Americas: The Visa",
+   "url": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
+   "published": "Sun, 16 Aug 2026 09:00:11 +0000",
+   "summary": "As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S. visa at a time.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
+   "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
+   "published": "Sun, 16 Aug 2026 04:01:17 +0000",
+   "summary": "Immigrants have long eased labor shortages on farms and factories in Italy. But churches also need foreign-born priests, like the Rev. Vincent Souly of the Ivory Coast.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+   "url": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+   "published": "Sun, 16 Aug 2026 09:01:44 +0000",
+   "summary": "Artem Murdid, his mother and his girlfriend are accused of terrorism. They say they did nothing wrong.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "After Women in India Joined Protests, Online Harassment Followed",
@@ -12,10 +44,18 @@
   },
   {
    "source": "nyt-world",
-   "title": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
-   "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
-   "published": "Sun, 16 Aug 2026 04:01:17 +0000",
-   "summary": "Immigrants have long eased labor shortages on farms and factories in Italy. But churches also need foreign-born priests, like the Rev. Vincent Souly of the Ivory Coast.",
+   "title": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
+   "url": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html",
+   "published": "Sun, 16 Aug 2026 09:00:13 +0000",
+   "summary": "A shooting at a U.S. Consulate has thrust a neighborhood with a troubled past into the center of an emerging criminal phenomenon: young guns for hire as gig workers in the underworld economy.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
+   "url": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html",
+   "published": "Sun, 16 Aug 2026 08:44:45 +0000",
+   "summary": "Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.",
    "full_text": ""
   },
   {
@@ -43,43 +83,27 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-   "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
-   "published": "Sat, 15 Aug 2026 18:15:49 +0000",
-   "summary": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 170,000 Canadians want him gone.",
+   "source": "nyt-business",
+   "title": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
+   "url": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
+   "published": "Sun, 16 Aug 2026 09:01:55 +0000",
+   "summary": "A dubious post that spread on X became the basis of false claims that Iran’s leadership had declared it a nuclear power.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
-   "url": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
-   "published": "Sat, 15 Aug 2026 21:07:17 +0000",
-   "summary": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune.",
+   "source": "nyt-business",
+   "title": "Should I Publicize a Bad Publicist?",
+   "url": "https://www.nytimes.com/2026/08/16/business/bad-boss-warning.html",
+   "published": "Sun, 16 Aug 2026 09:01:55 +0000",
+   "summary": "Plus: An intern considers whether to give the boss an honest review.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
-   "url": "https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html",
-   "published": "Sat, 15 Aug 2026 04:01:09 +0000",
-   "summary": "French, German and British diplomats are working on a format for future negotiations — even if Russia has shown little interest.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
-   "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
-   "published": "Sat, 15 Aug 2026 19:36:20 +0000",
-   "summary": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
-   "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
-   "published": "Sat, 15 Aug 2026 16:09:55 +0000",
-   "summary": "The Lebanese health ministry said children were among those killed. The Israeli prime minister’s office said Hezbollah had struck first, injuring three Israeli soldiers.",
+   "source": "nyt-business",
+   "title": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
+   "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+   "published": "Sun, 16 Aug 2026 09:00:37 +0000",
+   "summary": "Policymakers around the country are maneuvering to ensure that tech giants aren’t the only ones who stand to benefit.",
    "full_text": ""
   },
   {
@@ -139,23 +163,7 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Hiroshi Okuda, Disrupter Who Revived Toyota in the 1990s, Dies at 93",
-   "url": "https://www.nytimes.com/2026/08/14/automobiles/hiroshi-okuda-dead.html",
-   "published": "Fri, 14 Aug 2026 19:33:37 +0000",
-   "summary": "As the car company’s president, he made decisions quickly and shook things up, expanding overseas manufacturing and introducing the Prius, a milestone in automotive history.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Lawsuit Accuses Selena Gomez of Defrauding Investors in Mental Health Site",
-   "url": "https://www.nytimes.com/2026/08/14/us/selena-gomez-wondermind-lawsuit-fraud.html",
-   "published": "Fri, 14 Aug 2026 20:09:07 +0000",
-   "summary": "The actor, singer and beauty mogul founded Wondermind, a mental health platform, with her mother. Investors put in more than $1 million in the venture, which “quietly collapsed,” the suit said.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
+   "source": "nyt-technology",
    "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
    "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
    "published": "Fri, 14 Aug 2026 18:54:36 +0000",
@@ -260,14 +268,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "France's top court blocks social media ban for under-15s",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV254M2ZlOFJMWGs3OWlkUzVERktNOU8wei1RUzFBN0xyRkZQSkhIQ0ZlR21BWkV6c1VJNjFVZ2dfLWk2MHVtMDM5MDZtLXJlN19JYVhDSzd5NlFzZjhrUVVfWm9VTUdPbWVVOXRzaUY1RzdjUlhmWm5aczVLTlR6SGlQYjhKVk5PQ1Z0SkZ6enE5ekFGa0FnaThGS0ZfVEtsWUVDeWRVOFdRZ1AxSkpN?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 16:58:29 GMT",
-   "summary": "France's top court blocks social media ban for under-15s &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 15 Aug 2026 12:49:49 GMT",
@@ -276,10 +276,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Woman charged over vandalism of Washington's World War Two Memorial",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 21:33:52 GMT",
-   "summary": "Woman charged over vandalism of Washington's World War Two Memorial &nbsp;&nbsp; Reuters",
+   "title": "France's top court blocks social media ban for under-15s",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV254M2ZlOFJMWGs3OWlkUzVERktNOU8wei1RUzFBN0xyRkZQSkhIQ0ZlR21BWkV6c1VJNjFVZ2dfLWk2MHVtMDM5MDZtLXJlN19JYVhDSzd5NlFzZjhrUVVfWm9VTUdPbWVVOXRzaUY1RzdjUlhmWm5aczVLTlR6SGlQYjhKVk5PQ1Z0SkZ6enE5ekFGa0FnaThGS0ZfVEtsWUVDeWRVOFdRZ1AxSkpN?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 16:58:29 GMT",
+   "summary": "France's top court blocks social media ban for under-15s &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,10 +300,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Israeli settlers divert Palestinian water to fill West Bank pool",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXVEdENUNENwYzlmYS1QQkxJeGlxVUt6Vkp4Zm80UklLMHBWRzNzWENDcUFhdkxkcUtMc2lmdzY1NElLSXFuT2wtWG5RNC1ybkk4V3RDMlJqQ3JDM1M0em5VanBHUHBTRTNJMjZ5TU00Z0MwT2t4bFVIMmJTMnpJdmg0czV4cDZDTWUxbHN6N2xadDhOd0hmYmpob1BTc2R4Y0l6V2I3WEpxTGxVNGpPWXpvc1otZk1l?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 09:44:11 GMT",
-   "summary": "Israeli settlers divert Palestinian water to fill West Bank pool &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDFoSlRtR1RvcWRPUmFxenVMN09MZU0wMEpuTlI3a19xamlXeXlQcHZReEt3WXFXU3llTDdvQVZTZExrZFRVWGdrNDFxRnRTLVRJeXBxejlXd3hmSmhFdFNqY1FlRXkwTVpfeUJhODdfSGFuWFplcXRTeElXX0hFZkhhUFVlYmN6ekNZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 21:20:07 GMT",
+   "summary": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 20:35:00 GMT",
+   "summary": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -318,16 +326,8 @@
    "source": "reuters-business",
    "title": "German companies cut US investment to three-year low, data show",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 06:35:00 GMT",
+   "published": "Sun, 16 Aug 2026 09:41:47 GMT",
    "summary": "German companies cut US investment to three-year low, data show &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldvMHAyS2pRUlBfTWViR3BKVjl4WllDSGVlXzFlaXM5QkZGVlFSQWF2REhQR3J6bDhaWkNUWWtLLUN4c2FHTlZ2OW90UFd3N2gySHIyTnRuSm9HdGpvUmJFZUZxaWtUMjA1eE1GRk1WOWg3VWc1V1FKdmR4RE85SUk1UDRXUEVQUEJFVHRPZ2JRVWlqemJsdXduRGhEdy1tSF96QlhBZnpjclFEZ3E3X2JBdjl6T1NGTDNjMFRSbm55cU5ORl84THI0SS0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 01:35:43 GMT",
-   "summary": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -350,8 +350,16 @@
    "source": "reuters-business",
    "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 15 Aug 2026 23:33:33 GMT",
+   "published": "Fri, 14 Aug 2026 23:44:00 GMT",
    "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldvMHAyS2pRUlBfTWViR3BKVjl4WllDSGVlXzFlaXM5QkZGVlFSQWF2REhQR3J6bDhaWkNUWWtLLUN4c2FHTlZ2OW90UFd3N2gySHIyTnRuSm9HdGpvUmJFZUZxaWtUMjA1eE1GRk1WOWg3VWc1V1FKdmR4RE85SUk1UDRXUEVQUEJFVHRPZ2JRVWlqemJsdXduRGhEdy1tSF96QlhBZnpjclFEZ3E3X2JBdjl6T1NGTDNjMFRSbm55cU5ORl84THI0SS0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 16 Aug 2026 01:34:00 GMT",
+   "summary": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,18 +380,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Salvors work to secure ship leaking oil off Oman, risk firm Ambrey says",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXZnUEpPS0ZneGR2NUIwLVFwa3lNY1Q1QndiTTFQSFhWb3dtZmYtdzdrUnllS1JNREVILUNab3NBUlB3OGxncDIzTjN1OF9PdVVyNVFWQjhoWGpwLVdLTkIxenhXZFhlVTBuRjlyZnEtYUxCMGxscmtzdEhVSWVTY25EZDFqeWJHV2NIdjllU1ZrcFo4QmdnUFZUYWpLSWRRSVRIUGhvUTdXeXQ2WW5qVkNTUzhObzg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 16:27:43 GMT",
-   "summary": "Salvors work to secure ship leaking oil off Oman, risk firm Ambrey says &nbsp;&nbsp; Reuters",
+   "title": "Oil climbs over $1 on tanker attacks, no progrees on peace",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 19:21:47 GMT",
+   "summary": "Oil climbs over $1 on tanker attacks, no progrees on peace &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Ukraine says it hit Russian rocket centre linked to Starlink-style network",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWHN6RnFQc0t3VFNmN0c0Vi15dUo0SnhJSVY1anp5OWd6RlpoRHpGbHpTYXNlZHZFUk5ZdG42eGJtUlZxeVFDSV9FMmk5UEhPbGFaSUNpQS1tb0hkNkdZNkJkSklmWWlOb3lCdmREQUxHa3lvTV8tQTNPN19kNk03NDVKU0Y4VjEzWXVvS2FqSmhVWVB5MW5OcV8wQS1POWhWbDdtTFk4NUZvd09ZWU5URzVsaHBheWFoeGdETk03dk5sNVJXSkZWV0VyQ053TG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 15 Aug 2026 12:19:04 GMT",
-   "summary": "Ukraine says it hit Russian rocket centre linked to Starlink-style network &nbsp;&nbsp; Reuters",
+   "title": "Salvors work to secure ship leaking oil off Oman, risk firm Ambrey says",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXZnUEpPS0ZneGR2NUIwLVFwa3lNY1Q1QndiTTFQSFhWb3dtZmYtdzdrUnllS1JNREVILUNab3NBUlB3OGxncDIzTjN1OF9PdVVyNVFWQjhoWGpwLVdLTkIxenhXZFhlVTBuRjlyZnEtYUxCMGxscmtzdEhVSWVTY25EZDFqeWJHV2NIdjllU1ZrcFo4QmdnUFZUYWpLSWRRSVRIUGhvUTdXeXQ2WW5qVkNTUzhObzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 16:27:43 GMT",
+   "summary": "Salvors work to secure ship leaking oil off Oman, risk firm Ambrey says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -406,16 +414,8 @@
    "source": "reuters-markets",
    "title": "Oil prices rally, US data dents chances of Fed rate hike",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 02:32:00 GMT",
+   "published": "Fri, 14 Aug 2026 23:10:58 GMT",
    "summary": "Oil prices rally, US data dents chances of Fed rate hike &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 08:31:08 GMT",
-   "summary": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -448,6 +448,14 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 17:15:35 GMT",
    "summary": "Gold rises on weaker dollar as inflation data cements rate-hold bets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Gulf markets mixed as US-Iran tensions, Hormuz disruption weigh",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUhEd2FOWGZpSzJ6R2ZVUkdIV1pxanVfWkQxQ3Y5aGUtSzJZd09tVTFrMk1lOXJxYXg5SjFPY2NLQ0VZeXJRZ0JxWWZtdlZtRTc0S3kwT0lDNGZGUHh2LU40eThsM2JlRW10cGZDLVAwX1VlVGVSd1plcDducXF3LWt5b1hSbWNxSS1uUWJhVVFsVFVOT3VYMlNWUmdQb2VWTjlVWUMwM05DR3RSN0dEbnl3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 13:11:24 GMT",
+   "summary": "Gulf markets mixed as US-Iran tensions, Hormuz disruption weigh &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
