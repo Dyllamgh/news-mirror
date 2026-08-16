@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-08-16T03:17:38Z",
- "count": 65,
+ "generated_at": "2026-08-16T05:07:24Z",
+ "count": 66,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "After Women in India Joined Protests, Online Harassment Followed",
+   "url": "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html",
+   "published": "Sun, 16 Aug 2026 04:01:23 +0000",
+   "summary": "Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
+   "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
+   "published": "Sun, 16 Aug 2026 04:01:17 +0000",
+   "summary": "Immigrants have long eased labor shortages on farms and factories in Italy. But churches also need foreign-born priests, like the Rev. Vincent Souly of the Ivory Coast.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
@@ -64,22 +80,6 @@
    "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
    "published": "Sat, 15 Aug 2026 16:09:55 +0000",
    "summary": "The Lebanese health ministry said children were among those killed. The Israeli prime minister’s office said Hezbollah had struck first, injuring three Israeli soldiers.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "At Least 47 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
-   "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
-   "published": "Sat, 15 Aug 2026 13:08:44 +0000",
-   "summary": "The temblor was one of the strongest the area had experienced in decades, an official said.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
-   "url": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
-   "published": "Sat, 15 Aug 2026 04:01:19 +0000",
-   "summary": "The Taliban have Afghanistan in a chokehold that spares no one. But threats are starting to crack their veneer of stability and control.",
    "full_text": ""
   },
   {
@@ -300,10 +300,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Lebanon says Israeli strikes in south of the country kill at least 11​​​",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 15 Aug 2026 18:33:50 GMT",
-   "summary": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDFoSlRtR1RvcWRPUmFxenVMN09MZU0wMEpuTlI3a19xamlXeXlQcHZReEt3WXFXU3llTDdvQVZTZExrZFRVWGdrNDFxRnRTLVRJeXBxejlXd3hmSmhFdFNqY1FlRXkwTVpfeUJhODdfSGFuWFplcXRTeElXX0hFZkhhUFVlYmN6ekNZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 21:20:07 GMT",
+   "summary": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,9 +316,17 @@
   },
   {
    "source": "reuters-business",
+   "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldvMHAyS2pRUlBfTWViR3BKVjl4WllDSGVlXzFlaXM5QkZGVlFSQWF2REhQR3J6bDhaWkNUWWtLLUN4c2FHTlZ2OW90UFd3N2gySHIyTnRuSm9HdGpvUmJFZUZxaWtUMjA1eE1GRk1WOWg3VWc1V1FKdmR4RE85SUk1UDRXUEVQUEJFVHRPZ2JRVWlqemJsdXduRGhEdy1tSF96QlhBZnpjclFEZ3E3X2JBdjl6T1NGTDNjMFRSbm55cU5ORl84THI0SS0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 16 Aug 2026 01:35:43 GMT",
+   "summary": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 15 Aug 2026 00:12:00 GMT",
+   "published": "Sat, 15 Aug 2026 13:23:38 GMT",
    "summary": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -366,7 +374,7 @@
    "source": "reuters-business",
    "title": "Salvors work to secure ship leaking oil off Oman, risk firm Ambrey says",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXZnUEpPS0ZneGR2NUIwLVFwa3lNY1Q1QndiTTFQSFhWb3dtZmYtdzdrUnllS1JNREVILUNab3NBUlB3OGxncDIzTjN1OF9PdVVyNVFWQjhoWGpwLVdLTkIxenhXZFhlVTBuRjlyZnEtYUxCMGxscmtzdEhVSWVTY25EZDFqeWJHV2NIdjllU1ZrcFo4QmdnUFZUYWpLSWRRSVRIUGhvUTdXeXQ2WW5qVkNTUzhObzg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 13 Aug 2026 16:50:53 GMT",
+   "published": "Thu, 13 Aug 2026 16:27:43 GMT",
    "summary": "Salvors work to secure ship leaking oil off Oman, risk firm Ambrey says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -379,19 +387,19 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 21:45:59 GMT",
-   "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-markets",
    "title": "S&P 500 ends lower as investors weigh data, Middle East tensions",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 22:57:49 GMT",
    "summary": "S&amp;P 500 ends lower as investors weigh data, Middle East tensions &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 10:47:05 GMT",
+   "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,18 +436,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St Week Ahead: With Fed mum on next move, investors look to earnings to keep stocks afloat",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUkZXRWJRcG5ubW04ZjBhdDkwOUlnN3hwMEZlQ2RqT3pURzFiWmYtcmV2WUZ5dDVxZ3RzV2l3ZEVKSXEycEY5bUhJbzJWZ2ZtZkMyV1dyRUpuZXJZS0t3dElZSl83SDhSOEJXeXIySDBLWENHLVZjNE5vLTBOYmFEeGZGLXkwUlpHczNjNVJZTi1vUE5qU2M3ZmJmR0ZpbXhiSVB4cy1Tel9BQTB5VXJkRUZOc2pIazVoWFBYRldvSWJNWEotcGdsV0I1dTFoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 10:42:02 GMT",
-   "summary": "Wall St Week Ahead: With Fed mum on next move, investors look to earnings to keep stocks afloat &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Indian shares end week lower as higher crude tempers risk appetite",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE1Jd01iTWNHTjJIOVNSdG1pVFRlTDVSZVBxY0tYSTdGU0t1T1ZzN3ZPQnYxSGpyeUtxbUhDZG1TVElrcUVrTmVmSnk1a3BCRDJoMUZoSHBjaTdfaURDcERHS2hHU2N5c05lbjJwYzluMFlkU1JnUmtEQjlmbVVIcVZ5QTVXUllxTEFZaXJlSjdKMWV6VV93YTNhSzNELUpSejZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 02:28:00 GMT",
    "summary": "Indian shares end week lower as higher crude tempers risk appetite &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Wall St Week Ahead: With Fed mum on next move, investors look to earnings to keep stocks afloat",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUkZXRWJRcG5ubW04ZjBhdDkwOUlnN3hwMEZlQ2RqT3pURzFiWmYtcmV2WUZ5dDVxZ3RzV2l3ZEVKSXEycEY5bUhJbzJWZ2ZtZkMyV1dyRUpuZXJZS0t3dElZSl83SDhSOEJXeXIySDBLWENHLVZjNE5vLTBOYmFEeGZGLXkwUlpHczNjNVJZTi1vUE5qU2M3ZmJmR0ZpbXhiSVB4cy1Tel9BQTB5VXJkRUZOc2pIazVoWFBYRldvSWJNWEotcGdsV0I1dTFoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 10:42:02 GMT",
+   "summary": "Wall St Week Ahead: With Fed mum on next move, investors look to earnings to keep stocks afloat &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -476,18 +484,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWVpNmZ4SENLdUxheHhSSFZZTHhaVC1POGJwQWRnY055WUswNl9FX04wd1YxZERMWE9Hb1VTc0VaOW5Ld3hnRUQwNTItRE9OWnZZdWwzYy05WUtHZFotSWpkcTNEQUZSLVFKMHhJNzN2aXJreHBzTzYwQXl1R1d1SWxiNUZWMUZ6eXN5TlNIVVdQajdjNzFBLVY0dDZJWVhNeEI0aHFnZzZ4SFg0YkVjUGhiVl9QUTdwXzJGcFl0alhoUTB1RzhjOGdnZl9UQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 14:49:00 GMT",
-   "summary": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "SMIC profit more than triples on AI-driven chip demand",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaW5SbklFWFdseXViUWtFTU5ybS1EX1NDUzRHM3lIaGZJcUFVMC1TLXQtbXRBem02TlRoX1U5QnRjTUwxMXRuZWxMS1NNVUUwREVXbXdLRlZFVF94eHF1dWxoWThRWWV2WG9RMHYxQWZwbElNeWtMM0k5bnV5a3loV1lBd3p5UDFtZ0xRbmcxcFpDWHhUbmhCWklGRWcxNG82?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 13 Aug 2026 09:38:16 GMT",
    "summary": "SMIC profit more than triples on AI-driven chip demand &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWVpNmZ4SENLdUxheHhSSFZZTHhaVC1POGJwQWRnY055WUswNl9FX04wd1YxZERMWE9Hb1VTc0VaOW5Ld3hnRUQwNTItRE9OWnZZdWwzYy05WUtHZFotSWpkcTNEQUZSLVFKMHhJNzN2aXJreHBzTzYwQXl1R1d1SWxiNUZWMUZ6eXN5TlNIVVdQajdjNzFBLVY0dDZJWVhNeEI0aHFnZzZ4SFg0YkVjUGhiVl9QUTdwXzJGcFl0alhoUTB1RzhjOGdnZl9UQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 14:49:00 GMT",
+   "summary": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,18 +508,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "South Korea unveils future technology drivers, targets moon landing by 2030",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWloxM0JBWi1KZHlmdHJEZzZFWnhNeXVnVHRZa0JCdFhfZW5wTF9jeEdrRk9XM2xaWWlMWnhtbS1EVGNpX3Bta2dGcHBHYlF3UVlhV3ZodE1SWjNIMzNrUWc0aXdKQURNdkFZZ3FQMzVEb2FHQ1loTldoREwzaWotLU4yVVJsQWVqQ2k2blctRW9UaXI2Zm9Dc2dIQTJXVkN6OTB5UlFGS2NuX1hLWmFuS2ViY1JHeXVwM242SzgxaFdKLW85VEZodkNn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 12 Aug 2026 09:47:00 GMT",
-   "summary": "South Korea unveils future technology drivers, targets moon landing by 2030 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Berkshire accelerates buybacks, lowers cash stake as profit tops forecasts",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUQxTUtKTW8xWnBNdHRMdWlZajlZNGhOUlBNeXk3WFJpTjdWYXBqTWNoeVZ6a1RGWG1ZSVVBMU1JdUVDNHJ6N2JxZFVQYl9tOFBEOU91cVJITTdHZ2FJak43MTk3Z0xqMm9hOElreTJ1SjJHRXU0YVROdk92cDNjX25yTTk1aWU0Sm1BdV9ZWDBGTXAtNS13X2NXY3J1eThDN0NOUmNhazI5NkV0ZGc1YlplUXFnM2VQNWZGaGM0MjI4V0k?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 08 Aug 2026 19:15:50 GMT",
    "summary": "Berkshire accelerates buybacks, lowers cash stake as profit tops forecasts &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "South Korea unveils future technology drivers, targets moon landing by 2030",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWloxM0JBWi1KZHlmdHJEZzZFWnhNeXVnVHRZa0JCdFhfZW5wTF9jeEdrRk9XM2xaWWlMWnhtbS1EVGNpX3Bta2dGcHBHYlF3UVlhV3ZodE1SWjNIMzNrUWc0aXdKQURNdkFZZ3FQMzVEb2FHQ1loTldoREwzaWotLU4yVVJsQWVqQ2k2blctRW9UaXI2Zm9Dc2dIQTJXVkN6OTB5UlFGS2NuX1hLWmFuS2ViY1JHeXVwM242SzgxaFdKLW85VEZodkNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 12 Aug 2026 09:47:00 GMT",
+   "summary": "South Korea unveils future technology drivers, targets moon landing by 2030 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
