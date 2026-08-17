@@ -1,15 +1,7 @@
 {
- "generated_at": "2026-08-17T11:02:37Z",
- "count": 68,
+ "generated_at": "2026-08-17T13:57:20Z",
+ "count": 67,
  "items": [
-  {
-   "source": "nyt-world",
-   "title": "Trump’s Overture to North Korea Strains Alliance With the South",
-   "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
-   "published": "Mon, 17 Aug 2026 09:05:33 +0000",
-   "summary": "President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.",
-   "full_text": ""
-  },
   {
    "source": "nyt-world",
    "title": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
@@ -20,26 +12,42 @@
   },
   {
    "source": "nyt-world",
-   "title": "Kushner Meets Netanyahu in Effort to Break Logjam Over Gaza",
-   "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-   "published": "Mon, 17 Aug 2026 10:20:37 +0000",
-   "summary": "Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "China Wants Its Data to Power the World’s A.I.",
-   "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-   "published": "Mon, 17 Aug 2026 04:01:07 +0000",
-   "summary": "China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.",
+   "title": "Trump’s Overture to North Korea Strains Alliance With the South",
+   "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
+   "published": "Mon, 17 Aug 2026 10:57:47 +0000",
+   "summary": "President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "How Ukraine’s Satellites Help Drive Its War Drones",
    "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-   "published": "Mon, 17 Aug 2026 09:02:10 +0000",
-   "summary": "Here’s how speedy access to satellite imagery is bolstering Ukraine.",
+   "published": "Mon, 17 Aug 2026 13:32:38 +0000",
+   "summary": "Ukrainian drone teams have a powerful new tool: near real-time information on troop movements and locations.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "China Wants Its Data to Power the World’s A.I.",
+   "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+   "published": "Mon, 17 Aug 2026 11:10:29 +0000",
+   "summary": "China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+   "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+   "published": "Mon, 17 Aug 2026 13:31:46 +0000",
+   "summary": "Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Andy Burnham, UK Prime Minister, Exchanged Texts With Someone Posing as Trump’s Chief of Staff",
+   "url": "https://www.nytimes.com/2026/08/17/world/europe/andy-burnham-prime-minister-uk-fake-texts-trump.html",
+   "published": "Mon, 17 Aug 2026 12:32:44 +0000",
+   "summary": "Prime Minister Andy Burnham messaged briefly with a person impersonating Susie Wiles, a British government official said.",
    "full_text": ""
   },
   {
@@ -75,11 +83,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
-   "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
-   "published": "Mon, 17 Aug 2026 07:31:37 +0000",
-   "summary": "The works, by Antonello da Messina, were taken as the Sicilian city of Messina held a religious celebration.",
+   "source": "nyt-business",
+   "title": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
+   "url": "https://www.nytimes.com/2026/08/17/business/dealbook/cuban-founders-california-wealth-tax.html",
+   "published": "Mon, 17 Aug 2026 12:31:33 +0000",
+   "summary": "Some entrepreneurs, including Mark Cuban, are publicly worried about the potential fallout from California’s proposal to impose a special billionaire tax.",
    "full_text": ""
   },
   {
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html",
    "published": "Sat, 15 Aug 2026 09:02:16 +0000",
    "summary": "When prices spiked in 2021-22, wages failed to keep up for many workers, new research shows. Now the pattern is repeating.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "How to Protect Your Home While You’re on Vacation",
-   "url": "https://www.nytimes.com/2026/08/15/your-money/vacation-protecting-home.html",
-   "published": "Sat, 15 Aug 2026 09:02:08 +0000",
-   "summary": "Store food in sealed containers and fix any leaking faucets or pipes, experts told our columnist, who had her own nightmare upon returning home.",
    "full_text": ""
   },
   {
@@ -244,10 +244,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 23:54:51 GMT",
-   "summary": "Shipping slows through Strait of Hormuz after tanker attacks, data shows &nbsp;&nbsp; Reuters",
+   "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 10:25:18 GMT",
+   "summary": "Trump crypto firm backs venture offering AI from restricted Chinese companies &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Dollar slips to lowest since early June as rate hike bets fade",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 00:41:00 GMT",
+   "summary": "Dollar slips to lowest since early June as rate hike bets fade &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Oil pangs, FX swap window closure drags Indian rupee to two-week low",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlNNRW5YN0k3UXF6ZXlYdXltd0V0d1VocVNzSjNsVGVadUZCOUVuUkxWSEp6TVdwQ0pndVlBdU9PWDJUa21mVFpFZm5UaW1RMmdTT3cyZ09mSXU1T2dzSzhmMm1ZbUwteUp4REUzOUFONFlWbTc0R3hqd1N0MVdCUy15UVJoN0FxLU9LWkI3SlVhZ29vaW5fVVRpaVY1Tk14enYzZE8zX0FNcDJhN3NZMjJzdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 02:59:00 GMT",
+   "summary": "Oil pangs, FX swap window closure drags Indian rupee to two-week low &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,9 +276,17 @@
   },
   {
    "source": "reuters-world",
+   "title": "At Beijing AI-themed bar, DeepSeek tokens come with the pints",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnRfS09TOFIza3VWYzJ2bHJwa25BOThFODJFdTlFWF9LWWtYNGp3S0VaTkltQ214ckZrMFBZTXFFLVhST1k2UFZqLTNiUGR2WEo0Y2ZLaU9Id1F0TXFLbWdBd0ZSRDU0QUhnVzR4RTVmWXU3Sy02dkxzaUpPLXhOOWN4V2E3VThNd1pwQ3J3cThNX3NYY1hQU1k0dXlZeGR0eTlYME9pRjV2ZlJj?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 10:09:43 GMT",
+   "summary": "At Beijing AI-themed bar, DeepSeek tokens come with the pints &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnF1MHYyczd3ZFU2MEswRTgyUWhkZnZuTlBNNk1CdXFteXRrbE5yZ1hpNWp4V25famJCczJYdURXU0V1Vy1GRm16V2g0UmY2M2Nnc2l2dTZ2N2pCUjZFeUVLV014dGYtR1lkZTlhRVY5Sk5tbUpQN0YzNHBVR0ZkaTJOS1BPVUZDRlctYm5Idk5UUnZLZ29MXzlR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 15 Aug 2026 13:42:00 GMT",
+   "published": "Sat, 15 Aug 2026 14:07:06 GMT",
    "summary": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -299,30 +323,6 @@
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 02:08:00 GMT",
-   "summary": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Admiral praises USS Lincoln crew amid reports of worsening conditions during long deployment",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNW1DWFhTZDhERDlJM3g2Qk9yYmtXaHpXQlB1MEhBbnQ3MHZjOEZQUHRVUHZFOTJQX1BTaC1nQjBNeGppdV9uMlZtNl9xa0hEdzJ5SnFrazdyb3h5aUktX0Z2YnpiNEJUVTByMDFPRGtlbm9xMjF3elFNU3hXTHVrZDZUOXNTNUphSGxnWWNwVTJUNjRJT19nam9vNGM4UWdnY3VpOERQcV8xeWI4blAxOE5aYnRFWVJrWGZJQUFGako?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 19:48:00 GMT",
-   "summary": "Admiral praises USS Lincoln crew amid reports of worsening conditions during long deployment &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Israeli settlers divert Palestinian water to fill West Bank pool",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXVEdENUNENwYzlmYS1QQkxJeGlxVUt6Vkp4Zm80UklLMHBWRzNzWENDcUFhdkxkcUtMc2lmdzY1NElLSXFuT2wtWG5RNC1ybkk4V3RDMlJqQ3JDM1M0em5VanBHUHBTRTNJMjZ5TU00Z0MwT2t4bFVIMmJTMnpJdmg0czV4cDZDTWUxbHN6N2xadDhOd0hmYmpob1BTc2R4Y0l6V2I3WEpxTGxVNGpPWXpvc1otZk1l?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 06:11:44 GMT",
-   "summary": "Israeli settlers divert Palestinian water to fill West Bank pool &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-business",
    "title": "Big investors hunt for tomorrow's AI winners as capex angst fades",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -332,10 +332,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "New Zealand's a2 Milk tumbles on weak earnings forecast, profit miss",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHFOWHVVU0lFLVVlWTJUeURqd3hnSFB4WGNnMkNVWmFtalFadGZUN2dleEhQeGtEcUl3TmI1bEMxaFRZOXp6OWN2QnUtaFl6TlFsYnU5akMxNVBxbmNIRWR5cUZYT3hBdFMzd3RVa1ZKbkd0a1ZkeFJvRC16UEx2WExOeFNuWmt4ZzN5UVVoc0dQRmRCYXl5bG44VlBXbEFOQTh2eDN0WThzbzloWDdyWEFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 21:05:00 GMT",
-   "summary": "New Zealand's a2 Milk tumbles on weak earnings forecast, profit miss &nbsp;&nbsp; Reuters",
+   "title": "US railroad Union Pacific turned charges meant to cover fuel cost spike from Iran war into profit",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTBtTmZiNU1ldVB5OEZrTGJ4QXp0M1BwVG90ZXVxa3FRN0F3NVRTTC1fNDA3SE51Q0FrcFhGLXVUU3VCN2U0SFBYZ0VOeHBISVJfZWRRdTVQOU1aRTkxMXVfQ0tQWFdFLTVZVXk4OWtBTHBPRERnN2NJRjk3c213T2c0QVh6QWRQU2s0MVQxZVJrQUc5d2E3aDd5ZTczWHQtaHQwVkRLSHVYVUhXaU1Hbm9pME02QjE2V2ZJdVBGbG83U3J0V0RkWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 10:06:51 GMT",
+   "summary": "US railroad Union Pacific turned charges meant to cover fuel cost spike from Iran war into profit &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "L3Harris names insider Sam Mehta CEO as Christopher Kubasik steps down",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFNybGl1cWJiVThKUWVveG9waWY1cjdXc2hsRDZxMGlXTTFfektkcXBLZUV1Vml5dHZlSEhwVlVHaGc3QlNvOVkxRDI3M1RFcnQxekhoS0J4NzRKTVRSalVXc2Z0bkVsQjlaRnFNOWNGTGhBa1Izc29MT2lfSWFHakhwNlAyS1RvUmJ0V2lKS043LTRTZzdxYlNILWJrNXFMbEVVcW9SVVRQYWk4WjB2V2ZPczZtb0Q3TFNPQkNGbUJ6TXJ5RXpzNzhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 11:47:27 GMT",
+   "summary": "L3Harris names insider Sam Mehta CEO as Christopher Kubasik steps down &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,26 +356,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "New Syria-Iraq crude pipeline still years away, sources say",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHZIdzRNYTA4MEEyekhWalhJbFZPX24wa1FlR1JwaGl2Wk1ldjJZR0dSOWtRNEh2aFF6UVVTRk9VSEQtUFJBNW5OM2N6aDVkT2VzM1ZPa1JiNGV5SVJiNGdMazlVS0dmR3ZZSGpoMmg1dVVZN3psRTdkWHhhY2FtZDFyUjFlV0pLanB5ZWRCeFlfUVJNSko1WlJTYmx5cFo3WlR0Q1hYS0RDUzJDUHdZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 09:03:14 GMT",
-   "summary": "New Syria-Iraq crude pipeline still years away, sources say &nbsp;&nbsp; Reuters",
+   "title": "New Zealand's a2 Milk tumbles on weak earnings forecast, profit miss",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHFOWHVVU0lFLVVlWTJUeURqd3hnSFB4WGNnMkNVWmFtalFadGZUN2dleEhQeGtEcUl3TmI1bEMxaFRZOXp6OWN2QnUtaFl6TlFsYnU5akMxNVBxbmNIRWR5cUZYT3hBdFMzd3RVa1ZKbkd0a1ZkeFJvRC16UEx2WExOeFNuWmt4ZzN5UVVoc0dQRmRCYXl5bG44VlBXbEFOQTh2eDN0WThzbzloWDdyWEFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 16 Aug 2026 21:05:00 GMT",
+   "summary": "New Zealand's a2 Milk tumbles on weak earnings forecast, profit miss &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1NqcVAwOXE2NjV6OTJXNG9nYmRUSUc0X2VYeDczazZ1WWNWT2h5ZkdrbEY1MnpMaUt6cW1PT3FhRFlCeG80aGVjLXZ2RGtLcldFcmtrenZFMWNxa19wVlBsZUpSTFdpZDY3TzNZM1FoZ0Fna1lFTkVaaWR6eXM1aU94aS1BRXRMWHNRTU9VTmozOTlXNDllS3U2bFZOYWV1VDFtTEx3WUljUjIyS1YzbFIxaTZDZnpveEJGNDV2cWw4cWR4RGNOdU1B?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 08:28:56 GMT",
-   "summary": "German drone maker Helsing enlists Rakuten to broker Japan military deal &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Emerging markets march out of 'valley of tears' as investors diversify",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 06:04:00 GMT",
-   "summary": "Emerging markets march out of 'valley of tears' as investors diversify &nbsp;&nbsp; Reuters",
+   "title": "Apple to change app data consent rules, German regulator says",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVnlTREpFM3lfWlRJMHJOTEQtZ2JlWjBycXYyTVA2VXRJcEpyeDJlTFdUWmRQQlZtVHFpMVRBYy1nbXp3MlZ6aFRLOHBPZXZvSThkamZtZmdDTTd6VmxzQTlMZnhLM2lYRFBNNUZNRlkyUlVIUDN2YjB2anRrZlVSMEtwZ3FHS1BQWkFfWm1BV05UMnVKa0FkSzU0Vy1vUVZuT0hsV0hSZkFEY0dSVjc1WmZOdHBrcHBxaEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 11:06:04 GMT",
+   "summary": "Apple to change app data consent rules, German regulator says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,26 +380,34 @@
   },
   {
    "source": "reuters-business",
-   "title": "Europe's heatwaves expose insurance gap as business losses mount",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1I5Nno4ZTlfSzdpV1JwbVVMdDZtODFfaUl3SnJHZ1pGdW41M2hGVW9NUTd1ZWo2UW1iZkQ5cWVpcnQyY09GYnRFZ2l3QzBlN0NRWWZ1Skt4a1NzcnFUWlY0bi12OTZUNGdhblB0VFdrcDhOdWRuSm1EZlYzQUJ4YkQxdlpjeFNwTzZMWGZ4SmRtXzh2Vm9vWDRkMTdtSUR0ZlZCRjV2bnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 05:06:00 GMT",
-   "summary": "Europe's heatwaves expose insurance gap as business losses mount &nbsp;&nbsp; Reuters",
+   "title": "Emerging markets march out of 'valley of tears' as investors diversify",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 06:04:00 GMT",
+   "summary": "Emerging markets march out of 'valley of tears' as investors diversify &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Alphabet eyes inaugural Australian dollar bond, bookrunner's message says",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSk5SUXVvRV92bU1sY3NLQVVxUTVPRHZPdnhKTUEyZWZEN0Q0eWdmNFRjYnBiQXJ0X1Nzc2R4b3NIdmtSSnBEVlM0aDhrUFNROEpHTG1GMEFaUXBMMlBPTXJzSUhlVTk2akNCVlBGYzhnaUNfeFZCcExVamJQX2tUMlVtNlZBYzVTZ1hyZjVHNW5zaV9zNDh1WnkzazRyVjlJU0N2Y0tmLTJlelBLTktkX0w1Uk5tR1ZEX1lQME0wQ1hDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 03:41:00 GMT",
-   "summary": "Alphabet eyes inaugural Australian dollar bond, bookrunner's message says &nbsp;&nbsp; Reuters",
+   "title": "Second wave of fuel shortages at petrol stations sweeps across Russia",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 13:32:22 GMT",
+   "summary": "Second wave of fuel shortages at petrol stations sweeps across Russia &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "EXCLUSIVE Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 15 Aug 2026 00:12:00 GMT",
-   "summary": "EXCLUSIVE Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say &nbsp;&nbsp; Reuters",
+   "title": "Gold rises on softer dollar, fading Fed hike expectations",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGRscVZvWDlqZGtZZlM5alpGTkhTa1BPQ3JYYTdueEduSU5KbFNZQjVyVDQ2VDA5WHdxUjZQRjNTSHNwZ3RWUnVLREJrenpWakw5LXFOSlZjU081YXhYcURKM1BqZUxIQll3R3VxM0YweEFIMzhpN1hhSG5tOXQ2bm1yQmVjYUdaQm5VZXBPYzdTVHl5Skd4aFpSaVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 03:23:00 GMT",
+   "summary": "Gold rises on softer dollar, fading Fed hike expectations &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "China surprises oil markets again with a return to stockpiling in July",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 13:30:45 GMT",
+   "summary": "China surprises oil markets again with a return to stockpiling in July &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,18 +420,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "China surprises oil markets again with a return to stockpiling in July",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 00:39:32 GMT",
-   "summary": "China surprises oil markets again with a return to stockpiling in July &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb25yZW50Tkd2OWNLaXNJZ3N5Y2VnbmhPaUdrbnh5SjVZb1RIRWhlb0JiMlo5TV9oMHM4V243MU5zQkQ5VjhHZk1oakhvRDNHdFIyOUtCbjFJckVoR3hOTENwOWJHa2VIamZVSjVVSnFOR0I5WUh4ek1PbDd1TjMwZm5ZZzJOUVZoXzBZQkQxcWszNFlMNEItYm9CYjZhdXBMOEhiSnYycEE4LUVpeTgtNUVDcFNmN1BoT2RBdTNJQlYyajNz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 03:02:00 GMT",
-   "summary": "From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets &nbsp;&nbsp; Reuters",
+   "title": "S&P 500, Nasdaq futures rise on tech boost",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 11:52:24 GMT",
+   "summary": "S&amp;P 500, Nasdaq futures rise on tech boost &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -436,6 +436,14 @@
   },
   {
    "source": "reuters-markets",
+   "title": "From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb25yZW50Tkd2OWNLaXNJZ3N5Y2VnbmhPaUdrbnh5SjVZb1RIRWhlb0JiMlo5TV9oMHM4V243MU5zQkQ5VjhHZk1oakhvRDNHdFIyOUtCbjFJckVoR3hOTENwOWJHa2VIamZVSjVVSnFOR0I5WUh4ek1PbDd1TjMwZm5ZZzJOUVZoXzBZQkQxcWszNFlMNEItYm9CYjZhdXBMOEhiSnYycEE4LUVpeTgtNUVDcFNmN1BoT2RBdTNJQlYyajNz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 03:02:00 GMT",
+   "summary": "From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Morning Bid: Could consumers keep the Fed on hold, while Japan hikes?",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95QjFXTkNfYUJXRHlnbUdLZWF4QlVSSTB1NFVSZUxkdHFtbUxfbmdTLWNSTkJ0NkZqTkpPM05uT0QtUmJVcEpONTB4ZkZUczlIdU11bURvbGFpa2NEdl9mQTllampqcDN3bUw2SDNKVGhZUGlSNTN1RFZZOFdSOHc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 04:31:00 GMT",
@@ -444,18 +452,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Dollar falls to lowest since early June as rate hike bets fade",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 00:41:00 GMT",
-   "summary": "Dollar falls to lowest since early June as rate hike bets fade &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited",
+   "title": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 00:31:00 GMT",
-   "summary": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited &nbsp;&nbsp; Reuters",
+   "summary": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -464,14 +464,6 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 00:19:00 GMT",
    "summary": "Japan Q2 growth misses forecasts on weaker spending, investment &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Indian shares fall as crude remains at elevated levels",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 02:21:00 GMT",
-   "summary": "Indian shares fall as crude remains at elevated levels &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -492,18 +484,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "India opens nuclear sector to proven foreign technology",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDlheFE0eXlha2U3QTR5TUpFQU5iSFQ5d0NaVXZCdVNxbmI1cVE0emU1ZExfcl9nbDhmb1JFbS04NXQtMk9hVzFVNDZZVXV0cHJEVW5IWUNkbEhGWHhjMGVPRVNweFlmdkhpY1BaYmJDZmRRdzZxaUU0M19aNzBqeVlYY3lnZVlqWTc1WnBRXzRnNjZNdFh1TkR4U1NjWlZSUmF4aElNYngtNmhaSjVSZVIzX05rSzg2QTVhRjlaTVdyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 19:59:15 GMT",
-   "summary": "India opens nuclear sector to proven foreign technology &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWVpNmZ4SENLdUxheHhSSFZZTHhaVC1POGJwQWRnY055WUswNl9FX04wd1YxZERMWE9Hb1VTc0VaOW5Ld3hnRUQwNTItRE9OWnZZdWwzYy05WUtHZFotSWpkcTNEQUZSLVFKMHhJNzN2aXJreHBzTzYwQXl1R1d1SWxiNUZWMUZ6eXN5TlNIVVdQajdjNzFBLVY0dDZJWVhNeEI0aHFnZzZ4SFg0YkVjUGhiVl9QUTdwXzJGcFl0alhoUTB1RzhjOGdnZl9UQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 14:49:00 GMT",
    "summary": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "India opens nuclear sector to proven foreign technology",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDlheFE0eXlha2U3QTR5TUpFQU5iSFQ5d0NaVXZCdVNxbmI1cVE0emU1ZExfcl9nbDhmb1JFbS04NXQtMk9hVzFVNDZZVXV0cHJEVW5IWUNkbEhGWHhjMGVPRVNweFlmdkhpY1BaYmJDZmRRdzZxaUU0M19aNzBqeVlYY3lnZVlqWTc1WnBRXzRnNjZNdFh1TkR4U1NjWlZSUmF4aElNYngtNmhaSjVSZVIzX05rSzg2QTVhRjlaTVdyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 19:59:15 GMT",
+   "summary": "India opens nuclear sector to proven foreign technology &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
