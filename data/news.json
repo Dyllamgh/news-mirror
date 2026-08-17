@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T17:01:16Z",
+ "generated_at": "2026-08-17T19:19:02Z",
  "count": 64,
  "items": [
   {
@@ -14,7 +14,7 @@
    "source": "nyt-world",
    "title": "Trump’s Overture to North Korea Strains Alliance With the South",
    "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
-   "published": "Mon, 17 Aug 2026 10:57:47 +0000",
+   "published": "Mon, 17 Aug 2026 10:57:48 +0000",
    "summary": "President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.",
    "full_text": ""
   },
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "How Ukraine’s Satellites Help Drive Its War Drones",
    "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-   "published": "Mon, 17 Aug 2026 13:32:38 +0000",
+   "published": "Mon, 17 Aug 2026 19:06:59 +0000",
    "summary": "Ukrainian drone teams have a powerful new tool: near real-time information on troop movements and locations.",
    "full_text": ""
   },
@@ -38,8 +38,16 @@
    "source": "nyt-world",
    "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
    "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-   "published": "Mon, 17 Aug 2026 13:31:46 +0000",
+   "published": "Mon, 17 Aug 2026 17:44:27 +0000",
    "summary": "Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Barred From Ballot, a Party Becomes a Vessel for Russians’ Discontent",
+   "url": "https://www.nytimes.com/2026/08/17/world/europe/russia-yabloko-party-election.html",
+   "published": "Mon, 17 Aug 2026 19:04:23 +0000",
+   "summary": "The spotlight on the country’s only antiwar party has brought a spark to what had looked like another dull, tightly controlled election campaign.",
    "full_text": ""
   },
   {
@@ -75,11 +83,19 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-   "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-   "published": "Sun, 16 Aug 2026 17:39:39 +0000",
-   "summary": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
+   "source": "nyt-business",
+   "title": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
+   "url": "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html",
+   "published": "Mon, 17 Aug 2026 18:37:05 +0000",
+   "summary": "Paramount’s $111 billion deal to acquire Warner Bros. Discovery has been postponed until the conclusion of a trial, scheduled for March.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent",
+   "url": "https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html",
+   "published": "Mon, 17 Aug 2026 18:27:24 +0000",
+   "summary": "The rapid growth of pay-later loans raises questions about whether their popularity is driven by consumer preference or desperation.",
    "full_text": ""
   },
   {
@@ -94,7 +110,7 @@
    "source": "nyt-business",
    "title": "A French Start-Up, Inbolt, Makes Robots See, and Work, Better",
    "url": "https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html",
-   "published": "Mon, 17 Aug 2026 09:00:09 +0000",
+   "published": "Mon, 17 Aug 2026 18:37:45 +0000",
    "summary": "Inbolt, a French start-up that sells robot vision systems, helped a Stellantis plant in Detroit become a top performer in the company.",
    "full_text": ""
   },
@@ -147,22 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Sports Team Sale Prices Keep Hitting New Highs",
-   "url": "https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html",
-   "published": "Sun, 16 Aug 2026 01:08:46 +0000",
-   "summary": "The deal for the Los Angeles Lakers valued the team at a record $12.5 billion, eclipsing the $10 billion paid for the franchise just last year.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Worker Pay Isn’t Keeping Up With Inflation Once Again",
-   "url": "https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html",
-   "published": "Sat, 15 Aug 2026 09:02:16 +0000",
-   "summary": "When prices spiked in 2021-22, wages failed to keep up for many workers, new research shows. Now the pattern is repeating.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
    "url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
@@ -172,10 +172,10 @@
   },
   {
    "source": "nyt-technology",
-   "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-   "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-   "published": "Fri, 14 Aug 2026 18:54:36 +0000",
-   "summary": "Google enabled A.I. features for K-12 schools that have allowed student access to Gemini. Until this week, Google automatically enabled Gemini in Classroom only for students 18 or older.",
+   "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
+   "url": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
+   "published": "Mon, 17 Aug 2026 17:48:28 +0000",
+   "summary": "The data center, one of the world’s largest, could cost as much as $500 billion and will be leased by OpenAI.",
    "full_text": ""
   },
   {
@@ -236,6 +236,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 18:03:45 GMT",
+   "summary": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "At Beijing AI-themed bar, DeepSeek tokens come with the pints",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnRfS09TOFIza3VWYzJ2bHJwa25BOThFODJFdTlFWF9LWWtYNGp3S0VaTkltQ214ckZrMFBZTXFFLVhST1k2UFZqLTNiUGR2WEo0Y2ZLaU9Id1F0TXFLbWdBd0ZSRDU0QUhnVzR4RTVmWXU3Sy02dkxzaUpPLXhOOWN4V2E3VThNd1pwQ3J3cThNX3NYY1hQU1k0dXlZeGR0eTlYME9pRjV2ZlJj?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 10:09:43 GMT",
@@ -268,26 +276,18 @@
   },
   {
    "source": "reuters-world",
+   "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 15 Aug 2026 15:49:27 GMT",
+   "summary": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "While the world is distracted, China steps up its strategic game",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFc0bWlGZ294ZWg0NnB1eGJKN3FROERvclpMS0hIZkVraGEyS0tRZW5kQVdCYXExTEF1ejdTNG9jU3lrbjBSSktNYVlBaWxaLWZnR3o2endjWmRTbHBleVdMT0RPMEdZRTNVM3UyRFk4emRZZFVnM09tdGJyNWR2N29HUFViWVlqRUxVMkVCLUNnMGxBMFhGeWhJNk1hRi0walVqT3p4eW1Gdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 13:41:24 GMT",
    "summary": "While the world is distracted, China steps up its strategic game &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "PODCAST: Indonesia evacuations, Hurricane Lala and Ceuta arrests",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWZ5enlDeFFXNXR6Y0lXSDhIZzdGWk1FSHdTUmk0RXVETzFTcWY2MDE1bVdLY2x1OE9EMkVPa3dsaE83bjdBMUtmSnN5U0lTTWdfVkJoVEJHNXZZbHF0eU91SkoyaXJxLTNUY2I1VjlaWkFLQzZnaVdSRWFLOEk5TTFsMUJFanVocm55ZHE0VHpzU2JBUUVqbVJnaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 14:32:00 GMT",
-   "summary": "PODCAST: Indonesia evacuations, Hurricane Lala and Ceuta arrests &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 02:08:00 GMT",
-   "summary": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,18 +300,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 15 Aug 2026 10:10:00 GMT",
-   "summary": "Trump's 2024 grocery photo op now haunts Republicans in the midterms &nbsp;&nbsp; Reuters",
+   "title": "PODCAST: Indonesia evacuations, Hurricane Lala and Ceuta arrests",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWZ5enlDeFFXNXR6Y0lXSDhIZzdGWk1FSHdTUmk0RXVETzFTcWY2MDE1bVdLY2x1OE9EMkVPa3dsaE83bjdBMUtmSnN5U0lTTWdfVkJoVEJHNXZZbHF0eU91SkoyaXJxLTNUY2I1VjlaWkFLQzZnaVdSRWFLOEk5TTFsMUJFanVocm55ZHE0VHpzU2JBUUVqbVJnaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 16 Aug 2026 14:32:00 GMT",
+   "summary": "PODCAST: Indonesia evacuations, Hurricane Lala and Ceuta arrests &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "L3Harris ousts CEO Kubasik over conduct breach, names insider Mehta as replacement",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFNybGl1cWJiVThKUWVveG9waWY1cjdXc2hsRDZxMGlXTTFfektkcXBLZUV1Vml5dHZlSEhwVlVHaGc3QlNvOVkxRDI3M1RFcnQxekhoS0J4NzRKTVRSalVXc2Z0bkVsQjlaRnFNOWNGTGhBa1Izc29MT2lfSWFHakhwNlAyS1RvUmJ0V2lKS043LTRTZzdxYlNILWJrNXFMbEVVcW9SVVRQYWk4WjB2V2ZPczZtb0Q3TFNPQkNGbUJ6TXJ5RXpzNzhR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 13:40:08 GMT",
+   "published": "Mon, 17 Aug 2026 17:23:39 GMT",
    "summary": "L3Harris ousts CEO Kubasik over conduct breach, names insider Mehta as replacement &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US prosecutors focus on four businesses tied to billionaire Mark Walter, WSJ reports",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2pOdmhCampySWUzY0tFVzczS1VNUUJSWU4ycVdacTVfNjR6aUpvak5NMk8yelBDTl9IM3l4eVhqVFpuN01KNnk4OG8tX3hwZndQNWJWVHgxWUhTRGd0dVp6MzRwWUYwWk82SjNjZFpuZ293NmdkWkVZQ0lGVTZaM1prMEt2Y0tIRzhFbTVLVlVwY1I1ck9KLTBGeHRKcHRUYWxRSkRnc3pEd1pZc2JwMlp3WjBlRF9qZWNrcGVMOHFhb2hudkktSkhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 18:27:07 GMT",
+   "summary": "US prosecutors focus on four businesses tied to billionaire Mark Walter, WSJ reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -324,17 +332,17 @@
   },
   {
    "source": "reuters-business",
-   "title": "Saudi Aramco offers crude outside Hormuz to some Asian refiners, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeW92d3NKRW1icGEtMkw0bEUtampSSkJRT05DWUhwMlozU3AtUTVESGdQMlNpRGtBM3ZYUVFQN0l3NnduZlByZ25GUnNJVVkxc29qQ3NYcnZ0TGRNM1ZQb0xOU3lZc0N0VFpDY1pXVkNVRlNPaDZYU2RiYW44Yk8ySHY1a3ItNjVYQUs3T0cwZ0VlQWhBNXVKWDdXUVZDM2tZOUo1WHJaU3lSR1JHRU4tQ0RrTi1xR1JZell5bVNKcTV2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 13:12:23 GMT",
-   "summary": "Saudi Aramco offers crude outside Hormuz to some Asian refiners, sources say &nbsp;&nbsp; Reuters",
+   "title": "Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3djNHpLcE13bUN0Ry01bnIyejBKQWdjQWtHcHZ5UjVzYlpNb3pib2RPcElvOVQ5RXNOd0RJcHRJcEZKN0xrZ3RzUHdkUTJla21TZDRnN3hwQUcwR2FuRy1hNUl6NkkzSjg2V2pIZmZMNFV5aUhJeUpaZUk1V3dZeGJwcjk1enJKcWJCbTFHZUk3bHN6SmctQ1hWN3Mtb3hiU1d3cXJVeW5PY2MwYWpEOXRYd1I3TU1yLWhiX1RKX3RUSnY1bEdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 17:41:33 GMT",
+   "summary": "Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajRKUDBRNldLY05VNW41RUVRX3c4SXpiZUcxdk1OMnh5NWtVbUlBaG1aNkZMZjVfTGZSbFd1LUliM1dMcmtkSFlFZ2NRc243UnRmaF9QMHY2bzg0cDI3WkZ2ZmpoNGpDeHcyQTRRVkRQcGRyZ01YcVVoT25HUEd3alFkcnd0eDZlTHp1MGtXcDVjXzRVUTNhX3A4OEVpN1ptUzF5YTNac2I5Y1NIQktrd3R6VDNUczVPTmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 14:50:34 GMT",
+   "published": "Mon, 17 Aug 2026 06:18:00 GMT",
    "summary": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -356,18 +364,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3djNHpLcE13bUN0Ry01bnIyejBKQWdjQWtHcHZ5UjVzYlpNb3pib2RPcElvOVQ5RXNOd0RJcHRJcEZKN0xrZ3RzUHdkUTJla21TZDRnN3hwQUcwR2FuRy1hNUl6NkkzSjg2V2pIZmZMNFV5aUhJeUpaZUk1V3dZeGJwcjk1enJKcWJCbTFHZUk3bHN6SmctQ1hWN3Mtb3hiU1d3cXJVeW5PY2MwYWpEOXRYd1I3TU1yLWhiX1RKX3RUSnY1bEdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 14:40:26 GMT",
-   "summary": "Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "West Africa cocoa sector struggles to meet EU anti-deforestation rules, raising supply concerns",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPejJSeDRUNDE1NUNwZWRoWlFLR2JXWFpsR0NZbEZrVlZZYVFsSmZFR2lEZ21rUmJxaUlKMl9VY2pJWjM1RXpZbUZ2bGlxQzNrd2QxQkl0SnpxUWZ5LUliVGZKQkExQnRMb0ExZXBPLTVCSV9FRmNhU01BU2t2VHdkRVYxdHZzZXVudndHM3hOX0dERnhkcWEtREZEVUdkdHpDUWhpX3c4SF9ZWkkyYUs5MzRPbzZFQlpwRVBuUGF3QVpfQjVvb3h2TkQ1WEg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 13:55:39 GMT",
-   "summary": "West Africa cocoa sector struggles to meet EU anti-deforestation rules, raising supply concerns &nbsp;&nbsp; Reuters",
+   "title": "Banks reach $86.4 million Mexican bond rigging settlement in Manhattan",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXF1cDNmejhNbUV0czJ6Mkl2SmZ2YlBabjhGU1hPY3dLNXlaaFZTdm4zTjUtMGZEVXFXQ0xSblowOFJ5SkpVTVRYbEllM3FRbkdZWnBzMlNYTEljdlp4RVkxanJRRldkZnhhclZQa1R0cmd5ZlVUZTYyTEZzWmNWaGVxVW5zMVRDdGUwTFRGZzQ4YmtjSmRLZ0NmMUJGNWcyTGxua0ZtMzBMOWt4TVBUM3N3SF9ZYVo3bUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 15:00:02 GMT",
+   "summary": "Banks reach $86.4 million Mexican bond rigging settlement in Manhattan &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,26 +380,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Europe's heatwaves expose insurance gap as business losses mount",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1I5Nno4ZTlfSzdpV1JwbVVMdDZtODFfaUl3SnJHZ1pGdW41M2hGVW9NUTd1ZWo2UW1iZkQ5cWVpcnQyY09GYnRFZ2l3QzBlN0NRWWZ1Skt4a1NzcnFUWlY0bi12OTZUNGdhblB0VFdrcDhOdWRuSm1EZlYzQUJ4YkQxdlpjeFNwTzZMWGZ4SmRtXzh2Vm9vWDRkMTdtSUR0ZlZCRjV2bnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 05:26:20 GMT",
-   "summary": "Europe's heatwaves expose insurance gap as business losses mount &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 15 Aug 2026 00:12:00 GMT",
+   "summary": "EXCLUSIVE Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
    "title": "China surprises oil markets again with a return to stockpiling in July",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 16:33:34 GMT",
+   "published": "Mon, 17 Aug 2026 01:21:09 GMT",
    "summary": "China surprises oil markets again with a return to stockpiling in July &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "S&P 500 inches lower as Middle East tensions outweigh tech gains",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 14:03:15 GMT",
-   "summary": "S&amp;P 500 inches lower as Middle East tensions outweigh tech gains &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -408,6 +400,14 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 09:18:51 GMT",
    "summary": "AI market correction is coming, ECB blog predicts &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Wall St mixed as Middle East tensions eclipse tech strength",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 16:01:59 GMT",
+   "summary": "Wall St mixed as Middle East tensions eclipse tech strength &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,10 +444,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb25yZW50Tkd2OWNLaXNJZ3N5Y2VnbmhPaUdrbnh5SjVZb1RIRWhlb0JiMlo5TV9oMHM4V243MU5zQkQ5VjhHZk1oakhvRDNHdFIyOUtCbjFJckVoR3hOTENwOWJHa2VIamZVSjVVSnFOR0I5WUh4ek1PbDd1TjMwZm5ZZzJOUVZoXzBZQkQxcWszNFlMNEItYm9CYjZhdXBMOEhiSnYycEE4LUVpeTgtNUVDcFNmN1BoT2RBdTNJQlYyajNz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 03:02:00 GMT",
-   "summary": "From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets &nbsp;&nbsp; Reuters",
+   "title": "Dollar falls against euro as markets trim rate hike bets",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 00:41:00 GMT",
+   "summary": "Dollar falls against euro as markets trim rate hike bets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,18 +468,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWVpNmZ4SENLdUxheHhSSFZZTHhaVC1POGJwQWRnY055WUswNl9FX04wd1YxZERMWE9Hb1VTc0VaOW5Ld3hnRUQwNTItRE9OWnZZdWwzYy05WUtHZFotSWpkcTNEQUZSLVFKMHhJNzN2aXJreHBzTzYwQXl1R1d1SWxiNUZWMUZ6eXN5TlNIVVdQajdjNzFBLVY0dDZJWVhNeEI0aHFnZzZ4SFg0YkVjUGhiVl9QUTdwXzJGcFl0alhoUTB1RzhjOGdnZl9UQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 14:49:00 GMT",
-   "summary": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "India opens nuclear sector to proven foreign technology",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDlheFE0eXlha2U3QTR5TUpFQU5iSFQ5d0NaVXZCdVNxbmI1cVE0emU1ZExfcl9nbDhmb1JFbS04NXQtMk9hVzFVNDZZVXV0cHJEVW5IWUNkbEhGWHhjMGVPRVNweFlmdkhpY1BaYmJDZmRRdzZxaUU0M19aNzBqeVlYY3lnZVlqWTc1WnBRXzRnNjZNdFh1TkR4U1NjWlZSUmF4aElNYngtNmhaSjVSZVIzX05rSzg2QTVhRjlaTVdyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 14 Aug 2026 19:59:15 GMT",
    "summary": "India opens nuclear sector to proven foreign technology &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWVpNmZ4SENLdUxheHhSSFZZTHhaVC1POGJwQWRnY055WUswNl9FX04wd1YxZERMWE9Hb1VTc0VaOW5Ld3hnRUQwNTItRE9OWnZZdWwzYy05WUtHZFotSWpkcTNEQUZSLVFKMHhJNzN2aXJreHBzTzYwQXl1R1d1SWxiNUZWMUZ6eXN5TlNIVVdQajdjNzFBLVY0dDZJWVhNeEI0aHFnZzZ4SFg0YkVjUGhiVl9QUTdwXzJGcFl0alhoUTB1RzhjOGdnZl9UQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 14:49:00 GMT",
+   "summary": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,10 +500,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnc2ZXQxTHpZQU1SNDdJczNXWUdBamNIaGxDXzY2dXlGUEFBMDQyM29WaERCSWdiRVB6Mm1tX0psSzhDUkh3Z25xamdDd0JfQ0JWMi1MZ3ZMcEZjMmpNSmo5TWVTVEdsa1RlSk82Z3BXVWJFSWxDdUhrMm4xczhWVEZzNlY4Rm91eFFtQjNsU3k0ckxKRmY2c1FGOV9XS0M3NFJ1THNRMF9hOThzZENsMDVLV3lDb1BfMk9pMg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 11 Aug 2026 23:08:42 GMT",
-   "summary": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations &nbsp;&nbsp; Reuters",
+   "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 15:52:24 GMT",
+   "summary": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
