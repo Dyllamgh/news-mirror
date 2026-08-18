@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-18T09:19:47Z",
- "count": 67,
+ "generated_at": "2026-08-18T11:01:05Z",
+ "count": 65,
  "items": [
   {
    "source": "nyt-world",
@@ -12,10 +12,34 @@
   },
   {
    "source": "nyt-world",
+   "title": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
+   "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
+   "published": "Tue, 18 Aug 2026 09:55:58 +0000",
+   "summary": "Intensifying restrictions have hit every part of the territory’s dealings, spurring worries about whether the Palestinian Authority can remain solvent.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
    "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
    "url": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
-   "published": "Tue, 18 Aug 2026 05:17:52 +0000",
+   "published": "Tue, 18 Aug 2026 09:19:25 +0000",
    "summary": "In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
+   "url": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
+   "published": "Tue, 18 Aug 2026 09:11:52 +0000",
+   "summary": "Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Six Years in Provence: An Ancient Castle and a Feud Over a Troublesome Bridge",
+   "url": "https://www.nytimes.com/2026/08/18/world/europe/provence-chateau-village-feud.html",
+   "published": "Tue, 18 Aug 2026 10:14:17 +0000",
+   "summary": "In a picturesque village, the mayor closed a road, setting off a storm with residents and the owners of a castle that once belonged to his family.",
    "full_text": ""
   },
   {
@@ -59,42 +83,10 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-   "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-   "published": "Mon, 17 Aug 2026 21:23:29 +0000",
-   "summary": "Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Barred From Ballot, a Party Becomes a Vessel for Russians’ Discontent",
-   "url": "https://www.nytimes.com/2026/08/17/world/europe/russia-yabloko-party-election.html",
-   "published": "Mon, 17 Aug 2026 19:39:22 +0000",
-   "summary": "The spotlight on the country’s only antiwar party has brought a spark to what had looked like another dull, tightly controlled election campaign.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Andy Burnham, UK Prime Minister, Exchanged Texts With Someone Posing as Trump’s Chief of Staff",
-   "url": "https://www.nytimes.com/2026/08/17/world/europe/andy-burnham-prime-minister-uk-fake-texts-trump.html",
-   "published": "Mon, 17 Aug 2026 12:32:44 +0000",
-   "summary": "Prime Minister Andy Burnham messaged briefly with a person impersonating Susie Wiles, a British government official said.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
-   "url": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
-   "published": "Tue, 18 Aug 2026 09:11:52 +0000",
-   "summary": "Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-business",
    "title": "What’s in an Airport Code? In West Palm Beach, It’s the President’s Initials.",
    "url": "https://www.nytimes.com/2026/08/18/travel/palm-beach-president-donald-trump-airport.html",
-   "published": "Tue, 18 Aug 2026 09:02:50 +0000",
+   "published": "Tue, 18 Aug 2026 09:02:51 +0000",
    "summary": "The state’s Palm Beach International Airport has been renamed for the president, complete with a rare change in its three-letter airport code.",
    "full_text": ""
   },
@@ -198,7 +190,7 @@
    "source": "nyt-technology",
    "title": "The Blackout That Could Devastate America",
    "url": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html",
-   "published": "Tue, 18 Aug 2026 09:01:49 +0000",
+   "published": "Tue, 18 Aug 2026 10:47:03 +0000",
    "summary": "The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.",
    "full_text": ""
   },
@@ -228,14 +220,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "US judge orders release of woman accused of vandalism at World War Two Memorial",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGhYZnVYR3gyVERmbGVkOE54MnlKLUg0dXM4ZFJMWjc5WXh2MS1JOW5QbThwbDZrRjlpUjh3M1VYVDB0Q2FrVDhFNkY1b1lFNlJDME9teFpUU0JBdUN5dXBsaE1hNUNCTjFLUzl6allTYlJQODZEbEdHeXBjSHRjNzc3aHhKZC1OdjdsSU1Xc3llZmNrd2lBbFBuNVB6V2stWXozZEZBM0FyOHh3UWlSTU02eWRhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 01:45:00 GMT",
-   "summary": "US judge orders release of woman accused of vandalism at World War Two Memorial &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Garcia blames Belgium’s doctors for World Cup struggles",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmFJb0JOMWROdnNjQTl2TDFwOFB1QzN6S1d6ZTUydVZQYzVfVVc5OEpQaUEtVjVnQlNLWmVyaW9RWGh3dVU2ZFJyd1l0WVVIVVNzVHh3cldzaXVBU0VISDBDU1FxdE9xTHY2WHJJdGt2dFAyZllncmM5S0lpN256YWVKck4zdzJUVm0wR3RhWkR4cUttanpma0N0aFBiYzAya2c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 19:33:00 GMT",
@@ -244,10 +228,26 @@
   },
   {
    "source": "reuters-world",
+   "title": "US judge orders release of woman accused of vandalism at World War Two Memorial",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGhYZnVYR3gyVERmbGVkOE54MnlKLUg0dXM4ZFJMWjc5WXh2MS1JOW5QbThwbDZrRjlpUjh3M1VYVDB0Q2FrVDhFNkY1b1lFNlJDME9teFpUU0JBdUN5dXBsaE1hNUNCTjFLUzl6allTYlJQODZEbEdHeXBjSHRjNzc3aHhKZC1OdjdsSU1Xc3llZmNrd2lBbFBuNVB6V2stWXozZEZBM0FyOHh3UWlSTU02eWRhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 01:45:00 GMT",
+   "summary": "US judge orders release of woman accused of vandalism at World War Two Memorial &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 10:04:00 GMT",
    "summary": "Trump crypto firm backs venture offering AI from restricted Chinese companies &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 18:47:00 GMT",
+   "summary": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,26 +268,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 18:47:00 GMT",
-   "summary": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 01:51:00 GMT",
-   "summary": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "China's Unitree unveils 'Superman' robot as fervour builds ahead of Shanghai debut",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnNhSnVxWm9qdEhnUThPOU0yMGlfdTNkX3pzMU9tSnFsdGh2dURudDVOV1UyUTJIblpEV19iMUdqMGJITVc1eUI3SVA4MDRpOTNhQVo3RThxVWdNaHc2SjQ3ejBvOU05ZU1FWkhkbjZRN0NjUmVwWDZackZCYkhIZ2ktVjJFR1QzRzRBaEF3aTc2bVJHOUptOW43QkU0clBsc2FCREQ0Mm12cmMydWk3RHZzRkVfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 13:50:15 GMT",
    "summary": "China's Unitree unveils 'Superman' robot as fervour builds ahead of Shanghai debut &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 01:51:00 GMT",
+   "summary": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,10 +292,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Indian banks fast-track dollar fundraising after RBI moves FX swap window deadline",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFc4cHg1RGFYUFh6WHh6T0YtLU5IdUFObUhmYkR5YkVoRjR5UkJOMzk0N05sTi1aVF90a1p4aWxjUlVLbWN4YWFEb1FrMTRzRHl1MVpQdmJwRkVtV29wQXMtMW5KeVl3R0x6S056eDFQSzVHZ3hnc1FDRjMyV2xVbklLNHFtM1F6MUJFMG0tdUZlZXhiM3FVVi1oSW1VZHJnYURVQzA5QTZjSW5Bci1iWHdkNElFZUxVYmo0LTB3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 11:27:43 GMT",
-   "summary": "Indian banks fast-track dollar fundraising after RBI moves FX swap window deadline &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 21:09:00 GMT",
+   "summary": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,14 +308,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "US, Canada try to bridge gaps over potential autos tariff cuts, sources say",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSm5ZNExMMzV0SmI1LTlhYjF5aXJBQl9XMG9VeFFCQ2RuZDIzN2R6R0txOF9IZmdjVFg4TUtKWVdrN19iS2VVZzRVWmdybGRNWkVqNVdqS2tCaV8xY3BNUW9xaWY2R1p2SnJWcnJDdjRkTWlHS1A0S1dGaHM5Q3oxdlpJV1Ita1pScTNqY2N0Rl90YXJZQmdQakd6cWd2R2N0UDRjMlV3cjFBU1lUZXhwMHRLZUZLdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 21:35:54 GMT",
-   "summary": "US, Canada try to bridge gaps over potential autos tariff cuts, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "L3Harris ousts CEO Kubasik over conduct breach, names insider Mehta as replacement",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFNybGl1cWJiVThKUWVveG9waWY1cjdXc2hsRDZxMGlXTTFfektkcXBLZUV1Vml5dHZlSEhwVlVHaGc3QlNvOVkxRDI3M1RFcnQxekhoS0J4NzRKTVRSalVXc2Z0bkVsQjlaRnFNOWNGTGhBa1Izc29MT2lfSWFHakhwNlAyS1RvUmJ0V2lKS043LTRTZzdxYlNILWJrNXFMbEVVcW9SVVRQYWk4WjB2V2ZPczZtb0Q3TFNPQkNGbUJ6TXJ5RXpzNzhR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 19:29:11 GMT",
@@ -332,10 +316,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "US prosecutors focus on four businesses tied to billionaire Mark Walter, WSJ reports",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2pOdmhCampySWUzY0tFVzczS1VNUUJSWU4ycVdacTVfNjR6aUpvak5NMk8yelBDTl9IM3l4eVhqVFpuN01KNnk4OG8tX3hwZndQNWJWVHgxWUhTRGd0dVp6MzRwWUYwWk82SjNjZFpuZ293NmdkWkVZQ0lGVTZaM1prMEt2Y0tIRzhFbTVLVlVwY1I1ck9KLTBGeHRKcHRUYWxRSkRnc3pEd1pZc2JwMlp3WjBlRF9qZWNrcGVMOHFhb2hudkktSkhB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 18:27:07 GMT",
-   "summary": "US prosecutors focus on four businesses tied to billionaire Mark Walter, WSJ reports &nbsp;&nbsp; Reuters",
+   "title": "US, Canada try to bridge gaps over potential autos tariff cuts, sources say",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSm5ZNExMMzV0SmI1LTlhYjF5aXJBQl9XMG9VeFFCQ2RuZDIzN2R6R0txOF9IZmdjVFg4TUtKWVdrN19iS2VVZzRVWmdybGRNWkVqNVdqS2tCaV8xY3BNUW9xaWY2R1p2SnJWcnJDdjRkTWlHS1A0S1dGaHM5Q3oxdlpJV1Ita1pScTNqY2N0Rl90YXJZQmdQakd6cWd2R2N0UDRjMlV3cjFBU1lUZXhwMHRLZUZLdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 21:35:54 GMT",
+   "summary": "US, Canada try to bridge gaps over potential autos tariff cuts, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,18 +332,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Emerging markets march out of 'valley of tears' as investors diversify",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 06:04:00 GMT",
-   "summary": "Emerging markets march out of 'valley of tears' as investors diversify &nbsp;&nbsp; Reuters",
+   "title": "US prosecutors focus on four businesses tied to billionaire Mark Walter, WSJ reports",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2pOdmhCampySWUzY0tFVzczS1VNUUJSWU4ycVdacTVfNjR6aUpvak5NMk8yelBDTl9IM3l4eVhqVFpuN01KNnk4OG8tX3hwZndQNWJWVHgxWUhTRGd0dVp6MzRwWUYwWk82SjNjZFpuZ293NmdkWkVZQ0lGVTZaM1prMEt2Y0tIRzhFbTVLVlVwY1I1ck9KLTBGeHRKcHRUYWxRSkRnc3pEd1pZc2JwMlp3WjBlRF9qZWNrcGVMOHFhb2hudkktSkhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 18:27:07 GMT",
+   "summary": "US prosecutors focus on four businesses tied to billionaire Mark Walter, WSJ reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Europe's heatwaves expose insurance gap as business losses mount",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1I5Nno4ZTlfSzdpV1JwbVVMdDZtODFfaUl3SnJHZ1pGdW41M2hGVW9NUTd1ZWo2UW1iZkQ5cWVpcnQyY09GYnRFZ2l3QzBlN0NRWWZ1Skt4a1NzcnFUWlY0bi12OTZUNGdhblB0VFdrcDhOdWRuSm1EZlYzQUJ4YkQxdlpjeFNwTzZMWGZ4SmRtXzh2Vm9vWDRkMTdtSUR0ZlZCRjV2bnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 16 Aug 2026 05:26:20 GMT",
-   "summary": "Europe's heatwaves expose insurance gap as business losses mount &nbsp;&nbsp; Reuters",
+   "title": "Emerging markets march out of 'valley of tears' as investors diversify",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 06:04:00 GMT",
+   "summary": "Emerging markets march out of 'valley of tears' as investors diversify &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,10 +364,26 @@
   },
   {
    "source": "reuters-business",
+   "title": "Europe's heatwaves expose insurance gap as business losses mount",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1I5Nno4ZTlfSzdpV1JwbVVMdDZtODFfaUl3SnJHZ1pGdW41M2hGVW9NUTd1ZWo2UW1iZkQ5cWVpcnQyY09GYnRFZ2l3QzBlN0NRWWZ1Skt4a1NzcnFUWlY0bi12OTZUNGdhblB0VFdrcDhOdWRuSm1EZlYzQUJ4YkQxdlpjeFNwTzZMWGZ4SmRtXzh2Vm9vWDRkMTdtSUR0ZlZCRjV2bnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 16 Aug 2026 05:26:20 GMT",
+   "summary": "Europe's heatwaves expose insurance gap as business losses mount &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "New Zealand's a2 Milk tumbles on weak earnings forecast, profit miss",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHFOWHVVU0lFLVVlWTJUeURqd3hnSFB4WGNnMkNVWmFtalFadGZUN2dleEhQeGtEcUl3TmI1bEMxaFRZOXp6OWN2QnUtaFl6TlFsYnU5akMxNVBxbmNIRWR5cUZYT3hBdFMzd3RVa1ZKbkd0a1ZkeFJvRC16UEx2WExOeFNuWmt4ZzN5UVVoc0dQRmRCYXl5bG44VlBXbEFOQTh2eDN0WThzbzloWDdyWEFn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 16 Aug 2026 21:05:00 GMT",
    "summary": "New Zealand's a2 Milk tumbles on weak earnings forecast, profit miss &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Selling grips bond markets from US to Japan as inflation, fiscal worries take hold",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxrV2hFeTRkQjZmS2pjcmpEM1VJd2tTc2lkT1NxVjJ3c0Jpa2ZNQzJ3eFlSa1BoV3pQN3VLNzZEUHM0SHZHMURHLUthd21TV0R6TkY5N0lfR1pKRnRGZGpFc1FzamJfT1l2Q1pYQXloZ25LYWdxOHhQcndkZ21xU1lXZFJwc0ZOcnVqWUkyejNUdVcyWWlORW9rdzZORlJCZjZHMWZNX0tKYU44bDJReUpMcVNlOFBNd0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 07:51:43 GMT",
+   "summary": "Selling grips bond markets from US to Japan as inflation, fiscal worries take hold &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,14 +404,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive'",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TkUySkxRRHMtX3JyMWRJOUFZbjZwMkFiTG1wRlctaWNpZXJXOFppdHlPTjBTT2ptNHJqOFRTRjdDOWUtNzZfY0tQVllfaFlxd3dJRWxncnFrcGdLR0xQVFVmLS1tUmFLYklQbzc3UF9wVmltRkdrcUpUbGNYeVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 04:37:00 GMT",
-   "summary": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Bonds, stocks jolted as Middle East tensions shatter market calm",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 18 Aug 2026 01:16:00 GMT",
@@ -420,10 +412,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Gold slips on firmer Treasury yields, oil prices; Fed minutes in focus",
+   "title": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive'",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TkUySkxRRHMtX3JyMWRJOUFZbjZwMkFiTG1wRlctaWNpZXJXOFppdHlPTjBTT2ptNHJqOFRTRjdDOWUtNzZfY0tQVllfaFlxd3dJRWxncnFrcGdLR0xQVFVmLS1tUmFLYklQbzc3UF9wVmltRkdrcUpUbGNYeVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 04:42:12 GMT",
+   "summary": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Gold slips as oil, bond yields climb on waning US-Iran peace hopes",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 18 Aug 2026 01:05:00 GMT",
-   "summary": "Gold slips on firmer Treasury yields, oil prices; Fed minutes in focus &nbsp;&nbsp; Reuters",
+   "summary": "Gold slips as oil, bond yields climb on waning US-Iran peace hopes &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -451,27 +451,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "China surprises oil markets again with a return to stockpiling in July",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 00:21:07 GMT",
-   "summary": "China surprises oil markets again with a return to stockpiling in July &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-tech",
    "title": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1dTS0lqOUpOSzY0S1R0eGJWS21MajNPNXVySXpTMkdWRVVhcXN5cWk0dnFnZkxEdUdrS1ZEZ2g3LXpjZFdqZVhERGdUSURLVTE2MUNOTHRNSFhTcmNoY3dMSzFfMnAxamx2Q3NQYXdlNWlJM0hjUF92REN3WE1hZUtEUzQ3SnJ2VXplS25nbm5zMWZyNnBqbktmMXVPZl9xWUVBRnJTMWJGTE1YZUdJTncza1lFLWxjaFFfcA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 19:24:31 GMT",
    "summary": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 15 Aug 2026 13:26:35 GMT",
-   "summary": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,22 +492,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "India opens nuclear sector to proven foreign technology",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDlheFE0eXlha2U3QTR5TUpFQU5iSFQ5d0NaVXZCdVNxbmI1cVE0emU1ZExfcl9nbDhmb1JFbS04NXQtMk9hVzFVNDZZVXV0cHJEVW5IWUNkbEhGWHhjMGVPRVNweFlmdkhpY1BaYmJDZmRRdzZxaUU0M19aNzBqeVlYY3lnZVlqWTc1WnBRXzRnNjZNdFh1TkR4U1NjWlZSUmF4aElNYngtNmhaSjVSZVIzX05rSzg2QTVhRjlaTVdyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 19:59:15 GMT",
-   "summary": "India opens nuclear sector to proven foreign technology &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0FCdTI1SGh5eDRUY3I3MVF3amRXWU1aV3RrWC1kM01zR0Z6WWl0cGs4Rmk0U3lfeVpOU2FkM081ZUNHN0hFa3c3U0FuR21nWVJ5MzZyMWlxRWUyVG1mTzVSMjc4VWM5ZlFtbTFCbjM0dFdvbXlLeDFXOEJQbDU3MUhGSm9WZlpBTTFnY3FPNDRDRXBxbjFCT2pZWVZKM0VkMTd2dVloQ19SdGpCamJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 14 Aug 2026 18:29:43 GMT",
-   "summary": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Xi pitches China as leader of new global AI order, challenging US dominance",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVpoVTlwUHY0LXNXd19nbFlNWVZoWDdQeVVFSi1ISkZzYVI1YUlzQTR6OXd3XzNhWDhsaTRkdnByczNqMlE4bm1JTHhyaEk2VXhrUDRFdmVjdHN3RW9FZU1OTW5aMnMzTmk1VW5sMUNGTkhYYVc1LUN5bUJJWkNBdUJFSU0wNUZyMDdtZklkRkJPLXBTRlhHQmZ1S1dQSVdTZ3l4OC13TE5aVWNBSUZfeHpfRVRwTG9hdzFKWkdVa2RfaVoxeWpr?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 17 Jul 2026 07:00:00 GMT",
@@ -536,6 +504,22 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsc1JxYWZtanlYeGRJWTg2Y0pqVmRQTlJtTEs3UGxTSXc2YnpCaVc1bWtEWmg0RW4wUUd6M0lRUXNHOVU1YkM2X0lOVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 26 May 2016 05:11:17 GMT",
    "summary": "Tech News | Today's Latest Technology News &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "India opens nuclear sector to proven foreign technology",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDlheFE0eXlha2U3QTR5TUpFQU5iSFQ5d0NaVXZCdVNxbmI1cVE0emU1ZExfcl9nbDhmb1JFbS04NXQtMk9hVzFVNDZZVXV0cHJEVW5IWUNkbEhGWHhjMGVPRVNweFlmdkhpY1BaYmJDZmRRdzZxaUU0M19aNzBqeVlYY3lnZVlqWTc1WnBRXzRnNjZNdFh1TkR4U1NjWlZSUmF4aElNYngtNmhaSjVSZVIzX05rSzg2QTVhRjlaTVdyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 19:59:15 GMT",
+   "summary": "India opens nuclear sector to proven foreign technology &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0FCdTI1SGh5eDRUY3I3MVF3amRXWU1aV3RrWC1kM01zR0Z6WWl0cGs4Rmk0U3lfeVpOU2FkM081ZUNHN0hFa3c3U0FuR21nWVJ5MzZyMWlxRWUyVG1mTzVSMjc4VWM5ZlFtbTFCbjM0dFdvbXlLeDFXOEJQbDU3MUhGSm9WZlpBTTFnY3FPNDRDRXBxbjFCT2pZWVZKM0VkMTd2dVloQ19SdGpCamJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 14 Aug 2026 18:29:43 GMT",
+   "summary": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
