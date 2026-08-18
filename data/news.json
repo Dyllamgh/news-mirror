@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-18T20:55:21Z",
- "count": 68,
+ "generated_at": "2026-08-18T22:56:16Z",
+ "count": 69,
  "items": [
   {
    "source": "nyt-world",
    "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
    "url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
-   "published": "Tue, 18 Aug 2026 19:37:46 +0000",
+   "published": "Tue, 18 Aug 2026 20:55:38 +0000",
    "summary": "They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.",
    "full_text": ""
   },
@@ -38,8 +38,8 @@
    "source": "nyt-world",
    "title": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
    "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
-   "published": "Tue, 18 Aug 2026 19:51:33 +0000",
-   "summary": "American and Syrian officials said Israel carried out the attack, the latest in a series of military interventions in Syria over the past two years.",
+   "published": "Tue, 18 Aug 2026 21:16:37 +0000",
+   "summary": "The attack was the latest in a series of Israeli military interventions in Syria over the past two years.",
    "full_text": ""
   },
   {
@@ -52,9 +52,9 @@
   },
   {
    "source": "nyt-world",
-   "title": "It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs",
+   "title": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
    "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
-   "published": "Tue, 18 Aug 2026 20:24:09 +0000",
+   "published": "Tue, 18 Aug 2026 22:19:53 +0000",
    "summary": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?",
    "full_text": ""
   },
@@ -80,6 +80,22 @@
    "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
    "published": "Mon, 17 Aug 2026 20:38:44 +0000",
    "summary": "Ukrainian drone teams have a powerful new tool: near real-time information on troop movements and locations.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Theater Chains Back Paramount-Warner Deal That States Say Will Hurt Them",
+   "url": "https://www.nytimes.com/2026/08/18/business/cinemark-paramount-warner-deal-movie-theater-chains.html",
+   "published": "Tue, 18 Aug 2026 21:59:12 +0000",
+   "summary": "America’s three largest movie theater companies have lined up behind David Ellison’s $111 billion merger of Paramount and Warner Bros. Discovery.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "In a Big Pivot, Seat-Back Screens Are Returning at American Airlines",
+   "url": "https://www.nytimes.com/2026/08/18/travel/american-airlines-seatback-screens.html",
+   "published": "Tue, 18 Aug 2026 21:34:15 +0000",
+   "summary": "In an announcement on Tuesday, the carrier promised screens at every seat in its narrow-body fleet, along with an expansion of its premium seating.",
    "full_text": ""
   },
   {
@@ -147,11 +163,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
-   "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
-   "published": "Tue, 18 Aug 2026 19:17:52 +0000",
-   "summary": "Yields on the 30-year U.S. Treasury and government bonds across the world rose to multiyear highs as investors fret about inflation, deficits and A.I. spending.",
+   "source": "nyt-technology",
+   "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job",
+   "url": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html",
+   "published": "Tue, 18 Aug 2026 21:53:47 +0000",
+   "summary": "The agency joins a growing number of workplaces and groups to ban Meta’s devices, which have spurred privacy concerns.",
    "full_text": ""
   },
   {
@@ -180,10 +196,10 @@
   },
   {
    "source": "nyt-technology",
-   "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
-   "url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
-   "published": "Mon, 17 Aug 2026 19:51:10 +0000",
-   "summary": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.",
+   "title": "Apple Removes Some Fees for App Developers in European Union",
+   "url": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
+   "published": "Tue, 18 Aug 2026 21:47:23 +0000",
+   "summary": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
    "full_text": ""
   },
   {
@@ -204,6 +220,14 @@
   },
   {
    "source": "nyt-technology",
+   "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+   "url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+   "published": "Mon, 17 Aug 2026 19:51:10 +0000",
+   "summary": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
    "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
    "published": "Sat, 15 Aug 2026 09:30:14 +0000",
@@ -216,30 +240,6 @@
    "url": "https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html",
    "published": "Fri, 14 Aug 2026 11:00:04 +0000",
    "summary": "“The first rule of Mark Zuckerberg is never count out Mark Zuckerberg.”",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Chatbots Are Pushing Us Toward a Post-Human Internet",
-   "url": "https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html",
-   "published": "Fri, 14 Aug 2026 09:00:28 +0000",
-   "summary": "In matters of work, school and even romance, we turn to A.I. chatbots. But what happens when the bots begin talking to one another?",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Judge Affirms Settlement Allowing HPE’s Deal for Juniper",
-   "url": "https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html",
-   "published": "Thu, 13 Aug 2026 22:50:07 +0000",
-   "summary": "States had opposed an agreement allowing a Hewlett Packard Enterprise acquisition, calling the settlement ineffective and corrupt.",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl80VzVqWWhtWWUyN2FiTTF6SE1DNGVSSUk2N2QyU2RJUmFEaEJ2UFQ3WDJGeF9DLWJBenhrMk9jTUZYcV9EQURmSU9ZMV9VbFoyY2E1U2xhWktPXzZFX195ekpRQlFxRkdsTXlfREw2N2pDN1VpVjUtOTc2SUFybVRjcGtqUTE5WjZ1dy1CaGtyQ1M2RFgtRTVIUXdQZExmM3BDTElUMHhIdWM5YURKUUJOc3ZySTBQZnpUMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 10:17:46 GMT",
-   "summary": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
@@ -276,18 +276,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "US judge orders release of woman accused of vandalism at World War Two Memorial - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGhYZnVYR3gyVERmbGVkOE54MnlKLUg0dXM4ZFJMWjc5WXh2MS1JOW5QbThwbDZrRjlpUjh3M1VYVDB0Q2FrVDhFNkY1b1lFNlJDME9teFpUU0JBdUN5dXBsaE1hNUNCTjFLUzl6allTYlJQODZEbEdHeXBjSHRjNzc3aHhKZC1OdjdsSU1Xc3llZmNrd2lBbFBuNVB6V2stWXozZEZBM0FyOHh3UWlSTU02eWRhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 01:45:00 GMT",
-   "summary": "US judge orders release of woman accused of vandalism at World War Two Memorial &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "How US military funding propelled China’s robot dogs - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 18 Aug 2026 16:13:58 GMT",
    "summary": "How US military funding propelled China’s robot dogs &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "US judge orders release of woman accused of vandalism at World War Two Memorial - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGhYZnVYR3gyVERmbGVkOE54MnlKLUg0dXM4ZFJMWjc5WXh2MS1JOW5QbThwbDZrRjlpUjh3M1VYVDB0Q2FrVDhFNkY1b1lFNlJDME9teFpUU0JBdUN5dXBsaE1hNUNCTjFLUzl6allTYlJQODZEbEdHeXBjSHRjNzc3aHhKZC1OdjdsSU1Xc3llZmNrd2lBbFBuNVB6V2stWXozZEZBM0FyOHh3UWlSTU02eWRhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 01:45:00 GMT",
+   "summary": "US judge orders release of woman accused of vandalism at World War Two Memorial &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
@@ -315,27 +315,27 @@
    "full_text": ""
   },
   {
+   "source": "reuters-world",
+   "title": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl80VzVqWWhtWWUyN2FiTTF6SE1DNGVSSUk2N2QyU2RJUmFEaEJ2UFQ3WDJGeF9DLWJBenhrMk9jTUZYcV9EQURmSU9ZMV9VbFoyY2E1U2xhWktPXzZFX195ekpRQlFxRkdsTXlfREw2N2pDN1VpVjUtOTc2SUFybVRjcGtqUTE5WjZ1dy1CaGtyQ1M2RFgtRTVIUXdQZExmM3BDTElUMHhIdWM5YURKUUJOc3ZySTBQZnpUMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 10:17:46 GMT",
+   "summary": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US yields edge lower despite Iran worries, broader sell-off - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaERYcG1nTmtNcy1ia2hGekZQaVp4X1Y5RHlab3QydTVDV2tfSVZmQnctVC1iaWFmZ2xJRmN6U3pzNk1wdUx1VlpQWmF6WTZsdmtfdmF3SmpGUWYzMzluM3JEVVBVTmZXU2NfMG9lcjRzUktxWEZNZDZxbTE1Q2FkVmd4Mmd3ekpxeHY3RWtpRC14QmV0SktSNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 21:20:27 GMT",
+   "summary": "US yields edge lower despite Iran worries, broader sell-off &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
    "source": "reuters-business",
    "title": "Google to buy Spirit Airlines business data for $10 million - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdnWlluQk1VZVE5ZmtsUlg2ZDRleS1xOWRtQjJDSmtaUjdMOGxmNVNQc1NWTVJGc2ItZjNwSS1fdWJVMVBFbHlySU1QT3lDcVFPUE9fZTFNMHI2WXlDOUdpSUdwOV9UdkJfWTc3OWE0RnBnd3hNS0lTenk2NEtGZkhtWElwdmZxNnduSWYxMUI3OG5KUjNUZzlJZndVWEFxSGR3RTBwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 21:23:00 GMT",
    "summary": "Google to buy Spirit Airlines business data for $10 million &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US yields rise amid Iran worries, broader selloff - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaERYcG1nTmtNcy1ia2hGekZQaVp4X1Y5RHlab3QydTVDV2tfSVZmQnctVC1iaWFmZ2xJRmN6U3pzNk1wdUx1VlpQWmF6WTZsdmtfdmF3SmpGUWYzMzluM3JEVVBVTmZXU2NfMG9lcjRzUktxWEZNZDZxbTE1Q2FkVmd4Mmd3ekpxeHY3RWtpRC14QmV0SktSNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 15:00:13 GMT",
-   "summary": "US yields rise amid Iran worries, broader selloff &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "As retail stagnates, ad dollars help Walmart stay the course - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVBxd1RGMko2VG1uRWhIaHRkbzRRaEp5VG9yZjdkdWY1SjJRRUowZEE1dXRRV0FQZUVER3ZpNmFTSkFPU2NGTE41Uk9kN2lodGdXa2ttZnE1Q2pId1BKelBDY1V4TTRkTURNN3pxR2JMM0phMDdTTTE1T0NHVHBiVVJEamdxX0pZcTFqTWRUem1Ka3MySGtSM0J3SmFFTEQ0VWhHd1M4U3ZsNk9uSUFQYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 10:05:45 GMT",
-   "summary": "As retail stagnates, ad dollars help Walmart stay the course &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
@@ -348,10 +348,26 @@
   },
   {
    "source": "reuters-business",
+   "title": "As retail stagnates, ad dollars help Walmart stay the course - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVBxd1RGMko2VG1uRWhIaHRkbzRRaEp5VG9yZjdkdWY1SjJRRUowZEE1dXRRV0FQZUVER3ZpNmFTSkFPU2NGTE41Uk9kN2lodGdXa2ttZnE1Q2pId1BKelBDY1V4TTRkTURNN3pxR2JMM0phMDdTTTE1T0NHVHBiVVJEamdxX0pZcTFqTWRUem1Ka3MySGtSM0J3SmFFTEQ0VWhHd1M4U3ZsNk9uSUFQYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 10:05:45 GMT",
+   "summary": "As retail stagnates, ad dollars help Walmart stay the course &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Airbus targets A350F maiden flight in September, sources say - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNblhvYTNVdV90OE1kWHRTbEhYa0dpZThVb2VqeUQtZnhicG5tMTc2bUE3a1ZJNVpTREgxSWF2Sk5ES2l0YnREU0Y1MGtWM2IxRm9qQWpRMXAtNTloTHhUVkNWcW81SkR6UGQ1LURtVEJvT3BGNjFXdWxqeUN0aUN1X1FCUnFGVlE3bDUtbFpqTlo2SE44ckpCbmxOVHlkN1dFTXRjTDhpOGd4eGpJRUlhVmlwQTgtSk5uYXBz?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 18 Aug 2026 15:45:25 GMT",
    "summary": "Airbus targets A350F maiden flight in September, sources say &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "L3Harris ousts CEO Kubasik over conduct breach, names insider Mehta as replacement - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFNybGl1cWJiVThKUWVveG9waWY1cjdXc2hsRDZxMGlXTTFfektkcXBLZUV1Vml5dHZlSEhwVlVHaGc3QlNvOVkxRDI3M1RFcnQxekhoS0J4NzRKTVRSalVXc2Z0bkVsQjlaRnFNOWNGTGhBa1Izc29MT2lfSWFHakhwNlAyS1RvUmJ0V2lKS043LTRTZzdxYlNILWJrNXFMbEVVcW9SVVRQYWk4WjB2V2ZPczZtb0Q3TFNPQkNGbUJ6TXJ5RXpzNzhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 19:29:11 GMT",
+   "summary": "L3Harris ousts CEO Kubasik over conduct breach, names insider Mehta as replacement &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
@@ -364,10 +380,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "L3Harris ousts CEO Kubasik over conduct breach, names insider Mehta as replacement - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFNybGl1cWJiVThKUWVveG9waWY1cjdXc2hsRDZxMGlXTTFfektkcXBLZUV1Vml5dHZlSEhwVlVHaGc3QlNvOVkxRDI3M1RFcnQxekhoS0J4NzRKTVRSalVXc2Z0bkVsQjlaRnFNOWNGTGhBa1Izc29MT2lfSWFHakhwNlAyS1RvUmJ0V2lKS043LTRTZzdxYlNILWJrNXFMbEVVcW9SVVRQYWk4WjB2V2ZPczZtb0Q3TFNPQkNGbUJ6TXJ5RXpzNzhR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 19:29:11 GMT",
-   "summary": "L3Harris ousts CEO Kubasik over conduct breach, names insider Mehta as replacement &nbsp;&nbsp; reuters.com",
+   "title": "China's state shippers deploy oil tankers outside Gulf, avoid chokepoints, sources say - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWW02TjlHQUZwRXJZd29PczBMRFpLUkhMbk9oVWNnSXg2X0NLOVhxUF9YQTJvRENzcGo4WnBsbnFEZGNlZ1dHcm1KWnhqSjllU2RjTXBOd3VvQUpoN0dDeTYtSXYyNFhWWXdXLTR3M0c0Y0ZvSkFSSlhLT29iZk5DQ1BuVno4eERCSnVmQVluRElScUpxV2R5V2FKYVVBUVRIQnBxZkFSZnp2RUN2eU5OTnZ3aXZEU3ZQZTNqZ29qNlJ0b0l5ajdZYWNtaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 07:59:38 GMT",
+   "summary": "China's state shippers deploy oil tankers outside Gulf, avoid chokepoints, sources say &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
@@ -387,11 +403,27 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "US, Canada try to bridge gaps over potential autos tariff cuts, sources say - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSm5ZNExMMzV0SmI1LTlhYjF5aXJBQl9XMG9VeFFCQ2RuZDIzN2R6R0txOF9IZmdjVFg4TUtKWVdrN19iS2VVZzRVWmdybGRNWkVqNVdqS2tCaV8xY3BNUW9xaWY2R1p2SnJWcnJDdjRkTWlHS1A0S1dGaHM5Q3oxdlpJV1Ita1pScTNqY2N0Rl90YXJZQmdQakd6cWd2R2N0UDRjMlV3cjFBU1lUZXhwMHRLZUZLdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 21:35:54 GMT",
-   "summary": "US, Canada try to bridge gaps over potential autos tariff cuts, sources say &nbsp;&nbsp; reuters.com",
+   "source": "reuters-markets",
+   "title": "Trading Day: Bonds slam stocks - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhrWTdQM0VHLXhpVXBwdm1sWW1PTVJ2V3JfRHVqV0ZrSGpvcG5PTTFVZ2Q2bFo2elRmTnR1UXVKaWlSNTYxR095TnpKRDJvT21OSV94LUUyQ09hcXdnYUtSN213akNlTVNlSVE2dXlZRHVwY3RqSmpkclRwM0dKYVlRRHkwY2psOW5ob0RiTW5aU0lvbU1uWWdkMlZsVlBDQWVteE13?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 21:06:02 GMT",
+   "summary": "Trading Day: Bonds slam stocks &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Explainer: Treasury yields are rising - why does it matter? - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2hqY3NCTUdIbGJoZUR6aXVTVXlZUFZPVFNmc3dFcTUwRGkwcG1DRW1rZHlLTGV4WWdaV2xielR5WTZhcUdnNEYyX2pmcTcyRmFZYzQtVThYeDBKb3JHUEJkc1VuamNUbV80ckhHcURLVEMwcmpUSE4yRHJmLUtYMEprWEZhQ1d3cFdyMElEbTdxLVAtMVQ2YjZSVzIxUlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 19:36:16 GMT",
+   "summary": "Explainer: Treasury yields are rising - why does it matter? &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "AI chip startup Etched doubles valuation to $21 billion in under a month - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 18:41:39 GMT",
+   "summary": "AI chip startup Etched doubles valuation to $21 billion in under a month &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
@@ -412,6 +444,14 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Chip designer Velaura AI valued at more than $1 billion in funding round - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX28yMGo4RXFXbUVkRHBvQnpCNVlQX3JEOC1TRlFsR3hJMVFPM3JrNENOM3ZRalJiVU55SlFVM19sR25XWFhnZzFlRWNlR1AtWUc1QTViVmItdEZpWXpVVGFfOXFuc0xfc0dlUnBQalAxR1Jfam12VlVqV3VGS0VBdjlvcGV6RmFPMjJVbFB4MUU0UkhqdDFEamJkaEFITEhYSERldEpUZVg4ZmtUNC1UcURfRmc3QUxSUEViMGdwVThKWTdGVXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 18:38:43 GMT",
+   "summary": "Chip designer Velaura AI valued at more than $1 billion in funding round &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Morning Bid: Yields give way - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbzd0djlpMGQ3NlRiOG1GNTZUbGx0SGxWcGdsQk5rYWlfQi16YTZ5QUM2U0pyNGRWLWNRWVNFOTN0eVU0X25xSWlRdTczRVpaQ1NDVGlWVk05V0tQaHNGWkJRRnRZTjFaa2xtUWJfc2FMZkI3MDdOb1JhNnFGRzVmWWhobF9hZjI2NjhON21uQjZkR0JlbHRr?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 18 Aug 2026 10:37:43 GMT",
@@ -420,26 +460,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Tech selloff pulls Wall Street to two-week lows as bond yields climb - reuters.com",
+   "title": "Tech selloff weighs down Wall Street as bond yields climb - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 18:58:42 GMT",
-   "summary": "Tech selloff pulls Wall Street to two-week lows as bond yields climb &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "PODCAST: Bonds come back to bite - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFVBN2hqVUQ2M0M1YnBZVlBuMmFjNXVaODU1UHZkakJMZVlUODQtOHRmUXFkRUFNdHdRc2d5SlQ2YkZPeWxKRmVuY3dQZXBYR25TTURiS2Jfc0JGWjlieVRrZ2hPRHNabFNEZ3JtMG9JUlk3Y0p1ODNIS3Q0MUVrR1FwU2hkcDNiaGxIenNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 13:35:10 GMT",
-   "summary": "PODCAST: Bonds come back to bite &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFVRER2LTY3b1FZNkxaZ1NXeVJKVEUxRVB0bEpFWnRyVE5rLTZaV0EtaFVRaUhHUjNpRmtMUXgzR0J1VFFPV2ZOMTVkV0VRNW45dGp4TGt0N1ZORVJwUUtrV1FrNnZvVzRSVkFUcURwb0lvcmdUWlRfQmJCeGxva3lmOVZlbDhONVJ0WDVmQnNaMlp6WHoteHhoOTBaLVN5V2ZBTUo5bmZ1OFF3QUdVZkU2X0Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 12:17:29 GMT",
-   "summary": "US 30-year yields hit highest level since 2007 as war, oil worries fester &nbsp;&nbsp; reuters.com",
+   "published": "Tue, 18 Aug 2026 21:44:24 GMT",
+   "summary": "Tech selloff weighs down Wall Street as bond yields climb &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
@@ -448,30 +472,6 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXctNVRqVGF3b1I2TWk1UFlrVkx2bWQwY2Y5dFFuZ0hYYi1tMXUtQVl5aWFHT0tmaWJ2YUlyczB1QjlDUVJVQzFuZkdhLVN0T0lUTi0ySzhibXBWNGpvMlJYcXE0VnRaRDE2NzRHR0F0dWV2anVKQmVTM1NVZ2hXcXhrSVhQVVN1clRYaGw5WjlvRkVRbHVLbFNva1l2dmFvNWdFNEowMFhiOVlWczJ3eTFJNXd0dWRDZ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 18 Aug 2026 06:00:00 GMT",
    "summary": "Oil market starts pricing in a prolonged Hormuz crisis &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Dollar range-bound as markets price dovish Fed response - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 20:24:26 GMT",
-   "summary": "Dollar range-bound as markets price dovish Fed response &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TkUySkxRRHMtX3JyMWRJOUFZbjZwMkFiTG1wRlctaWNpZXJXOFppdHlPTjBTT2ptNHJqOFRTRjdDOWUtNzZfY0tQVllfaFlxd3dJRWxncnFrcGdLR0xQVFVmLS1tUmFLYklQbzc3UF9wVmltRkdrcUpUbGNYeVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 04:37:00 GMT",
-   "summary": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Nasdaq slides, yields elevated as Mideast conflict fears grow - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 01:16:00 GMT",
-   "summary": "Nasdaq slides, yields elevated as Mideast conflict fears grow &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
@@ -492,10 +492,34 @@
   },
   {
    "source": "reuters-tech",
+   "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 15 Aug 2026 13:26:35 GMT",
+   "summary": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Chip equipment maker Lam Research to invest more than $3 billion to expand R&D labs - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSTAzWkJRRjI1TklLTWV2Uk1lUHluMVBpaHplU1VneUpVZjZaNnBKdmtoMWhoamxwXzljUGUzOGh3VGpjTTNIeWxRQVVzUjlCZnRGUFUwemJrMHV1T1ZiSl9OOFBNYkttYmplQWtaZDRPVlp3aHp1UUFmLWstS1NJejYyRWszZUExUFhCNXVtMnE4ekUycXVoMlZ1dUFEdEJ3Nl9GbGp6Ml9Fc0tERGtZUzRyZWlLWlM2WWRORmI2cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 13 Aug 2026 20:16:38 GMT",
+   "summary": "Chip equipment maker Lam Research to invest more than $3 billion to expand R&amp;D labs &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEhXR0lpSVV6T19LcXRWTk1Lc2l4dDhDeTBoOThuNHQ5M2JjajdRamxsdnpRR1lqaHFwNTNFREtRdGgybE45a2lGTlVNeGgwYUtuTkwyZFlidzhEWmtMeDJtUkd2QXVFLVdhYVRBSmgtVGxVMjk5UDFLV3ZJa1hHMDdLVHZQZXBlSTFyang4bEdsaml0VGloQ2ZYd0lvVzRWNE4tNUxvQWF0S3RRNThiTVM0bXl4bkozVWkxcXFEbFI1eXhhSkhuODNQSVZSdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 15 Aug 2026 21:15:48 GMT",
    "summary": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings &nbsp;&nbsp; reuters.com",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "British data group Quantexa exploring UK or US IPO - reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTVneWdMNEdiVUhiazB1ZnEtQ0FVTExCalk5T1dUYVRHcDFud0lreU45QUotZmFXbU9IbGExRXR6QU1KNm9kQ2RTbzNRY2F5UzE5d0ttQ3djNGI1d2o3WDZFQUVURXdJM0hWS3ZhNXIxYUdzNmVKSXpPQnI5c3FWVVg2Wm1DZ2QtNWRSc1ZvanpBNTRqb3J1T3Fnd2ljeEFhRnMweFVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 17:12:13 GMT",
+   "summary": "British data group Quantexa exploring UK or US IPO &nbsp;&nbsp; reuters.com",
    "full_text": ""
   },
   {
@@ -516,14 +540,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "British data group Quantexa exploring UK or US IPO - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTVneWdMNEdiVUhiazB1ZnEtQ0FVTExCalk5T1dUYVRHcDFud0lreU45QUotZmFXbU9IbGExRXR6QU1KNm9kQ2RTbzNRY2F5UzE5d0ttQ3djNGI1d2o3WDZFQUVURXdJM0hWS3ZhNXIxYUdzNmVKSXpPQnI5c3FWVVg2Wm1DZ2QtNWRSc1ZvanpBNTRqb3J1T3Fnd2ljeEFhRnMweFVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 17:12:13 GMT",
-   "summary": "British data group Quantexa exploring UK or US IPO &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "French government to hire French AI providers such as Mistral, Minister says - reuters.com",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWllfZzVOVlkxemdwV3dhNWRPbFBHV1BHNV8tc3BjVUoxZk1oQWJoUVpGVlhpczZ6Rng1WDBlN05IX21GSUFBbWRmZE9ZclE1TmNzaWV1YmFLaDlMejRhcGhhMHNtVWh1dEgzaXQ1QzBnMk1Ld2QySmd6TFNnVzFwaVhrcFpNdGVveUdqWDctVHB0Nk5yMnk2MUR1UTJNY3JiUU96eDRleTJ5anNYVHZHY2Y2dndrMVdSQ0Jn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 18 Aug 2026 15:42:23 GMT",
@@ -536,14 +552,6 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHFXVVpLRGh4b3puOEJlMGtQSExTZHl0cWpXNzhfSlZjZThGU3ljU29aX1lwYk9SRUx5UFFtMW5Zb0FUMklpaUZoNlFhMVd3SmVQTWc5Nms4ZGZKaFZpUlhvWFEyS0FRZE5weVlDa0Z0VDNwZ3B3dWNmMGxyUUlucG5aQ0V5bVpiekd6dnRkSlltY2M5NndmbXJBaDVJYWJlYkdRTVU5TFlDVDFZaG1kTUZBczA2djVYR3ZPVmNWRlZwMkJVT2c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 17 Aug 2026 12:17:30 GMT",
    "summary": "Serve Robotics partners with Grubhub in robot delivery expansion push &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "NY judge tosses Uber lawsuit claiming lawyers inflated injury claims - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVlKQ3lvMFU0SWVucHMteG1zTHVzckNvdk85aFBERWdKWXhjdVNocDVjV1JTckdRUkZDa0UwN0h1UFJZdWpQcjFtbWc5MVQzc2NudTM4OEpYSFJVeGN0dEpySmowU1Q5SnQxdDFmTFgxQWVlZ2xxYmdiNTQ3aEJUUGk0TGlVNlRuT2RVZm83WHN1Z3dkdkhTbEtIWGQ0R0RwTml0cWdnOGtXY1E2cVFsSTdhSTdjSWpWcmxTMEFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 21:54:59 GMT",
-   "summary": "NY judge tosses Uber lawsuit claiming lawyers inflated injury claims &nbsp;&nbsp; reuters.com",
    "full_text": ""
   }
  ]
