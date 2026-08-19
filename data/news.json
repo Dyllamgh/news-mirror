@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-19T19:13:29Z",
- "count": 66,
+ "generated_at": "2026-08-19T21:00:09Z",
+ "count": 65,
  "items": [
   {
    "source": "nyt-world",
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
    "url": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
-   "published": "Wed, 19 Aug 2026 18:17:19 +0000",
+   "published": "Wed, 19 Aug 2026 20:45:37 +0000",
    "summary": "After a deadline extension, the latest U.S. tariff threats seemed headed toward resolution on Wednesday, but questions lingered about what Canada would give up, and what it would get in exchange.",
    "full_text": ""
   },
@@ -38,7 +38,7 @@
    "source": "nyt-world",
    "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
    "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-   "published": "Wed, 19 Aug 2026 19:00:14 +0000",
+   "published": "Wed, 19 Aug 2026 20:18:49 +0000",
    "summary": "Two high-profile cases that had spurred international condemnation of the country’s conduct in Gaza were transferred to the military police. Such investigations have rarely led to convictions.",
    "full_text": ""
   },
@@ -84,9 +84,25 @@
   },
   {
    "source": "nyt-business",
+   "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+   "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+   "published": "Wed, 19 Aug 2026 20:40:12 +0000",
+   "summary": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
+   "url": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
+   "published": "Wed, 19 Aug 2026 20:32:13 +0000",
+   "summary": "President Trump’s promises to restore fiscal order and reduce the amount of America’s debt burden have been hampered by spending on the Iran war, tax cuts and tariff refunds.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting",
    "url": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
-   "published": "Wed, 19 Aug 2026 18:42:20 +0000",
+   "published": "Wed, 19 Aug 2026 19:46:15 +0000",
    "summary": "Minutes from the Federal Reserve’s July gathering showed broadening support for higher borrowing costs to stamp out lingering price pressures.",
    "full_text": ""
   },
@@ -94,7 +110,7 @@
    "source": "nyt-business",
    "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
    "url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
-   "published": "Wed, 19 Aug 2026 17:39:30 +0000",
+   "published": "Wed, 19 Aug 2026 20:02:11 +0000",
    "summary": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models.",
    "full_text": ""
   },
@@ -108,17 +124,17 @@
   },
   {
    "source": "nyt-business",
-   "title": "Markets Rally After U.S. Treasury Tries to Ease Bond Market Stress",
+   "title": "Markets Rally After U.S. Treasury Eases Bond Investor Stress",
    "url": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
-   "published": "Wed, 19 Aug 2026 18:39:17 +0000",
-   "summary": "Government bond yields fell and stocks jumped on a move by the Treasury Department to double the amount of debt that it can buy back from investors.",
+   "published": "Wed, 19 Aug 2026 20:50:55 +0000",
+   "summary": "Government bond yields fell and stocks rose on a move by the Treasury Department to double the amount of debt that it can buy back from investors.",
    "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz",
    "url": "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html",
-   "published": "Wed, 19 Aug 2026 14:36:18 +0000",
+   "published": "Wed, 19 Aug 2026 19:59:31 +0000",
    "summary": "With Iran making ship traffic perilous, a U.S. operation offers a way out for some energy exports, stealthily shepherding tankers on dangerous journeys.",
    "full_text": ""
   },
@@ -147,22 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "How to Find the Best Flight and Travel Deals Over Labor Day and Beyond",
-   "url": "https://www.nytimes.com/2026/08/19/travel/travel-deals-labor-day.html",
-   "published": "Wed, 19 Aug 2026 09:02:33 +0000",
-   "summary": "Last-minute budget strategies rest on one key principle: flexibility.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "The ‘Betting Coup’ Shaking Up Horse Racing",
-   "url": "https://www.nytimes.com/2026/08/19/business/horse-racing-betting-coup.html",
-   "published": "Wed, 19 Aug 2026 09:02:28 +0000",
-   "summary": "When several horses wildly outperformed the odds at tracks at Saratoga and the Jersey Shore, bookmakers in London were stung and industry watchers suspected an elaborate plot.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
    "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
@@ -182,7 +182,7 @@
    "source": "nyt-technology",
    "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
    "url": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
-   "published": "Wed, 19 Aug 2026 16:38:14 +0000",
+   "published": "Wed, 19 Aug 2026 20:05:47 +0000",
    "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
    "full_text": ""
   },
@@ -227,14 +227,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
-   "url": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
-   "published": "Tue, 18 Aug 2026 23:37:00 +0000",
-   "summary": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "China robot makers seek to turn humanoid hype into useful work",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -252,18 +244,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Iran threatens new offensive while US rules out extending ceasefire deal",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 13:45:00 GMT",
-   "summary": "Iran threatens new offensive while US rules out extending ceasefire deal &nbsp;&nbsp; Reuters",
+   "title": "Japan has few answers as bond rout puts fiscal plans at risk",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE5kYUs3MDhhT3MtX3ZXQWd3elFPUGVkNjJzQUp1d0lPUkZ3VGRoOEVZWlo4SElXMXIxeDYxZ3hlUnBUNDhCQjl5cVNjSmZsNnpqVVYxajM0Smo4Y2hBeHdlbUxVQkFDMnk0MmJrS2ZyTjlCXzVFTXN2cFFhLUxBYTMwRHJENDhoZV9MTGZkVmg2Y1RMZmlBX3ZUNzNaV3V1Y0tjMDFJSVNHaE1kcFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 07:42:54 GMT",
+   "summary": "Japan has few answers as bond rout puts fiscal plans at risk &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Ukrainian shuttlers voice pain of war at World Championships",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGlaUVVZelJvTVNtWmgya1JlbUhEMUR5M3lTaUVUQU9kY1NLVC0wSVI0OHozSVEycUwtSGRGYzFncHVnaTBDUlZ4dUNBVDR0MUZGMXNTYktSWWxzYWRWeEF1QjAwM0NhQjQtN3ptUXVVMVo2WXdvREFyVWFKdXhkM2tfVGVYN1NVMGpFcVRwdkFicDlfXzNvYWtqLWY?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 08:39:13 GMT",
-   "summary": "Ukrainian shuttlers voice pain of war at World Championships &nbsp;&nbsp; Reuters",
+   "title": "Iran threatens new offensive while US rules out extending ceasefire deal",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 13:45:00 GMT",
+   "summary": "Iran threatens new offensive while US rules out extending ceasefire deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -302,7 +294,7 @@
    "source": "reuters-world",
    "title": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 11:36:38 GMT",
+   "published": "Mon, 17 Aug 2026 18:47:00 GMT",
    "summary": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -316,14 +308,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "China orders entities not to assist EU's JD.com probe",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmJmMHZhNFVhVVpWNjlGcTkxZjFKdUZYNFhiRFl1c01OLVJ2Y2lwYzMtcGVndHpucnhiMFdPb0d4Q0REaXF6VTVuNXo2ak1HSUh6S2lVNW1FbVEyS01WTU1kMkVWcDgyNTUtMzlaaHZ0THFCQXhwNDhaOTdtc2ctcWV4dnd0QUIzMWhjbDEzSlpWVGxNTDk0SFM3MEhtakxnV0ZELXVaNmRPWlQzWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 12:59:21 GMT",
-   "summary": "China orders entities not to assist EU's JD.com probe &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThpWUk1aGlwTFpYY0tRMVg4dFU4LXNzSnZWdVctWVp0LVFWQzAtZGtPMmh1Z2dMSHpFelF4UmFnMFoyckVNeTV3OHE1MVI5UGhFeWZINTF3eVZzV3RIUHYtVWVFc0R1ckhsel9JeVB1Mko5a01sdjNJWVlUdDBNc1c3U2JpMUZVZDFNNTRvdUJjRE5OQk1EdmR1MTBFNGp3RHZlT3JmMk5EVm1tR1JlVzV3VGgwdHFiZm1ibE43aWVYY3k4cUdUQ3lGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 08:35:45 GMT",
@@ -332,10 +316,34 @@
   },
   {
    "source": "reuters-business",
+   "title": "LG Energy, once fixed on EV batteries, jumps to Plan B",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2g2Z29YS3NaVm1zV1FrZnVKQmZzT0tzQlY2YmdsREhKaW5oYmRQd0lqbWlqcWFMMkpYNVIxenZJTkVQclFiaXF6bGtOTkc4RkhXLU1PUFV1Nnh3TGlIRU9mTXNlRGUtZ1BSYktOZjlrOWlHLUd2anVjcEZjV1pidW8tVXRkVHR3VlRfbnVQemN2N2hvSlhYOWt6Q3lYVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 19:04:07 GMT",
+   "summary": "LG Energy, once fixed on EV batteries, jumps to Plan B &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "China orders entities not to assist EU's JD.com probe",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmJmMHZhNFVhVVpWNjlGcTkxZjFKdUZYNFhiRFl1c01OLVJ2Y2lwYzMtcGVndHpucnhiMFdPb0d4Q0REaXF6VTVuNXo2ak1HSUh6S2lVNW1FbVEyS01WTU1kMkVWcDgyNTUtMzlaaHZ0THFCQXhwNDhaOTdtc2ctcWV4dnd0QUIzMWhjbDEzSlpWVGxNTDk0SFM3MEhtakxnV0ZELXVaNmRPWlQzWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 12:59:21 GMT",
+   "summary": "China orders entities not to assist EU's JD.com probe &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Moscow's fuel stations limit sales amid shortages",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSFdPR0gxeXpyeUcwd3RNbE54bEJxSGkxeTQ2YnFOQmtzam5TamQzb3BlWW5nYzg2SmtzUmxzVUM3MUozckplTnZiWEpNMzZNdWNIZEFRRkpweExtWmJ4QWF0Y0N5RFhiZ2FiM3k0VjhvVml6bjFMQ0E0d19hMjN0MUE4N19YYm42MXdIam93Q2NobnJFNzhoNXR3NS03d3AzZHc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 11:30:37 GMT",
    "summary": "Moscow's fuel stations limit sales amid shortages &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Amazon plans drone delivery expansion to about 500 US locales",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHdhMC1IZUpFSl94Sm9Iand5bW93SFBoZjdUcmd4YnBlY3dsaERKQURqNDRWOHZoSnltcE9jZjUyelJpT2RjR1dXREVmWFluLWgyR01LdTF5aVNsbER2NERJOVlGWDFNNi1sek05OURVTWhsdU1lVC1YbUN0a2l0UW5vZzhBbXhZaGVHbVdnREVzZXA4LTZnZUVvUzRjZGFrOFA1QUV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 18:05:19 GMT",
+   "summary": "Amazon plans drone delivery expansion to about 500 US locales &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,26 +364,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Oil exports from Russia's western ports drop 15% below plan, traders say",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnNQRkdUeXFaU0pmU1RDeGc1V0szVWlSZGliQUUzOGxCVzFJSWdwbWRMZ003S1BxRTQ2M19COUhCLW96SlQ4Qi1lYWo0aC1Gbk9GNVIzZ2ZTSk04cTJfNDc1cmxZM3ViNmZnNk5JY2FiNUdUSFByV0xxYS1KUG40UnQ3MmRkMDBndURCa0ppMlpTTDNJbjFydUVpRm12NThWY2xNVHRxNWNhSHU3VWlZVUZEUFFGVlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 11:06:40 GMT",
-   "summary": "Oil exports from Russia's western ports drop 15% below plan, traders say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "LG Energy, once fixed on EV batteries, jumps to Plan B",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2g2Z29YS3NaVm1zV1FrZnVKQmZzT0tzQlY2YmdsREhKaW5oYmRQd0lqbWlqcWFMMkpYNVIxenZJTkVQclFiaXF6bGtOTkc4RkhXLU1PUFV1Nnh3TGlIRU9mTXNlRGUtZ1BSYktOZjlrOWlHLUd2anVjcEZjV1pidW8tVXRkVHR3VlRfbnVQemN2N2hvSlhYOWt6Q3lYVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 16:53:02 GMT",
-   "summary": "LG Energy, once fixed on EV batteries, jumps to Plan B &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Suspected sabotage attack fails to disrupt Milrem deliveries to Ukraine",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFZYdVFQNThQd3ZfdmtIRm1vUXc1VlM2N0MwSVJyZXFkdEJJUlVsU1BQT2UwNTMyYVlPUG5HZVRZY04yOGRrQ0xSNm51ekxtSUVaVDJXNFZVUlFrRzB5dnJkYnV3TVN4RzRVRmw1aTZ4TlRDbnZIM2FhSDBrajJJOFcyTkUtWmgtTkU2ZlVqS21YNzVObkRXempaUnJWcU81SWxLWFNDQnNXdTA2M0kybFhNRTd4M19KRDlXMGlWc0VlYWJOaEY0?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 14:42:27 GMT",
    "summary": "Suspected sabotage attack fails to disrupt Milrem deliveries to Ukraine &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkl3Q1p0eG5uR21ZT0lMdnRnd0UydUJlc3J3M1lSckFjMndEX29fNG9lUXN3YmxLeDFwRms1MU0zME80TmUzb291Y3psVm0taE9fWDdYX2stOWs4cFRBUUgxN2hhRllfLXF0djJzSC0xN3pZZ0REMVZrWUxJSy03dE9uUVdWbWdoWDhnYjdpekIxeDNQSUh1SnJKUUtoLUtoU0xocEh4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 18:29:33 GMT",
+   "summary": "Payments firm Stripe to buy marketplace OpenRouter in AI push &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -387,19 +387,35 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "US yields edge lower despite Iran worries, broader sell-off",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaERYcG1nTmtNcy1ia2hGekZQaVp4X1Y5RHlab3QydTVDV2tfSVZmQnctVC1iaWFmZ2xJRmN6U3pzNk1wdUx1VlpQWmF6WTZsdmtfdmF3SmpGUWYzMzluM3JEVVBVTmZXU2NfMG9lcjRzUktxWEZNZDZxbTE1Q2FkVmd4Mmd3ekpxeHY3RWtpRC14QmV0SktSNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 21:20:27 GMT",
-   "summary": "US yields edge lower despite Iran worries, broader sell-off &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "VIEW Yields fall after US Treasury says it will double some bond buybacks",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVlWdFdnWlU0S0d1Wjl4Y29odDBTcV81Tm4wU1JNNTM4MzNQN1ZrMXZVWTNsR1UxNUNYUTNXN3BBMG91NENRLXUxRVRkYnJKajlPWDlLam5LRGxuaG5EbG9hWlJqZHFyZjUtaGFhdHFSU0FGQjRqc1VEbmY1QTgtdDFacWp0TjZmVEFnS3ZESXJGUllQMjVqS3pLbEpvaVc5OUhxS0lPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 15:31:47 GMT",
+   "summary": "VIEW Yields fall after US Treasury says it will double some bond buybacks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St recovers as yields ease; Moderna lifts healthcare stocks",
+   "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 16:44:02 GMT",
-   "summary": "Wall St recovers as yields ease; Moderna lifts healthcare stocks &nbsp;&nbsp; Reuters",
+   "published": "Wed, 19 Aug 2026 20:01:14 GMT",
+   "summary": "Wall St rises as yields ease, Moderna lifts healthcare stocks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "JPMorgan entity among two firms barred in India over alleged closing auction manipulation",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd29jLVo5bUpsLUthQkpkQ1h2YkZuZUNpUjA2aG9GbWhobXlXT0hDWTdzQzZNRzFjUXJXa3NYazhCeVV6MGhFTjQzcGo4YXl4NER0TmhUM1NsQmVlZmFvYVFzWG5lcFZ4c3o2d2ZBVlVFVkJRX2pHbG1GMEhQRmlDS19RRVVMR08zWGhmR0pSQ3Q0TmxXU2NLOXYxX0R5eXJKME1xaGZoYnpFc3pJWjFvRUpsb25vTGNSNHFoN3Zvb3F0OU5TTVF1Sg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 16:28:44 GMT",
+   "summary": "JPMorgan entity among two firms barred in India over alleged closing auction manipulation &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "US 30-year Treasury yields drop from multi-year highs",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmhKQm5GMzBsTmh3R0pYZTItcFFnX0swOW5KQ1h6TXViVmxIZDFweFU0VDlGMk1kRzlhZ3h2YXhERkVJQjZ4dmxPQWI4T3N4M3o0NGlmOGhHN0czWlRKRkJfVGtxZ1VMbWJ3alU2cFY2TFI0dWdkTnM2OWlMWllMUGw5M3U4UUV0eFBocmdPY0ViOGRKSTRvVw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 13:47:43 GMT",
+   "summary": "US 30-year Treasury yields drop from multi-year highs &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,50 +444,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "VIEW Yields fall after US Treasury says it will double some bond buybacks",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVlWdFdnWlU0S0d1Wjl4Y29odDBTcV81Tm4wU1JNNTM4MzNQN1ZrMXZVWTNsR1UxNUNYUTNXN3BBMG91NENRLXUxRVRkYnJKajlPWDlLam5LRGxuaG5EbG9hWlJqZHFyZjUtaGFhdHFSU0FGQjRqc1VEbmY1QTgtdDFacWp0TjZmVEFnS3ZESXJGUllQMjVqS3pLbEpvaVc5OUhxS0lPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 15:31:47 GMT",
-   "summary": "VIEW Yields fall after US Treasury says it will double some bond buybacks &nbsp;&nbsp; Reuters",
+   "title": "US yields drop after Treasury offers liquidity support",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcm4wdklMVHZSRzVCMUJvUjlDOGRUU2I1eFBlblk0RndVUF92QllzLVNqZGdZZ3BsS054cnlOY3lXTnZ0VjRoblVzdXJZN3VXeXBtV1hJaUl4OHN1NjJFYnUwUHk2VVhQTjFURXQ0ckVhRWFKNkdXRHFYVUQ2Y0dBaXZDTGFPSVJNdE96UjdFbUJROXNrMlhWMHVLOWNTazVELXRpZmZ1N3U?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 19:22:52 GMT",
+   "summary": "US yields drop after Treasury offers liquidity support &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Dollar weakens after Treasury boosts long-dated bond repurchases",
+   "title": "Dollar falls after US Treasury plans more bond buybacks",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYkQwN2c5MVlJbi1FREYxMXBtbGMtWWliU2tWZnF3ZjhvdmY3U0RUSG5Dbk5hX183aXBxelVUbWJKV2pXSzZDMF84Y3NLcmFsa3hDUkZ2NEg0RTZSdVdvR0UzMXpYbVlmY2duT2tuaUc5WTFLak15VkVMMDlCVTN2cDZkZGV5SG03VnhRRWVOVHZGWEpRckJveVpEa08xT1BvcEJtSEhubE9KVmJ4SUw4LVJiY0lhbHVzX1FKZ0lMZnRGcDA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 01:31:00 GMT",
-   "summary": "Dollar weakens after Treasury boosts long-dated bond repurchases &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Gold surges over 3% as US Treasury announcement hurts yields, dollar",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 00:59:00 GMT",
-   "summary": "Gold surges over 3% as US Treasury announcement hurts yields, dollar &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Oil prices up 1%, near 3-week high as Middle East crisis escalates",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 00:39:00 GMT",
-   "summary": "Oil prices up 1%, near 3-week high as Middle East crisis escalates &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWR2cnpULThpZHY0Um43bzk3ZWcxVVNhVTltMVJhbkFhUWpvS3lUb1ROVWd3RmszSzhKMlpGOHUtZ1ZuZmsyemxDbDh4c2lBWG9HNVloSEhTOFFzcVhWTmRob1lmenhCUzBUb1B2SENQckhUemdMWTkxY2Y0eW1UQmVCeDBHMnUzY2R2emJfc3JKbFZDek1BeWtDdGtTZEJpRHZhd3BNN3MzVkF0cDRJVS15X3RYcmlSc1hRY2NGTHJ5YXNhRE5saXF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 07:21:43 GMT",
-   "summary": "EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 15:03:03 GMT",
-   "summary": "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal &nbsp;&nbsp; Reuters",
+   "summary": "Dollar falls after US Treasury plans more bond buybacks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -480,6 +464,14 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0cwTEZpQTJoZFQycjVPbjFtNEo5cW9EQWlDcWRUbHhuQkU4TUpJX0N6ekhJVmlERGZVMnZDODZMcEw5azEtaXRLREF2UFlwWEk5MVBhVTJDSnpMTm1sbURHTEV3cFoyMWQ4Sl9JbnhSMkFXcUFhZFFlMi0ydzJLSlVtU2pWSnBubWhUUHhzVVZGaURrcmpfUE5wTDdVYUtCTmp3Mi02QzNSSVVIMnVnVllfdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 18 Aug 2026 13:07:43 GMT",
    "summary": "US advisory body says China's data dominance gives it AI advantage &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 15:03:03 GMT",
+   "summary": "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
