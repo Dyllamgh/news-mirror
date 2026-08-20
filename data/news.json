@@ -1,12 +1,44 @@
 {
- "generated_at": "2026-08-20T08:04:47Z",
- "count": 64,
+ "generated_at": "2026-08-20T11:03:25Z",
+ "count": 66,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
+   "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
+   "published": "Thu, 20 Aug 2026 09:28:09 +0000",
+   "summary": "After years of pounding power plants and cities, Russia’s air war has taken aim at Ukraine’s supermarket warehouses.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Dwindle",
+   "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+   "published": "Thu, 20 Aug 2026 10:04:12 +0000",
+   "summary": "Moscow is taking advantage of Ukraine’s depleted stock of interceptors and is intensifying attacks, worsening the civilian death toll.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+   "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+   "published": "Thu, 20 Aug 2026 09:04:07 +0000",
+   "summary": "For weeks, there has been no diplomatic progress, but also no full-scale fighting, as both sides seem to believe they can hold out longer than the other.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "The Indian City Where AI Is Creating Jobs for Humans",
+   "url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+   "published": "Thu, 20 Aug 2026 09:02:45 +0000",
+   "summary": "In the fast-growing field of data annotation, workers in a small city in south India train A.I. to improve how it performs tasks traditionally done by people.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "China Sentences Evergrande Founder to Life in Prison",
    "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
-   "published": "Thu, 20 Aug 2026 06:39:53 +0000",
+   "published": "Thu, 20 Aug 2026 10:28:27 +0000",
    "summary": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.",
    "full_text": ""
   },
@@ -51,35 +83,59 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
-   "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-   "published": "Thu, 20 Aug 2026 04:46:27 +0000",
-   "summary": "The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanctions, which Emirati officials deny.",
+   "source": "nyt-business",
+   "title": "Oil Prices Jump After Trump’s Latest Iran Threat",
+   "url": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html",
+   "published": "Thu, 20 Aug 2026 10:51:57 +0000",
+   "summary": "Bond markets remained volatile, as investors assessed the geopolitical turmoil.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-   "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-   "published": "Wed, 19 Aug 2026 20:18:49 +0000",
-   "summary": "Two high-profile cases that had spurred international condemnation of the country’s conduct in Gaza were transferred to the military police. Such investigations have rarely led to convictions.",
+   "source": "nyt-business",
+   "title": "Moderna’s Shift to Cancer Company Lifts Stock Up 177%",
+   "url": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html",
+   "published": "Thu, 20 Aug 2026 09:04:12 +0000",
+   "summary": "The company’s fortunes cratered as demand for Covid-19 vaccines plummeted. But it was busy working on something else.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
-   "url": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html",
-   "published": "Thu, 20 Aug 2026 02:22:33 +0000",
-   "summary": "Kim Yo-jong, a powerful adviser and sister of Kim Jong-un, also said she was “unaware” of any communication with Washington, contradicting President Trump’s claim her brother had responded to his outreach.",
+   "source": "nyt-business",
+   "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
+   "url": "https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html",
+   "published": "Thu, 20 Aug 2026 09:04:01 +0000",
+   "summary": "A scientific and civilizational horror story.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near",
-   "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
-   "published": "Wed, 19 Aug 2026 12:04:49 +0000",
-   "summary": "Prime Minister Mark Carney of Canada was less definitive about what the intense talks produced, saying “important work” remained.",
+   "source": "nyt-business",
+   "title": "Help! Lyft Charged Me $150 for Vomiting in a Car, but I Didn’t Do It.",
+   "url": "https://www.nytimes.com/2026/08/20/travel/lyft-cleaning-charge.html",
+   "published": "Thu, 20 Aug 2026 09:01:57 +0000",
+   "summary": "A passenger who said he had an uneventful ride home from the airport was shocked to be hit with a cleaning fee for a mess in what appeared to be a different vehicle.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "A Victory Lap for the Boss of the Pebble Beach Extravaganza",
+   "url": "https://www.nytimes.com/2026/08/20/business/pebble-beach-concours-sandra-button.html",
+   "published": "Thu, 20 Aug 2026 09:00:44 +0000",
+   "summary": "The Concours d’Elegance, a showcase of some of the world’s finest cars held over the weekend, was a capstone to Sandra Button’s two decades of leading the organization that puts it on.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
+   "url": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
+   "published": "Thu, 20 Aug 2026 09:00:26 +0000",
+   "summary": "“The Necessary Conversation,” a podcast and YouTube show, is a very public example of the political disputes families are having all across the country.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
+   "url": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
+   "published": "Thu, 20 Aug 2026 09:06:17 +0000",
+   "summary": "The Iran war has slashed transit traffic at Middle Eastern airports, creating opportunities for hubs in Asia and beyond — at least for now.",
    "full_text": ""
   },
   {
@@ -99,59 +155,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Columnist Ross Barkan Apologizes Amid Plagiarism Scandal",
-   "url": "https://www.nytimes.com/2026/08/19/business/media/ross-barkan-plagiarism-apology.html",
-   "published": "Wed, 19 Aug 2026 21:34:21 +0000",
-   "summary": "Mr. Barkan, who has written for New York magazine and The New York Times, said he had “never intended to crib from anyone’s work.”",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
-   "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
-   "published": "Wed, 19 Aug 2026 21:49:10 +0000",
-   "summary": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
-   "url": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
-   "published": "Wed, 19 Aug 2026 22:24:22 +0000",
-   "summary": "President Trump’s promises to restore fiscal order and reduce the amount of America’s debt burden have been undercut by spending on the Iran war, tax cuts and tariff refunds.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting",
-   "url": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
-   "published": "Wed, 19 Aug 2026 19:46:16 +0000",
-   "summary": "Minutes from the Federal Reserve’s July gathering showed broadening support for higher borrowing costs to stamp out lingering price pressures.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
+   "source": "nyt-technology",
    "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
    "url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
    "published": "Wed, 19 Aug 2026 20:02:11 +0000",
    "summary": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Rebel Ice Cream Files for Bankruptcy After Van Leeuwen Wins Packaging Suit",
-   "url": "https://www.nytimes.com/2026/08/19/business/rebel-ice-cream-bankruptcy-van-leeuwen-lawsuit.html",
-   "published": "Wed, 19 Aug 2026 16:53:30 +0000",
-   "summary": "The announcement comes less than a month after a federal judge ordered Rebel to pay nearly $24 million to Van Leeuwen for copying the design of its containers.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Markets Rally After U.S. Treasury Eases Bond Investor Stress",
-   "url": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
-   "published": "Wed, 19 Aug 2026 20:50:56 +0000",
-   "summary": "Government bond yields fell and stocks rose on a move by the Treasury Department to double the amount of debt that it can buy back from investors.",
    "full_text": ""
   },
   {
@@ -176,6 +184,14 @@
    "url": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
    "published": "Wed, 19 Aug 2026 20:05:47 +0000",
    "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+   "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+   "published": "Wed, 19 Aug 2026 21:49:10 +0000",
+   "summary": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
    "full_text": ""
   },
   {
@@ -220,18 +236,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "China robot makers seek to turn humanoid hype into useful work",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 07:49:00 GMT",
-   "summary": "China robot makers seek to turn humanoid hype into useful work &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTBFUDUyY3VFZGlQY0VvSDFSRDV6bTJLSVV5OVd4Zk9tbzFjYkdVZ3Fxc3ZZbGNKU3lMdGhxRU4wb0F1QzIzMzFOUHBvdVlWVHB0MEFQSkN0eDVHOF9VMktYR1pETnpfcUt2TEJwLUJyMDZRam55a3hhUHFWN0ZwVWlEV0FRX21aN0lyNjhKVll1ck1CWE52cjgzNEFQeGV1Rnc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 04:18:00 GMT",
    "summary": "Robots poised for 'ChatGPT moment,' Unitree CEO says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "China robot makers seek to turn humanoid hype into useful work",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 07:49:00 GMT",
+   "summary": "China robot makers seek to turn humanoid hype into useful work &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -252,34 +268,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "Dollar at three-month lows as Treasury takes aim at surging bond yields",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 00:53:00 GMT",
-   "summary": "Dollar at three-month lows as Treasury takes aim at surging bond yields &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Morning Bid: Dancing robots, dumping bonds",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iczVnbnhYRXRGY0dyenZRek16T0lMMU9DazhIakljR1FnNUNwMEkxX0RhMUJzNGlETkVRdDlLWmZiUzZiS0tfVTRNcnlJdVd0MFVFNFFfd2x3anNEMEJhRm5JZWpmMU5qclZjcEQxYXlBWEtHcmZXTjJsNDBHVkk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 04:33:00 GMT",
-   "summary": "Morning Bid: Dancing robots, dumping bonds &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Japan has few answers as bond rout puts fiscal plans at risk",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE5kYUs3MDhhT3MtX3ZXQWd3elFPUGVkNjJzQUp1d0lPUkZ3VGRoOEVZWlo4SElXMXIxeDYxZ3hlUnBUNDhCQjl5cVNjSmZsNnpqVVYxajM0Smo4Y2hBeHdlbUxVQkFDMnk0MmJrS2ZyTjlCXzVFTXN2cFFhLUxBYTMwRHJENDhoZV9MTGZkVmg2Y1RMZmlBX3ZUNzNaV3V1Y0tjMDFJSVNHaE1kcFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 22:00:39 GMT",
-   "summary": "Japan has few answers as bond rout puts fiscal plans at risk &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 18 Aug 2026 11:36:38 GMT",
    "summary": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "China considering summit with Seoul in November, South Korean foreign ministry says",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTdzUHpDWlFFTkd2RGxfRzg5a0RNVVdRMTFhTnZQZkxJZUxpREpFNTNYaVYzSkdtNTdodFcxS3cteUJCWk5NSU44YzFEdkd1QUFRY0g4eFEyVkdVWkszWGdqNnVvenlfdGxBZmI3ejRKaVF1cjl0eHVFNlVoWW94NGFtUm9vdUREVkZyNjFwY2hiLVlFQlJqVk9BMWVSRHJ6OVpqTUJVc3Zvc2ZFX3UtWGFXa0VVRmJfUF8zbGJEeS1mLW5DV3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 15:47:54 GMT",
+   "summary": "China considering summit with Seoul in November, South Korean foreign ministry says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Climate change is driving record heat in Europe's seas, scientists say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1FBVXpKZjd1bEs1T0NZMVFaUGROeHR6b05nU0otbTAzMWlIOTd3eFljT1NhcDhZY3lrZUI4Q1loOUJTMElKUGR1NHNFZl80Tm1RdVJZdTd3WlZlSm1DX3JkT1l6TjU1UHhpdl9nTHFqRnhfSDZTRENqNHNMTUQxRGxjVmxQeXNVaEFsOW9ybzBCczhTZU1yNlgwZGx1bWdkRW9rbC1YZFdCdDlmcktWSmM2dGdXeXhhVC1yOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 18 Aug 2026 23:09:00 GMT",
+   "summary": "Climate change is driving record heat in Europe's seas, scientists say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,10 +300,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Germany's VDMA lobby calls on Europe to step up on humanoid robotics as Unitree surges",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNak9xaFBuTzVTWl9tM2FRNzNCeF9xbXJmY291MVVnMW5mNHFGTVRwRDNub3NxbGpXX2pZWDBZTjFzSm9kVlF1QUF3OURCTl9fRzNzemRRVkRodDAzNXRpRkNTTU9YbjZvTWpBVHpZWTk3ZjBhSzh0TjN3WU9kS05xb3pkQmxCaTVHd3BzazJfVkFvTzdvLXhqT2JWQWd0MFA5WWQ1QUtYV3dVaGFPdlJYRHVvVllDa1lpYXJZaURn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 12:58:36 GMT",
-   "summary": "Germany's VDMA lobby calls on Europe to step up on humanoid robotics as Unitree surges &nbsp;&nbsp; Reuters",
+   "title": "Japan has few answers as bond rout puts fiscal plans at risk",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE5kYUs3MDhhT3MtX3ZXQWd3elFPUGVkNjJzQUp1d0lPUkZ3VGRoOEVZWlo4SElXMXIxeDYxZ3hlUnBUNDhCQjl5cVNjSmZsNnpqVVYxajM0Smo4Y2hBeHdlbUxVQkFDMnk0MmJrS2ZyTjlCXzVFTXN2cFFhLUxBYTMwRHJENDhoZV9MTGZkVmg2Y1RMZmlBX3ZUNzNaV3V1Y0tjMDFJSVNHaE1kcFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 22:00:39 GMT",
+   "summary": "Japan has few answers as bond rout puts fiscal plans at risk &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Morning Bid: Dancing robots, dumping bonds",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iczVnbnhYRXRGY0dyenZRek16T0lMMU9DazhIakljR1FnNUNwMEkxX0RhMUJzNGlETkVRdDlLWmZiUzZiS0tfVTRNcnlJdVd0MFVFNFFfd2x3anNEMEJhRm5JZWpmMU5qclZjcEQxYXlBWEtHcmZXTjJsNDBHVkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 04:33:00 GMT",
+   "summary": "Morning Bid: Dancing robots, dumping bonds &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -308,26 +324,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "China orders entities not to assist EU's JD.com probe",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmJmMHZhNFVhVVpWNjlGcTkxZjFKdUZYNFhiRFl1c01OLVJ2Y2lwYzMtcGVndHpucnhiMFdPb0d4Q0REaXF6VTVuNXo2ak1HSUh6S2lVNW1FbVEyS01WTU1kMkVWcDgyNTUtMzlaaHZ0THFCQXhwNDhaOTdtc2ctcWV4dnd0QUIzMWhjbDEzSlpWVGxNTDk0SFM3MEhtakxnV0ZELXVaNmRPWlQzWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 12:59:21 GMT",
-   "summary": "China orders entities not to assist EU's JD.com probe &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Russian-held Zaporizhzhia nuclear plant loses external power supply",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWlKV0RUU0lqVEhJdVJ2NmJXeXNIQlFuMDQ2eGstbW4wWFEwcHdfdE1landiUHpHVTM1c0dWVkpMLWc4Q0ZVWXBUWFBIaFotM1pvczFvakhyS2d4a1dBNVFEZDZwRzBpSWZhb0tmdDBjVG5OcXh2MDJCZWxnOWZ4dm5QV3FBaXU1UzU2SXRlSEhYUFNPQThibmxjSjgtZS0xU29UUjBvUUpjbjM4bGRFbHEzMFlBR3hCM1FZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 06:26:00 GMT",
-   "summary": "Russian-held Zaporizhzhia nuclear plant loses external power supply &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "JPMorgan entity among two firms barred in India over alleged closing auction manipulation",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd29jLVo5bUpsLUthQkpkQ1h2YkZuZUNpUjA2aG9GbWhobXlXT0hDWTdzQzZNRzFjUXJXa3NYazhCeVV6MGhFTjQzcGo4YXl4NER0TmhUM1NsQmVlZmFvYVFzWG5lcFZ4c3o2d2ZBVlVFVkJRX2pHbG1GMEhQRmlDS19RRVVMR08zWGhmR0pSQ3Q0TmxXU2NLOXYxX0R5eXJKME1xaGZoYnpFc3pJWjFvRUpsb25vTGNSNHFoN3Zvb3F0OU5TTVF1Sg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 15:00:00 GMT",
    "summary": "JPMorgan entity among two firms barred in India over alleged closing auction manipulation &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "NEWSLETTER: AI firms can't yet contain what they've built, study finds",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0VxNEg5YTBJS3ExWnBST21CakVKTlF4WU1qbmFlZEJYS19MblFGZjZwM3F2b1FjYUg3Ym1WbXBmSFc5Mms2Qy02WTh2QXVCWE5GYzVHRUZHRXFyQlRvODJlTGdWaW1BbzZNTmV5eFRNemM1eExfekNqXzJWakM0eS15SnVzVktvZzJQZnBvSFBfU1dPSzdsUDBjRnFPMWd1Y3RsUFEwajFCSmhycHF1TkJzZ3dVVHhSc0FsY3FIdElmMlA1?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 21:25:00 GMT",
+   "summary": "NEWSLETTER: AI firms can't yet contain what they've built, study finds &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "CK Hutchison seeks $1.5 billion from Panama in treaty dispute arbitration",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3c1M1k1cmhyTDQ5ejRXM1Juc2VvWkJkVzdUUGlDdWpzcGM4S0wtYWlkTXRpN1Yyc2xHcGswSkVNbm42S3IyTHktZEFBQlotdEhJVUIyQzhuaWNKajhMVXdUNUREaHBXYzJnRzZ5bkJYMl9YOXh4M2pCUFNNcW9PS3h4X1RRcG1IUHdxMWlRVTFIeHFzd2pFcmFSQkMya0l4eHZzSzBnZ3A0aTlHUlk2c0x2bTJ5Z2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 00:46:00 GMT",
+   "summary": "CK Hutchison seeks $1.5 billion from Panama in treaty dispute arbitration &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,30 +364,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "CK Hutchison seeks $1.5 billion from Panama in treaty dispute arbitration",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3c1M1k1cmhyTDQ5ejRXM1Juc2VvWkJkVzdUUGlDdWpzcGM4S0wtYWlkTXRpN1Yyc2xHcGswSkVNbm42S3IyTHktZEFBQlotdEhJVUIyQzhuaWNKajhMVXdUNUREaHBXYzJnRzZ5bkJYMl9YOXh4M2pCUFNNcW9PS3h4X1RRcG1IUHdxMWlRVTFIeHFzd2pFcmFSQkMya0l4eHZzSzBnZ3A0aTlHUlk2c0x2bTJ5Z2M?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 00:46:00 GMT",
-   "summary": "CK Hutchison seeks $1.5 billion from Panama in treaty dispute arbitration &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkl3Q1p0eG5uR21ZT0lMdnRnd0UydUJlc3J3M1lSckFjMndEX29fNG9lUXN3YmxLeDFwRms1MU0zME80TmUzb291Y3psVm0taE9fWDdYX2stOWs4cFRBUUgxN2hhRllfLXF0djJzSC0xN3pZZ0REMVZrWUxJSy03dE9uUVdWbWdoWDhnYjdpekIxeDNQSUh1SnJKUUtoLUtoU0xocEh4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 22:31:44 GMT",
-   "summary": "Payments firm Stripe to buy marketplace OpenRouter in AI push &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US, Indian fuel exporters profiting from supply uncertainty during wars",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0YzcE9IRnh4c2IwVzhxd3hpbDZ3YzdDMFVqSG5aTHM2c1JqemQ5ME5naXFDdWJXRzhXUVJZMjI5dG9jS0hOa2VqLW51R0hwT2MzbWNXaExrN1RJVmdVbWM0NElNWTJ2NDFBUmJDSk9sbnpzTGVqQWxUc2o5OTE4LUhNdVpXVExYblV0UW41U0lSWjhIWEU4Q29fWlVHLWhUdEZUSXpyRUVPMWEwZFdyRFc1T2pTd3VL?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 11:53:36 GMT",
-   "summary": "US, Indian fuel exporters profiting from supply uncertainty during wars &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "StanChart turns to hedge fund strategies to shield wealth clients from volatility",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYjROWmctZW12eTh3czYwc2UwOVhVRFVTam9BclZZVi1haWtvMFpqZFdUdVAwOXFoVDFKWXowTWYwaGs0dzRldzlvUEZpeGpNSHZENFh6SGM5ZHlxNTB1aUYwcWMwT01HWExVQkRBY1gxQkdTeDVqbDVvMUhCUl92amtWOC1yOE1nSFN4NzRaZEpFWDl5cDktcTdlMkJRUnBveXJIVG1BOG5xV1hsc3FaaEtBaVZ5dmowMThPVDhfWl8?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 04:47:00 GMT",
@@ -379,19 +371,27 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Bonds recover after US Treasury comes to the rescue",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0NlakpDYU5qTWhFZm0wLUEtbmR3akx4YmNsV25UX0ZiRWdDaThaSkpBeUg3blJNUS0wZFFLLUhyaWdGVklzZElzdWV0UHl6bkM1Y3RqZGJhRndHT25WYThIWUhpTkZhSmpwS0MySmpuQmptQm5MY2ZfMU9aN3Q1bkdyTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 01:25:00 GMT",
-   "summary": "Bonds recover after US Treasury comes to the rescue &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "Google to buy Spirit Airlines business data for $10 million",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdnWlluQk1VZVE5ZmtsUlg2ZDRleS1xOWRtQjJDSmtaUjdMOGxmNVNQc1NWTVJGc2ItZjNwSS1fdWJVMVBFbHlySU1QT3lDcVFPUE9fZTFNMHI2WXlDOUdpSUdwOV9UdkJfWTc3OWE0RnBnd3hNS0lTenk2NEtGZkhtWElwdmZxNnduSWYxMUI3OG5KUjNUZzlJZndVWEFxSGR3RTBwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 17 Aug 2026 21:31:04 GMT",
+   "summary": "Google to buy Spirit Airlines business data for $10 million &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
+   "source": "reuters-business",
    "title": "Gold retreats after scaling over 2-month peak on US Treasury move",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzBOVjZ6ZU0xLWotdnpUeHVrVnN5ZFlGWEExLVF6RUgtY0RMQjdTZUNDbWRvRGNCY0gwUE9ubFJiM1dNVzVfVE12SV80ZlRSYTZqamdFMGhubUJBeFFNbkZHTml3WjFvRGVOVER3dXdYNUZnSDRKS3UxU2dTMnp3MG9qYUVKU0ZNY2ZiVUw1c0NJREpibDFhbWlORQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 01:07:00 GMT",
    "summary": "Gold retreats after scaling over 2-month peak on US Treasury move &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Bonds bounce on US buybacks, but relief may be brief",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzhzLWlDaHNrazNjSVltdTQxU1I5TUVGU0pYU3UzaF9faFlBcGlhQ3dXVklpQzNteXVjZm5ZaVlyLXpnYjdEZHMwS0dENWs2SDZJMXpqbHBkeXlXS1FhZXdud1RINU9MUHhMRUEyNXRtdFJxSHhYbnFpbnYydE0tSzZDNkhGUzdVTkRMYmtPeGlrX00?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 04:02:00 GMT",
+   "summary": "Bonds bounce on US buybacks, but relief may be brief &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,10 +404,34 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Bonds bounce on US buybacks, but relief may be brief",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzhzLWlDaHNrazNjSVltdTQxU1I5TUVGU0pYU3UzaF9faFlBcGlhQ3dXVklpQzNteXVjZm5ZaVlyLXpnYjdEZHMwS0dENWs2SDZJMXpqbHBkeXlXS1FhZXdud1RINU9MUHhMRUEyNXRtdFJxSHhYbnFpbnYydE0tSzZDNkhGUzdVTkRMYmtPeGlrX00?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 04:02:00 GMT",
-   "summary": "Bonds bounce on US buybacks, but relief may be brief &nbsp;&nbsp; Reuters",
+   "title": "Indian shares snap losing run led by IT, financials as bond markets steady",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnQ4RVFidUcyM0dVbno3aFNDamNsblQya0tEbEVKQVhJZEhDSngxNGVfV2JUVzQ0SU9yeVRTNWJuZjlGdlRUSUJod1BNbEpLc1ZjWVV4b1lCa0czTEMyVFVMTG82TERxX1A3aUVBdzh6bHVyWTZ3U1dobmx1TzY5MWFHQkd3dy1GV0ozS2JCVl9LSlU4TzNFUnlaclhhWldZSmVVcmp6Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 02:32:00 GMT",
+   "summary": "Indian shares snap losing run led by IT, financials as bond markets steady &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Bonds recover after US Treasury comes to the rescue",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0NlakpDYU5qTWhFZm0wLUEtbmR3akx4YmNsV25UX0ZiRWdDaThaSkpBeUg3blJNUS0wZFFLLUhyaWdGVklzZElzdWV0UHl6bkM1Y3RqZGJhRndHT25WYThIWUhpTkZhSmpwS0MySmpuQmptQm5MY2ZfMU9aN3Q1bkdyTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 01:25:00 GMT",
+   "summary": "Bonds recover after US Treasury comes to the rescue &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Dollar falls to three-month low as Treasury moves to soothe bond jitters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 08:38:04 GMT",
+   "summary": "Dollar falls to three-month low as Treasury moves to soothe bond jitters &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "The Iran war energy crisis is just getting started",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 06:00:00 GMT",
+   "summary": "The Iran war energy crisis is just getting started &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -435,19 +459,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "US stock futures steady after tech slump; investors focus on Middle East tensions",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 10:36:00 GMT",
-   "summary": "US stock futures steady after tech slump; investors focus on Middle East tensions &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "VIEW Yields fall after US Treasury says it will double some bond buybacks",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVlWdFdnWlU0S0d1Wjl4Y29odDBTcV81Tm4wU1JNNTM4MzNQN1ZrMXZVWTNsR1UxNUNYUTNXN3BBMG91NENRLXUxRVRkYnJKajlPWDlLam5LRGxuaG5EbG9hWlJqZHFyZjUtaGFhdHFSU0FGQjRqc1VEbmY1QTgtdDFacWp0TjZmVEFnS3ZESXJGUllQMjVqS3pLbEpvaVc5OUhxS0lPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 15:31:47 GMT",
-   "summary": "VIEW Yields fall after US Treasury says it will double some bond buybacks &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkl3Q1p0eG5uR21ZT0lMdnRnd0UydUJlc3J3M1lSckFjMndEX29fNG9lUXN3YmxLeDFwRms1MU0zME80TmUzb291Y3psVm0taE9fWDdYX2stOWs4cFRBUUgxN2hhRllfLXF0djJzSC0xN3pZZ0REMVZrWUxJSy03dE9uUVdWbWdoWDhnYjdpekIxeDNQSUh1SnJKUUtoLUtoU0xocEh4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 22:31:44 GMT",
+   "summary": "Payments firm Stripe to buy marketplace OpenRouter in AI push &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -484,18 +500,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "UK's Pinewood Technologies​ to go private in $739 million Ridgeview deal",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenZqdm1zT1dPeml5ZDA3bmNnR25DQUwweHp4YmtJeUFVN1BkV1lNNFFEY1BmcXRTS3ZaLXNjZnlfVmNQQXlXZkV1bEZKcDJ0aXlhejF0SmlkYzF2QTdIS1pMemg5NVk4YWNlbkZ3dnpvZDVpbXRwWmZNNmM5ZEEwc0hEM2ZtUEdlX182SFdPS3ZxbWZ3SGI1WlF2ME00Znc4dzM4bnU3OFNGVGJFT2Vka2pHSmRsNmg5VGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 11:55:37 GMT",
-   "summary": "UK's Pinewood Technologies​ to go private in $739 million Ridgeview deal &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFZaRlM2dzEwaFFCbGlkMmdaVGk2dGRIQ2liQzBuV2lxVTE0VUZKVUotTktnX1F2Q0x6dDcxRGhjS1A3ZFlDYktSb1RDb25aS1ZXWUVzZHFjcHQ2Y0plaExtZnA3VW1ad3JxejhWRUdyVnQwaEh1bzYzZy0yckRnQlI2Rk9NWmpQZ0xkMk81NUs2cTFabkZwSlFJVUhlWkpWM2dF?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 19:29:58 GMT",
    "summary": "Uber launches autonomous rides in Zagreb, its first in Europe &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "UK's Pinewood Technologies​ to go private in $739 million Ridgeview deal",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenZqdm1zT1dPeml5ZDA3bmNnR25DQUwweHp4YmtJeUFVN1BkV1lNNFFEY1BmcXRTS3ZaLXNjZnlfVmNQQXlXZkV1bEZKcDJ0aXlhejF0SmlkYzF2QTdIS1pMemg5NVk4YWNlbkZ3dnpvZDVpbXRwWmZNNmM5ZEEwc0hEM2ZtUEdlX182SFdPS3ZxbWZ3SGI1WlF2ME00Znc4dzM4bnU3OFNGVGJFT2Vka2pHSmRsNmg5VGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 11:55:37 GMT",
+   "summary": "UK's Pinewood Technologies​ to go private in $739 million Ridgeview deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,10 +524,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 17 Aug 2026 10:04:00 GMT",
-   "summary": "Trump crypto firm backs venture offering AI from restricted Chinese companies &nbsp;&nbsp; Reuters",
+   "title": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 02:06:00 GMT",
+   "summary": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
