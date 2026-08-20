@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T19:45:27Z",
+ "generated_at": "2026-08-20T21:02:57Z",
  "count": 68,
  "items": [
   {
@@ -38,15 +38,15 @@
    "source": "nyt-world",
    "title": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
    "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
-   "published": "Thu, 20 Aug 2026 18:25:34 +0000",
-   "summary": "Critics in the small West African nation say their government has not said why it agreed to one of the largest U.S. deportation deals, who the deportees are, or how they will be handled.",
+   "published": "Thu, 20 Aug 2026 20:52:16 +0000",
+   "summary": "The five men were part of the first group of deportees to be sent to the West African nation by the Trump administration. The Liberian government has not clarified their status.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
    "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
-   "published": "Thu, 20 Aug 2026 19:13:27 +0000",
+   "published": "Thu, 20 Aug 2026 19:53:15 +0000",
    "summary": "While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues.",
    "full_text": ""
   },
@@ -54,7 +54,7 @@
    "source": "nyt-world",
    "title": "Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended",
    "url": "https://www.nytimes.com/2026/08/20/world/europe/arday-cofnas-suspended.html",
-   "published": "Thu, 20 Aug 2026 18:04:20 +0000",
+   "published": "Thu, 20 Aug 2026 18:04:21 +0000",
    "summary": "Ghent University in Belgium said it suspended the academic, Nathan Cofnas, pending an investigation.",
    "full_text": ""
   },
@@ -62,7 +62,7 @@
    "source": "nyt-world",
    "title": "China Sentences Evergrande Founder to Life in Prison",
    "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
-   "published": "Thu, 20 Aug 2026 10:28:27 +0000",
+   "published": "Thu, 20 Aug 2026 19:52:04 +0000",
    "summary": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.",
    "full_text": ""
   },
@@ -84,9 +84,17 @@
   },
   {
    "source": "nyt-business",
+   "title": "How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields",
+   "url": "https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html",
+   "published": "Thu, 20 Aug 2026 20:50:00 +0000",
+   "summary": "Analysts said the recent rise in Treasury yields partly reflected investor expectations that A.I.-driven growth could keep interest rates elevated.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "Two Binance Employees Detained in the U.A.E. Amid Police Inquiries",
    "url": "https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html",
-   "published": "Thu, 20 Aug 2026 19:10:08 +0000",
+   "published": "Thu, 20 Aug 2026 19:57:52 +0000",
    "summary": "The detentions of the workers, who have been released, are a sign of legal pressure that the world’s largest crypto exchange faces in the Emirates, which is home to its main regulator.",
    "full_text": ""
   },
@@ -126,7 +134,7 @@
    "source": "nyt-business",
    "title": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
    "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
-   "published": "Thu, 20 Aug 2026 15:45:12 +0000",
+   "published": "Thu, 20 Aug 2026 20:04:32 +0000",
    "summary": "Walmart and other big U.S. retailers have warned that consumers were being cautious, even if household balance sheets seemed healthy.",
    "full_text": ""
   },
@@ -142,7 +150,7 @@
    "source": "nyt-business",
    "title": "Bond Market Stress Returns and Oil Rises in Edgy Day for Markets",
    "url": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html",
-   "published": "Thu, 20 Aug 2026 13:40:33 +0000",
+   "published": "Thu, 20 Aug 2026 20:04:52 +0000",
    "summary": "Bond markets remained volatile, as investors assessed the geopolitical turmoil.",
    "full_text": ""
   },
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html",
    "published": "Thu, 20 Aug 2026 14:23:51 +0000",
    "summary": "The company’s fortunes cratered as demand for Covid-19 vaccines plummeted. But it was busy working on something else.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
-   "url": "https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html",
-   "published": "Thu, 20 Aug 2026 18:18:36 +0000",
-   "summary": "A scientific and civilizational horror story.",
    "full_text": ""
   },
   {
@@ -244,18 +244,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTBFUDUyY3VFZGlQY0VvSDFSRDV6bTJLSVV5OVd4Zk9tbzFjYkdVZ3Fxc3ZZbGNKU3lMdGhxRU4wb0F1QzIzMzFOUHBvdVlWVHB0MEFQSkN0eDVHOF9VMktYR1pETnpfcUt2TEJwLUJyMDZRam55a3hhUHFWN0ZwVWlEV0FRX21aN0lyNjhKVll1ck1CWE52cjgzNEFQeGV1Rnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 04:18:00 GMT",
-   "summary": "Robots poised for 'ChatGPT moment,' Unitree CEO says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Academic who raised concerns over Jason Arday suspended by Ghent University",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3NMXzdBM1JoMGlUVGUzRDZ6WDFfaUZtd3l6YVFiNkFQYnAtM1VRVnZRcXJhVUctb21YcHdmMHlBS280LUhMMEFXemxFUkdIeGN3QVFUY1hwVkd4d3JlUXl5ZlVfUGJPRFhDWEJUc3BUR1Fqa3FTNm1SOEVVbFNzMjc2Sk5ZUy1kYUJRZDlvc2xUZlg5UEhfWjBVcnJTdVZqVzR4dFVBdU5DZmthc3BMSFBPdVBfbDNx?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 13:52:49 GMT",
    "summary": "Academic who raised concerns over Jason Arday suspended by Ghent University &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTBFUDUyY3VFZGlQY0VvSDFSRDV6bTJLSVV5OVd4Zk9tbzFjYkdVZ3Fxc3ZZbGNKU3lMdGhxRU4wb0F1QzIzMzFOUHBvdVlWVHB0MEFQSkN0eDVHOF9VMktYR1pETnpfcUt2TEJwLUJyMDZRam55a3hhUHFWN0ZwVWlEV0FRX21aN0lyNjhKVll1ck1CWE52cjgzNEFQeGV1Rnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 04:18:00 GMT",
+   "summary": "Robots poised for 'ChatGPT moment,' Unitree CEO says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,14 +292,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Russia strikes drone component facilities, other targets in Kyiv, defence ministry says",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaGJoZF9SaTdRNUxGRnhoYzJFVTUzUklXV21uVjM4cXh2Ulh6LXZQdmFkMnVRcU9uR3hSdDFKdzRoZHZDREtmcl9uYmExZndlNDZyb3l5WXYxZ091MzgxTDlLbGpJYTFhSXFTbmlubUhXNGZ2MEYwOGNNaURYNkJUaEhKYTZFdmtweWVzb0IwRzVRZmY2RUxQNHZVOThKeFotclc4aXhGS2V4NVByT2FuMXdzTmx2SFpMNlVF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 05:14:00 GMT",
-   "summary": "Russia strikes drone component facilities, other targets in Kyiv, defence ministry says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "EXCLUSIVE: US designates American held by China as wrongfully detained",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZ3UFNpc0w1UlZCenptNzdSNFYtdk5KOVc2MlNFQ1NvdVlRR19Kem9HUTBFTm9ZS2RtM211Z1NsMVZBTkRUeEQwaGRqZUotMGEtWW52LUtDMUI3SURnXzduRUJjblVQOVJEVU9ob0toUHlaNUdpbGxQc2ZkRXZMRExDVFNVbEpwUEZGbnpjanp2N2c2N2xWSlJOdXY0czFEMW1QMGFCTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 13:14:04 GMT",
@@ -308,18 +300,18 @@
   },
   {
    "source": "reuters-world",
+   "title": "Russia strikes drone component facilities, other targets in Kyiv, defence ministry says",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaGJoZF9SaTdRNUxGRnhoYzJFVTUzUklXV21uVjM4cXh2Ulh6LXZQdmFkMnVRcU9uR3hSdDFKdzRoZHZDREtmcl9uYmExZndlNDZyb3l5WXYxZ091MzgxTDlLbGpJYTFhSXFTbmlubUhXNGZ2MEYwOGNNaURYNkJUaEhKYTZFdmtweWVzb0IwRzVRZmY2RUxQNHZVOThKeFotclc4aXhGS2V4NVByT2FuMXdzTmx2SFpMNlVF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 05:14:00 GMT",
+   "summary": "Russia strikes drone component facilities, other targets in Kyiv, defence ministry says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "China leaves loan rates steady for 15th consecutive month in August",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVQwbDVUdkNhNmhiS2FBZXhGdmZLSW95WWRYS0tVOFpyRnJGekk2R3VCS1h5VUVCUFRwV19Uc0N4TFhzSEdJSDFadVJ5cEpmRWNtQWNjLU1USHlVcDZDb21HVFRuYU1UWVhaUmNWelMtT19US1VoRlpGV2cxN3lZdlQxR2p1RThueUtxYUJvYjRkRWZadk90T3N3ZU1qV2ZMQzFlZ3c1NkVEQ3hWSjduVlRzNUV5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 01:25:00 GMT",
    "summary": "China leaves loan rates steady for 15th consecutive month in August &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Top Canada, US trade negotiators to meet again as deal deadline nears",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcV90dGRFNXlmUWhKTk1uZExFRzhzNGF5VGNqcXJkcXFNNS1BUFlxeEhsbk02X1hYcVZnSUNDbjVSblNpTVpZaWZmbUV2Q3NXLWY0TXJNUDVRa0xYTmRwY0MwZlJHdVVhWUhOM0JYbUxoQVBhcnRlbjhveHFnd1R5S0U2ZEx2dGFWQWF4S3JReHFsckJPcmdmMkxCV21aeUJkTWFBLXJjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 14:30:27 GMT",
-   "summary": "Top Canada, US trade negotiators to meet again as deal deadline nears &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,6 +332,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Nvidia denies report it is rolling out China AI chip by year-end",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 20:16:35 GMT",
+   "summary": "Nvidia denies report it is rolling out China AI chip by year-end &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "EXCLUSIVE: Senate Democrats question USDA about data errors, staff losses",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVdoZ1AyLUtfUHREazZQdUFNOWV0dmdiOGdld2F0VzF2akx1SzVheHJzZjBtX19yUzJsM2gxVWppel9kbnN2dlh2a2xSQTR6S2ZMYnQ0c1ZVdFd0QWJfTTBkekZFcWxSV0JiM1YyREpKV0JmVkxyUTB0NnJtZ3lQVFA3RVVPeUtZQjFMZUFfZ043ZmR3MDVTYjJ1NVJvUlZLcnRPRXdwc0dDeVNFaHh3TFFNMEdHZ2xmWVZHb0FNUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 15:41:39 GMT",
@@ -356,10 +356,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHNxUXpMLWp6eDNUendUcVlMS01NTnk0eVNqN1FlYnBwdlgwMElUTXlfR3paamtTNFhBXzJULXlfUDBkaHFuU3poamlYVHhBMGdEQ3ZiWTdtR2dpQng4aE1CMERFWFVGLXBtSTFLY2VpODJKN3paamJSUDV5U1JYUHZIVGNILWJiZzluejV5Vy12dURhVmRfVjdLVTFETXMyRE9hUG1Da2JUcGhISGM4clB0LV9CbXVfeVBlamhRNTA5cjQ1d1hpWA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 16:53:58 GMT",
-   "summary": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say &nbsp;&nbsp; Reuters",
+   "title": "Alibaba profit falls 75% after ramping up AI infrastructure spending",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2tiUnl3QjZwYUtIMS10blVfb0hldWgzc21OVk40S3lIV0g1LTdiakVxYkt5Wk9BTUdOQ3FwTEpVV1JwRi05aGRVR1B0c1Bya29xMGpxdEZiR255eEdDdUZURlJtbXJ6QUpiQktIT0hGSEF4ZkV3Ry0zNlV2aXhUYzFZVVJWMllsQ3FFZ1FiMGk0bUNlTHhHcnBNMlMyUmJTYTdSTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 15:07:05 GMT",
+   "summary": "Alibaba profit falls 75% after ramping up AI infrastructure spending &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -368,14 +368,6 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThpWUk1aGlwTFpYY0tRMVg4dFU4LXNzSnZWdVctWVp0LVFWQzAtZGtPMmh1Z2dMSHpFelF4UmFnMFoyckVNeTV3OHE1MVI5UGhFeWZINTF3eVZzV3RIUHYtVWVFc0R1ckhsel9JeVB1Mko5a01sdjNJWVlUdDBNc1c3U2JpMUZVZDFNNTRvdUJjRE5OQk1EdmR1MTBFNGp3RHZlT3JmMk5EVm1tR1JlVzV3VGgwdHFiZm1ibE43aWVYY3k4cUdUQ3lGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 08:35:45 GMT",
    "summary": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Alibaba profit falls 75% after ramping up AI infrastructure spending",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2tiUnl3QjZwYUtIMS10blVfb0hldWgzc21OVk40S3lIV0g1LTdiakVxYkt5Wk9BTUdOQ3FwTEpVV1JwRi05aGRVR1B0c1Bya29xMGpxdEZiR255eEdDdUZURlJtbXJ6QUpiQktIT0hGSEF4ZkV3Ry0zNlV2aXhUYzFZVVJWMllsQ3FFZ1FiMGk0bUNlTHhHcnBNMlMyUmJTYTdSTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 15:07:05 GMT",
-   "summary": "Alibaba profit falls 75% after ramping up AI infrastructure spending &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -395,11 +387,19 @@
    "full_text": ""
   },
   {
+   "source": "reuters-business",
+   "title": "JPMorgan entity among two firms barred in India over alleged closing auction manipulation",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd29jLVo5bUpsLUthQkpkQ1h2YkZuZUNpUjA2aG9GbWhobXlXT0hDWTdzQzZNRzFjUXJXa3NYazhCeVV6MGhFTjQzcGo4YXl4NER0TmhUM1NsQmVlZmFvYVFzWG5lcFZ4c3o2d2ZBVlVFVkJRX2pHbG1GMEhQRmlDS19RRVVMR08zWGhmR0pSQ3Q0TmxXU2NLOXYxX0R5eXJKME1xaGZoYnpFc3pJWjFvRUpsb25vTGNSNHFoN3Zvb3F0OU5TTVF1Sg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 15:00:00 GMT",
+   "summary": "JPMorgan entity among two firms barred in India over alleged closing auction manipulation &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-markets",
-   "title": "Wall St indexes fall to two-week lows as rising bond yields, disappointing Walmart results drag",
+   "title": "Wall Street sinks as bond yields rise, Walmart results disappoint",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 18:38:00 GMT",
-   "summary": "Wall St indexes fall to two-week lows as rising bond yields, disappointing Walmart results drag &nbsp;&nbsp; Reuters",
+   "published": "Thu, 20 Aug 2026 20:51:43 GMT",
+   "summary": "Wall Street sinks as bond yields rise, Walmart results disappoint &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,18 +428,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Morning Bid: Twist and shout",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1V3Um1WYnlEMFREd2oybEtjUFNyeGdwUnkyekJtR3haWjJ3dFhlMjhXMkQ3OWVaRHhjTnlwVkt5MVJWT1JnWGFHQ2IzaGNkVm1sT042N3hEM1BkTE1uU2JLWW1zeXVGLVcyZzBmTWRtb2wxXzA1Zm40c2xRRDh0azNiTEZPdlQzYmhCZ1VidVZXWE9vSURF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 10:49:36 GMT",
-   "summary": "Morning Bid: Twist and shout &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0NlakpDYU5qTWhFZm0wLUEtbmR3akx4YmNsV25UX0ZiRWdDaThaSkpBeUg3blJNUS0wZFFLLUhyaWdGVklzZElzdWV0UHl6bkM1Y3RqZGJhRndHT25WYThIWUhpTkZhSmpwS0MySmpuQmptQm5MY2ZfMU9aN3Q1bkdyTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 01:25:00 GMT",
    "summary": "Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Morning Bid: Twist and shout",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1V3Um1WYnlEMFREd2oybEtjUFNyeGdwUnkyekJtR3haWjJ3dFhlMjhXMkQ3OWVaRHhjTnlwVkt5MVJWT1JnWGFHQ2IzaGNkVm1sT042N3hEM1BkTE1uU2JLWW1zeXVGLVcyZzBmTWRtb2wxXzA1Zm40c2xRRDh0azNiTEZPdlQzYmhCZ1VidVZXWE9vSURF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 10:49:36 GMT",
+   "summary": "Morning Bid: Twist and shout &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -460,10 +460,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Gold eases after sharp gains as inflation concerns come to the fore",
+   "title": "Gold steadies as inflation concerns balance hopes of lower real rates",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzBOVjZ6ZU0xLWotdnpUeHVrVnN5ZFlGWEExLVF6RUgtY0RMQjdTZUNDbWRvRGNCY0gwUE9ubFJiM1dNVzVfVE12SV80ZlRSYTZqamdFMGhubUJBeFFNbkZHTml3WjFvRGVOVER3dXdYNUZnSDRKS3UxU2dTMnp3MG9qYUVKU0ZNY2ZiVUw1c0NJREpibDFhbWlORQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 01:07:00 GMT",
-   "summary": "Gold eases after sharp gains as inflation concerns come to the fore &nbsp;&nbsp; Reuters",
+   "summary": "Gold steadies as inflation concerns balance hopes of lower real rates &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {

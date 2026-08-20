@@ -14,13 +14,13 @@
  },
  "nyt_via_jina": {
   "status": 403,
-  "size": 669,
+  "size": 705,
   "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Thu Aug 20 2"
  },
  "reuters_via_jina": {
-  "status": 200,
-  "size": 185,
-  "sample": "Title: reuters.com\n\nURL Source: https://www.reuters.com/world/\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to acc"
+  "status": 403,
+  "size": 723,
+  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Thu Aug 20 2"
  },
  "nyt_svc_api": {
   "status": 404,
