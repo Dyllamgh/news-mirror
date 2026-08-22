@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-22T10:54:17Z",
- "count": 66,
+ "generated_at": "2026-08-22T13:44:51Z",
+ "count": 64,
  "items": [
   {
    "source": "nyt-world",
    "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
    "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-   "published": "Sat, 22 Aug 2026 09:26:12 +0000",
+   "published": "Sat, 22 Aug 2026 13:35:43 +0000",
    "summary": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
    "full_text": ""
   },
@@ -30,7 +30,7 @@
    "source": "nyt-world",
    "title": "What Does Harry and Meghan’s Return to England Mean for Their Children?",
    "url": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html",
-   "published": "Sat, 22 Aug 2026 09:54:13 +0000",
+   "published": "Sat, 22 Aug 2026 12:49:57 +0000",
    "summary": "One effect of moving back is that Archie and Lilibet now have the opportunity to be schooled as Britons. Here’s what that might look like.",
    "full_text": ""
   },
@@ -62,7 +62,7 @@
    "source": "nyt-world",
    "title": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital",
    "url": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html",
-   "published": "Sat, 22 Aug 2026 04:01:07 +0000",
+   "published": "Sat, 22 Aug 2026 13:14:05 +0000",
    "summary": "Osaka? Fukuoka? Sapporo? The race is on to be second to Tokyo — and to claim the prestige and money that could come with it.",
    "full_text": ""
   },
@@ -80,6 +80,14 @@
    "url": "https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html",
    "published": "Fri, 21 Aug 2026 14:43:07 +0000",
    "summary": "Rescue teams no longer enter the city of Lyman, in eastern Ukraine, because it is deemed too dangerous. The only way out is a terrifying journey on foot.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Harvard’s A.I. Clones Will Hear Your Start-Up Pitch Now",
+   "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+   "published": "Sat, 22 Aug 2026 12:00:04 +0000",
+   "summary": "To create a new $699 bootcamp for entrepreneurs, Harvard Business School made A.I. versions of its faculty.",
    "full_text": ""
   },
   {
@@ -142,7 +150,7 @@
    "source": "nyt-business",
    "title": "Mark Zuckerberg Buys an Irish Castle",
    "url": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
-   "published": "Fri, 21 Aug 2026 19:16:03 +0000",
+   "published": "Sat, 22 Aug 2026 13:28:51 +0000",
    "summary": "The prominent landowner has added a nearly 200-year-old estate to his holdings. Archival information says it can take “a brisk walk of 4½ minutes to reach the dining room from the kitchen.”",
    "full_text": ""
   },
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
    "published": "Fri, 21 Aug 2026 20:49:36 +0000",
    "summary": "The move prompted blowback from cattle ranchers and Republicans who represent them.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
-   "url": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
-   "published": "Fri, 21 Aug 2026 20:23:13 +0000",
-   "summary": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.",
    "full_text": ""
   },
   {
@@ -184,6 +184,14 @@
    "url": "https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html",
    "published": "Fri, 21 Aug 2026 11:32:51 +0000",
    "summary": "“It is the first time that we know of that a major lab has voluntarily slowed down.”",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
+   "url": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
+   "published": "Fri, 21 Aug 2026 20:23:13 +0000",
+   "summary": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.",
    "full_text": ""
   },
   {
@@ -220,10 +228,34 @@
   },
   {
    "source": "reuters-world",
+   "title": "Chinese robot beats Usain Bolt's 100m world record in test run",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 10:40:20 GMT",
+   "summary": "Chinese robot beats Usain Bolt's 100m world record in test run &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 18:56:43 GMT",
    "summary": "Paredes banned for 10 games after World Cup final fracas, Argentina fined &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Trump heads into midterms short on foreign policy wins",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVpobThVRFlSUldKZkNtUFdwaTRmaFZyQl9HOExfQ2dxQkFOd2EtdWdtWUZ1ckthb3dKTVZwSmtpNk5Eb3A3dVFhWnVqZzlyMlpCQlFydGZrYTlyNzFDV21fQzZPYWxqeFBranZibzZiampxb3pyYll0LXhqZUJmN2ZNa3Q2UE55Tk1QSEx3NG9wd21zbFowNjZIcTY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 05:04:00 GMT",
+   "summary": "Trump heads into midterms short on foreign policy wins &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "South Africa's former world boxing champion Tete shot dead outside his home",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 09:32:13 GMT",
+   "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -236,22 +268,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Iran threatens military response to US sanctions",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 23:59:00 GMT",
-   "summary": "Iran threatens military response to US sanctions &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Mexico expects trade outcomes similar to emerging US-Canada deal",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkVrQzlDMElqOXJFZVRDeDlxZ1hINWVldEpqdlZab1lzTXVZcHRoaExyVElrZzF0bDdjV2R3NTIzZDlvd0JuQTJ0SUZKUEJ3OEtKUm5CbTVoV3ItM3Rqb3lXNVBfclJ4M0l3S1dPaXI3ZlJ5WW1IMEdRVFVTZjQ5ZU92ZWxCd2k5NGNocy1MWm9MRVRubExQM0tma0pwYW1RTzQ2NXZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 20:40:56 GMT",
-   "summary": "Mexico expects trade outcomes similar to emerging US-Canada deal &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "India's forex pile rises to six-month peak on sustained capital inflows",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 12:07:44 GMT",
@@ -260,10 +276,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Mexican governor accused by US of cartel ties returns to office",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllacHoySWMzOVhfVHo4WU1oaDZubUdLVU1YWXpBZV9XSGI1azZ2Ul9NMFNhNTI1ZjNVRjFzcm9sbHJ6Y01vR25xTWpIS1ZqTzhmQk1Dd3pBYXpZc0pPbGlWM3haUEFZOS1kc3JIcWxQV2xaVHkyQ096STFseGp1ZWF6REZJbkVuaUN1YXQ2bVJ3SVVlRjZQVkNWTXFydHhwakoxMmhQNzFrWHQz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 23:28:41 GMT",
-   "summary": "Mexican governor accused by US of cartel ties returns to office &nbsp;&nbsp; Reuters",
+   "title": "Iran threatens military response to US sanctions",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 23:59:00 GMT",
+   "summary": "Iran threatens military response to US sanctions &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -276,34 +292,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Chinese companies to watch at the World Robot Conference",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWENSYzd1bHZFeVRETkQ4LVo5RHJBaUpDMUdJc2w5OHdSYk0zTkNpc0pKSWh4TWhTTl9JMUpCRHRXeE1qQlMwMUVYYWZiZTREZWtIU2dKZVJObjByU3g1cURoOUMwdHdmTFhxRTNMeDh3dzdzOXJlTy1XWVVQN3MxMDMzX3FIYlJ1cC15UF9nLUFPMEl5WUN3T0pBNy1QaGJQOVBF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 12:11:02 GMT",
-   "summary": "Chinese companies to watch at the World Robot Conference &nbsp;&nbsp; Reuters",
+   "title": "Mexican governor accused by US of cartel ties returns to office",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllacHoySWMzOVhfVHo4WU1oaDZubUdLVU1YWXpBZV9XSGI1azZ2Ul9NMFNhNTI1ZjNVRjFzcm9sbHJ6Y01vR25xTWpIS1ZqTzhmQk1Dd3pBYXpZc0pPbGlWM3haUEFZOS1kc3JIcWxQV2xaVHkyQ096STFseGp1ZWF6REZJbkVuaUN1YXQ2bVJ3SVVlRjZQVkNWTXFydHhwakoxMmhQNzFrWHQz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 23:28:41 GMT",
+   "summary": "Mexican governor accused by US of cartel ties returns to office &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Beyond marathons and backflips, China's robots face a commercial test",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 16:10:16 GMT",
-   "summary": "Beyond marathons and backflips, China's robots face a commercial test &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Global wheat buyers brace for supply squeeze amid Black Sea attacks",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkdmTDJWOFZEQ1FJdDFIZzRXNlAwRjdSS2NEMHRQYlYtWGs0elgyckI1aGJDN21VdDJwSGtrcWFDOTZSbE96LXh4WUdSX2tVb3huZW1wRFlaSTFFWVJ5QlJNS1VnQ3BwU1pyY0xKRmlSMGtBZ1hwYm5oWW5EZXk4TVRmbXdTMVVrYkxYazRMVkU2VVRFeUpSeFZMbmV6R3g5Vk1SWTZ2RTNLamRDV0x3UjVuclRfT1B0cUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 06:28:00 GMT",
-   "summary": "Global wheat buyers brace for supply squeeze amid Black Sea attacks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 07:07:29 GMT",
-   "summary": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs &nbsp;&nbsp; Reuters",
+   "title": "Mexico expects trade outcomes similar to emerging US-Canada deal",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkVrQzlDMElqOXJFZVRDeDlxZ1hINWVldEpqdlZab1lzTXVZcHRoaExyVElrZzF0bDdjV2R3NTIzZDlvd0JuQTJ0SUZKUEJ3OEtKUm5CbTVoV3ItM3Rqb3lXNVBfclJ4M0l3S1dPaXI3ZlJ5WW1IMEdRVFVTZjQ5ZU92ZWxCd2k5NGNocy1MWm9MRVRubExQM0tma0pwYW1RTzQ2NXZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 20:40:56 GMT",
+   "summary": "Mexico expects trade outcomes similar to emerging US-Canada deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,26 +316,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 17:57:33 GMT",
-   "summary": "Gold rallies to 3-month high on weaker dollar, bullish technicals &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Euro zone business activity growing at fastest pace since November, PMIs show",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVJRUTVFVzFGV1dITUg0YmRpcFBpN18wZGdmTVgwdU1oWU5xU3dWaWhzWUtONDdWWElvbnpmTHhGLXJDcDBSczdnTnZKVFo0T2hMWEpydGhIOG9rT3g5NW1fWk5nZXBKOFRRbG4yWldPZXc3ak9XTEhqRzVyUTF0X3VNZXo3NVMyenJndGhpTkQ2ZXFzalRYUXZCX0E4SGFQU21LWFpCTmxkMlBWUmx5bG11WlRNM2ZPNnlMSkdn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 09:58:40 GMT",
    "summary": "Euro zone business activity growing at fastest pace since November, PMIs show &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdThFUDZLSTMyUHJsWGcwcS16TExSR3JHMnp1R25OQWltNmp4TGZ2R3dlbDJRQ2taWnVBODlVNXVOMUFRYmI5U3pEbHktb2xRYk5lZE00TzBqdmZqdXBzY3ZZaFVqRTdGQnhlSDdGMmpRbWpwblRkandfRmFnWUhwbUpDRmF4dk1UUVVGdmdlZGpoYWNiM1d4QUowU2x5aFhqMnM4d1E4ZEN2VVZ3LVdxYUpUQWM2bEF5dkgzSkstOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 15:55:21 GMT",
-   "summary": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,10 +332,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Walmart sales growth slowdown tests consumer resilience, shares slide 9%",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 11:05:00 GMT",
-   "summary": "Walmart sales growth slowdown tests consumer resilience, shares slide 9% &nbsp;&nbsp; Reuters",
+   "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThpWUk1aGlwTFpYY0tRMVg4dFU4LXNzSnZWdVctWVp0LVFWQzAtZGtPMmh1Z2dMSHpFelF4UmFnMFoyckVNeTV3OHE1MVI5UGhFeWZINTF3eVZzV3RIUHYtVWVFc0R1ckhsel9JeVB1Mko5a01sdjNJWVlUdDBNc1c3U2JpMUZVZDFNNTRvdUJjRE5OQk1EdmR1MTBFNGp3RHZlT3JmMk5EVm1tR1JlVzV3VGgwdHFiZm1ibE43aWVYY3k4cUdUQ3lGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 08:35:45 GMT",
+   "summary": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,10 +348,34 @@
   },
   {
    "source": "reuters-business",
-   "title": "Ukraine hits Russia's TANECO oil refinery, oil terminal, military says",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVFhUm5GN1hCV254aTR4Z1UxbXFqMERrelhiQmxOREh4Xy1CcUlRbmQyVzNvZWh1U1V4R2lKVlAxdEJhV1V5ZmstNUNNeTdnZm9ZZjNKY2tYQmZZcnU2WHdrRTJQbEp3aWg4NXZsakVuOHpNT2UtT1hMVkUtSmJ5eFZSSi10dVQxTklUcXNnUVhvdVpDOERaenRsTXBHTVV3RmtIWG0xbVcybEdhWFJaNEt0N2p4ck9qSzNJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 11:15:32 GMT",
-   "summary": "Ukraine hits Russia's TANECO oil refinery, oil terminal, military says &nbsp;&nbsp; Reuters",
+   "title": "First gas from Australia's Beetaloo puts shale ambition to the test",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSl9FaVZISTVQSVBVYk1pZ1MtVWNpZG50dU9PTVRvbHRSQjZyemZLeGowVzdxUzlxdHo0X3pXYVRsa0w4WWlFZk8xN0syQnNIaGpWME4tNkU1aDd4WmR1Tmh2aWtWQ3RFWFZMVTBXT1pNNXpvRXVIanJ6ekpXdnFwcHJQQVQ4YV9WRDFfUHVZVU9uT3pEQUdTeFJIZHRUamNHQmZRenNRWFVWZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 02:32:00 GMT",
+   "summary": "First gas from Australia's Beetaloo puts shale ambition to the test &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "JPMorgan hiring Bank of America's David Fishman as head of technology M&A, memo says",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEpIV3ZZbUZqSXhKczRfYkZuSjd0UXowV3FZM0NITGR4Tk9ZRTQ0ZGdlR3VJbmQwY01TMjNvWE5mS3hqeGhkTGVlNHoxYVVTNmhHNXNoMGVabHo4VFJlbWhGeHdNel9MZUl1NFIzY3FEUFFYNEVabk5aRVBsUkxwMHNWSGZEWC1rZzR5SE8tbGZSczRoUWlKSl9fYzN2c2VvZFBNdWswb3RvYTZRRzVacFBZdkM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 15:26:02 GMT",
+   "summary": "JPMorgan hiring Bank of America's David Fishman as head of technology M&amp;A, memo says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 22:58:54 GMT",
+   "summary": "Wall St rises on the day but falls for the week; bond yields and Iran in focus &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US equity funds draw inflows despite market pressures",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGFkaEdLdjJ4Zi1YYk11N1kwTTBoS1pTQ3NPQV9ZclF6b052dW9tYWtCXzZMUF9Wa1hYS0Y2c01iSVAzU09fb0N2WVh2S0lQQVUtUjI0TXlyRWZnODdYOUZQU2FMQVFJM2pzTDFyN1J5VWtOZHB5azE4QTctMjhNZDdzcXlPOVlyTnVacnhGd1kxUlUzZGcwWVBFdGl0MDA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 12:29:10 GMT",
+   "summary": "US equity funds draw inflows despite market pressures &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,14 +388,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Ken Griffin's Citadel sheds over 80% of Situational Awareness' bets",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmNZWnNmT3RLM3Zkb0o4eTN5WEQ0dkVqbl9xSklVblBwUjFfVXVZdTZ6Y1dYOGx1aG1mUE9kMGRRMERjOWtYN1hwVkFRLV9BTVhxNU1LdG9TMXFSZXp4eGJEeUhRYWNvUUNTLTA0UVQ0Rm5rUXYwSXRibmpMeXlHeUs1RVJQS1o0TS1TRVh6aDlISXl5bjJGcnFEYnpkVGxFaHhZSHJxSHc4REpYVkh3eFpDM205RnRGTDJZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 18:22:41 GMT",
-   "summary": "Ken Griffin's Citadel sheds over 80% of Situational Awareness' bets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWZvOEdKLWNvVGVFdjVVVmVscElRTHRudGZNakI1N0RQaXpqaDdDX29XclZqQkREeWNMVmlNa29KZVdWSFlNOEh6cl9Ldklka3N1cWxONGE0MFVOSl9LRURmckpFNHFRbko3eTNabUVrUmN1S3NrUDVFZW9WR2JzRVZfbzA4b3BUQ1FYcTI3THRmb09CcnZ4WmxRTzlEMWVsT3ZkWDVGWkFfaHR5cmxkMzJNdlY0ODdET3QxcWJzUGkwMlNkOGlyTUZRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 15:55:43 GMT",
@@ -396,18 +396,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Morning Bid: Big, bad bond market",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFpiZTBOeUlBMDlVbWNNTlFiMmFtVjhHMVkxRmVqaE9zSUMzZkhCcUJHWFdlZlo0VDQyZzRfNEpORWE3azJPTDJncEFQWHItcy1tYkFfeE1yVnRjYXhGb3JhQURsSlNFeHBaLW1PQVgyMEhWY25VYTlJRFY2elAxdHM1UENHYzFwdTdJUTVfaGZNUnBYV1hj?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 10:40:44 GMT",
-   "summary": "Morning Bid: Big, bad bond market &nbsp;&nbsp; Reuters",
+   "title": "Ken Griffin's Citadel sheds over 80% of Situational Awareness' bets",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmNZWnNmT3RLM3Zkb0o4eTN5WEQ0dkVqbl9xSklVblBwUjFfVXVZdTZ6Y1dYOGx1aG1mUE9kMGRRMERjOWtYN1hwVkFRLV9BTVhxNU1LdG9TMXFSZXp4eGJEeUhRYWNvUUNTLTA0UVQ0Rm5rUXYwSXRibmpMeXlHeUs1RVJQS1o0TS1TRVh6aDlISXl5bjJGcnFEYnpkVGxFaHhZSHJxSHc4REpYVkh3eFpDM205RnRGTDJZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 18:22:41 GMT",
+   "summary": "Ken Griffin's Citadel sheds over 80% of Situational Awareness' bets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 22:58:54 GMT",
-   "summary": "Wall St rises on the day but falls for the week; bond yields and Iran in focus &nbsp;&nbsp; Reuters",
+   "title": "Morning Bid: Big, bad bond market",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFpiZTBOeUlBMDlVbWNNTlFiMmFtVjhHMVkxRmVqaE9zSUMzZkhCcUJHWFdlZlo0VDQyZzRfNEpORWE3azJPTDJncEFQWHItcy1tYkFfeE1yVnRjYXhGb3JhQURsSlNFeHBaLW1PQVgyMEhWY25VYTlJRFY2elAxdHM1UENHYzFwdTdJUTVfaGZNUnBYV1hj?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 10:40:44 GMT",
+   "summary": "Morning Bid: Big, bad bond market &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,34 +428,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "US equity funds draw inflows despite market pressures",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGFkaEdLdjJ4Zi1YYk11N1kwTTBoS1pTQ3NPQV9ZclF6b052dW9tYWtCXzZMUF9Wa1hYS0Y2c01iSVAzU09fb0N2WVh2S0lQQVUtUjI0TXlyRWZnODdYOUZQU2FMQVFJM2pzTDFyN1J5VWtOZHB5azE4QTctMjhNZDdzcXlPOVlyTnVacnhGd1kxUlUzZGcwWVBFdGl0MDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 12:29:10 GMT",
-   "summary": "US equity funds draw inflows despite market pressures &nbsp;&nbsp; Reuters",
+   "title": "Take Five: Six months of war",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 11:25:55 GMT",
+   "summary": "Take Five: Six months of war &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "War-hit European markets are far from down and out",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 04:16:24 GMT",
-   "summary": "War-hit European markets are far from down and out &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Guggenheim fund hits 17-year low after short-seller claims",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHF4WVVLUFB2cjZqdld4cWRuUDZyc0lqZzhzUE8xdTViNUlLNFlxS0dJNUtJd1hQdlZvQmhGaTJqMHU2bm9BM1dCNC1fM1VmNGQzbFdEdEs0LUEyR2N2ZTJXZ1B6UHpjQmc5TlFERjdqZUJsRUw0RTE4WHBLTnFVczdlQXVNODdpb1BLQnJzOGFoaFktX29UYTBNamJlc1Q1anRYb0k4bW9HZ1Rkenc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 15:37:44 GMT",
-   "summary": "Guggenheim fund hits 17-year low after short-seller claims &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "JPMorgan hiring Bank of America's David Fishman as head of technology M&A, memo says",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEpIV3ZZbUZqSXhKczRfYkZuSjd0UXowV3FZM0NITGR4Tk9ZRTQ0ZGdlR3VJbmQwY01TMjNvWE5mS3hqeGhkTGVlNHoxYVVTNmhHNXNoMGVabHo4VFJlbWhGeHdNel9MZUl1NFIzY3FEUFFYNEVabk5aRVBsUkxwMHNWSGZEWC1rZzR5SE8tbGZSczRoUWlKSl9fYzN2c2VvZFBNdWswb3RvYTZRRzVacFBZdkM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 15:26:02 GMT",
-   "summary": "JPMorgan hiring Bank of America's David Fishman as head of technology M&amp;A, memo says &nbsp;&nbsp; Reuters",
+   "title": "Global stocks close out a tough week as bond yields, oil stay high",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 01:23:00 GMT",
+   "summary": "Global stocks close out a tough week as bond yields, oil stay high &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
