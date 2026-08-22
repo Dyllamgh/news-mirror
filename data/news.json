@@ -1,7 +1,31 @@
 {
- "generated_at": "2026-08-22T07:46:52Z",
- "count": 66,
+ "generated_at": "2026-08-22T09:04:08Z",
+ "count": 67,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
+   "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+   "published": "Sat, 22 Aug 2026 05:13:58 +0000",
+   "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital",
+   "url": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html",
+   "published": "Sat, 22 Aug 2026 04:01:07 +0000",
+   "summary": "Osaka? Fukuoka? Sapporo? The race is on to be second to Tokyo — and to claim the prestige and money that could come with it.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
+   "url": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
+   "published": "Sat, 22 Aug 2026 06:42:24 +0000",
+   "summary": "After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back and faced much criticism.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "Giorgia Meloni Cuts the Hard Right a Path to Power",
@@ -56,30 +80,6 @@
    "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
    "published": "Fri, 21 Aug 2026 18:32:08 +0000",
    "summary": "Palestinian and Israeli authorities offered divergent accounts of the incident, which came as settler violence has surged across the Israeli-occupied territory.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
-   "url": "https://www.nytimes.com/2026/08/21/world/europe/germany-foreign-plot-hidden-guns.html",
-   "published": "Fri, 21 Aug 2026 17:28:45 +0000",
-   "summary": "Officials were careful not to point a finger, after revealing what they said was a plan for a political attack, at a time when a series of destabilizing actions have been blamed on Russia.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
-   "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
-   "published": "Fri, 21 Aug 2026 15:23:39 +0000",
-   "summary": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry’s brother, William, and his wife, Kate.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
-   "url": "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html",
-   "published": "Fri, 21 Aug 2026 18:22:00 +0000",
-   "summary": "Harry and six other high-profile figures lost a privacy lawsuit against Associated Newspapers. They may eventually have to pay more than twice the initial sum, a judge said.",
    "full_text": ""
   },
   {
@@ -188,6 +188,14 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
+   "url": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
+   "published": "Sat, 22 Aug 2026 09:02:08 +0000",
+   "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?",
    "url": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
    "published": "Fri, 21 Aug 2026 09:02:32 +0000",
@@ -219,14 +227,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
-   "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
-   "published": "Wed, 19 Aug 2026 19:06:05 +0000",
-   "summary": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -248,14 +248,6 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 12:07:44 GMT",
    "summary": "India's forex pile rises to six-month peak on sustained capital inflows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Mexican governor accused by US of cartel ties returns to office",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllacHoySWMzOVhfVHo4WU1oaDZubUdLVU1YWXpBZV9XSGI1azZ2Ul9NMFNhNTI1ZjNVRjFzcm9sbHJ6Y01vR25xTWpIS1ZqTzhmQk1Dd3pBYXpZc0pPbGlWM3haUEFZOS1kc3JIcWxQV2xaVHkyQ096STFseGp1ZWF6REZJbkVuaUN1YXQ2bVJ3SVVlRjZQVkNWTXFydHhwakoxMmhQNzFrWHQz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 23:28:41 GMT",
-   "summary": "Mexican governor accused by US of cartel ties returns to office &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,6 +276,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Mexican governor accused by US of cartel ties returns to office",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllacHoySWMzOVhfVHo4WU1oaDZubUdLVU1YWXpBZV9XSGI1azZ2Ul9NMFNhNTI1ZjNVRjFzcm9sbHJ6Y01vR25xTWpIS1ZqTzhmQk1Dd3pBYXpZc0pPbGlWM3haUEFZOS1kc3JIcWxQV2xaVHkyQ096STFseGp1ZWF6REZJbkVuaUN1YXQ2bVJ3SVVlRjZQVkNWTXFydHhwakoxMmhQNzFrWHQz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 23:28:41 GMT",
+   "summary": "Mexican governor accused by US of cartel ties returns to office &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Academic who raised concerns over Jason Arday suspended by Ghent University",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3NMXzdBM1JoMGlUVGUzRDZ6WDFfaUZtd3l6YVFiNkFQYnAtM1VRVnZRcXJhVUctb21YcHdmMHlBS280LUhMMEFXemxFUkdIeGN3QVFUY1hwVkd4d3JlUXl5ZlVfUGJPRFhDWEJUc3BUR1Fqa3FTNm1SOEVVbFNzMjc2Sk5ZUy1kYUJRZDlvc2xUZlg5UEhfWjBVcnJTdVZqVzR4dFVBdU5DZmthc3BMSFBPdVBfbDNx?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 13:52:49 GMT",
@@ -302,32 +302,16 @@
    "source": "reuters-world",
    "title": "Beyond marathons and backflips, China's robots face a commercial test",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 10:19:00 GMT",
+   "published": "Tue, 18 Aug 2026 16:10:16 GMT",
    "summary": "Beyond marathons and backflips, China's robots face a commercial test &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWZvOEdKLWNvVGVFdjVVVmVscElRTHRudGZNakI1N0RQaXpqaDdDX29XclZqQkREeWNMVmlNa29KZVdWSFlNOEh6cl9Ldklka3N1cWxONGE0MFVOSl9LRURmckpFNHFRbko3eTNabUVrUmN1S3NrUDVFZW9WR2JzRVZfbzA4b3BUQ1FYcTI3THRmb09CcnZ4WmxRTzlEMWVsT3ZkWDVGWkFfaHR5cmxkMzJNdlY0ODdET3QxcWJzUGkwMlNkOGlyTUZRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 15:55:43 GMT",
-   "summary": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US Treasury Secretary Bessent to hold press conference on Monday",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDcwRjI3TkpVODVXRkhpY1JhSXZIeHNkZW84RTdDaEFEdmlDUHZ1Uy1GNXdlOHpMaDVHdGl1RlZBSVFaSC1MbGxXcFRMdjl5Y19KUUpyNkJLaEl3NjlXZklHbkhDaWpLOFJ2Mmk2SWpmWFZuQ2ZQb2VXOUVpVElHQ18wTFBSSUFwODhSS29jLVFUWVM0M1RfRmhTVnBVOFVVUjV4dFpn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 22:09:46 GMT",
-   "summary": "US Treasury Secretary Bessent to hold press conference on Monday &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Iraq aims to boost oil output to 8-10 million bpd in six years",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUUpoc3RVQnd4NTNiTnNFZ1UzRDBzbmF6RjNzbFBYX1BLUUV5d2ZSRGFkem5EWnJYNEo2TUc2TWwxc2JRUzVaczhIb0ZZN2kxdmJVdUdqdXcybjlpR1YteE0zdmUwMXZpMzAxSHZDSllIQ1NvYWNwOTdrRTFOcEdwZG8wZTl3ajB0RGVEQ1o1alotVEQ5MTBNZW13RllNWGNlcWF6Y2FDY0Q?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 10:28:10 GMT",
-   "summary": "Iraq aims to boost oil output to 8-10 million bpd in six years &nbsp;&nbsp; Reuters",
+   "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 17:57:33 GMT",
+   "summary": "Gold rallies to 3-month high on weaker dollar, bullish technicals &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -336,6 +320,14 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVJRUTVFVzFGV1dITUg0YmRpcFBpN18wZGdmTVgwdU1oWU5xU3dWaWhzWUtONDdWWElvbnpmTHhGLXJDcDBSczdnTnZKVFo0T2hMWEpydGhIOG9rT3g5NW1fWk5nZXBKOFRRbG4yWldPZXc3ak9XTEhqRzVyUTF0X3VNZXo3NVMyenJndGhpTkQ2ZXFzalRYUXZCX0E4SGFQU21LWFpCTmxkMlBWUmx5bG11WlRNM2ZPNnlMSkdn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 09:58:40 GMT",
    "summary": "Euro zone business activity growing at fastest pace since November, PMIs show &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US Treasury Secretary Bessent to hold press conference on Monday",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDcwRjI3TkpVODVXRkhpY1JhSXZIeHNkZW84RTdDaEFEdmlDUHZ1Uy1GNXdlOHpMaDVHdGl1RlZBSVFaSC1MbGxXcFRMdjl5Y19KUUpyNkJLaEl3NjlXZklHbkhDaWpLOFJ2Mmk2SWpmWFZuQ2ZQb2VXOUVpVElHQ18wTFBSSUFwODhSS29jLVFUWVM0M1RfRmhTVnBVOFVVUjV4dFpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 22:09:46 GMT",
+   "summary": "US Treasury Secretary Bessent to hold press conference on Monday &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,14 +348,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "Explainer: What El Niño's return means for the Panama Canal — and global trade",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWZLckNpd0p0X1hFRE1PNkowRC03X2ZuMzE4a0xlUjhhN2hKN3B0VFN5cWhDZGk5SzJ2MWkyUmZORG9iN19tdm44ZXJVOFdtWjdUSWs1c2Q3OXBZTEIzdGdzMFlvekJWMkw4Z2kyby1tXzB4RW1nWFJhdG9DV0NfWjJDX1dnTzBBMjhqbTFRR1RRNzA4Skx4U3VyOXgwSFBwSkQ1Mk9rckFkZ05y?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 18:10:52 GMT",
-   "summary": "Explainer: What El Niño's return means for the Panama Canal — and global trade &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Walmart sales growth slowdown tests consumer resilience, shares slide 9%",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 11:05:00 GMT",
@@ -372,10 +356,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "Airbus backs down on return-to-office after protests, sources say",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkNYWDZBYlJyT2xqN0NHTGhhQ1YwUlNTSWVzTjhzeGtGODlOWFFzX2VzMEF0d1JjcDBLMi1oVUk5QzFCVzJWQVFSanhVNG8weGI1QzlwUk9ldWd1U1FSZ1ZNdXdZMWExNm5yYWhlLU9MbjhTa29EcVYtQmZSekZJY3FGTGlWV0FLMVhZaW5MMExWSEhManpKNGtJZE9PMkNLd082dGRDaHdrTEZvTjRwYTNNb3RiQnB6TnBrUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 19:21:28 GMT",
-   "summary": "Airbus backs down on return-to-office after protests, sources say &nbsp;&nbsp; Reuters",
+   "title": "Explainer: What El Niño's return means for the Panama Canal — and global trade",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWZLckNpd0p0X1hFRE1PNkowRC03X2ZuMzE4a0xlUjhhN2hKN3B0VFN5cWhDZGk5SzJ2MWkyUmZORG9iN19tdm44ZXJVOFdtWjdUSWs1c2Q3OXBZTEIzdGdzMFlvekJWMkw4Z2kyby1tXzB4RW1nWFJhdG9DV0NfWjJDX1dnTzBBMjhqbTFRR1RRNzA4Skx4U3VyOXgwSFBwSkQ1Mk9rckFkZ05y?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 18:10:52 GMT",
+   "summary": "Explainer: What El Niño's return means for the Panama Canal — and global trade &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Ukraine hits Russia's TANECO oil refinery, oil terminal, military says",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVFhUm5GN1hCV254aTR4Z1UxbXFqMERrelhiQmxOREh4Xy1CcUlRbmQyVzNvZWh1U1V4R2lKVlAxdEJhV1V5ZmstNUNNeTdnZm9ZZjNKY2tYQmZZcnU2WHdrRTJQbEp3aWg4NXZsakVuOHpNT2UtT1hMVkUtSmJ5eFZSSi10dVQxTklUcXNnUVhvdVpDOERaenRsTXBHTVV3RmtIWG0xbVcybEdhWFJaNEt0N2p4ck9qSzNJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 11:15:32 GMT",
+   "summary": "Ukraine hits Russia's TANECO oil refinery, oil terminal, military says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThpWUk1aGlwTFpYY0tRMVg4dFU4LXNzSnZWdVctWVp0LVFWQzAtZGtPMmh1Z2dMSHpFelF4UmFnMFoyckVNeTV3OHE1MVI5UGhFeWZINTF3eVZzV3RIUHYtVWVFc0R1ckhsel9JeVB1Mko5a01sdjNJWVlUdDBNc1c3U2JpMUZVZDFNNTRvdUJjRE5OQk1EdmR1MTBFNGp3RHZlT3JmMk5EVm1tR1JlVzV3VGgwdHFiZm1ibE43aWVYY3k4cUdUQ3lGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 08:35:45 GMT",
+   "summary": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -396,10 +396,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 22:58:54 GMT",
-   "summary": "Wall St rises on the day but falls for the week; bond yields and Iran in focus &nbsp;&nbsp; Reuters",
+   "title": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWZvOEdKLWNvVGVFdjVVVmVscElRTHRudGZNakI1N0RQaXpqaDdDX29XclZqQkREeWNMVmlNa29KZVdWSFlNOEh6cl9Ldklka3N1cWxONGE0MFVOSl9LRURmckpFNHFRbko3eTNabUVrUmN1S3NrUDVFZW9WR2JzRVZfbzA4b3BUQ1FYcTI3THRmb09CcnZ4WmxRTzlEMWVsT3ZkWDVGWkFfaHR5cmxkMzJNdlY0ODdET3QxcWJzUGkwMlNkOGlyTUZRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 15:55:43 GMT",
+   "summary": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -408,6 +408,14 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFpiZTBOeUlBMDlVbWNNTlFiMmFtVjhHMVkxRmVqaE9zSUMzZkhCcUJHWFdlZlo0VDQyZzRfNEpORWE3azJPTDJncEFQWHItcy1tYkFfeE1yVnRjYXhGb3JhQURsSlNFeHBaLW1PQVgyMEhWY25VYTlJRFY2elAxdHM1UENHYzFwdTdJUTVfaGZNUnBYV1hj?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 10:40:44 GMT",
    "summary": "Morning Bid: Big, bad bond market &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 22:58:54 GMT",
+   "summary": "Wall St rises on the day but falls for the week; bond yields and Iran in focus &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
