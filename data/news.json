@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-22T03:09:28Z",
- "count": 68,
+ "generated_at": "2026-08-22T05:05:34Z",
+ "count": 66,
  "items": [
   {
    "source": "nyt-world",
@@ -38,15 +38,15 @@
    "source": "nyt-world",
    "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
    "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-   "published": "Fri, 21 Aug 2026 14:41:39 +0000",
+   "published": "Fri, 21 Aug 2026 14:41:40 +0000",
    "summary": "Mohammad Bagher Ghalibaf, lead negotiator in talks with Washington, made the comments after President Trump vowed an “economic D-Day” against Iran.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
-   "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
-   "published": "Sat, 22 Aug 2026 00:06:17 +0000",
+   "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-talks.html",
+   "published": "Sat, 22 Aug 2026 00:06:18 +0000",
    "summary": "Canadian negotiators were in Washington to finalize a deal that would stave off new tariffs and improve the terms of existing ones, but Mark Carney faces a tough sell back home.",
    "full_text": ""
   },
@@ -244,30 +244,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Canadian minister LeBlanc says more work needed in talks with US before tariff deadline",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHUybEFVcFlsU2tZSVAyZGoxZ1g3ZmZSZjAybE9pbjRURDdFem04SXhZVnZIQW5iUEVscGFmbXNOR2w3d0Y2OEVZSVRlS3JOVXBmamwyWUU0WmRsZlRuZm5Xc01zRnVYV1pYZ2Rfb1pDbnlSM0JZamhsWjUxa083eWZRU2hzZzJIWXRrUlFpajg4a0ZHbk5wYWZlRVZ2SFZQZlVJV24zakhlYVE4?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 13:24:00 GMT",
-   "summary": "Canadian minister LeBlanc says more work needed in talks with US before tariff deadline &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "French, British, German leaders to co-chair meeting on Ukraine on Monday",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkh1Uk5kVm5fQ3FqM3Roa3dheThlM1IyNmNBVHJwQmlaaXZBWER1VXd5TE1yR0tPQTh0WUwxenlUblNtakZMRmtRNXpXWTVzUFlXQ1EycjhWbmhKWFJ4UHlsV3VlRjZmWDc3anpMeGNHb0lTeGEzSHZsMVBjeFBORkhsT2ZvZlVNOUthbTg4RzVaUU1vbTF0VTF2NzFtQWJULWNOQXBrNlBEMlM5STRN?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 15:07:15 GMT",
-   "summary": "French, British, German leaders to co-chair meeting on Ukraine on Monday &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "India's forex pile rises to six-month peak on sustained capital inflows",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 12:07:44 GMT",
-   "summary": "India's forex pile rises to six-month peak on sustained capital inflows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTBFUDUyY3VFZGlQY0VvSDFSRDV6bTJLSVV5OVd4Zk9tbzFjYkdVZ3Fxc3ZZbGNKU3lMdGhxRU4wb0F1QzIzMzFOUHBvdVlWVHB0MEFQSkN0eDVHOF9VMktYR1pETnpfcUt2TEJwLUJyMDZRam55a3hhUHFWN0ZwVWlEV0FRX21aN0lyNjhKVll1ck1CWE52cjgzNEFQeGV1Rnc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 04:56:33 GMT",
@@ -307,11 +283,51 @@
    "full_text": ""
   },
   {
+   "source": "reuters-world",
+   "title": "Mexico expects trade outcomes similar to emerging US-Canada deal",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkVrQzlDMElqOXJFZVRDeDlxZ1hINWVldEpqdlZab1lzTXVZcHRoaExyVElrZzF0bDdjV2R3NTIzZDlvd0JuQTJ0SUZKUEJ3OEtKUm5CbTVoV3ItM3Rqb3lXNVBfclJ4M0l3S1dPaXI3ZlJ5WW1IMEdRVFVTZjQ5ZU92ZWxCd2k5NGNocy1MWm9MRVRubExQM0tma0pwYW1RTzQ2NXZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 20:40:56 GMT",
+   "summary": "Mexico expects trade outcomes similar to emerging US-Canada deal &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "India's forex pile rises to six-month peak on sustained capital inflows",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 12:07:44 GMT",
+   "summary": "India's forex pile rises to six-month peak on sustained capital inflows &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Global wheat buyers brace for supply squeeze amid Black Sea attacks",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkdmTDJWOFZEQ1FJdDFIZzRXNlAwRjdSS2NEMHRQYlYtWGs0elgyckI1aGJDN21VdDJwSGtrcWFDOTZSbE96LXh4WUdSX2tVb3huZW1wRFlaSTFFWVJ5QlJNS1VnQ3BwU1pyY0xKRmlSMGtBZ1hwYm5oWW5EZXk4TVRmbXdTMVVrYkxYazRMVkU2VVRFeUpSeFZMbmV6R3g5Vk1SWTZ2RTNLamRDV0x3UjVuclRfT1B0cUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 06:28:00 GMT",
+   "summary": "Global wheat buyers brace for supply squeeze amid Black Sea attacks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-business",
-   "title": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdThFUDZLSTMyUHJsWGcwcS16TExSR3JHMnp1R25OQWltNmp4TGZ2R3dlbDJRQ2taWnVBODlVNXVOMUFRYmI5U3pEbHktb2xRYk5lZE00TzBqdmZqdXBzY3ZZaFVqRTdGQnhlSDdGMmpRbWpwblRkandfRmFnWUhwbUpDRmF4dk1UUVVGdmdlZGpoYWNiM1d4QUowU2x5aFhqMnM4d1E4ZEN2VVZ3LVdxYUpUQWM2bEF5dkgzSkstOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 15:55:21 GMT",
-   "summary": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants &nbsp;&nbsp; Reuters",
+   "title": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWZvOEdKLWNvVGVFdjVVVmVscElRTHRudGZNakI1N0RQaXpqaDdDX29XclZqQkREeWNMVmlNa29KZVdWSFlNOEh6cl9Ldklka3N1cWxONGE0MFVOSl9LRURmckpFNHFRbko3eTNabUVrUmN1S3NrUDVFZW9WR2JzRVZfbzA4b3BUQ1FYcTI3THRmb09CcnZ4WmxRTzlEMWVsT3ZkWDVGWkFfaHR5cmxkMzJNdlY0ODdET3QxcWJzUGkwMlNkOGlyTUZRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 15:55:43 GMT",
+   "summary": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal, sources say",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHExNm9zWW9hdmEwM2o5RERQOEVBRV90SnBjOERXUGdIcUdzdWpndlVHX2docnZYWExBcncxM08xQUJqamd5eFlaRUNlbVBXa1F1blhQMUxtZXlGYlJicHlVSGpMUzBTd29Rb3JLVXlwMncteEc1d0t4eGFOMXpIcHpXcElVTmMyLVBXN0cydWNiZXhYUkpMZkdmWUp4MEN5Mnl0WkVIeUZxQ1JBT25mWGFZN2tBUnkzM21xdnRqTEFjQWk4bjJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 11:08:53 GMT",
+   "summary": "India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Euro zone business activity growing at fastest pace since November, PMIs show",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVJRUTVFVzFGV1dITUg0YmRpcFBpN18wZGdmTVgwdU1oWU5xU3dWaWhzWUtONDdWWElvbnpmTHhGLXJDcDBSczdnTnZKVFo0T2hMWEpydGhIOG9rT3g5NW1fWk5nZXBKOFRRbG4yWldPZXc3ak9XTEhqRzVyUTF0X3VNZXo3NVMyenJndGhpTkQ2ZXFzalRYUXZCX0E4SGFQU21LWFpCTmxkMlBWUmx5bG11WlRNM2ZPNnlMSkdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 09:58:40 GMT",
+   "summary": "Euro zone business activity growing at fastest pace since November, PMIs show &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -324,18 +340,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Walmart sales growth slowdown tests consumer resilience, shares slide 9%",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 11:05:00 GMT",
-   "summary": "Walmart sales growth slowdown tests consumer resilience, shares slide 9% &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdThFUDZLSTMyUHJsWGcwcS16TExSR3JHMnp1R25OQWltNmp4TGZ2R3dlbDJRQ2taWnVBODlVNXVOMUFRYmI5U3pEbHktb2xRYk5lZE00TzBqdmZqdXBzY3ZZaFVqRTdGQnhlSDdGMmpRbWpwblRkandfRmFnWUhwbUpDRmF4dk1UUVVGdmdlZGpoYWNiM1d4QUowU2x5aFhqMnM4d1E4ZEN2VVZ3LVdxYUpUQWM2bEF5dkgzSkstOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 15:55:21 GMT",
+   "summary": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Apollo Global reveals data breach after hackers target financial firms",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckFDMU1aVk1ReUYzSy1vOFB5VWVEUUQwZlNGdjl3bUo1SU1IdGVVZTlVQW1DZld5Xzk5cndVTjBnVkJGOGphUVpwSnBNWl9NUVdaeVo1dlNrc2VSODFKTzFpTkNtdzQydEpjMnp3dmRaaEZGZlN6T1NIRGNrWEJQbnl1UzZrc0hkYzIyVUpiUm45MkZHUWEyams5RGk3ak53RDZYWjh6S0RuOVhuV2FDeVlISU5FQk5YZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 20:48:05 GMT",
-   "summary": "Apollo Global reveals data breach after hackers target financial firms &nbsp;&nbsp; Reuters",
+   "title": "Walmart sales growth slowdown tests consumer resilience, shares slide 9%",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 11:05:00 GMT",
+   "summary": "Walmart sales growth slowdown tests consumer resilience, shares slide 9% &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,50 +364,18 @@
   },
   {
    "source": "reuters-business",
+   "title": "Apollo Global reveals data breach after hackers target financial firms",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckFDMU1aVk1ReUYzSy1vOFB5VWVEUUQwZlNGdjl3bUo1SU1IdGVVZTlVQW1DZld5Xzk5cndVTjBnVkJGOGphUVpwSnBNWl9NUVdaeVo1dlNrc2VSODFKTzFpTkNtdzQydEpjMnp3dmRaaEZGZlN6T1NIRGNrWEJQbnl1UzZrc0hkYzIyVUpiUm45MkZHUWEyams5RGk3ak53RDZYWjh6S0RuOVhuV2FDeVlISU5FQk5YZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 20:48:05 GMT",
+   "summary": "Apollo Global reveals data breach after hackers target financial firms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Airbus backs down on return-to-office after protests, sources say",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkNYWDZBYlJyT2xqN0NHTGhhQ1YwUlNTSWVzTjhzeGtGODlOWFFzX2VzMEF0d1JjcDBLMi1oVUk5QzFCVzJWQVFSanhVNG8weGI1QzlwUk9ldWd1U1FSZ1ZNdXdZMWExNm5yYWhlLU9MbjhTa29EcVYtQmZSekZJY3FGTGlWV0FLMVhZaW5MMExWSEhManpKNGtJZE9PMkNLd082dGRDaHdrTEZvTjRwYTNNb3RiQnB6TnBrUg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 19:21:28 GMT",
    "summary": "Airbus backs down on return-to-office after protests, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "China orders entities not to assist EU's JD.com probe",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmJmMHZhNFVhVVpWNjlGcTkxZjFKdUZYNFhiRFl1c01OLVJ2Y2lwYzMtcGVndHpucnhiMFdPb0d4Q0REaXF6VTVuNXo2ak1HSUh6S2lVNW1FbVEyS01WTU1kMkVWcDgyNTUtMzlaaHZ0THFCQXhwNDhaOTdtc2ctcWV4dnd0QUIzMWhjbDEzSlpWVGxNTDk0SFM3MEhtakxnV0ZELXVaNmRPWlQzWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 12:59:21 GMT",
-   "summary": "China orders entities not to assist EU's JD.com probe &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Explainer: What El Niño's return means for the Panama Canal — and global trade",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWZLckNpd0p0X1hFRE1PNkowRC03X2ZuMzE4a0xlUjhhN2hKN3B0VFN5cWhDZGk5SzJ2MWkyUmZORG9iN19tdm44ZXJVOFdtWjdUSWs1c2Q3OXBZTEIzdGdzMFlvekJWMkw4Z2kyby1tXzB4RW1nWFJhdG9DV0NfWjJDX1dnTzBBMjhqbTFRR1RRNzA4Skx4U3VyOXgwSFBwSkQ1Mk9rckFkZ05y?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 18:10:52 GMT",
-   "summary": "Explainer: What El Niño's return means for the Panama Canal — and global trade &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Ukraine hits Russia's TANECO oil refinery, oil terminal, military says",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVFhUm5GN1hCV254aTR4Z1UxbXFqMERrelhiQmxOREh4Xy1CcUlRbmQyVzNvZWh1U1V4R2lKVlAxdEJhV1V5ZmstNUNNeTdnZm9ZZjNKY2tYQmZZcnU2WHdrRTJQbEp3aWg4NXZsakVuOHpNT2UtT1hMVkUtSmJ5eFZSSi10dVQxTklUcXNnUVhvdVpDOERaenRsTXBHTVV3RmtIWG0xbVcybEdhWFJaNEt0N2p4ck9qSzNJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 11:15:32 GMT",
-   "summary": "Ukraine hits Russia's TANECO oil refinery, oil terminal, military says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThpWUk1aGlwTFpYY0tRMVg4dFU4LXNzSnZWdVctWVp0LVFWQzAtZGtPMmh1Z2dMSHpFelF4UmFnMFoyckVNeTV3OHE1MVI5UGhFeWZINTF3eVZzV3RIUHYtVWVFc0R1ckhsel9JeVB1Mko5a01sdjNJWVlUdDBNc1c3U2JpMUZVZDFNNTRvdUJjRE5OQk1EdmR1MTBFNGp3RHZlT3JmMk5EVm1tR1JlVzV3VGgwdHFiZm1ibE43aWVYY3k4cUdUQ3lGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 08:35:45 GMT",
-   "summary": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWZvOEdKLWNvVGVFdjVVVmVscElRTHRudGZNakI1N0RQaXpqaDdDX29XclZqQkREeWNMVmlNa29KZVdWSFlNOEh6cl9Ldklka3N1cWxONGE0MFVOSl9LRURmckpFNHFRbko3eTNabUVrUmN1S3NrUDVFZW9WR2JzRVZfbzA4b3BUQ1FYcTI3THRmb09CcnZ4WmxRTzlEMWVsT3ZkWDVGWkFfaHR5cmxkMzJNdlY0ODdET3QxcWJzUGkwMlNkOGlyTUZRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 15:55:43 GMT",
-   "summary": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -416,6 +400,14 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFpiZTBOeUlBMDlVbWNNTlFiMmFtVjhHMVkxRmVqaE9zSUMzZkhCcUJHWFdlZlo0VDQyZzRfNEpORWE3azJPTDJncEFQWHItcy1tYkFfeE1yVnRjYXhGb3JhQURsSlNFeHBaLW1PQVgyMEhWY25VYTlJRFY2elAxdHM1UENHYzFwdTdJUTVfaGZNUnBYV1hj?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 10:40:44 GMT",
    "summary": "Morning Bid: Big, bad bond market &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTRXSGR0N2FUbGhlTWN5NFFQWkc0OS1TX1dhS0RtQkNySkxWWDBWQVktajFIWWJwTzBoR2pOczFKdjYwWlRsWVBmODR6M2IzSWM4VzlMblk3cHNwQ21pdXVlbERIZDhlanhFT19UT214OWxBUFJHMk81cjlOajRRTm9pamlEb05VeHVVZEtpQmNLMC1rSnhmbmZCWWY1WEQtZDkxUWV4MDFHR1dqWmhSVmQ2Y3R0dW1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 10:15:25 GMT",
+   "summary": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -456,14 +448,6 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 01:23:00 GMT",
    "summary": "Global stocks close out a tough week as bond yields, oil stay high &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTRXSGR0N2FUbGhlTWN5NFFQWkc0OS1TX1dhS0RtQkNySkxWWDBWQVktajFIWWJwTzBoR2pOczFKdjYwWlRsWVBmODR6M2IzSWM4VzlMblk3cHNwQ21pdXVlbERIZDhlanhFT19UT214OWxBUFJHMk81cjlOajRRTm9pamlEb05VeHVVZEtpQmNLMC1rSnhmbmZCWWY1WEQtZDkxUWV4MDFHR1dqWmhSVmQ2Y3R0dW1U?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 10:15:25 GMT",
-   "summary": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -532,18 +516,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "UK's Pinewood Technologies​ to go private in $739 million Ridgeview deal",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenZqdm1zT1dPeml5ZDA3bmNnR25DQUwweHp4YmtJeUFVN1BkV1lNNFFEY1BmcXRTS3ZaLXNjZnlfVmNQQXlXZkV1bEZKcDJ0aXlhejF0SmlkYzF2QTdIS1pMemg5NVk4YWNlbkZ3dnpvZDVpbXRwWmZNNmM5ZEEwc0hEM2ZtUEdlX182SFdPS3ZxbWZ3SGI1WlF2ME00Znc4dzM4bnU3OFNGVGJFT2Vka2pHSmRsNmg5VGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 11:55:37 GMT",
-   "summary": "UK's Pinewood Technologies​ to go private in $739 million Ridgeview deal &nbsp;&nbsp; Reuters",
+   "title": "The little reactors that could? How SMRs became nuclear's best bet",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTBiMkh6WWFLeEt3dWVydWExbjlCYWk3R1dTa0FmMHZ2dkdSbVU3Y1lJY0l1QnF0cG9Sb3JycHJYZUlCenlUbE5QWXBRamZLb0g5cGYxbkdyZkRSY0tnaGlvMF9sOVJ6Nkg1NHNSLWJHMktjRGdHTjFvVktxSHNEenBWNUpTa1VJd3V5MktpQTNJNXI0bzhpVDFqcVBTanNXam9Va0tJWUNZVVYwaWxEVnZHMEEyNnZDZmpBanBzbDNqLTVMSExrbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 22:10:01 GMT",
+   "summary": "The little reactors that could? How SMRs became nuclear's best bet &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlA0d3hFZ0lIUnNTWWs2TV96MnRaZEIzNnJUMkVNWVVrRHpEeVBNeU8wQWtkdGh1aDBiMmROSGpyUG92blVmSmpIX29pZC1IaGd4SHo2YkhGd09hcXNQMWhJcHNxSGsyV3d0dnhJd18tVzlYTTZCVG9fOUhKT1JudTR2bjBTYll3bTd0em45RFVVNjU1SjFOWE5iaVBUMFBXUzlabUEwWUxORXctanM4eEtTdzNVZXk0NEdLOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 20:59:51 GMT",
-   "summary": "US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones &nbsp;&nbsp; Reuters",
+   "title": "UK's Pinewood Technologies​ to go private in $739 million Ridgeview deal",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenZqdm1zT1dPeml5ZDA3bmNnR25DQUwweHp4YmtJeUFVN1BkV1lNNFFEY1BmcXRTS3ZaLXNjZnlfVmNQQXlXZkV1bEZKcDJ0aXlhejF0SmlkYzF2QTdIS1pMemg5NVk4YWNlbkZ3dnpvZDVpbXRwWmZNNmM5ZEEwc0hEM2ZtUEdlX182SFdPS3ZxbWZ3SGI1WlF2ME00Znc4dzM4bnU3OFNGVGJFT2Vka2pHSmRsNmg5VGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 11:55:37 GMT",
+   "summary": "UK's Pinewood Technologies​ to go private in $739 million Ridgeview deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
