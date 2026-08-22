@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-22T13:44:51Z",
- "count": 64,
+ "generated_at": "2026-08-22T14:52:27Z",
+ "count": 65,
  "items": [
   {
    "source": "nyt-world",
@@ -46,7 +46,7 @@
    "source": "nyt-world",
    "title": "How a Trump Envoy Uses Vodka and Dirty Jokes to Conduct U.S. Diplomacy",
    "url": "https://www.nytimes.com/2026/08/22/world/europe/belarus-john-coale-lukashenko-trump.html",
-   "published": "Sat, 22 Aug 2026 09:00:29 +0000",
+   "published": "Sat, 22 Aug 2026 14:38:44 +0000",
    "summary": "The diplomat, John Coale, says his personalized approach gets results and matches the president’s style. Critics contend he is giving up too much to an authoritarian leader.",
    "full_text": ""
   },
@@ -86,7 +86,7 @@
    "source": "nyt-business",
    "title": "Harvard’s A.I. Clones Will Hear Your Start-Up Pitch Now",
    "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
-   "published": "Sat, 22 Aug 2026 12:00:04 +0000",
+   "published": "Sat, 22 Aug 2026 14:35:23 +0000",
    "summary": "To create a new $699 bootcamp for entrepreneurs, Harvard Business School made A.I. versions of its faculty.",
    "full_text": ""
   },
@@ -236,6 +236,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "South Africa's former world boxing champion Tete shot dead outside his home",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 09:32:13 GMT",
+   "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 18:56:43 GMT",
@@ -248,14 +256,6 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVpobThVRFlSUldKZkNtUFdwaTRmaFZyQl9HOExfQ2dxQkFOd2EtdWdtWUZ1ckthb3dKTVZwSmtpNk5Eb3A3dVFhWnVqZzlyMlpCQlFydGZrYTlyNzFDV21fQzZPYWxqeFBranZibzZiampxb3pyYll0LXhqZUJmN2ZNa3Q2UE55Tk1QSEx3NG9wd21zbFowNjZIcTY?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 22 Aug 2026 05:04:00 GMT",
    "summary": "Trump heads into midterms short on foreign policy wins &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "South Africa's former world boxing champion Tete shot dead outside his home",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 09:32:13 GMT",
-   "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,10 +284,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Academic who raised concerns over Jason Arday suspended by Ghent University",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3NMXzdBM1JoMGlUVGUzRDZ6WDFfaUZtd3l6YVFiNkFQYnAtM1VRVnZRcXJhVUctb21YcHdmMHlBS280LUhMMEFXemxFUkdIeGN3QVFUY1hwVkd4d3JlUXl5ZlVfUGJPRFhDWEJUc3BUR1Fqa3FTNm1SOEVVbFNzMjc2Sk5ZUy1kYUJRZDlvc2xUZlg5UEhfWjBVcnJTdVZqVzR4dFVBdU5DZmthc3BMSFBPdVBfbDNx?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 13:52:49 GMT",
-   "summary": "Academic who raised concerns over Jason Arday suspended by Ghent University &nbsp;&nbsp; Reuters",
+   "title": "Tesla and others begin record vehicle recall in China",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 10:54:00 GMT",
+   "summary": "Tesla and others begin record vehicle recall in China &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,18 +340,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Explainer: What El Niño's return means for the Panama Canal — and global trade",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWZLckNpd0p0X1hFRE1PNkowRC03X2ZuMzE4a0xlUjhhN2hKN3B0VFN5cWhDZGk5SzJ2MWkyUmZORG9iN19tdm44ZXJVOFdtWjdUSWs1c2Q3OXBZTEIzdGdzMFlvekJWMkw4Z2kyby1tXzB4RW1nWFJhdG9DV0NfWjJDX1dnTzBBMjhqbTFRR1RRNzA4Skx4U3VyOXgwSFBwSkQ1Mk9rckFkZ05y?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 18:10:52 GMT",
-   "summary": "Explainer: What El Niño's return means for the Panama Canal — and global trade &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "First gas from Australia's Beetaloo puts shale ambition to the test",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSl9FaVZISTVQSVBVYk1pZ1MtVWNpZG50dU9PTVRvbHRSQjZyemZLeGowVzdxUzlxdHo0X3pXYVRsa0w4WWlFZk8xN0syQnNIaGpWME4tNkU1aDd4WmR1Tmh2aWtWQ3RFWFZMVTBXT1pNNXpvRXVIanJ6ekpXdnFwcHJQQVQ4YV9WRDFfUHVZVU9uT3pEQUdTeFJIZHRUamNHQmZRenNRWFVWZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 02:32:00 GMT",
-   "summary": "First gas from Australia's Beetaloo puts shale ambition to the test &nbsp;&nbsp; Reuters",
+   "title": "China orders entities not to assist EU's JD.com probe",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmJmMHZhNFVhVVpWNjlGcTkxZjFKdUZYNFhiRFl1c01OLVJ2Y2lwYzMtcGVndHpucnhiMFdPb0d4Q0REaXF6VTVuNXo2ak1HSUh6S2lVNW1FbVEyS01WTU1kMkVWcDgyNTUtMzlaaHZ0THFCQXhwNDhaOTdtc2ctcWV4dnd0QUIzMWhjbDEzSlpWVGxNTDk0SFM3MEhtakxnV0ZELXVaNmRPWlQzWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 12:59:21 GMT",
+   "summary": "China orders entities not to assist EU's JD.com probe &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,10 +364,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "US equity funds draw inflows despite market pressures",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGFkaEdLdjJ4Zi1YYk11N1kwTTBoS1pTQ3NPQV9ZclF6b052dW9tYWtCXzZMUF9Wa1hYS0Y2c01iSVAzU09fb0N2WVh2S0lQQVUtUjI0TXlyRWZnODdYOUZQU2FMQVFJM2pzTDFyN1J5VWtOZHB5azE4QTctMjhNZDdzcXlPOVlyTnVacnhGd1kxUlUzZGcwWVBFdGl0MDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 12:29:10 GMT",
-   "summary": "US equity funds draw inflows despite market pressures &nbsp;&nbsp; Reuters",
+   "title": "Explainer: What El Niño's return means for the Panama Canal — and global trade",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWZLckNpd0p0X1hFRE1PNkowRC03X2ZuMzE4a0xlUjhhN2hKN3B0VFN5cWhDZGk5SzJ2MWkyUmZORG9iN19tdm44ZXJVOFdtWjdUSWs1c2Q3OXBZTEIzdGdzMFlvekJWMkw4Z2kyby1tXzB4RW1nWFJhdG9DV0NfWjJDX1dnTzBBMjhqbTFRR1RRNzA4Skx4U3VyOXgwSFBwSkQ1Mk9rckFkZ05y?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 18:10:52 GMT",
+   "summary": "Explainer: What El Niño's return means for the Panama Canal — and global trade &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US to end summer blend gasoline requirement early in attempt to lower prices",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakdBN0hxc0xrLUhRamhRbmdpYk5ybzgyQ0hhQ2IyQVhEVWlobDcxeUY1NEJ1UXZlLVR0YVBvTkxqMkNGenZaRG5lTXZRQVZFX21kWU9ZS05RMHoxSmJwTnVkcGFQcDIzSXZRME9DV3hJckt6WHJueG4xQjE3dnNWX2hYOWN6MnN1eEthcUFKTzJvM2hDbzVmbno3UURwcUZxbl9WV2t5S2prT0dpSlhlN01QeHZUZlY2U1o4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 23:40:37 GMT",
+   "summary": "US to end summer blend gasoline requirement early in attempt to lower prices &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -443,6 +443,14 @@
    "full_text": ""
   },
   {
+   "source": "reuters-markets",
+   "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 15:07:42 GMT",
+   "summary": "US corporate AI debt surge tests investor limits as fatigue emerges &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-tech",
    "title": "China puts robocops on traffic duty, minus the arrest powers",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblFqaGhQV3N2aDFBakVtbzBDMUphR0RiVVNZb2JjdksxdW5vSEpZcVdObmRDeVNZeUJwdUZra3J3eWVTX0RFSTRIQTExRWtnenU4UmZEenI5bWczLWdyNUFOZnE0RlNlRFFkVGNoSjd6RUU4OUZwTlZHZVZRT1R3VWNxS1A2TVV5LUllS2ZpWmdudU5ha2xZN003NDFZVVNz?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -500,18 +508,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "The little reactors that could? How SMRs became nuclear's best bet",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTBiMkh6WWFLeEt3dWVydWExbjlCYWk3R1dTa0FmMHZ2dkdSbVU3Y1lJY0l1QnF0cG9Sb3JycHJYZUlCenlUbE5QWXBRamZLb0g5cGYxbkdyZkRSY0tnaGlvMF9sOVJ6Nkg1NHNSLWJHMktjRGdHTjFvVktxSHNEenBWNUpTa1VJd3V5MktpQTNJNXI0bzhpVDFqcVBTanNXam9Va0tJWUNZVVYwaWxEVnZHMEEyNnZDZmpBanBzbDNqLTVMSExrbg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 22:10:01 GMT",
-   "summary": "The little reactors that could? How SMRs became nuclear's best bet &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlA0d3hFZ0lIUnNTWWs2TV96MnRaZEIzNnJUMkVNWVVrRHpEeVBNeU8wQWtkdGh1aDBiMmROSGpyUG92blVmSmpIX29pZC1IaGd4SHo2YkhGd09hcXNQMWhJcHNxSGsyV3d0dnhJd18tVzlYTTZCVG9fOUhKT1JudTR2bjBTYll3bTd0em45RFVVNjU1SjFOWE5iaVBUMFBXUzlabUEwWUxORXctanM4eEtTdzNVZXk0NEdLOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 20:59:51 GMT",
    "summary": "US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "The little reactors that could? How SMRs became nuclear's best bet",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTBiMkh6WWFLeEt3dWVydWExbjlCYWk3R1dTa0FmMHZ2dkdSbVU3Y1lJY0l1QnF0cG9Sb3JycHJYZUlCenlUbE5QWXBRamZLb0g5cGYxbkdyZkRSY0tnaGlvMF9sOVJ6Nkg1NHNSLWJHMktjRGdHTjFvVktxSHNEenBWNUpTa1VJd3V5MktpQTNJNXI0bzhpVDFqcVBTanNXam9Va0tJWUNZVVYwaWxEVnZHMEEyNnZDZmpBanBzbDNqLTVMSExrbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 22:10:01 GMT",
+   "summary": "The little reactors that could? How SMRs became nuclear's best bet &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
