@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-22T14:52:27Z",
+ "generated_at": "2026-08-22T16:55:52Z",
  "count": 65,
  "items": [
   {
    "source": "nyt-world",
-   "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-   "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-   "published": "Sat, 22 Aug 2026 13:35:43 +0000",
-   "summary": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
+   "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
+   "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+   "published": "Sat, 22 Aug 2026 16:14:22 +0000",
+   "summary": "Prime Minister Mark Carney addressed Canadians on Saturday morning, hours after he ordered negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
    "full_text": ""
   },
   {
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
    "url": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html",
-   "published": "Sat, 22 Aug 2026 09:17:14 +0000",
+   "published": "Sat, 22 Aug 2026 15:22:29 +0000",
    "summary": "Many Italians see themselves in Andrea Bajani’s latest novel, a portrayal of the family as a “little totalitarian system” shaped by psychological and physical violence.",
    "full_text": ""
   },
@@ -32,6 +32,14 @@
    "url": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html",
    "published": "Sat, 22 Aug 2026 12:49:57 +0000",
    "summary": "One effect of moving back is that Archie and Lilibet now have the opportunity to be schooled as Britons. Here’s what that might look like.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+   "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+   "published": "Sat, 22 Aug 2026 13:35:43 +0000",
+   "summary": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
    "full_text": ""
   },
   {
@@ -54,7 +62,7 @@
    "source": "nyt-world",
    "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
    "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-   "published": "Sat, 22 Aug 2026 05:13:58 +0000",
+   "published": "Sat, 22 Aug 2026 16:33:59 +0000",
    "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.",
    "full_text": ""
   },
@@ -75,19 +83,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From ‘Hell’",
-   "url": "https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html",
-   "published": "Fri, 21 Aug 2026 14:43:07 +0000",
-   "summary": "Rescue teams no longer enter the city of Lyman, in eastern Ukraine, because it is deemed too dangerous. The only way out is a terrifying journey on foot.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-business",
-   "title": "Harvard’s A.I. Clones Will Hear Your Start-Up Pitch Now",
+   "title": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
    "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
-   "published": "Sat, 22 Aug 2026 14:35:23 +0000",
-   "summary": "To create a new $699 bootcamp for entrepreneurs, Harvard Business School made A.I. versions of its faculty.",
+   "published": "Sat, 22 Aug 2026 15:09:42 +0000",
+   "summary": "To create a new bootcamp for entrepreneurs, Harvard Business School made A.I. avatars of its instructors.",
    "full_text": ""
   },
   {
@@ -102,7 +102,7 @@
    "source": "nyt-business",
    "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
    "url": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
-   "published": "Sat, 22 Aug 2026 09:02:08 +0000",
+   "published": "Sat, 22 Aug 2026 15:34:31 +0000",
    "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
    "full_text": ""
   },
@@ -166,7 +166,7 @@
    "source": "nyt-technology",
    "title": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.",
    "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
-   "published": "Sat, 22 Aug 2026 00:24:20 +0000",
+   "published": "Sat, 22 Aug 2026 00:24:21 +0000",
    "summary": "The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk’s SpaceX.",
    "full_text": ""
   },
@@ -252,14 +252,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Trump heads into midterms short on foreign policy wins",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVpobThVRFlSUldKZkNtUFdwaTRmaFZyQl9HOExfQ2dxQkFOd2EtdWdtWUZ1ckthb3dKTVZwSmtpNk5Eb3A3dVFhWnVqZzlyMlpCQlFydGZrYTlyNzFDV21fQzZPYWxqeFBranZibzZiampxb3pyYll0LXhqZUJmN2ZNa3Q2UE55Tk1QSEx3NG9wd21zbFowNjZIcTY?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 05:04:00 GMT",
-   "summary": "Trump heads into midterms short on foreign policy wins &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDBxcmZmdGdPSTkzWHdLVTN5d3VIbU9mbDdrMDE5enl4MlNGa3RuTnFJQjJZWFpMX3k0Q3g0MWVlcTdTbGZwSFJNY2ZZN3VLRzBpWEdiYXRGZmgxRmlJZVVuRG45bUNHdlg4UnA5WWhFbzJPc29hT1hLcHM4d09fUjE4TS1rUVFlTkhsVlN1Mk9xY0pRakZUTlJ6enpZT0VlSlN5djk1cTNySVhodFM1a1NLa2Z2bUZhYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 11:00:10 GMT",
@@ -276,18 +268,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Iran threatens military response to US sanctions",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 23:59:00 GMT",
-   "summary": "Iran threatens military response to US sanctions &nbsp;&nbsp; Reuters",
+   "title": "Mexico expects trade outcomes similar to emerging US-Canada deal",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkVrQzlDMElqOXJFZVRDeDlxZ1hINWVldEpqdlZab1lzTXVZcHRoaExyVElrZzF0bDdjV2R3NTIzZDlvd0JuQTJ0SUZKUEJ3OEtKUm5CbTVoV3ItM3Rqb3lXNVBfclJ4M0l3S1dPaXI3ZlJ5WW1IMEdRVFVTZjQ5ZU92ZWxCd2k5NGNocy1MWm9MRVRubExQM0tma0pwYW1RTzQ2NXZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 20:40:56 GMT",
+   "summary": "Mexico expects trade outcomes similar to emerging US-Canada deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Tesla and others begin record vehicle recall in China",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 10:54:00 GMT",
-   "summary": "Tesla and others begin record vehicle recall in China &nbsp;&nbsp; Reuters",
+   "title": "China, Indonesia agree to boost military ties, work closer on minerals, energy and tech",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1vaHdfWG55NkRDMU1xRU1DYnB4MV94eElsODBWaF95c0VoZGxHUlB5dEk2N2w1Qkt3U3JhbThRUDdpM1ZCM05GWWtqQmhBU1VNaFMtNloxbklpUEUtV1NDcllNN0hmVUhSc00zcDJiT0JaWkRjV0VsemRVelNLWVExWGxLejExNHZ3LURtOUVsTmxaeEV4c0lleDBaNDdJLTBwQjdvaGZnNE5SUkRoNjFJSUtodDIwbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 14:02:43 GMT",
+   "summary": "China, Indonesia agree to boost military ties, work closer on minerals, energy and tech &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,10 +292,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Mexico expects trade outcomes similar to emerging US-Canada deal",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkVrQzlDMElqOXJFZVRDeDlxZ1hINWVldEpqdlZab1lzTXVZcHRoaExyVElrZzF0bDdjV2R3NTIzZDlvd0JuQTJ0SUZKUEJ3OEtKUm5CbTVoV3ItM3Rqb3lXNVBfclJ4M0l3S1dPaXI3ZlJ5WW1IMEdRVFVTZjQ5ZU92ZWxCd2k5NGNocy1MWm9MRVRubExQM0tma0pwYW1RTzQ2NXZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 20:40:56 GMT",
-   "summary": "Mexico expects trade outcomes similar to emerging US-Canada deal &nbsp;&nbsp; Reuters",
+   "title": "Tesla and others begin record vehicle recall in China",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 10:54:00 GMT",
+   "summary": "Tesla and others begin record vehicle recall in China &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Iran threatens military response to US sanctions",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 23:59:00 GMT",
+   "summary": "Iran threatens military response to US sanctions &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,18 +364,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "Explainer: What El Niño's return means for the Panama Canal — and global trade",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWZLckNpd0p0X1hFRE1PNkowRC03X2ZuMzE4a0xlUjhhN2hKN3B0VFN5cWhDZGk5SzJ2MWkyUmZORG9iN19tdm44ZXJVOFdtWjdUSWs1c2Q3OXBZTEIzdGdzMFlvekJWMkw4Z2kyby1tXzB4RW1nWFJhdG9DV0NfWjJDX1dnTzBBMjhqbTFRR1RRNzA4Skx4U3VyOXgwSFBwSkQ1Mk9rckFkZ05y?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 18:10:52 GMT",
-   "summary": "Explainer: What El Niño's return means for the Panama Canal — and global trade &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "US to end summer blend gasoline requirement early in attempt to lower prices",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakdBN0hxc0xrLUhRamhRbmdpYk5ybzgyQ0hhQ2IyQVhEVWlobDcxeUY1NEJ1UXZlLVR0YVBvTkxqMkNGenZaRG5lTXZRQVZFX21kWU9ZS05RMHoxSmJwTnVkcGFQcDIzSXZRME9DV3hJckt6WHJueG4xQjE3dnNWX2hYOWN6MnN1eEthcUFKTzJvM2hDbzVmbno3UURwcUZxbl9WV2t5S2prT0dpSlhlN01QeHZUZlY2U1o4?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 23:40:37 GMT",
    "summary": "US to end summer blend gasoline requirement early in attempt to lower prices &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Anthropic plans to change enterprise data retention policy, source says",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDlfRWVSb2Q5ZEhuaWFqdHR3WThoM2tOalBxeW91VEZGZWgzTUNJZF9NZUxFTmhINXlHS1V3YlZvTXAtNExsT3JtaTdmajA2UlZvYUtOOTI4ZEtBRFIzYTVBNl9nRUhzVUFybmZfX3BIVjd4aDJMM1hpUXQtMC1lZzZXR0k2c3poNlUtUWl0RGZ5NzhNSmtaTzI2NmF0QU54WWZvYVhzREpmanpmN2lfNHh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 19:34:49 GMT",
+   "summary": "Anthropic plans to change enterprise data retention policy, source says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 13:51:03 GMT",
+   "summary": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -424,14 +432,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTRXSGR0N2FUbGhlTWN5NFFQWkc0OS1TX1dhS0RtQkNySkxWWDBWQVktajFIWWJwTzBoR2pOczFKdjYwWlRsWVBmODR6M2IzSWM4VzlMblk3cHNwQ21pdXVlbERIZDhlanhFT19UT214OWxBUFJHMk81cjlOajRRTm9pamlEb05VeHVVZEtpQmNLMC1rSnhmbmZCWWY1WEQtZDkxUWV4MDFHR1dqWmhSVmQ2Y3R0dW1U?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 10:15:25 GMT",
    "summary": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Take Five: Six months of war",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 11:25:55 GMT",
-   "summary": "Take Five: Six months of war &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -516,10 +516,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "The little reactors that could? How SMRs became nuclear's best bet",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTBiMkh6WWFLeEt3dWVydWExbjlCYWk3R1dTa0FmMHZ2dkdSbVU3Y1lJY0l1QnF0cG9Sb3JycHJYZUlCenlUbE5QWXBRamZLb0g5cGYxbkdyZkRSY0tnaGlvMF9sOVJ6Nkg1NHNSLWJHMktjRGdHTjFvVktxSHNEenBWNUpTa1VJd3V5MktpQTNJNXI0bzhpVDFqcVBTanNXam9Va0tJWUNZVVYwaWxEVnZHMEEyNnZDZmpBanBzbDNqLTVMSExrbg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 22:10:01 GMT",
-   "summary": "The little reactors that could? How SMRs became nuclear's best bet &nbsp;&nbsp; Reuters",
+   "title": "China robot makers seek to turn humanoid hype into useful work",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 21:46:29 GMT",
+   "summary": "China robot makers seek to turn humanoid hype into useful work &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
