@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T22:56:07Z",
+ "generated_at": "2026-08-22T03:09:28Z",
  "count": 68,
  "items": [
   {
@@ -46,7 +46,7 @@
    "source": "nyt-world",
    "title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
    "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
-   "published": "Fri, 21 Aug 2026 16:22:44 +0000",
+   "published": "Sat, 22 Aug 2026 00:06:17 +0000",
    "summary": "Canadian negotiators were in Washington to finalize a deal that would stave off new tariffs and improve the terms of existing ones, but Mark Carney faces a tough sell back home.",
    "full_text": ""
   },
@@ -84,9 +84,17 @@
   },
   {
    "source": "nyt-business",
+   "title": "Boeing Engineers and Technicians Reject Contract Offer",
+   "url": "https://www.nytimes.com/2026/08/21/business/boeing-engineers-technicians-contract.html",
+   "published": "Fri, 21 Aug 2026 23:03:04 +0000",
+   "summary": "The union members also authorized a potential strike if a new agreement is not reached by October.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "Overlooked No More: Patricia Douglas, Who Challenged Hollywood’s Culture of Abuse",
    "url": "https://www.nytimes.com/2026/08/21/obituaries/patricia-douglas-overlooked.html",
-   "published": "Fri, 21 Aug 2026 21:18:59 +0000",
+   "published": "Sat, 22 Aug 2026 01:05:19 +0000",
    "summary": "Eight decades before the #MeToo groundswell, she took MGM to court after alleging she was attacked at a studio party in 1937.",
    "full_text": ""
   },
@@ -110,7 +118,7 @@
    "source": "nyt-business",
    "title": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
    "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
-   "published": "Fri, 21 Aug 2026 20:49:35 +0000",
+   "published": "Fri, 21 Aug 2026 20:49:36 +0000",
    "summary": "The move prompted blowback from cattle ranchers and Republicans who represent them.",
    "full_text": ""
   },
@@ -155,43 +163,19 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Stocks and Bonds Steady at the End of a Tumultuous Week",
-   "url": "https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html",
-   "published": "Fri, 21 Aug 2026 20:16:06 +0000",
-   "summary": "Fears about the war in Iran, government deficits, the economy and corporate borrowing stirred global markets.",
+   "source": "nyt-technology",
+   "title": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.",
+   "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
+   "published": "Sat, 22 Aug 2026 00:24:20 +0000",
+   "summary": "The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk’s SpaceX.",
    "full_text": ""
   },
   {
    "source": "nyt-technology",
-   "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
-   "url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
-   "published": "Wed, 19 Aug 2026 20:02:11 +0000",
-   "summary": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
-   "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
-   "published": "Wed, 19 Aug 2026 19:06:05 +0000",
-   "summary": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
-   "url": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
-   "published": "Fri, 21 Aug 2026 15:02:14 +0000",
-   "summary": "Loudoun County, Va., hosts more than 250 data centers that bring in huge tax revenues. But some officials and residents worry the county has become too dependent on that cash.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
-   "url": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
-   "published": "Fri, 21 Aug 2026 18:12:48 +0000",
-   "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
+   "title": "TikTok Settles With U.S. Over Child Privacy Concerns for $400 Million",
+   "url": "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html",
+   "published": "Fri, 21 Aug 2026 23:24:04 +0000",
+   "summary": "The Justice Department resolved a lawsuit that accused the social media company of illegally gathering children’s information.",
    "full_text": ""
   },
   {
@@ -214,7 +198,7 @@
    "source": "nyt-technology",
    "title": "New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
    "url": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html",
-   "published": "Fri, 21 Aug 2026 16:26:39 +0000",
+   "published": "Fri, 21 Aug 2026 16:26:40 +0000",
    "summary": "The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
    "full_text": ""
   },
@@ -227,6 +211,22 @@
    "full_text": ""
   },
   {
+   "source": "nyt-technology",
+   "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+   "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+   "published": "Wed, 19 Aug 2026 21:49:10 +0000",
+   "summary": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
+   "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+   "published": "Wed, 19 Aug 2026 19:06:05 +0000",
+   "summary": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?",
+   "full_text": ""
+  },
+  {
    "source": "reuters-world",
    "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -236,10 +236,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "Mexican governor accused by US of cartel ties returns to office",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllacHoySWMzOVhfVHo4WU1oaDZubUdLVU1YWXpBZV9XSGI1azZ2Ul9NMFNhNTI1ZjNVRjFzcm9sbHJ6Y01vR25xTWpIS1ZqTzhmQk1Dd3pBYXpZc0pPbGlWM3haUEFZOS1kc3JIcWxQV2xaVHkyQ096STFseGp1ZWF6REZJbkVuaUN1YXQ2bVJ3SVVlRjZQVkNWTXFydHhwakoxMmhQNzFrWHQz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 20:55:40 GMT",
-   "summary": "Mexican governor accused by US of cartel ties returns to office &nbsp;&nbsp; Reuters",
+   "title": "ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDBxcmZmdGdPSTkzWHdLVTN5d3VIbU9mbDdrMDE5enl4MlNGa3RuTnFJQjJZWFpMX3k0Q3g0MWVlcTdTbGZwSFJNY2ZZN3VLRzBpWEdiYXRGZmgxRmlJZVVuRG45bUNHdlg4UnA5WWhFbzJPc29hT1hLcHM4d09fUjE4TS1rUVFlTkhsVlN1Mk9xY0pRakZUTlJ6enpZT0VlSlN5djk1cTNySVhodFM1a1NLa2Z2bUZhYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 11:00:10 GMT",
+   "summary": "ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Canadian minister LeBlanc says more work needed in talks with US before tariff deadline",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHUybEFVcFlsU2tZSVAyZGoxZ1g3ZmZSZjAybE9pbjRURDdFem04SXhZVnZIQW5iUEVscGFmbXNOR2w3d0Y2OEVZSVRlS3JOVXBmamwyWUU0WmRsZlRuZm5Xc01zRnVYV1pYZ2Rfb1pDbnlSM0JZamhsWjUxa083eWZRU2hzZzJIWXRrUlFpajg4a0ZHbk5wYWZlRVZ2SFZQZlVJV24zakhlYVE4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 13:24:00 GMT",
+   "summary": "Canadian minister LeBlanc says more work needed in talks with US before tariff deadline &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "French, British, German leaders to co-chair meeting on Ukraine on Monday",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkh1Uk5kVm5fQ3FqM3Roa3dheThlM1IyNmNBVHJwQmlaaXZBWER1VXd5TE1yR0tPQTh0WUwxenlUblNtakZMRmtRNXpXWTVzUFlXQ1EycjhWbmhKWFJ4UHlsV3VlRjZmWDc3anpMeGNHb0lTeGEzSHZsMVBjeFBORkhsT2ZvZlVNOUthbTg4RzVaUU1vbTF0VTF2NzFtQWJULWNOQXBrNlBEMlM5STRN?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 15:07:15 GMT",
+   "summary": "French, British, German leaders to co-chair meeting on Ukraine on Monday &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,18 +276,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Chinese companies to watch at the World Robot Conference",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWENSYzd1bHZFeVRETkQ4LVo5RHJBaUpDMUdJc2w5OHdSYk0zTkNpc0pKSWh4TWhTTl9JMUpCRHRXeE1qQlMwMUVYYWZiZTREZWtIU2dKZVJObjByU3g1cURoOUMwdHdmTFhxRTNMeDh3dzdzOXJlTy1XWVVQN3MxMDMzX3FIYlJ1cC15UF9nLUFPMEl5WUN3T0pBNy1QaGJQOVBF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 12:11:02 GMT",
-   "summary": "Chinese companies to watch at the World Robot Conference &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "China robot makers seek to turn humanoid hype into useful work",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 07:49:00 GMT",
-   "summary": "China robot makers seek to turn humanoid hype into useful work &nbsp;&nbsp; Reuters",
+   "title": "Mexican governor accused by US of cartel ties returns to office",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllacHoySWMzOVhfVHo4WU1oaDZubUdLVU1YWXpBZV9XSGI1azZ2Ul9NMFNhNTI1ZjNVRjFzcm9sbHJ6Y01vR25xTWpIS1ZqTzhmQk1Dd3pBYXpZc0pPbGlWM3haUEFZOS1kc3JIcWxQV2xaVHkyQ096STFseGp1ZWF6REZJbkVuaUN1YXQ2bVJ3SVVlRjZQVkNWTXFydHhwakoxMmhQNzFrWHQz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 23:28:41 GMT",
+   "summary": "Mexican governor accused by US of cartel ties returns to office &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,34 +292,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDBxcmZmdGdPSTkzWHdLVTN5d3VIbU9mbDdrMDE5enl4MlNGa3RuTnFJQjJZWFpMX3k0Q3g0MWVlcTdTbGZwSFJNY2ZZN3VLRzBpWEdiYXRGZmgxRmlJZVVuRG45bUNHdlg4UnA5WWhFbzJPc29hT1hLcHM4d09fUjE4TS1rUVFlTkhsVlN1Mk9xY0pRakZUTlJ6enpZT0VlSlN5djk1cTNySVhodFM1a1NLa2Z2bUZhYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 11:00:10 GMT",
-   "summary": "ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 &nbsp;&nbsp; Reuters",
+   "title": "Chinese companies to watch at the World Robot Conference",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWENSYzd1bHZFeVRETkQ4LVo5RHJBaUpDMUdJc2w5OHdSYk0zTkNpc0pKSWh4TWhTTl9JMUpCRHRXeE1qQlMwMUVYYWZiZTREZWtIU2dKZVJObjByU3g1cURoOUMwdHdmTFhxRTNMeDh3dzdzOXJlTy1XWVVQN3MxMDMzX3FIYlJ1cC15UF9nLUFPMEl5WUN3T0pBNy1QaGJQOVBF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 12:11:02 GMT",
+   "summary": "Chinese companies to watch at the World Robot Conference &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Academic who raised concerns over Jason Arday suspended by Ghent University",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3NMXzdBM1JoMGlUVGUzRDZ6WDFfaUZtd3l6YVFiNkFQYnAtM1VRVnZRcXJhVUctb21YcHdmMHlBS280LUhMMEFXemxFUkdIeGN3QVFUY1hwVkd4d3JlUXl5ZlVfUGJPRFhDWEJUc3BUR1Fqa3FTNm1SOEVVbFNzMjc2Sk5ZUy1kYUJRZDlvc2xUZlg5UEhfWjBVcnJTdVZqVzR4dFVBdU5DZmthc3BMSFBPdVBfbDNx?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 13:52:49 GMT",
-   "summary": "Academic who raised concerns over Jason Arday suspended by Ghent University &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Israel and Turkey step up warnings over Syria after airbase bombing",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTlfMHNQWDJxLTRQUnk3S3BmSThwcFNFWTY4dHhTaVZlaENYcFliSkRTVFMzRVliRkgweUxUVThXN0ZfU2Q0Rl9WVXBCZkxBQXZPcUlkeVNKa2kwcFQzM3FVakJMRlQ2N1FBZ3hVUGNXb25ySko1UFVEQjZqU3dfekJUdVBYMFVkQ3RiSm1mMTZFUTFsNFhidHNxY0lsbnVCeTNJOUh0eEQ5dVRMM3VtajlWWlFxOFhfRTFjdXlTWjNtLUhi?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 03:24:00 GMT",
-   "summary": "Israel and Turkey step up warnings over Syria after airbase bombing &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Volkswagen needs deep cuts to remain competitive, CEO says ahead of crunch talks",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVVhYUkw3MWZqSWFTRFVpTWNJZHk5SjJ0YXRDMlZIM0tDRU1fX1JfNENwM3dSQ01HVENNMWJ0dHNiU2cyZFpGSU9odmdZaGhLSTM2MjhlaEYyczNNVFBvck8yNW5BZ0xhMFkwTnJ3UGdPbFp6ZFVkN0V4cmZkWGlkVTk4bHo2dGFyb0pkbFo4TTdKbmw4aHZfSnpOMVQ4dW5SbzA2dUdFM0NJR0xVNjdnaVZtUGhXUmc5bTE5ZkZHY2RfeHRMODc0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 15:51:24 GMT",
-   "summary": "Volkswagen needs deep cuts to remain competitive, CEO says ahead of crunch talks &nbsp;&nbsp; Reuters",
+   "title": "China robot makers seek to turn humanoid hype into useful work",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 21:46:29 GMT",
+   "summary": "China robot makers seek to turn humanoid hype into useful work &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,10 +332,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Airbus backs down on return-to-office after protests, sources say",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkNYWDZBYlJyT2xqN0NHTGhhQ1YwUlNTSWVzTjhzeGtGODlOWFFzX2VzMEF0d1JjcDBLMi1oVUk5QzFCVzJWQVFSanhVNG8weGI1QzlwUk9ldWd1U1FSZ1ZNdXdZMWExNm5yYWhlLU9MbjhTa29EcVYtQmZSekZJY3FGTGlWV0FLMVhZaW5MMExWSEhManpKNGtJZE9PMkNLd082dGRDaHdrTEZvTjRwYTNNb3RiQnB6TnBrUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 19:21:28 GMT",
-   "summary": "Airbus backs down on return-to-office after protests, sources say &nbsp;&nbsp; Reuters",
+   "title": "Apollo Global reveals data breach after hackers target financial firms",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckFDMU1aVk1ReUYzSy1vOFB5VWVEUUQwZlNGdjl3bUo1SU1IdGVVZTlVQW1DZld5Xzk5cndVTjBnVkJGOGphUVpwSnBNWl9NUVdaeVo1dlNrc2VSODFKTzFpTkNtdzQydEpjMnp3dmRaaEZGZlN6T1NIRGNrWEJQbnl1UzZrc0hkYzIyVUpiUm45MkZHUWEyams5RGk3ak53RDZYWjh6S0RuOVhuV2FDeVlISU5FQk5YZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 20:48:05 GMT",
+   "summary": "Apollo Global reveals data breach after hackers target financial firms &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,26 +348,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Apollo Global reveals data breach after hackers target financial firms",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckFDMU1aVk1ReUYzSy1vOFB5VWVEUUQwZlNGdjl3bUo1SU1IdGVVZTlVQW1DZld5Xzk5cndVTjBnVkJGOGphUVpwSnBNWl9NUVdaeVo1dlNrc2VSODFKTzFpTkNtdzQydEpjMnp3dmRaaEZGZlN6T1NIRGNrWEJQbnl1UzZrc0hkYzIyVUpiUm45MkZHUWEyams5RGk3ak53RDZYWjh6S0RuOVhuV2FDeVlISU5FQk5YZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 20:48:05 GMT",
-   "summary": "Apollo Global reveals data breach after hackers target financial firms &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Euro zone business activity growing at fastest pace since November, PMIs show",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVJRUTVFVzFGV1dITUg0YmRpcFBpN18wZGdmTVgwdU1oWU5xU3dWaWhzWUtONDdWWElvbnpmTHhGLXJDcDBSczdnTnZKVFo0T2hMWEpydGhIOG9rT3g5NW1fWk5nZXBKOFRRbG4yWldPZXc3ak9XTEhqRzVyUTF0X3VNZXo3NVMyenJndGhpTkQ2ZXFzalRYUXZCX0E4SGFQU21LWFpCTmxkMlBWUmx5bG11WlRNM2ZPNnlMSkdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 09:58:40 GMT",
-   "summary": "Euro zone business activity growing at fastest pace since November, PMIs show &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Petrobras enters negotiations for four offshore blocks in Ghana's Keta Basin",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHp3enVMV2ZGMkJMQ2RjV0ZOdlZMY0txMmNrb0FoY1NWMXp3U2lQTUQ1SmNmWWg1bGl2UUtoNlg1Z0haQ2k4enBuUlFRMGhCNnQwOGFnRElKbFVOVTJyaGpWVXd0dnREOFotODlSOXJjLUxZczhMalhtZ3g1aFJjS3BtU29sMS1BcDRkVDQzY1R3YVpWUHN0WGd2V20xblNXUGZ5aHpJMmVBeElPQk1IQ1hUM28tbUhjTEVUMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 15:52:11 GMT",
-   "summary": "Petrobras enters negotiations for four offshore blocks in Ghana's Keta Basin &nbsp;&nbsp; Reuters",
+   "title": "Airbus backs down on return-to-office after protests, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkNYWDZBYlJyT2xqN0NHTGhhQ1YwUlNTSWVzTjhzeGtGODlOWFFzX2VzMEF0d1JjcDBLMi1oVUk5QzFCVzJWQVFSanhVNG8weGI1QzlwUk9ldWd1U1FSZ1ZNdXdZMWExNm5yYWhlLU9MbjhTa29EcVYtQmZSekZJY3FGTGlWV0FLMVhZaW5MMExWSEhManpKNGtJZE9PMkNLd082dGRDaHdrTEZvTjRwYTNNb3RiQnB6TnBrUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 19:21:28 GMT",
+   "summary": "Airbus backs down on return-to-office after protests, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -384,6 +360,30 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmJmMHZhNFVhVVpWNjlGcTkxZjFKdUZYNFhiRFl1c01OLVJ2Y2lwYzMtcGVndHpucnhiMFdPb0d4Q0REaXF6VTVuNXo2ak1HSUh6S2lVNW1FbVEyS01WTU1kMkVWcDgyNTUtMzlaaHZ0THFCQXhwNDhaOTdtc2ctcWV4dnd0QUIzMWhjbDEzSlpWVGxNTDk0SFM3MEhtakxnV0ZELXVaNmRPWlQzWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 12:59:21 GMT",
    "summary": "China orders entities not to assist EU's JD.com probe &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Explainer: What El Niño's return means for the Panama Canal — and global trade",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWZLckNpd0p0X1hFRE1PNkowRC03X2ZuMzE4a0xlUjhhN2hKN3B0VFN5cWhDZGk5SzJ2MWkyUmZORG9iN19tdm44ZXJVOFdtWjdUSWs1c2Q3OXBZTEIzdGdzMFlvekJWMkw4Z2kyby1tXzB4RW1nWFJhdG9DV0NfWjJDX1dnTzBBMjhqbTFRR1RRNzA4Skx4U3VyOXgwSFBwSkQ1Mk9rckFkZ05y?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 18:10:52 GMT",
+   "summary": "Explainer: What El Niño's return means for the Panama Canal — and global trade &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Ukraine hits Russia's TANECO oil refinery, oil terminal, military says",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVFhUm5GN1hCV254aTR4Z1UxbXFqMERrelhiQmxOREh4Xy1CcUlRbmQyVzNvZWh1U1V4R2lKVlAxdEJhV1V5ZmstNUNNeTdnZm9ZZjNKY2tYQmZZcnU2WHdrRTJQbEp3aWg4NXZsakVuOHpNT2UtT1hMVkUtSmJ5eFZSSi10dVQxTklUcXNnUVhvdVpDOERaenRsTXBHTVV3RmtIWG0xbVcybEdhWFJaNEt0N2p4ck9qSzNJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 11:15:32 GMT",
+   "summary": "Ukraine hits Russia's TANECO oil refinery, oil terminal, military says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThpWUk1aGlwTFpYY0tRMVg4dFU4LXNzSnZWdVctWVp0LVFWQzAtZGtPMmh1Z2dMSHpFelF4UmFnMFoyckVNeTV3OHE1MVI5UGhFeWZINTF3eVZzV3RIUHYtVWVFc0R1ckhsel9JeVB1Mko5a01sdjNJWVlUdDBNc1c3U2JpMUZVZDFNNTRvdUJjRE5OQk1EdmR1MTBFNGp3RHZlT3JmMk5EVm1tR1JlVzV3VGgwdHFiZm1ibE43aWVYY3k4cUdUQ3lGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 08:35:45 GMT",
+   "summary": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -396,9 +396,17 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Trump says he did not direct Bessent to intervene in bond market",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkFsc1FIR29sOXp1dmJuLTJFNHR0Z04taHhTaEZkd1QyRmhxN0hKTmZHYldObW5zV1J6c2ozT04xOXp0dlFMbWgwMHVUckdCeHNPRG1QTEE4bU9fckJmd1BnekhaZ0JCOUUwbDBCdWdRM3FRWEFJUHB4LW9KaTNPRDBmQ1lLYTdOUTJWa2wtckZ1Y0FFbjJVTkFjaUVKY2Zwdm05VENB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 23:27:43 GMT",
+   "summary": "Trump says he did not direct Bessent to intervene in bond market &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 20:44:46 GMT",
+   "published": "Fri, 21 Aug 2026 22:58:54 GMT",
    "summary": "Wall St rises on the day but falls for the week; bond yields and Iran in focus &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -408,6 +416,14 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFpiZTBOeUlBMDlVbWNNTlFiMmFtVjhHMVkxRmVqaE9zSUMzZkhCcUJHWFdlZlo0VDQyZzRfNEpORWE3azJPTDJncEFQWHItcy1tYkFfeE1yVnRjYXhGb3JhQURsSlNFeHBaLW1PQVgyMEhWY25VYTlJRFY2elAxdHM1UENHYzFwdTdJUTVfaGZNUnBYV1hj?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 10:40:44 GMT",
    "summary": "Morning Bid: Big, bad bond market &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "US equity funds draw inflows despite market pressures",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGFkaEdLdjJ4Zi1YYk11N1kwTTBoS1pTQ3NPQV9ZclF6b052dW9tYWtCXzZMUF9Wa1hYS0Y2c01iSVAzU09fb0N2WVh2S0lQQVUtUjI0TXlyRWZnODdYOUZQU2FMQVFJM2pzTDFyN1J5VWtOZHB5azE4QTctMjhNZDdzcXlPOVlyTnVacnhGd1kxUlUzZGcwWVBFdGl0MDA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 12:29:10 GMT",
+   "summary": "US equity funds draw inflows despite market pressures &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,18 +444,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "US equity funds draw inflows despite market pressures",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGFkaEdLdjJ4Zi1YYk11N1kwTTBoS1pTQ3NPQV9ZclF6b052dW9tYWtCXzZMUF9Wa1hYS0Y2c01iSVAzU09fb0N2WVh2S0lQQVUtUjI0TXlyRWZnODdYOUZQU2FMQVFJM2pzTDFyN1J5VWtOZHB5azE4QTctMjhNZDdzcXlPOVlyTnVacnhGd1kxUlUzZGcwWVBFdGl0MDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 12:29:10 GMT",
-   "summary": "US equity funds draw inflows despite market pressures &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTRXSGR0N2FUbGhlTWN5NFFQWkc0OS1TX1dhS0RtQkNySkxWWDBWQVktajFIWWJwTzBoR2pOczFKdjYwWlRsWVBmODR6M2IzSWM4VzlMblk3cHNwQ21pdXVlbERIZDhlanhFT19UT214OWxBUFJHMk81cjlOajRRTm9pamlEb05VeHVVZEtpQmNLMC1rSnhmbmZCWWY1WEQtZDkxUWV4MDFHR1dqWmhSVmQ2Y3R0dW1U?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 10:15:25 GMT",
-   "summary": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally &nbsp;&nbsp; Reuters",
+   "title": "Guggenheim fund hits 17-year low after short-seller claims",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHF4WVVLUFB2cjZqdld4cWRuUDZyc0lqZzhzUE8xdTViNUlLNFlxS0dJNUtJd1hQdlZvQmhGaTJqMHU2bm9BM1dCNC1fM1VmNGQzbFdEdEs0LUEyR2N2ZTJXZ1B6UHpjQmc5TlFERjdqZUJsRUw0RTE4WHBLTnFVczdlQXVNODdpb1BLQnJzOGFoaFktX29UYTBNamJlc1Q1anRYb0k4bW9HZ1Rkenc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 15:37:44 GMT",
+   "summary": "Guggenheim fund hits 17-year low after short-seller claims &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -452,18 +460,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Guggenheim fund hits 17-year low after short-seller claims",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHF4WVVLUFB2cjZqdld4cWRuUDZyc0lqZzhzUE8xdTViNUlLNFlxS0dJNUtJd1hQdlZvQmhGaTJqMHU2bm9BM1dCNC1fM1VmNGQzbFdEdEs0LUEyR2N2ZTJXZ1B6UHpjQmc5TlFERjdqZUJsRUw0RTE4WHBLTnFVczdlQXVNODdpb1BLQnJzOGFoaFktX29UYTBNamJlc1Q1anRYb0k4bW9HZ1Rkenc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 15:37:44 GMT",
-   "summary": "Guggenheim fund hits 17-year low after short-seller claims &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Morning Bid: So much for the Bessent bid",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uWDRxb0NtTDZ0RnN1bUU2dXlHYzdDbTNfb1NSUEI5dV9oRzdVMjk5SmtnSXlKRW02QzVxYnJCOEJ4RmpoclAyVU0wbW4ydldlb3lTcldxbkNtcEgzamN4ZHBJU1V0NXF2THhwRzB0V0k3TkhDdEstaEJNd3IwWHM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 04:31:00 GMT",
-   "summary": "Morning Bid: So much for the Bessent bid &nbsp;&nbsp; Reuters",
+   "title": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTRXSGR0N2FUbGhlTWN5NFFQWkc0OS1TX1dhS0RtQkNySkxWWDBWQVktajFIWWJwTzBoR2pOczFKdjYwWlRsWVBmODR6M2IzSWM4VzlMblk3cHNwQ21pdXVlbERIZDhlanhFT19UT214OWxBUFJHMk81cjlOajRRTm9pamlEb05VeHVVZEtpQmNLMC1rSnhmbmZCWWY1WEQtZDkxUWV4MDFHR1dqWmhSVmQ2Y3R0dW1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 10:15:25 GMT",
+   "summary": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -492,18 +492,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Charles Schwab to scale India centre workforce to 2,000 by 2027",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13eGRYYnFubS13UkZqMTJZTGpjSW52UU9jNk53Zmw4cW1UMFQ0ckY5WDNjVmxBMkhhaVZoNE1ZN0MzdWp4Ym9WOXUzZ19VTDlfcmlQQmxGVU50bkppRVFybGVkQkd6YzVvOS1XeVJ6alliVXRha1FhSl9tZk5SSXRScGx0YXZWUkdTbklVOWt4Mk5za3RFLXhYZHNvcVNLaVBsQWpyY1BtOWlLcUx3VFMwRE5pR0ZmRVJfZ2xR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 12:10:49 GMT",
-   "summary": "Charles Schwab to scale India centre workforce to 2,000 by 2027 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Chinese flash-memory chipmaker YMTC parent targets $4.9 billion in Shanghai IPO",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjFpb3VXaE5yMHZaRXhzVWFIRzlQMnNEM2dkdnAtUXphLU9EOGdraXdmQU1ycUYyYmZiSUg5VGNaWmRTZUFOLWNFaEp5elFOQTVoR01xVkVlazBGOE5XVXpNWnRHbjBsaldGMTJXYWNoaHRNclRwdHBLaFpTZkFUT096WkZ5OUtncjI0dm1RbVdTcnFYWmZQcDBsNEFud3ZRR3RCdmFRZmF3aUEwZE56eVZfdGdQaGd0Z1RrZUNmWFJHMTAt?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 14:53:06 GMT",
    "summary": "Chinese flash-memory chipmaker YMTC parent targets $4.9 billion in Shanghai IPO &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Charles Schwab to scale India centre workforce to 2,000 by 2027",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13eGRYYnFubS13UkZqMTJZTGpjSW52UU9jNk53Zmw4cW1UMFQ0ckY5WDNjVmxBMkhhaVZoNE1ZN0MzdWp4Ym9WOXUzZ19VTDlfcmlQQmxGVU50bkppRVFybGVkQkd6YzVvOS1XeVJ6alliVXRha1FhSl9tZk5SSXRScGx0YXZWUkdTbklVOWt4Mk5za3RFLXhYZHNvcVNLaVBsQWpyY1BtOWlLcUx3VFMwRE5pR0ZmRVJfZ2xR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 12:10:49 GMT",
+   "summary": "Charles Schwab to scale India centre workforce to 2,000 by 2027 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
