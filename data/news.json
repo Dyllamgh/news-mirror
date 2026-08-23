@@ -1,7 +1,15 @@
 {
- "generated_at": "2026-08-23T03:32:02Z",
- "count": 68,
+ "generated_at": "2026-08-23T05:17:21Z",
+ "count": 66,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+   "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+   "published": "Sun, 23 Aug 2026 04:01:08 +0000",
+   "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
@@ -72,14 +80,6 @@
    "url": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html",
    "published": "Sat, 22 Aug 2026 13:14:05 +0000",
    "summary": "Osaka? Fukuoka? Sapporo? The race is on to be second to Tokyo — and to claim the prestige and money that could come with it.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
-   "url": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
-   "published": "Sat, 22 Aug 2026 17:20:21 +0000",
-   "summary": "After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back and faced much criticism.",
    "full_text": ""
   },
   {
@@ -155,14 +155,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Overlooked No More: Patricia Douglas, Who Challenged Hollywood’s Culture of Abuse",
-   "url": "https://www.nytimes.com/2026/08/21/obituaries/patricia-douglas-overlooked.html",
-   "published": "Sat, 22 Aug 2026 17:12:55 +0000",
-   "summary": "Eight decades before the #MeToo groundswell, she took MGM to court after alleging she was attacked at a studio party in 1937.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.",
    "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
@@ -227,19 +219,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
-   "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
-   "published": "Wed, 19 Aug 2026 21:49:10 +0000",
-   "summary": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
-   "title": "Chinese robot beats Usain Bolt's 100m world record at Beijing games",
+   "title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 19:14:19 GMT",
-   "summary": "Chinese robot beats Usain Bolt's 100m world record at Beijing games &nbsp;&nbsp; Reuters",
+   "published": "Sat, 22 Aug 2026 10:07:00 GMT",
+   "summary": "Chinese robots beat Usain Bolt's 100m world record at Beijing games &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,18 +284,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Chinese companies to watch at the World Robot Conference",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWENSYzd1bHZFeVRETkQ4LVo5RHJBaUpDMUdJc2w5OHdSYk0zTkNpc0pKSWh4TWhTTl9JMUpCRHRXeE1qQlMwMUVYYWZiZTREZWtIU2dKZVJObjByU3g1cURoOUMwdHdmTFhxRTNMeDh3dzdzOXJlTy1XWVVQN3MxMDMzX3FIYlJ1cC15UF9nLUFPMEl5WUN3T0pBNy1QaGJQOVBF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 12:11:02 GMT",
-   "summary": "Chinese companies to watch at the World Robot Conference &nbsp;&nbsp; Reuters",
+   "title": "Iran threatens military response to US sanctions",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 22:03:59 GMT",
+   "summary": "Iran threatens military response to US sanctions &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Beyond marathons and backflips, China's robots face a commercial test",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 18 Aug 2026 10:19:00 GMT",
-   "summary": "Beyond marathons and backflips, China's robots face a commercial test &nbsp;&nbsp; Reuters",
+   "title": "Chinese companies to watch at the World Robot Conference",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWENSYzd1bHZFeVRETkQ4LVo5RHJBaUpDMUdJc2w5OHdSYk0zTkNpc0pKSWh4TWhTTl9JMUpCRHRXeE1qQlMwMUVYYWZiZTREZWtIU2dKZVJObjByU3g1cURoOUMwdHdmTFhxRTNMeDh3dzdzOXJlTy1XWVVQN3MxMDMzX3FIYlJ1cC15UF9nLUFPMEl5WUN3T0pBNy1QaGJQOVBF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 12:11:02 GMT",
+   "summary": "Chinese companies to watch at the World Robot Conference &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -320,6 +304,22 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDcwRjI3TkpVODVXRkhpY1JhSXZIeHNkZW84RTdDaEFEdmlDUHZ1Uy1GNXdlOHpMaDVHdGl1RlZBSVFaSC1MbGxXcFRMdjl5Y19KUUpyNkJLaEl3NjlXZklHbkhDaWpLOFJ2Mmk2SWpmWFZuQ2ZQb2VXOUVpVElHQ18wTFBSSUFwODhSS29jLVFUWVM0M1RfRmhTVnBVOFVVUjV4dFpn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 22:09:46 GMT",
    "summary": "US Treasury Secretary Bessent to hold press conference on Monday &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 21:35:27 GMT",
+   "summary": "Gold rallies to 3-month high on weaker dollar, bullish technicals &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Canada to retaliate for US tariffs, worsening ties after talks fail",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 15:39:00 GMT",
+   "summary": "Canada to retaliate for US tariffs, worsening ties after talks fail &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,26 +348,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 22:58:54 GMT",
-   "summary": "Wall St rises on the day but falls for the week; bond yields and Iran in focus &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Frustrated Moscow drivers face long queues to refill as fuel shortages return",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUR0R3JjNjBnTTdZMkM2Rl90VjdpZ0FTRElFNmJGcFY0Q2hLbkNiMDVpMUFFSnQyd2VMcmVFRm80NjFBMDE1NXZXVUpnYy1xXzd6bHFldy1ORVBKblBybnlWNndvV2FYYnMzV0djNGtoV0RrN1B2NXhta0s5RGRGY0VKOE8tNVNHRDRYTXhQYzQxWXh5WkloNkRjMHdVcjRMU0VLX09KeEJuR2pQRV93ZHJlQTAxYzJlN0lUVFZBS1g?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 17:09:08 GMT",
    "summary": "Frustrated Moscow drivers face long queues to refill as fuel shortages return &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "As Europe bakes, momentum grows for climate-resilient farming",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWdoVHRiRFBKQm13WVpTNFhka1JYY3c3NXI4RnpKUkt5TEhPcVREcm04aGhkLWRfZXlIbkg3NzZod2c2SzI4cnZmd3h4dngwTTU3QWxaSndiazE3d1dFR3o2TXB3Wml5ODVaV1otc0tVU3B6WnFaSFJUYmJidTExM29aTHVsR0xudXljVmFXZm14UWdtUXpWYjhwcEtVQ01XN2xCb08tc1BZS2xlLTNv?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 06:05:53 GMT",
-   "summary": "As Europe bakes, momentum grows for climate-resilient farming &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,10 +372,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "US to end summer blend gasoline requirement early in attempt to lower prices",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakdBN0hxc0xrLUhRamhRbmdpYk5ybzgyQ0hhQ2IyQVhEVWlobDcxeUY1NEJ1UXZlLVR0YVBvTkxqMkNGenZaRG5lTXZRQVZFX21kWU9ZS05RMHoxSmJwTnVkcGFQcDIzSXZRME9DV3hJckt6WHJueG4xQjE3dnNWX2hYOWN6MnN1eEthcUFKTzJvM2hDbzVmbno3UURwcUZxbl9WV2t5S2prT0dpSlhlN01QeHZUZlY2U1o4?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 23:40:37 GMT",
-   "summary": "US to end summer blend gasoline requirement early in attempt to lower prices &nbsp;&nbsp; Reuters",
+   "title": "Most Americans believe Trump has inappropriately profited since returning to power, Reuters/Ipsos poll finds",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1h6LUQwS0tnLUt3MTFHQjVaSHRvTExtWkRCZ3VTSzBEZnJId0lGeGlOUHJicklYQVk1N2k0V2dkZWppV3A3bC15RlpZZmRNUWJtQzBmT2V3U01rU2pGRlZPQl9STkZBZFlmN3otOWJWWV9NaW1PYURRWWh4ZjZISExOaVhudHlCOG95Y2NhMmtHT1VVYUlhclpCcmpKUklXY2FMWUdDYVBid1lVcUJnVXdRWXdLb3dTdGhESktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 19 Aug 2026 23:45:44 GMT",
+   "summary": "Most Americans believe Trump has inappropriately profited since returning to power, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -416,6 +400,14 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmNZWnNmT3RLM3Zkb0o4eTN5WEQ0dkVqbl9xSklVblBwUjFfVXVZdTZ6Y1dYOGx1aG1mUE9kMGRRMERjOWtYN1hwVkFRLV9BTVhxNU1LdG9TMXFSZXp4eGJEeUhRYWNvUUNTLTA0UVQ0Rm5rUXYwSXRibmpMeXlHeUs1RVJQS1o0TS1TRVh6aDlISXl5bjJGcnFEYnpkVGxFaHhZSHJxSHc4REpYVkh3eFpDM205RnRGTDJZ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 18:22:41 GMT",
    "summary": "Ken Griffin's Citadel sheds over 80% of Situational Awareness' bets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 22:58:54 GMT",
+   "summary": "Wall St rises on the day but falls for the week; bond yields and Iran in focus &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -448,14 +440,6 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 01:23:00 GMT",
    "summary": "Global stocks close out a tough week as bond yields, oil stay high &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 00:58:00 GMT",
-   "summary": "Gold rallies to 3-month high on weaker dollar, bullish technicals &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
