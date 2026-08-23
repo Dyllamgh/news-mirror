@@ -1,7 +1,15 @@
 {
- "generated_at": "2026-08-23T05:17:21Z",
+ "generated_at": "2026-08-23T07:49:00Z",
  "count": 66,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
+   "url": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
+   "published": "Sun, 23 Aug 2026 05:46:20 +0000",
+   "summary": "Rubén Rocha Moya of Sinaloa reversed course a day after returning to office, amid widespread criticism, including from members of his own party.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
@@ -46,7 +54,7 @@
    "source": "nyt-world",
    "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
    "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-   "published": "Sat, 22 Aug 2026 18:00:55 +0000",
+   "published": "Sun, 23 Aug 2026 07:15:52 +0000",
    "summary": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
    "full_text": ""
   },
@@ -72,14 +80,6 @@
    "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
    "published": "Sat, 22 Aug 2026 16:33:59 +0000",
    "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital",
-   "url": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html",
-   "published": "Sat, 22 Aug 2026 13:14:05 +0000",
-   "summary": "Osaka? Fukuoka? Sapporo? The race is on to be second to Tokyo — and to claim the prestige and money that could come with it.",
    "full_text": ""
   },
   {
@@ -228,10 +228,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "South Africa's former world boxing champion Tete shot dead outside his home",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 21:03:28 GMT",
-   "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; Reuters",
+   "title": "Robots can outrun humans, but can they plug in a cable?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 23 Aug 2026 04:50:00 GMT",
+   "summary": "Robots can outrun humans, but can they plug in a cable? &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -240,6 +240,22 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblBRUGY1M25naThFSWZBcXlmR1JmWkMtUHRMbE5PWU80cmoxZ3ktb1N4M0dnbzFCa2xGOWRzem5WS3hLdjFMY1dzYzVqTnFxY24wZlRCMGVPMy1SYU9Hc0doMEZsbjdRaC1hUG9jT2djTE10eWprTmgzcGYzd3BoVFJVemcxeEd0a24ydklfa0Q1enhNSWx3SkdNbUo2VlhHRXoyRDk1UkM4Z2FVaWxnNVB3?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 22 Aug 2026 05:35:00 GMT",
    "summary": "From science fair to strategic showcase: a decade of China’s robot games &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "South Africa's former world boxing champion Tete shot dead outside his home",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 21:03:28 GMT",
+   "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Peace through strength, Taiwan president says on China battle anniversary",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 23 Aug 2026 05:33:00 GMT",
+   "summary": "Peace through strength, Taiwan president says on China battle anniversary &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,10 +276,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "India's forex pile rises to six-month peak on sustained capital inflows",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 12:07:44 GMT",
-   "summary": "India's forex pile rises to six-month peak on sustained capital inflows &nbsp;&nbsp; Reuters",
+   "title": "Iran threatens military response to US sanctions",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 23:59:00 GMT",
+   "summary": "Iran threatens military response to US sanctions &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -276,26 +292,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Mexican governor accused by US of cartel ties returns to office",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllacHoySWMzOVhfVHo4WU1oaDZubUdLVU1YWXpBZV9XSGI1azZ2Ul9NMFNhNTI1ZjNVRjFzcm9sbHJ6Y01vR25xTWpIS1ZqTzhmQk1Dd3pBYXpZc0pPbGlWM3haUEFZOS1kc3JIcWxQV2xaVHkyQ096STFseGp1ZWF6REZJbkVuaUN1YXQ2bVJ3SVVlRjZQVkNWTXFydHhwakoxMmhQNzFrWHQz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 23:28:41 GMT",
-   "summary": "Mexican governor accused by US of cartel ties returns to office &nbsp;&nbsp; Reuters",
+   "title": "Iran condemns US plans to announce new sanctions",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 01:05:00 GMT",
+   "summary": "Iran condemns US plans to announce new sanctions &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "Iran threatens military response to US sanctions",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 22:03:59 GMT",
-   "summary": "Iran threatens military response to US sanctions &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Chinese companies to watch at the World Robot Conference",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWENSYzd1bHZFeVRETkQ4LVo5RHJBaUpDMUdJc2w5OHdSYk0zTkNpc0pKSWh4TWhTTl9JMUpCRHRXeE1qQlMwMUVYYWZiZTREZWtIU2dKZVJObjByU3g1cURoOUMwdHdmTFhxRTNMeDh3dzdzOXJlTy1XWVVQN3MxMDMzX3FIYlJ1cC15UF9nLUFPMEl5WUN3T0pBNy1QaGJQOVBF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 12:11:02 GMT",
-   "summary": "Chinese companies to watch at the World Robot Conference &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "Canada to retaliate for US tariffs, worsening ties after talks fail",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 15:39:00 GMT",
+   "summary": "Canada to retaliate for US tariffs, worsening ties after talks fail &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -312,14 +320,6 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 21:35:27 GMT",
    "summary": "Gold rallies to 3-month high on weaker dollar, bullish technicals &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Canada to retaliate for US tariffs, worsening ties after talks fail",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 15:39:00 GMT",
-   "summary": "Canada to retaliate for US tariffs, worsening ties after talks fail &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,18 +348,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Frustrated Moscow drivers face long queues to refill as fuel shortages return",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUR0R3JjNjBnTTdZMkM2Rl90VjdpZ0FTRElFNmJGcFY0Q2hLbkNiMDVpMUFFSnQyd2VMcmVFRm80NjFBMDE1NXZXVUpnYy1xXzd6bHFldy1ORVBKblBybnlWNndvV2FYYnMzV0djNGtoV0RrN1B2NXhta0s5RGRGY0VKOE8tNVNHRDRYTXhQYzQxWXh5WkloNkRjMHdVcjRMU0VLX09KeEJuR2pQRV93ZHJlQTAxYzJlN0lUVFZBS1g?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 17:09:08 GMT",
-   "summary": "Frustrated Moscow drivers face long queues to refill as fuel shortages return &nbsp;&nbsp; Reuters",
+   "title": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 12:21:29 GMT",
+   "summary": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "US equity funds draw inflows despite market pressures",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGFkaEdLdjJ4Zi1YYk11N1kwTTBoS1pTQ3NPQV9ZclF6b052dW9tYWtCXzZMUF9Wa1hYS0Y2c01iSVAzU09fb0N2WVh2S0lQQVUtUjI0TXlyRWZnODdYOUZQU2FMQVFJM2pzTDFyN1J5VWtOZHB5azE4QTctMjhNZDdzcXlPOVlyTnVacnhGd1kxUlUzZGcwWVBFdGl0MDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 12:29:10 GMT",
-   "summary": "US equity funds draw inflows despite market pressures &nbsp;&nbsp; Reuters",
+   "title": "Frustrated Moscow drivers face long queues to refill as fuel shortages return",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUR0R3JjNjBnTTdZMkM2Rl90VjdpZ0FTRElFNmJGcFY0Q2hLbkNiMDVpMUFFSnQyd2VMcmVFRm80NjFBMDE1NXZXVUpnYy1xXzd6bHFldy1ORVBKblBybnlWNndvV2FYYnMzV0djNGtoV0RrN1B2NXhta0s5RGRGY0VKOE8tNVNHRDRYTXhQYzQxWXh5WkloNkRjMHdVcjRMU0VLX09KeEJuR2pQRV93ZHJlQTAxYzJlN0lUVFZBS1g?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 17:09:08 GMT",
+   "summary": "Frustrated Moscow drivers face long queues to refill as fuel shortages return &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -420,14 +420,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "EXCLUSIVE: Tankers stack up as Venezuela sells oil faster than its ports can handle",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmstT2tWcUdBLXhnOE9WcUlmOWdfSzdyZTVPeGoyVVBVQVVVS2piRVZKT1g4X2RLNG9QMWxETllURmVYbndfLTFhaTJMWnBubTlRdmpHX3dndzcwTW1Yd0hreE9QQ25RdXVEMFA4YV9LY3k3OF92NUx5b0xWaG1BNGRmaGt4ZURmemE5TENmWWl1SzY2ZkRxMFNUaUdRVWVtTnExZzBESFFkMGltdjNtYV9pMldubjVzWnR2YVBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 10:01:44 GMT",
-   "summary": "EXCLUSIVE: Tankers stack up as Venezuela sells oil faster than its ports can handle &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 15:07:42 GMT",
@@ -440,6 +432,14 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 01:23:00 GMT",
    "summary": "Global stocks close out a tough week as bond yields, oil stay high &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Oil rises as Trump threatens sanctions on Iran partners",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 23:26:38 GMT",
+   "summary": "Oil rises as Trump threatens sanctions on Iran partners &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
