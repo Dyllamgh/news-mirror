@@ -14,12 +14,12 @@
  },
  "nyt_via_jina": {
   "status": 200,
-  "size": 4431,
-  "sample": "Title: Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal\n\nURL Source: https://www.nytimes.com/2026/08/02/world/middleeas"
+  "size": 242,
+  "sample": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html\n\nWarning: This page maybe requ"
  },
  "reuters_via_jina": {
   "status": 403,
-  "size": 709,
+  "size": 767,
   "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Sun Aug 23 2"
  },
  "nyt_svc_api": {

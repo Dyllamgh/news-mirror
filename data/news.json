@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-23T16:57:35Z",
- "count": 64,
+ "generated_at": "2026-08-23T19:03:05Z",
+ "count": 66,
  "items": [
   {
    "source": "nyt-world",
@@ -14,7 +14,7 @@
    "source": "nyt-world",
    "title": "Iran Warns Gulf States Not to Join Trump’s Economic War",
    "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-   "published": "Sun, 23 Aug 2026 14:29:36 +0000",
+   "published": "Sun, 23 Aug 2026 17:00:09 +0000",
    "summary": "Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.",
    "full_text": ""
   },
@@ -32,6 +32,14 @@
    "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
    "published": "Sun, 23 Aug 2026 09:16:36 +0000",
    "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "What to Know About the Ebola Outbreak Centered in Congo",
+   "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+   "published": "Sun, 23 Aug 2026 18:04:38 +0000",
+   "summary": "The outbreak in the Democratic Republic of Congo was declared 100 days ago and is spreading faster than any on record, officials said.",
    "full_text": ""
   },
   {
@@ -54,7 +62,7 @@
    "source": "nyt-world",
    "title": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
    "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html",
-   "published": "Sun, 23 Aug 2026 09:01:49 +0000",
+   "published": "Sun, 23 Aug 2026 18:02:12 +0000",
    "summary": "Bad harvests and attacks on trade passages threaten to drive food prices higher.",
    "full_text": ""
   },
@@ -75,11 +83,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
-   "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
-   "published": "Sat, 22 Aug 2026 20:35:49 +0000",
-   "summary": "Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
+   "source": "nyt-business",
+   "title": "Nearly 40,000 Eye Drop Bottles Are Recalled Over Potential Contamination",
+   "url": "https://www.nytimes.com/2026/08/23/health/eye-drops-recalled.html",
+   "published": "Sun, 23 Aug 2026 18:12:53 +0000",
+   "summary": "Federal safety regulators said the maker of Clear Eyes Maximum Itchy Eye Relief voluntarily recalled the drops because of a “lack of assurance of sterility.”",
    "full_text": ""
   },
   {
@@ -110,7 +118,7 @@
    "source": "nyt-business",
    "title": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
    "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
-   "published": "Sun, 23 Aug 2026 14:43:23 +0000",
+   "published": "Sun, 23 Aug 2026 14:43:24 +0000",
    "summary": "In an interview, Jamieson Greer, President Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.",
    "full_text": ""
   },
@@ -126,7 +134,7 @@
    "source": "nyt-business",
    "title": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
    "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html",
-   "published": "Sat, 22 Aug 2026 19:20:33 +0000",
+   "published": "Sat, 22 Aug 2026 19:20:34 +0000",
    "summary": "The discussions on Monday are an early effort to resolve a lawsuit that California and 11 other states filed to block Paramount’s $111 billion acquisition of Warner Bros. Discovery.",
    "full_text": ""
   },
@@ -147,11 +155,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
-   "url": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
-   "published": "Sat, 22 Aug 2026 15:34:31 +0000",
-   "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
+   "source": "nyt-technology",
+   "title": "The Data Center Backlash Bursts Into the Midterms",
+   "url": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
+   "published": "Sun, 23 Aug 2026 09:01:58 +0000",
+   "summary": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.",
    "full_text": ""
   },
   {
@@ -160,6 +168,14 @@
    "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
    "published": "Sat, 22 Aug 2026 00:24:21 +0000",
    "summary": "The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk’s SpaceX.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
+   "url": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
+   "published": "Sat, 22 Aug 2026 15:34:31 +0000",
+   "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
    "full_text": ""
   },
   {
@@ -180,14 +196,6 @@
   },
   {
    "source": "nyt-technology",
-   "title": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
-   "url": "https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html",
-   "published": "Fri, 21 Aug 2026 11:32:51 +0000",
-   "summary": "“It is the first time that we know of that a major lab has voluntarily slowed down.”",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
    "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
    "url": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
    "published": "Fri, 21 Aug 2026 20:23:13 +0000",
@@ -196,18 +204,10 @@
   },
   {
    "source": "nyt-technology",
-   "title": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?",
-   "url": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
-   "published": "Fri, 21 Aug 2026 09:02:32 +0000",
-   "summary": "Americans say they hate prying cameras. But they can’t look away.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
-   "url": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html",
-   "published": "Fri, 21 Aug 2026 16:26:40 +0000",
-   "summary": "The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
+   "title": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
+   "url": "https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html",
+   "published": "Fri, 21 Aug 2026 11:32:51 +0000",
+   "summary": "“It is the first time that we know of that a major lab has voluntarily slowed down.”",
    "full_text": ""
   },
   {
@@ -238,16 +238,8 @@
    "source": "reuters-world",
    "title": "Peace through strength, Taiwan president says on China battle anniversary",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 23 Aug 2026 05:35:44 GMT",
+   "published": "Sun, 23 Aug 2026 05:33:00 GMT",
    "summary": "Peace through strength, Taiwan president says on China battle anniversary &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Iran says Pakistan's army chief to visit Tehran on Monday",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 23 Aug 2026 13:13:07 GMT",
-   "summary": "Iran says Pakistan's army chief to visit Tehran on Monday &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,26 +260,42 @@
   },
   {
    "source": "reuters-world",
-   "title": "Israel and Turkey step up warnings over Syria after airbase bombing",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTlfMHNQWDJxLTRQUnk3S3BmSThwcFNFWTY4dHhTaVZlaENYcFliSkRTVFMzRVliRkgweUxUVThXN0ZfU2Q0Rl9WVXBCZkxBQXZPcUlkeVNKa2kwcFQzM3FVakJMRlQ2N1FBZ3hVUGNXb25ySko1UFVEQjZqU3dfekJUdVBYMFVkQ3RiSm1mMTZFUTFsNFhidHNxY0lsbnVCeTNJOUh0eEQ5dVRMM3VtajlWWlFxOFhfRTFjdXlTWjNtLUhi?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 23:45:29 GMT",
-   "summary": "Israel and Turkey step up warnings over Syria after airbase bombing &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZEtRSXowX3U4YjNkc2Q5UURqaXBPb3BZZkdJQU1WakxIUUVCX3hzdFF0QXhMbUx3bWp5SHpQT1pyTXNTd2NVelFvb3JrVHYwbExzYjR1aU84TlhFWEdUQXpab0U0NEhONVZmcnd1QjUxSE1ROUdRNHlMelk4c1ptQzVKSDQtWG5Bcm5IYWN2Yk5XZkZaMGlPR0JjYTdVTm5nanRvb24tM3VzYWR3aDBUMlVaNHhINEgyeV9LZFFPUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 23 Aug 2026 07:50:41 GMT",
-   "summary": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says &nbsp;&nbsp; Reuters",
+   "title": "South Africa's former world boxing champion Tete shot dead outside his home",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 21:03:28 GMT",
+   "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
    "title": "Iran threatens military response to US sanctions",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 23:59:00 GMT",
+   "published": "Fri, 21 Aug 2026 22:03:59 GMT",
    "summary": "Iran threatens military response to US sanctions &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTBFUDUyY3VFZGlQY0VvSDFSRDV6bTJLSVV5OVd4Zk9tbzFjYkdVZ3Fxc3ZZbGNKU3lMdGhxRU4wb0F1QzIzMzFOUHBvdVlWVHB0MEFQSkN0eDVHOF9VMktYR1pETnpfcUt2TEJwLUJyMDZRam55a3hhUHFWN0ZwVWlEV0FRX21aN0lyNjhKVll1ck1CWE52cjgzNEFQeGV1Rnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 04:18:00 GMT",
+   "summary": "Robots poised for 'ChatGPT moment,' Unitree CEO says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "India's forex pile rises to six-month peak on sustained capital inflows",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 12:07:44 GMT",
+   "summary": "India's forex pile rises to six-month peak on sustained capital inflows &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 12:21:29 GMT",
+   "summary": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -324,6 +332,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Germany's Merz to press cabinet for faster pro-growth reforms",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0otdHNUTGRqOFg5N19zbTlobk92YkcyQlR5bTl0ajBzNUdETlluMlZSSHpWNFZrNVU0anV1LWFDWmswSkRJbmZDUm5faFh3Q0Z4RGExNkJFLVM1eTVDV2p3bWpyQlBEQzhQa1NUV2xsOG15RHlEeVp4WlNoVmtBNUk2SUhMZWNiNTl6YzgxclZMQ1dJMTkzTkZCUkQyVUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 22:11:46 GMT",
+   "summary": "Germany's Merz to press cabinet for faster pro-growth reforms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Mexico expects trade outcomes similar to emerging US-Canada deal",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkVrQzlDMElqOXJFZVRDeDlxZ1hINWVldEpqdlZab1lzTXVZcHRoaExyVElrZzF0bDdjV2R3NTIzZDlvd0JuQTJ0SUZKUEJ3OEtKUm5CbTVoV3ItM3Rqb3lXNVBfclJ4M0l3S1dPaXI3ZlJ5WW1IMEdRVFVTZjQ5ZU92ZWxCd2k5NGNocy1MWm9MRVRubExQM0tma0pwYW1RTzQ2NXZR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 20:40:56 GMT",
@@ -332,42 +348,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "Oil rises as Trump threatens sanctions on Iran partners",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 23:26:38 GMT",
-   "summary": "Oil rises as Trump threatens sanctions on Iran partners &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "China orders entities not to assist EU's JD.com probe",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmJmMHZhNFVhVVpWNjlGcTkxZjFKdUZYNFhiRFl1c01OLVJ2Y2lwYzMtcGVndHpucnhiMFdPb0d4Q0REaXF6VTVuNXo2ak1HSUh6S2lVNW1FbVEyS01WTU1kMkVWcDgyNTUtMzlaaHZ0THFCQXhwNDhaOTdtc2ctcWV4dnd0QUIzMWhjbDEzSlpWVGxNTDk0SFM3MEhtakxnV0ZELXVaNmRPWlQzWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 12:59:21 GMT",
-   "summary": "China orders entities not to assist EU's JD.com probe &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 12:21:29 GMT",
-   "summary": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 22:58:54 GMT",
-   "summary": "Wall St rises on the day but falls for the week; bond yields and Iran in focus &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Most Americans believe Trump has inappropriately profited since returning to power, Reuters/Ipsos poll finds",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1h6LUQwS0tnLUt3MTFHQjVaSHRvTExtWkRCZ3VTSzBEZnJId0lGeGlOUHJicklYQVk1N2k0V2dkZWppV3A3bC15RlpZZmRNUWJtQzBmT2V3U01rU2pGRlZPQl9STkZBZFlmN3otOWJWWV9NaW1PYURRWWh4ZjZISExOaVhudHlCOG95Y2NhMmtHT1VVYUlhclpCcmpKUklXY2FMWUdDYVBid1lVcUJnVXdRWXdLb3dTdGhESktR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 23:45:44 GMT",
    "summary": "Most Americans believe Trump has inappropriately profited since returning to power, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: Senate Democrats question USDA about data errors, staff losses",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVdoZ1AyLUtfUHREazZQdUFNOWV0dmdiOGdld2F0VzF2akx1SzVheHJzZjBtX19yUzJsM2gxVWppel9kbnN2dlh2a2xSQTR6S2ZMYnQ0c1ZVdFd0QWJfTTBkekZFcWxSV0JiM1YyREpKV0JmVkxyUTB0NnJtZ3lQVFA3RVVPeUtZQjFMZUFfZ043ZmR3MDVTYjJ1NVJvUlZLcnRPRXdwc0dDeVNFaHh3TFFNMEdHZ2xmWVZHb0FNUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 10:33:19 GMT",
+   "summary": "EXCLUSIVE: Senate Democrats question USDA about data errors, staff losses &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US to end summer blend gasoline requirement early in attempt to lower prices",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakdBN0hxc0xrLUhRamhRbmdpYk5ybzgyQ0hhQ2IyQVhEVWlobDcxeUY1NEJ1UXZlLVR0YVBvTkxqMkNGenZaRG5lTXZRQVZFX21kWU9ZS05RMHoxSmJwTnVkcGFQcDIzSXZRME9DV3hJckt6WHJueG4xQjE3dnNWX2hYOWN6MnN1eEthcUFKTzJvM2hDbzVmbno3UURwcUZxbl9WV2t5S2prT0dpSlhlN01QeHZUZlY2U1o4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 23:40:37 GMT",
+   "summary": "US to end summer blend gasoline requirement early in attempt to lower prices &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,6 +404,14 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Oil rises as Trump threatens sanctions on Iran partners",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 23:26:38 GMT",
+   "summary": "Oil rises as Trump threatens sanctions on Iran partners &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 15:07:42 GMT",
@@ -412,10 +420,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 21:46:16 GMT",
-   "summary": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs &nbsp;&nbsp; Reuters",
+   "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 22:58:54 GMT",
+   "summary": "Wall St rises on the day but falls for the week; bond yields and Iran in focus &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -424,6 +432,14 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 21:35:27 GMT",
    "summary": "Gold rallies to 3-month high on weaker dollar, bullish technicals &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 21:46:16 GMT",
+   "summary": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -460,6 +476,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Chinese flash-memory chipmaker YMTC parent targets $4.9 billion in Shanghai IPO",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjFpb3VXaE5yMHZaRXhzVWFIRzlQMnNEM2dkdnAtUXphLU9EOGdraXdmQU1ycUYyYmZiSUg5VGNaWmRTZUFOLWNFaEp5elFOQTVoR01xVkVlazBGOE5XVXpNWnRHbjBsaldGMTJXYWNoaHRNclRwdHBLaFpTZkFUT096WkZ5OUtncjI0dm1RbVdTcnFYWmZQcDBsNEFud3ZRR3RCdmFRZmF3aUEwZE56eVZfdGdQaGd0Z1RrZUNmWFJHMTAt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 14:53:06 GMT",
+   "summary": "Chinese flash-memory chipmaker YMTC parent targets $4.9 billion in Shanghai IPO &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Charles Schwab to scale India centre workforce to 2,000 by 2027",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13eGRYYnFubS13UkZqMTJZTGpjSW52UU9jNk53Zmw4cW1UMFQ0ckY5WDNjVmxBMkhhaVZoNE1ZN0MzdWp4Ym9WOXUzZ19VTDlfcmlQQmxGVU50bkppRVFybGVkQkd6YzVvOS1XeVJ6alliVXRha1FhSl9tZk5SSXRScGx0YXZWUkdTbklVOWt4Mk5za3RFLXhYZHNvcVNLaVBsQWpyY1BtOWlLcUx3VFMwRE5pR0ZmRVJfZ2xR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 05:21:15 GMT",
@@ -472,14 +496,6 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEpIV3ZZbUZqSXhKczRfYkZuSjd0UXowV3FZM0NITGR4Tk9ZRTQ0ZGdlR3VJbmQwY01TMjNvWE5mS3hqeGhkTGVlNHoxYVVTNmhHNXNoMGVabHo4VFJlbWhGeHdNel9MZUl1NFIzY3FEUFFYNEVabk5aRVBsUkxwMHNWSGZEWC1rZzR5SE8tbGZSczRoUWlKSl9fYzN2c2VvZFBNdWswb3RvYTZRRzVacFBZdkM?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 15:26:02 GMT",
    "summary": "JPMorgan hiring Bank of America's David Fishman as head of technology M&amp;A, memo says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Chinese flash-memory chipmaker YMTC parent targets $4.9 billion in Shanghai IPO",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjFpb3VXaE5yMHZaRXhzVWFIRzlQMnNEM2dkdnAtUXphLU9EOGdraXdmQU1ycUYyYmZiSUg5VGNaWmRTZUFOLWNFaEp5elFOQTVoR01xVkVlazBGOE5XVXpNWnRHbjBsaldGMTJXYWNoaHRNclRwdHBLaFpTZkFUT096WkZ5OUtncjI0dm1RbVdTcnFYWmZQcDBsNEFud3ZRR3RCdmFRZmF3aUEwZE56eVZfdGdQaGd0Z1RrZUNmWFJHMTAt?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 21 Aug 2026 14:53:06 GMT",
-   "summary": "Chinese flash-memory chipmaker YMTC parent targets $4.9 billion in Shanghai IPO &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
