@@ -1,13 +1,69 @@
 {
- "generated_at": "2026-08-24T08:29:33Z",
- "count": 62,
+ "generated_at": "2026-08-24T11:14:58Z",
+ "count": 65,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+   "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+   "published": "Mon, 24 Aug 2026 09:29:32 +0000",
+   "summary": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Where Iran’s Young People Gather, the Government Sees Threats to Its Authority",
+   "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
+   "published": "Mon, 24 Aug 2026 08:47:21 +0000",
+   "summary": "In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
+   "url": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html",
+   "published": "Mon, 24 Aug 2026 09:02:26 +0000",
+   "summary": "Thousands of Argentines are flocking to a remote stretch of Patagonia, seeking work with only backpacks, tents and the hope that they and their country can turn around their fortunes.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "As El Niño Dries Indonesia, Wildfires Intensify",
    "url": "https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html",
    "published": "Mon, 24 Aug 2026 04:01:06 +0000",
    "summary": "The unusual weather pattern and dried out peatlands, a kind of wetland, have been behind some of the country’s worst fire seasons. This year could be one.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+   "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+   "published": "Mon, 24 Aug 2026 10:42:43 +0000",
+   "summary": "In his first foreign trip since taking office, Prime Minister Andy Burnham affirmed support for Kyiv despite new warnings from Moscow of consequences for doing so.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+   "url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
+   "published": "Mon, 24 Aug 2026 09:02:44 +0000",
+   "summary": "The tech giant says it does not sell the devices in Russia, but they are widely available on resale markets. When purchased that way, they are virtually impossible to track.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
+   "url": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html",
+   "published": "Mon, 24 Aug 2026 09:19:46 +0000",
+   "summary": "The move to call off the high-profile event was communicated in June, South Korea said. President Trump shortened another joint military exercise earlier this month.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
+   "url": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html",
+   "published": "Mon, 24 Aug 2026 09:37:47 +0000",
+   "summary": "The discussions, reported by the Syrian state news agency, came days after Israel struck an air base in Syria’s northwest, the latest in a series of military interventions.",
    "full_text": ""
   },
   {
@@ -27,59 +83,43 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
-   "url": "https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html",
-   "published": "Sun, 23 Aug 2026 14:10:00 +0000",
-   "summary": "The Ukrainian president repeated his long-held position that elections in the middle of war would tear his country apart.",
+   "source": "nyt-business",
+   "title": "Research Firm’s Founder Explains $6 Million Payment to Fired Forbes Editor",
+   "url": "https://www.nytimes.com/2026/08/24/business/media/forbes-randall-lane-shook.html",
+   "published": "Mon, 24 Aug 2026 11:03:37 +0000",
+   "summary": "RJ Shook of Shook Research said he paid Randall Lane, the former top editor at Forbes, for “services and guidance” in partnering with Forbes and later selling his research firm.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
-   "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-   "published": "Sun, 23 Aug 2026 09:16:36 +0000",
-   "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
+   "source": "nyt-business",
+   "title": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah",
+   "url": "https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html",
+   "published": "Mon, 24 Aug 2026 11:00:05 +0000",
+   "summary": "An arbitrator ordered the newspaper to reinstate Karen Attiah, who was fired after posting about “white men who espouse hatred and violence” following Charlie Kirk’s killing.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "What to Know About the Ebola Outbreak Centered in Congo",
-   "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
-   "published": "Sun, 23 Aug 2026 18:04:38 +0000",
-   "summary": "The outbreak in the Democratic Republic of Congo was declared 100 days ago and is spreading faster than any on record, officials said.",
+   "source": "nyt-business",
+   "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
+   "url": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html",
+   "published": "Mon, 24 Aug 2026 10:15:11 +0000",
+   "summary": "Treasury Secretary Scott Bessent is expected to announce an escalation of sanctions aimed at further isolating Iranian trade.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "How Two British Historians Made a Smash Hit Podcast",
-   "url": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
-   "published": "Sat, 22 Aug 2026 21:03:54 +0000",
-   "summary": "They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history.",
+   "source": "nyt-business",
+   "title": "Los Angeles Dodgers Owner’s Troubles Roil Insurance World",
+   "url": "https://www.nytimes.com/2026/08/24/business/mark-walter-insurance-dodgers-lakers.html",
+   "published": "Mon, 24 Aug 2026 09:02:59 +0000",
+   "summary": "Federal investigations of Mark Walter’s business empire have put a spotlight on private-equity-owned insurers that invest premiums in risky assets.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
-   "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
-   "published": "Sun, 23 Aug 2026 16:14:35 +0000",
-   "summary": "Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
-   "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html",
-   "published": "Sun, 23 Aug 2026 18:02:13 +0000",
-   "summary": "Bad harvests and attacks on trade passages threaten to drive food prices higher.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
-   "url": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
-   "published": "Sun, 23 Aug 2026 09:47:28 +0000",
-   "summary": "Canada suspended trade negotiations, triggering President Trump’s 50 percent tariffs on a range of Canadian goods. Mark Carney said he would retaliate “dollar for dollar.”",
+   "source": "nyt-business",
+   "title": "Netflix, YouTube and Amazon Want You to Watch Everything From One App: Theirs",
+   "url": "https://www.nytimes.com/2026/08/24/business/media/amazon-youtube-netflix-streaming-platform.html",
+   "published": "Mon, 24 Aug 2026 09:02:58 +0000",
+   "summary": "YouTube is racing to catch up to Amazon, which already offers users the chance to subscribe to services like HBO Max from within its app. Netflix is increasingly open to the idea, too.",
    "full_text": ""
   },
   {
@@ -116,42 +156,10 @@
   },
   {
    "source": "nyt-business",
-   "title": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
-   "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
-   "published": "Sun, 23 Aug 2026 14:43:24 +0000",
-   "summary": "In an interview, Jamieson Greer, President Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "U.S. Economy Could Feel the Sting From Trade War With Canada",
-   "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html",
-   "published": "Sat, 22 Aug 2026 17:25:42 +0000",
-   "summary": "A tit-for-tat trade fight between the two allies could create new headaches for consumers and businesses already stung by high prices.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
-   "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html",
-   "published": "Sat, 22 Aug 2026 19:20:34 +0000",
-   "summary": "The discussions on Monday are an early effort to resolve a lawsuit that California and 11 other states filed to block Paramount’s $111 billion acquisition of Warner Bros. Discovery.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
-   "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
-   "published": "Sat, 22 Aug 2026 21:08:07 +0000",
-   "summary": "To create a new bootcamp for entrepreneurs, Harvard Business School made A.I. avatars of its instructors.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks.",
-   "url": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html",
-   "published": "Sat, 22 Aug 2026 09:02:32 +0000",
-   "summary": "After roughly two decades of ultralow interest rates, a period of rapid readjustment is ahead for the United States, the world’s largest economy and most important financial system.",
+   "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+   "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+   "published": "Sun, 23 Aug 2026 09:16:36 +0000",
+   "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
    "full_text": ""
   },
   {
@@ -228,14 +236,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "From science fair to strategic showcase: a decade of China’s robot games",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblBRUGY1M25naThFSWZBcXlmR1JmWkMtUHRMbE5PWU80cmoxZ3ktb1N4M0dnbzFCa2xGOWRzem5WS3hLdjFMY1dzYzVqTnFxY24wZlRCMGVPMy1SYU9Hc0doMEZsbjdRaC1hUG9jT2djTE10eWprTmgzcGYzd3BoVFJVemcxeEd0a24ydklfa0Q1enhNSWx3SkdNbUo2VlhHRXoyRDk1UkM4Z2FVaWxnNVB3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 05:35:00 GMT",
-   "summary": "From science fair to strategic showcase: a decade of China’s robot games &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Peace through strength, Taiwan president says on China battle anniversary",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 23 Aug 2026 05:33:00 GMT",
@@ -244,18 +244,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "French politician Glucksmann launches presidential bid amid fractured left",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjJacDNYWVJGekp2dEdlUEsySE5IRTlxRUkycG5iYXFzc1BNTWk0dXhzT211TXNvY0d5RW1MOFJmS2Rlejh1c0RFUFZEem9nb2RFWUU5VDYycHFXZy1LMjlfbHJPUXlCU3J2WXBTSFhNbkxtU0ZJeW93QjZ2cS04d0pteHFfOHZqU2FJWjhmVWt2MElwXzZlNlJCa01uSjNDZmU3ZlRlYVBpeC1xZjAzSVhCcEVQaEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 23 Aug 2026 19:13:43 GMT",
-   "summary": "French politician Glucksmann launches presidential bid amid fractured left &nbsp;&nbsp; Reuters",
+   "title": "From science fair to strategic showcase: a decade of China’s robot games",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblBRUGY1M25naThFSWZBcXlmR1JmWkMtUHRMbE5PWU80cmoxZ3ktb1N4M0dnbzFCa2xGOWRzem5WS3hLdjFMY1dzYzVqTnFxY24wZlRCMGVPMy1SYU9Hc0doMEZsbjdRaC1hUG9jT2djTE10eWprTmgzcGYzd3BoVFJVemcxeEd0a24ydklfa0Q1enhNSWx3SkdNbUo2VlhHRXoyRDk1UkM4Z2FVaWxnNVB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 05:35:00 GMT",
+   "summary": "From science fair to strategic showcase: a decade of China’s robot games &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Iran says new sanctions threatened by 'desperate' US will fail",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 23 Aug 2026 18:16:16 GMT",
-   "summary": "Iran says new sanctions threatened by 'desperate' US will fail &nbsp;&nbsp; Reuters",
+   "title": "French politician Glucksmann launches presidential bid amid fractured left",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjJacDNYWVJGekp2dEdlUEsySE5IRTlxRUkycG5iYXFzc1BNTWk0dXhzT211TXNvY0d5RW1MOFJmS2Rlejh1c0RFUFZEem9nb2RFWUU5VDYycHFXZy1LMjlfbHJPUXlCU3J2WXBTSFhNbkxtU0ZJeW93QjZ2cS04d0pteHFfOHZqU2FJWjhmVWt2MElwXzZlNlJCa01uSjNDZmU3ZlRlYVBpeC1xZjAzSVhCcEVQaEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 23 Aug 2026 19:13:43 GMT",
+   "summary": "French politician Glucksmann launches presidential bid amid fractured left &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,10 +284,34 @@
   },
   {
    "source": "reuters-world",
+   "title": "China Evergrande founder sentenced to life in prison",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnR1a0dyTTViSTRJLWQyWnN0dkhwTzhmeko0dE01RUgxMkVuVmZCVzhjUlIyNlZXcUxWRUFvZFVOZk9LYVctT1FwUnh1UEE3QzB6OFRiT0g0YnI3aFpGaVpLaTlQaDJlMURRYlFuTjFmYThXSUFQUEV3SkV4SkFCRkJPNTBfOXh0MEJRVUh4LXRSanZMRjVnY0ZpTm94M0dBSEc4TFlIOUVCZnZTb2VERWZiaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 21 Aug 2026 01:37:16 GMT",
+   "summary": "China Evergrande founder sentenced to life in prison &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Tesla and others begin record vehicle recall in China",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 21 Aug 2026 10:54:00 GMT",
    "summary": "Tesla and others begin record vehicle recall in China &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Alibaba launches Wan3.0 AI video model after $10 billion share sale",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 08:23:44 GMT",
+   "summary": "Alibaba launches Wan3.0 AI video model after $10 billion share sale &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Alibaba shares fall 8% after $10 billion Hong Kong share sale",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzFnOVB5eF9UcW5SRkIzb1ZlenVJczBvb0RlVDd4S0VZOVQ3NEl1dlpmYnhwa09tU2VWS1J2X3d6WkNVOUFYVzM1RDE5eVlMZlc1bkZlOFV4ZWJYcC0wT2twNXhlaDFTWWJwakc4cmctU1ZiazRuZktIaGpvNDBjcHJNZ0xfMXZJVjEyYXBzTncyaFBNY1l2UVYwTkQ5M0NOSjIzWVFqNU9mOThncEJyaWdJcFdDNGZqYTRQXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 01:51:00 GMT",
+   "summary": "Alibaba shares fall 8% after $10 billion Hong Kong share sale &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -308,18 +332,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "US vows 'economic D-Day' as Iran threatens to halt all oil exports",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 23 Aug 2026 15:23:00 GMT",
-   "summary": "US vows 'economic D-Day' as Iran threatens to halt all oil exports &nbsp;&nbsp; Reuters",
+   "title": "Xpeng says its robotics business raised over $900 million in first funding round",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYTdWSHNoT0NwMlpUaHAxc3lWV2FnTW9hcW9SNVlLZWR0STRRYVlZSGREZUI4c181empUQ3NZc3AxOW9heVhMR0xuVUJsZV9YZlhPdWVkbkNvNkJaSS1KQ3ktSk12RkVsQ09tZG5WN0dwYmRFV05RVTdSVUZNSFdaSlNKYld3ZTMxOU91Mk9yb2V1cWwyVnhVemN2cm9OLXNrenZyX2tQRE9neV9nX29ydUJyQk95WW14dFJ4bE5ER1NfS0dCdHFkTWxJWlFCMWZNSUFZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 09:41:46 GMT",
+   "summary": "Xpeng says its robotics business raised over $900 million in first funding round &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Dollar trading near multi-month lows, restrained by debt nerves",
+   "title": "High oil prices, subsidies and affordable models rev up European EV sales",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUG1HRklKbnhhOE4tN2NJRkF0SkgyS1d1aGg3UHVZVzJELXRibFRnUWFBN0dNWTJwVVkwOHBzakQ0Z3l3NVFRUWJyRDhLRnpBRUJmZ0pVMGM2NF9zU2RXS0NWa3ZRclplMGRKVUQzdlB3c0xBME5QVjFwQ0VVREdhVXNUTDdtU0xLdW1hMjR6Y1lUUjU3REFsTlpsME1jYkxWd05lelA0TjB2V0NLM0JFWlNRMTB3S3g5WUhVc1dpS1JQYVNmMmxEdDZoVjBkYkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 04:05:00 GMT",
+   "summary": "High oil prices, subsidies and affordable models rev up European EV sales &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Dollar pinned at multi-month lows as debt nerves unnerve investors",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 01:48:00 GMT",
-   "summary": "Dollar trading near multi-month lows, restrained by debt nerves &nbsp;&nbsp; Reuters",
+   "summary": "Dollar pinned at multi-month lows as debt nerves unnerve investors &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,42 +372,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Ampol profit surges nearly five-fold as Iran war boosts refining margins",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjNIc3NxT3JYclN3cmRsSkVqeElsbHFRMk1fZmZqQ2xWWWJsY3oxUWpPd3BpZ3llYnA2X1hKa0dIREIxMWFPTk5TS1ZRcmVkZS1WNXN6R1pib1pUMGJDQnE0S1ZkNGV3blcydXp0d3pEa08welJreWF1TVFjY0U5a01qc2c5dGY4S3R5RjNXM0pna1dXSjRfMmdBdkhsUUhkY3Q1MFJ5RG90THFQYVdmUGg3ZUNOOFhKbHQ5bzR0YVdKYTFVdlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 23 Aug 2026 22:42:00 GMT",
-   "summary": "Ampol profit surges nearly five-fold as Iran war boosts refining margins &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 12:21:29 GMT",
-   "summary": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Europe EV market share tops 25% in July as France, Germany drive growth",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDBHVU1CRk11cEJVVlNPQS03dldaSzZGLVpBNGh3blkxTmJUZkw0WTRpSjAyY1pxTWh3THJKTFlyMUFJQVVqUlVzV0dVMWtuTXpoOUFicGgyR2tKalN6T05Na0RsWHM3Vi1pRkUzbnJYRkRFVVdaS09pMkxwN0pXazI2YXYwM2RoMWU4cVRxa2IzTzhDazJvMVp3WmJieFlfYy1vZWh3SE8tN1ZYdy16UDFoVWM3RTNkb2t2amo0YUhUZGlXWHgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 23 Aug 2026 22:05:00 GMT",
-   "summary": "Europe EV market share tops 25% in July as France, Germany drive growth &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Canada to retaliate for US tariffs, worsening ties after talks fail",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 15:39:00 GMT",
-   "summary": "Canada to retaliate for US tariffs, worsening ties after talks fail &nbsp;&nbsp; Reuters",
+   "title": "ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjBuVUZsWDU3MW9GRWxWX1hoc01wUEdtMjN4OEcyZF9rX05VVkpDNzZGNS1sclpSekRMNmZaWUN4OUU3LXdza2MzVjFKV1F0aWZ4U1BmY2N6UXFnNTRSd3VvWTR0clRCbDlHakVlUThtT05FcjdjSEJhai12T0EyT1lwRlVLT1ltTDA2U0I0T19qQ252dENzNXllUlUwaENIU005dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 23 Aug 2026 08:38:55 GMT",
+   "summary": "ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Gold hits over 3-month high ahead of US inflation data, Fed chair speech",
+   "title": "Gold climbs to more than three-month high as markets await US inflation data",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 04:39:00 GMT",
-   "summary": "Gold hits over 3-month high ahead of US inflation data, Fed chair speech &nbsp;&nbsp; Reuters",
+   "summary": "Gold climbs to more than three-month high as markets await US inflation data &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,10 +396,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Shares, oil slip awaiting US details of Iran sanctions",
+   "title": "Shares, oil dip as US sanctions on Iran loom",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 00:49:00 GMT",
-   "summary": "Shares, oil slip awaiting US details of Iran sanctions &nbsp;&nbsp; Reuters",
+   "summary": "Shares, oil dip as US sanctions on Iran loom &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Europe EV market share tops 25% in July as France, Germany drive growth",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDBHVU1CRk11cEJVVlNPQS03dldaSzZGLVpBNGh3blkxTmJUZkw0WTRpSjAyY1pxTWh3THJKTFlyMUFJQVVqUlVzV0dVMWtuTXpoOUFicGgyR2tKalN6T05Na0RsWHM3Vi1pRkUzbnJYRkRFVVdaS09pMkxwN0pXazI2YXYwM2RoMWU4cVRxa2IzTzhDazJvMVp3WmJieFlfYy1vZWh3SE8tN1ZYdy16UDFoVWM3RTNkb2t2amo0YUhUZGlXWHgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 23 Aug 2026 22:05:00 GMT",
+   "summary": "Europe EV market share tops 25% in July as France, Germany drive growth &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,10 +428,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Gulf markets rise as oil gains lift sentiment",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUctUXh6RjdKQkdiR0xZYTBaX0QwbXNLMUJ0NjNLX21UczhJUFozTDFWMzdkQlJaSnRuVTBFWDdLOG5nUTdHa2JXV3JLVW1oVld0MG9nUWFpRWlEUHJBWXpJLWVGQkx6YkgteHZMVVp0VHlJM0ZEU0xmcUE3dUVBMEJfc3VyMWJ4ekxwZF9XdUx3LUJ5YV9MTTN6NE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 23 Aug 2026 13:13:45 GMT",
-   "summary": "Gulf markets rise as oil gains lift sentiment &nbsp;&nbsp; Reuters",
+   "title": "Indian shares extend cautious trade on concerns over Iran sanctions",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 02:22:00 GMT",
+   "summary": "Indian shares extend cautious trade on concerns over Iran sanctions &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -448,14 +464,6 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkl3Q1p0eG5uR21ZT0lMdnRnd0UydUJlc3J3M1lSckFjMndEX29fNG9lUXN3YmxLeDFwRms1MU0zME80TmUzb291Y3psVm0taE9fWDdYX2stOWs4cFRBUUgxN2hhRllfLXF0djJzSC0xN3pZZ0REMVZrWUxJSy03dE9uUVdWbWdoWDhnYjdpekIxeDNQSUh1SnJKUUtoLUtoU0xocEh4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 19 Aug 2026 22:31:44 GMT",
    "summary": "Payments firm Stripe to buy marketplace OpenRouter in AI push &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Charles Schwab to scale India centre workforce to 2,000 by 2027",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13eGRYYnFubS13UkZqMTJZTGpjSW52UU9jNk53Zmw4cW1UMFQ0ckY5WDNjVmxBMkhhaVZoNE1ZN0MzdWp4Ym9WOXUzZ19VTDlfcmlQQmxGVU50bkppRVFybGVkQkd6YzVvOS1XeVJ6alliVXRha1FhSl9tZk5SSXRScGx0YXZWUkdTbklVOWt4Mk5za3RFLXhYZHNvcVNLaVBsQWpyY1BtOWlLcUx3VFMwRE5pR0ZmRVJfZ2xR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 05:21:15 GMT",
-   "summary": "Charles Schwab to scale India centre workforce to 2,000 by 2027 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -496,6 +504,22 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0dOS0FhM005bXNxVTkwWUNSR3pCaHJKb01nbXpualU1V0FNakliNmJMeHZsdXYtREhjOThWLUdVVGlTZExHZXBaVDFHcHJ3ZHRPY3BsLUxfX2NHMmV4U2hmRm9ibE1MTkhmV3FFWXY3aXVsYWRaWElRa2MwdDdaNVI4VnFXYWZvQ0FLeFlWY2dFNWlhVlB1TUh5dEwyeUFXV1hLNHZWX1Y3dUx2WVE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 13:45:44 GMT",
    "summary": "Micron unveils $10 billion AI memory research lab in Boise &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Tech News | Today's Latest Technology News",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsc1JxYWZtanlYeGRJWTg2Y0pqVmRQTlJtTEs3UGxTSXc2YnpCaVc1bWtEWmg0RW4wUUd6M0lRUXNHOVU1YkM2X0lOVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 26 May 2016 05:11:17 GMT",
+   "summary": "Tech News | Today's Latest Technology News &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Reuters | Breaking International News & Views",
+   "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE8tZ2hNa2FhcURvbGFUZGY4clA5d1FnWlJWbnIzV2dfOFVDdDRNQ25lY2s2dzFLV2ZYRHBldA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 01 Feb 2006 04:42:43 GMT",
+   "summary": "Reuters | Breaking International News & Views &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
