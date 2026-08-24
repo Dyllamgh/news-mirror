@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T19:20:08Z",
+ "generated_at": "2026-08-24T21:06:21Z",
  "count": 68,
  "items": [
   {
@@ -46,7 +46,7 @@
    "source": "nyt-world",
    "title": "Iran Pledges to Defy Trump’s Economic Sanctions",
    "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
-   "published": "Mon, 24 Aug 2026 14:04:10 +0000",
+   "published": "Mon, 24 Aug 2026 19:21:09 +0000",
    "summary": "Analysts say Tehran could intensify the dispute militarily after attempts to squeeze its economy. An Iranian official vowed “not a single drop of oil” would leave the Gulf.",
    "full_text": ""
   },
@@ -69,9 +69,9 @@
   {
    "source": "nyt-world",
    "title": "Man Who Told of a Childhood With Wolves Dies at 80",
-   "url": "https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dies.html",
-   "published": "Mon, 24 Aug 2026 18:35:57 +0000",
-   "summary": "The improbable story of Marcos Rodríguez Pantoja’s wild youth became the subject of a study, as well as inspiring a novel and a film.",
+   "url": "https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dead.html",
+   "published": "Mon, 24 Aug 2026 20:11:30 +0000",
+   "summary": "Marcos Rodríguez Pantoja’s improbable story of a wild youth became the subject of a study, and inspired a novel and film.",
    "full_text": ""
   },
   {
@@ -84,9 +84,25 @@
   },
   {
    "source": "nyt-business",
+   "title": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
+   "url": "https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html",
+   "published": "Mon, 24 Aug 2026 20:10:16 +0000",
+   "summary": "Regulators sent subpoenas to major Wall Street banks seeking information about the trading of Situational Awareness, three people briefed on the outreach said.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "What’s Behind the U.S. Treasury’s Latest Attempt to Lower Interest Rates",
+   "url": "https://www.nytimes.com/2026/08/24/business/treasury-bond-buybacks-impact.html",
+   "published": "Mon, 24 Aug 2026 20:03:52 +0000",
+   "summary": "The Treasury Department said it could begin to buy back more of its debt, and bond market investors are assessing the potential effects on borrowing costs.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "How Farmers Are Staying Afloat as Crop Prices Plunge",
    "url": "https://www.nytimes.com/2026/08/24/business/farmers-land-value-crop-prices-iowa.html",
-   "published": "Mon, 24 Aug 2026 16:44:14 +0000",
+   "published": "Mon, 24 Aug 2026 20:02:59 +0000",
    "summary": "Most U.S. farmers will lose money this year. Landowners and investors are increasingly trying to make money from their land, not what can be grown from it.",
    "full_text": ""
   },
@@ -126,7 +142,7 @@
    "source": "nyt-business",
    "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
    "url": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html",
-   "published": "Mon, 24 Aug 2026 19:02:19 +0000",
+   "published": "Mon, 24 Aug 2026 20:03:14 +0000",
    "summary": "Treasury Secretary Scott Bessent is expected to announce an escalation of sanctions aimed at further isolating Iranian trade.",
    "full_text": ""
   },
@@ -144,22 +160,6 @@
    "url": "https://www.nytimes.com/2026/08/24/business/media/amazon-youtube-netflix-streaming-platform.html",
    "published": "Mon, 24 Aug 2026 09:02:58 +0000",
    "summary": "YouTube is racing to catch up to Amazon, which already offers users the chance to subscribe to services like HBO Max from within its app. Netflix is increasingly open to the idea, too.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Maker of Clear Eyes Recalls Nearly 40,000 Bottles Over Contamination Risk",
-   "url": "https://www.nytimes.com/2026/08/23/health/clear-eyes-eye-drops-fda-recall.html",
-   "published": "Mon, 24 Aug 2026 14:37:49 +0000",
-   "summary": "Federal safety regulators said the maker of Clear Eyes Maximum Itchy Eye Relief voluntarily recalled the drops because of a “lack of assurance of sterility.”",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music",
-   "url": "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html",
-   "published": "Sun, 23 Aug 2026 15:23:52 +0000",
-   "summary": "The hit-making duo turned tech moguls also have thoughts about why corporate America isn’t collaborative enough.",
    "full_text": ""
   },
   {
@@ -192,6 +192,14 @@
    "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
    "published": "Sun, 23 Aug 2026 09:00:20 +0000",
    "summary": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Laptop Fire on American Airlines Flight Injures at Least One Passenger",
+   "url": "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html",
+   "published": "Mon, 24 Aug 2026 19:34:57 +0000",
+   "summary": "Flight attendants used a fireproof bag to contain the computer after its lithium battery began smoking. One passenger was treated on the ground for injuries.",
    "full_text": ""
   },
   {
@@ -235,11 +243,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
-   "url": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
-   "published": "Fri, 21 Aug 2026 20:23:13 +0000",
-   "summary": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.",
+   "source": "reuters-world",
+   "title": "World Cup winners, FIFA legends say Infantino blinded by power",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjlTaFdXblBhSExTZmJmZGRSMjJMV2lyRWR3OTZHdUw3UGVUVjZsWE1XVFZEaG90SjdET0V3UWZuNDRtdWs2N3dacEFfclc0dlB4djVKUm0xcU1LcGxBVzJhdkt5OEhZSEppZFhUTTB1MzZDU1FwM2NiWEp2MktyYkZ6NlBwZlVjdTVLdlVuM2JndGhDZ1FqREdsMFhwZmVtMEJBRC1LZjNXUnlpZnVDTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 16:29:59 GMT",
+   "summary": "World Cup winners, FIFA legends say Infantino blinded by power &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,18 +268,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "World Cup winners, FIFA legends say Infantino blinded by power",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjlTaFdXblBhSExTZmJmZGRSMjJMV2lyRWR3OTZHdUw3UGVUVjZsWE1XVFZEaG90SjdET0V3UWZuNDRtdWs2N3dacEFfclc0dlB4djVKUm0xcU1LcGxBVzJhdkt5OEhZSEppZFhUTTB1MzZDU1FwM2NiWEp2MktyYkZ6NlBwZlVjdTVLdlVuM2JndGhDZ1FqREdsMFhwZmVtMEJBRC1LZjNXUnlpZnVDTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 16:29:59 GMT",
-   "summary": "World Cup winners, FIFA legends say Infantino blinded by power &nbsp;&nbsp; Reuters",
+   "title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 22 Aug 2026 10:07:00 GMT",
+   "summary": "Chinese robots beat Usain Bolt's 100m world record at Beijing games &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 10:09:14 GMT",
-   "summary": "Chinese robots beat Usain Bolt's 100m world record at Beijing games &nbsp;&nbsp; Reuters",
+   "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2pHQzFrSGY3SWhhYWxFS2FDTEtMWEhQV3FsX0dnRzVKeVlxRWdsdjJaQzFkRURmVURacGJCYU9NUUtGb0MyQS1EUVNtOWNCU2VaUDFIMnRHelZUVmpENE1vZVhhQmFZaWZNallubFI5MWp1bkpyb1FkMDNYWFlWTk1RU05nekFNdV9saXZ2VDRHdndXWFIwYnZYNGhlcGlRNFFKZ1BCeldwTkVqbW55elNzMFIxSURMOTIxcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 06:22:00 GMT",
+   "summary": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -294,7 +302,7 @@
    "source": "reuters-world",
    "title": "Southeast Asia's budget airlines eye recovery but fuel scars linger",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTEtcC10STI2OFlVT3B6TnZTX0pueU5DSnNhRmlWTjRoa1M0NHZIcVJ0a3ZtVEU1WEp5ZWpkNFEtZXJHc1pfUHdfbEMtbVhpVDJQME5SR0tORk04NDQ4VElSOFNQNlNCOEozckxuV0hvam1SOGpxSlpfVE02Njh3NURQSDZJdHIxYldtZmRRV3J4VF9xQVFfMkE3T2pLOVU4VGFkVk9ZczA2NVAtV3hlNzM3VE1KZUdJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 05:11:00 GMT",
+   "published": "Mon, 24 Aug 2026 05:56:47 GMT",
    "summary": "Southeast Asia's budget airlines eye recovery but fuel scars linger &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -315,14 +323,6 @@
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "Iran condemns US plans to announce new sanctions",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 22 Aug 2026 01:05:00 GMT",
-   "summary": "Iran condemns US plans to announce new sanctions &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-business",
    "title": "US threatens countries doing business with Iran, but holds off on penalties for now",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -332,10 +332,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYTdWSHNoT0NwMlpUaHAxc3lWV2FnTW9hcW9SNVlLZWR0STRRYVlZSGREZUI4c181empUQ3NZc3AxOW9heVhMR0xuVUJsZV9YZlhPdWVkbkNvNkJaSS1KQ3ktSk12RkVsQ09tZG5WN0dwYmRFV05RVTdSVUZNSFdaSlNKYld3ZTMxOU91Mk9yb2V1cWwyVnhVemN2cm9OLXNrenZyX2tQRE9neV9nX29ydUJyQk95WW14dFJ4bE5ER1NfS0dCdHFkTWxJWlFCMWZNSUFZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 11:23:58 GMT",
-   "summary": "Xpeng's robotics unit valued at over $6.3 billion after record funding round &nbsp;&nbsp; Reuters",
+   "title": "Xpeng forecast disappoints as China EV competition heats up",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcGRiM0NNUFBsQjVfR0RTMUJXUFJELS1JdnZ5NHFaalNHTi1IVVFzek1LUUNVZGVEWXNPRDJsbnVfVEgwY0pOVVZnTndzbUhOUF9iNUN0S3UzQVNkT1d3cVlGMEQwNXBxQUdudExEM2tTaklEVDBmbHA4R3pYVENiSkk3U0VIZ3BuTVFCbjNxLV9JN1RoTHZHN3dtMFNSOXA5blhnZHhnVlBHdnNvTDh5Y2dWUkRVelBtNEVGWEEzaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 13:19:44 GMT",
+   "summary": "Xpeng forecast disappoints as China EV competition heats up &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,6 +356,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Ghana's GoldBod buyers hit by funding delays, sources say",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTZyc1hZSEs0cHhBV0xBNTZwYTJSYmpkSWIyRUdIQTFZb0RKcWtxRDF5ckozaVFyam9ZVnByS0ExSU5nSU9UMTJiLUZpNUNDVHpkUkh1YVRKQVprYkN0NFpNcXFyVmc0Q01qaG9fYnkyY1BWcVVqcGIyY1MzWVFfUEdSeVF5VlVMMHdYYWd6eHhGWUxQUjJGejdlakptQVZrVDByUVpsYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 12:05:43 GMT",
+   "summary": "Ghana's GoldBod buyers hit by funding delays, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Alibaba shares fall 8% after $10 billion Hong Kong share sale",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzFnOVB5eF9UcW5SRkIzb1ZlenVJczBvb0RlVDd4S0VZOVQ3NEl1dlpmYnhwa09tU2VWS1J2X3d6WkNVOUFYVzM1RDE5eVlMZlc1bkZlOFV4ZWJYcC0wT2twNXhlaDFTWWJwakc4cmctU1ZiazRuZktIaGpvNDBjcHJNZ0xfMXZJVjEyYXBzTncyaFBNY1l2UVYwTkQ5M0NOSjIzWVFqNU9mOThncEJyaWdJcFdDNGZqYTRQXw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 01:58:00 GMT",
@@ -364,10 +372,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 16:42:51 GMT",
-   "summary": "Tech drags S&amp;P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom &nbsp;&nbsp; Reuters",
+   "title": "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYTdWSHNoT0NwMlpUaHAxc3lWV2FnTW9hcW9SNVlLZWR0STRRYVlZSGREZUI4c181empUQ3NZc3AxOW9heVhMR0xuVUJsZV9YZlhPdWVkbkNvNkJaSS1KQ3ktSk12RkVsQ09tZG5WN0dwYmRFV05RVTdSVUZNSFdaSlNKYld3ZTMxOU91Mk9yb2V1cWwyVnhVemN2cm9OLXNrenZyX2tQRE9neV9nX29ydUJyQk95WW14dFJ4bE5ER1NfS0dCdHFkTWxJWlFCMWZNSUFZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 11:23:58 GMT",
+   "summary": "Xpeng's robotics unit valued at over $6.3 billion after record funding round &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,18 +396,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Exxon turns to automated drilling in the Permian in push for higher oil output",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWozWHNob3lCaGM4S1FGaVVFMVdyblhOQ3o5a2ZqM2htTUFIRW5vZkVvNU4yNUxJcldHUDBGamExSVdxUVJYTmhrT3lNWW15dEJIRTduYllZWmJqT0RVVjd0STdsb0UxNjBTanhJV2pDYzF5T2gxYlFBZnlWX0hrSjl3c0I4VVFoSlBhUjNEamFCTWRJSHl3Y21jdVYtMnd0SDNwdmlQdlNZcmdqdG5DQmlYTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 13:29:07 GMT",
-   "summary": "Exxon turns to automated drilling in the Permian in push for higher oil output &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Fast-fashion giant Shein shrinks value to up to $27 billion in Hong Kong IPO",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYTVYVnd5QjJpb1dJZXZhOVFLbjJfbFZRa3Y4YkpSMmJ3WjZfbE15VFB5THdHbEdSVkdsQjlGSFJwSjcyNjQ2M2U2bGNjYmdOc1hzWVA0bTdsdzlnQWo5YVNONkU5aENDQ0xvMWRyQkxxQVowZFp4TlFicnNzc1Vad1hqQ3VRdFZ6SDdkNUlFZjZzOW5XQkt1ZG12QjB3bHRERnY2UXFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 23 Aug 2026 22:25:00 GMT",
-   "summary": "Fast-fashion giant Shein shrinks value to up to $27 billion in Hong Kong IPO &nbsp;&nbsp; Reuters",
+   "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 20:36:16 GMT",
+   "summary": "S&amp;P 500, Nasdaq end down on tech stocks, investors weigh Iran moves &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,30 +412,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Shares dip on pressure from technology; yields and oil fall",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 15:49:43 GMT",
-   "summary": "Shares dip on pressure from technology; yields and oil fall &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 18:04:57 GMT",
-   "summary": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Dollar edges up, loonie drops after U.S. announces tariffs",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 15:07:23 GMT",
-   "summary": "Dollar edges up, loonie drops after U.S. announces tariffs &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnNlclhfMG4yZE9OTExTUEQ4Zi1sUml5RFdoUVZiU2tXd3EtaTJSc0E4YlRBQUp4T1hvSzdmVHRBeFhobTMxV1hodmhsRl80Zm4zSldlTzBWTGJMeTNEd0RnekpmLV9RaVprUWp4SlBCQXJheXc1ZUt4NEx2T3pON0NQQTVlQTlldVA0SWRWdmN6OWVwc25jUlRBeGFTUFIzaC1YNlRQSzFrREtrQ3FXWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 12:21:07 GMT",
@@ -444,10 +420,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "The Hormuz crude volume debate masks the real shortage of refined fuels",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 12:00:27 GMT",
-   "summary": "The Hormuz crude volume debate masks the real shortage of refined fuels &nbsp;&nbsp; Reuters",
+   "title": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 04:39:00 GMT",
+   "summary": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Shares dip on pressure from technology; yields and oil fall",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 00:49:00 GMT",
+   "summary": "Shares dip on pressure from technology; yields and oil fall &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,10 +452,34 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Oil slips ahead of US announcement of new sanctions on Iran",
+   "title": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 01:48:00 GMT",
+   "summary": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "The Hormuz crude volume debate masks the real shortage of refined fuels",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 04:00:38 GMT",
+   "summary": "The Hormuz crude volume debate masks the real shortage of refined fuels &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Oil drops more than $2 despite new US sanctions on Iran",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 23 Aug 2026 23:18:00 GMT",
-   "summary": "Oil slips ahead of US announcement of new sanctions on Iran &nbsp;&nbsp; Reuters",
+   "summary": "Oil drops more than $2 despite new US sanctions on Iran &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk1vd2pFVnJwQWNUbVJRS1A0WDRCXzBuVVBMN0hlTFJtNDhSZDVnSkdaMmZTSXRhSWlOTjNvYTBSVU9KM1NSdE9OWTFIVXJKWEdEU0ZfaTBMbGV6WHlkWkdEWGdMNEE3WVFoNnRQdVZNamRlc3cxakRMbkxXd3JSYnFYMXlDVUJXZC1nOW9ONTVseXlCRGNxUExhOUhCb2E3aVpPWmRjYmpoUnFmNG5WMGRJV0lGelBQRjk3emF2MTdaSmF3eTE3UXZ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 17:10:33 GMT",
+   "summary": "UK, Ukraine sign AI defence partnership linked to battlefield technology &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -480,14 +488,6 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcTNacWNnb056NS1MRi1lMnJydTVMR3JoT2FVNmZTQU9tWjdUTEVsZW5ZRXQ3djIwbG1tWkVENEhLeVdVTHNGcmpjSExfNEFJQmxnVmJBdDIwdDBSUkxlUmNsSEdQSkVxSktmYlpENC14aW5aaXNKVUhVRFRsMzVDT0lrakNyMXE2dkhHS0NKY3RRRUt6ajB0QkJpLVNmVnBsRFdsejF5YjMyemVlZ002Y3QzRWxKZmxEdDV2ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 05:06:00 GMT",
    "summary": "Sonova unveils new AI-powered hearing-aid platform to support growth targets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "EXCLUSIVE: India plans first tokenised bond issue in September, sources say",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnh6dzlUek5ZZm9GTmRDSXJwMGNWZUxrOWQ1R2RXVUNUVHJwMmltRnI1ODVnUmQwc2xqLXJzZTNWUjhZTldEOXNtaFcycHVSX1Nya0c3YU02dUZWMGszM2lKMWstWVdLc2hKOGQ5WFJtcU0zanZHMzdCcFN0b2RLV1VUTFpXcHppdGVpVC0wR2U2MVYtS3k2VTFEZHBKVXk3MVE0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 11:57:53 GMT",
-   "summary": "EXCLUSIVE: India plans first tokenised bond issue in September, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -516,10 +516,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkl3Q1p0eG5uR21ZT0lMdnRnd0UydUJlc3J3M1lSckFjMndEX29fNG9lUXN3YmxLeDFwRms1MU0zME80TmUzb291Y3psVm0taE9fWDdYX2stOWs4cFRBUUgxN2hhRllfLXF0djJzSC0xN3pZZ0REMVZrWUxJSy03dE9uUVdWbWdoWDhnYjdpekIxeDNQSUh1SnJKUUtoLUtoU0xocEh4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 19 Aug 2026 22:31:44 GMT",
-   "summary": "Payments firm Stripe to buy marketplace OpenRouter in AI push &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: India plans first tokenised bond issue in September, sources say",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnh6dzlUek5ZZm9GTmRDSXJwMGNWZUxrOWQ1R2RXVUNUVHJwMmltRnI1ODVnUmQwc2xqLXJzZTNWUjhZTldEOXNtaFcycHVSX1Nya0c3YU02dUZWMGszM2lKMWstWVdLc2hKOGQ5WFJtcU0zanZHMzdCcFN0b2RLV1VUTFpXcHppdGVpVC0wR2U2MVYtS3k2VTFEZHBKVXk3MVE0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 11:57:53 GMT",
+   "summary": "EXCLUSIVE: India plans first tokenised bond issue in September, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -532,18 +532,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "China robot makers seek to turn humanoid hype into useful work",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 21:46:29 GMT",
-   "summary": "China robot makers seek to turn humanoid hype into useful work &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Tech News | Today's Latest Technology News",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsc1JxYWZtanlYeGRJWTg2Y0pqVmRQTlJtTEs3UGxTSXc2YnpCaVc1bWtEWmg0RW4wUUd6M0lRUXNHOVU1YkM2X0lOVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 26 May 2016 05:11:17 GMT",
    "summary": "Tech News | Today's Latest Technology News &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Micron unveils $10 billion AI memory research lab in Boise",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0dOS0FhM005bXNxVTkwWUNSR3pCaHJKb01nbXpualU1V0FNakliNmJMeHZsdXYtREhjOThWLUdVVGlTZExHZXBaVDFHcHJ3ZHRPY3BsLUxfX2NHMmV4U2hmRm9ibE1MTkhmV3FFWXY3aXVsYWRaWElRa2MwdDdaNVI4VnFXYWZvQ0FLeFlWY2dFNWlhVlB1TUh5dEwyeUFXV1hLNHZWX1Y3dUx2WVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 13:45:44 GMT",
+   "summary": "Micron unveils $10 billion AI memory research lab in Boise &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
