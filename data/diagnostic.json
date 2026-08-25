@@ -1,12 +1,12 @@
 {
  "reuters_sitemap": {
   "status": 401,
-  "size": 771,
+  "size": 774,
   "sample": "<html lang=\"en\"><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please ena"
  },
  "reuters_world_page": {
   "status": 401,
-  "size": 771
+  "size": 774
  },
  "gn_link_decode": {
   "decoded_urls": [],
@@ -14,13 +14,13 @@
  },
  "nyt_via_jina": {
   "status": 403,
-  "size": 741,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Mon Aug 24 2"
+  "size": 699,
+  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Tue Aug 25 2"
  },
  "reuters_via_jina": {
   "status": 403,
-  "size": 827,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Mon Aug 24 2"
+  "size": 735,
+  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Tue Aug 25 2"
  },
  "nyt_svc_api": {
   "status": 404,
@@ -29,7 +29,7 @@
  },
  "reuters_pf_api": {
   "status": 401,
-  "size": 771,
+  "size": 774,
   "sample": "<html lang=\"en\"><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please ena"
  }
 }
