@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T21:02:36Z",
- "count": 67,
+ "generated_at": "2026-08-25T23:01:13Z",
+ "count": 66,
  "items": [
   {
    "source": "nyt-world",
@@ -84,9 +84,25 @@
   },
   {
    "source": "nyt-business",
+   "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
+   "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
+   "published": "Tue, 25 Aug 2026 22:58:03 +0000",
+   "summary": "The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Forbes and Shook Research Suspend Rankings Amid Investigation of $6 Million Payment",
+   "url": "https://www.nytimes.com/2026/08/25/business/media/forbes-shook-research-payment.html",
+   "published": "Tue, 25 Aug 2026 21:45:09 +0000",
+   "summary": "The magazine, which is reviewing a payment from the founder of Shook Research to its former top editor, also canceled a summit in Las Vegas scheduled for October.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
    "url": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
-   "published": "Tue, 25 Aug 2026 19:54:47 +0000",
+   "published": "Tue, 25 Aug 2026 21:31:12 +0000",
    "summary": "It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.",
    "full_text": ""
   },
@@ -147,26 +163,10 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Many N.F.L. Players Get Brain Disease. Why Hasn’t OSHA Intervened?",
-   "url": "https://www.nytimes.com/2026/08/25/us/nfl-cte-osha.html",
-   "published": "Tue, 25 Aug 2026 13:07:23 +0000",
-   "summary": "“We never see things that are this dire,” a former chief scientist of the agency said about rates of C.T.E. in former players.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
-   "url": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
-   "published": "Tue, 25 Aug 2026 00:33:34 +0000",
-   "summary": "The 50 percent tariffs President Trump imposed on Canadian exports to the United States will make it impossible for many Canadian companies to continue to sell to the U.S. market, economists say.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
    "url": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
-   "published": "Tue, 25 Aug 2026 20:38:54 +0000",
+   "published": "Tue, 25 Aug 2026 21:59:39 +0000",
    "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
    "full_text": ""
   },
@@ -184,6 +184,14 @@
    "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
    "published": "Mon, 24 Aug 2026 15:46:53 +0000",
    "summary": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
+   "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html",
+   "published": "Tue, 25 Aug 2026 22:38:18 +0000",
+   "summary": "Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
    "full_text": ""
   },
   {
@@ -219,14 +227,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "TikTok Settles With U.S. Over Child Privacy Concerns for $400 Million",
-   "url": "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html",
-   "published": "Fri, 21 Aug 2026 23:24:04 +0000",
-   "summary": "The Justice Department resolved a lawsuit that accused the social media company of illegally gathering children’s information.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "World braces as Trump's Canada tariff stand-off escalates",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHQzOTFqNEhOZUp2ZGJMT1J5d1pSaEUtQWFlZTZJdVZfT0ZlUmJPQy00dHFnekY5c05wNTNnSE56RDd2WFFwc28yTGptelZOcXJZMGtMSlcyZm5xLXRxWThaZTRXSkdieS1INUExMC1LVUduSXUzdGozS280U2JCOFRwTVVNbHhXZFVRcEcxSFlKZUdTRnlVYlJUZm1HUFctMDBkVmJhdGU5R19JbmlQOU84UktiVFRYZVdsRmZiVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -252,14 +252,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Lego sales rise as World Cup products draw new customers",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3NibEtOTjVRdWJOTkxqTnhNdDAxV3p1dWlLWkY4WFNubGpabFhOOEN1bHRqMUo5Mlp0VElfWmJDejRPdE1QUEVrM0g0S0N0b095Q3ZHcndQVHNiLUY1NjVVNnRTOXRJZlNpb2lKOVlwcnFnVjk0V2RheWlxbFpFNXZmdjhnMDdEcFFpOW5qaGFtNlotMVE0T2xoNWhKTGM2NkZoS0lvMFNZZlAtdExnbmlZNGo?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 07:50:09 GMT",
-   "summary": "Lego sales rise as World Cup products draw new customers &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Chinese robot Tiangong clocks sub-9 second 100 metres in Beijing",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFR5YUFPa2FZQmFzbXUwLTBPQkIzRXhQZnlnM0M3NmVkbXUzTDFudVFRbVFEZXZBUE04NjYyVXRCVFVfTHFxVzRqbVVVUjNhclBuWHRyRWJKQnBvR3NGVmlzQnl0bF9FdXZzZXVoeXI0RmZqWnFqSzZFbjEyYm9hUzhWSmNDZDB5Zk5FS2hYTGdyVGxEVVIyamVCRlBndXJOMFdUbEFnMG5NS2pXcjJEVVN4MTV0VFk?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 25 Aug 2026 17:40:34 GMT",
@@ -268,10 +260,26 @@
   },
   {
    "source": "reuters-world",
+   "title": "Lego sales rise as World Cup products draw new customers",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3NibEtOTjVRdWJOTkxqTnhNdDAxV3p1dWlLWkY4WFNubGpabFhOOEN1bHRqMUo5Mlp0VElfWmJDejRPdE1QUEVrM0g0S0N0b095Q3ZHcndQVHNiLUY1NjVVNnRTOXRJZlNpb2lKOVlwcnFnVjk0V2RheWlxbFpFNXZmdjhnMDdEcFFpOW5qaGFtNlotMVE0T2xoNWhKTGM2NkZoS0lvMFNZZlAtdExnbmlZNGo?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 07:50:09 GMT",
+   "summary": "Lego sales rise as World Cup products draw new customers &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Robots can outrun humans, but can they plug in a cable?",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 23 Aug 2026 21:36:41 GMT",
    "summary": "Robots can outrun humans, but can they plug in a cable? &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Man detained over Berlin gun stash suspected of being part of Russian network, Spiegel says",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGFwOS1JSWpwUi10cGJ6ajJtOXlTbWVoTkpZUUNVMGc0VjdhalZ0U3NlSVlfOUl0aUVxeFVOZHB6NE1tLXBjS2RobVJsaDFMNXRjeTNSU09xZGRqbmxoejVHTlVON3VnWXZVSWFsd3lhMjd2X1BmRjFzWGJRSEplY251RTZKLVlSZTJVTnBhMUxvTndOWThPYUZwOWpHMTVsc2tXaDNMb01UVzItd3NWZ1JFVEN6SS1CNm91elBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 14:28:54 GMT",
+   "summary": "Man detained over Berlin gun stash suspected of being part of Russian network, Spiegel says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,18 +300,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "India wanted red flags on chip packets and soda. Big Food fought back.",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmJzNHBHdF9hWEg5U1RHTDFPUy1zZ2pfWk1wamVfOUpRMGFJUDl2UHg1dC1RLTdwUzBsWldvTHlaak1TWXYtQWFkbEQzNVJ1bzdScmJhcVVETVhVTExGa1FVYmdwQkRWMGt5aGRmTEoxNGk5X3VXWm9zRmNGZjJBQ2V2Uk40Zmtnb2VxVTA2Z1lNdkcyRjJ6NzJwQ2pCd3hBcW1UQXd4TXhIRThYbWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 04:05:00 GMT",
-   "summary": "India wanted red flags on chip packets and soda. Big Food fought back. &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "France, Saudi Arabia agree on €6 billion Dragon Ball Z theme park project near Paris",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1pSUXpFN2gtY3ZBNHRubzJEOGZOSE1lR0NfQmh6OHRaT052MUJaUUZlbTBrOFNXZWZiRXhoVnl6UjRFTlFjbVJsVXZ5TWYtS1B4eFN4UlkwUG9FMGRLdEtZZk5xNVlVOTA3RnQxSGRESWFTOTFOUTdMNFZrVVBCdnAxeVJoUzkwUnViWDZsX0ZwaVNacnlDcTEtOUk5Qk54aVllTlBjNTlITWtLYlVrNHVZLUFSSGNleVhtZGtOSm1XQjJtT29GRW9lNVR0QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 17:07:43 GMT",
-   "summary": "France, Saudi Arabia agree on €6 billion Dragon Ball Z theme park project near Paris &nbsp;&nbsp; Reuters",
+   "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2pHQzFrSGY3SWhhYWxFS2FDTEtMWEhQV3FsX0dnRzVKeVlxRWdsdjJaQzFkRURmVURacGJCYU9NUUtGb0MyQS1EUVNtOWNCU2VaUDFIMnRHelZUVmpENE1vZVhhQmFZaWZNallubFI5MWp1bkpyb1FkMDNYWFlWTk1RU05nekFNdV9saXZ2VDRHdndXWFIwYnZYNGhlcGlRNFFKZ1BCeldwTkVqbW55elNzMFIxSURMOTIxcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 24 Aug 2026 06:22:00 GMT",
+   "summary": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -312,6 +312,14 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnllQWZiMlB2MERDOUJLLWZUdGs0SjFhaDVKcVJwNWVGb0FhZ2pramhtQVJlT2l0eUlBREV1YUgzTEgxZzliNjVQR1hRTWdOdGJXSFhlamF3LXl0dGRmZjg0c1NwWEZKNDRiRkgyZG5QUmw1UlZ3dDA2ZlNtMTNabUVxc0UzdDRsNTM1b2hPWHlTZjVadWxJUTRLWGVuM1A3eFQxU21lQm1RY3hpMS1URUcxX1lGQktwZnR6SFhkOA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 25 Aug 2026 18:48:54 GMT",
    "summary": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Siemens Energy to divest industrial unit in bid to focus on gas turbines, grids",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmh2eUxaTmhCX2pNWUpORFFOdmdLZnhwN2JVbDROSHQ3YU53U3U2V21LLW5ieGh5VTlpQmRfaW9wbE1KVHZHcnZkUTNTRWdDeFBZU0RJR25Ed1BCLVRKRkZ3WHRhZ2FrMzJObHVMR0xSeXNHUmhjR2RXRWpVbTNLYjdhTTJLbVhtNnlDaDN4bURvdEx4ZEJRRGVDTndxOEUtTXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 19:56:45 GMT",
+   "summary": "Siemens Energy to divest industrial unit in bid to focus on gas turbines, grids &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,10 +348,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Siemens Energy to divest industrial unit in bid to focus on gas turbines, grids",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmh2eUxaTmhCX2pNWUpORFFOdmdLZnhwN2JVbDROSHQ3YU53U3U2V21LLW5ieGh5VTlpQmRfaW9wbE1KVHZHcnZkUTNTRWdDeFBZU0RJR25Ed1BCLVRKRkZ3WHRhZ2FrMzJObHVMR0xSeXNHUmhjR2RXRWpVbTNLYjdhTTJLbVhtNnlDaDN4bURvdEx4ZEJRRGVDTndxOEUtTXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 19:56:45 GMT",
-   "summary": "Siemens Energy to divest industrial unit in bid to focus on gas turbines, grids &nbsp;&nbsp; Reuters",
+   "title": "Honda says it may not build new plant in North America without trade deal extension",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT05YNDUxZnEtZmtuaDBmVUdfVzFVZ1RfTXhfdURkVEh3SjYzbVRSbUNZVnd6cnhheGVSQXlGY0xuU3MwRUVzd1ExWHJDODdRQzlNWTlnYmlhOWczc3NIblF4MDd4NTBIM3RLMjAxN0RZQU1HQUJWd0VrTWRQXzNhaks1N3pCSFU0WnJEWk1aZTZJdFVmSDJhQ3h5eWdkekpmaW15SHNQQmEtNUxGdEVZWnptbWplLWsxRHJnYmpQSnFRUGwtNGVxYTlIVGk2Ui1aTFZKbkRTWVJqck1NbHJJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 16:10:24 GMT",
+   "summary": "Honda says it may not build new plant in North America without trade deal extension &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,10 +372,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 22:24:44 GMT",
-   "summary": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion &nbsp;&nbsp; Reuters",
+   "title": "EssilorLuxottica founder's son quits management roles after reported rift with CEO",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2poYTBla0RwaUR2Ums4LTNxQWxCZkw5TWhGRWpob3NmZFA0TVF2d2hyTl9SdUdHc09sT0JYZS0zaW5XcC1lLTRFc0N3cWhmZnlSdldBYVo2MXEzRUtSeEVUcTA5cjFPQnhkS1hFVlZVMEhuZkwxVTY5aVBwSjFuZDlsa1gtRW13Q2xjMGhvZEdaX2RtYWZub3NYMXh6RWM3Yml1WDl6NnVGcU0ybi1XRC1PYmpDZ19fVVAybUE1WmRnQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 05:47:00 GMT",
+   "summary": "EssilorLuxottica founder's son quits management roles after reported rift with CEO &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -379,19 +387,19 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "Alibaba launches Wan3.0 AI video model after $10 billion share sale",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 08:23:44 GMT",
-   "summary": "Alibaba launches Wan3.0 AI video model after $10 billion share sale &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "Why the bond market may be resetting expectations about the US",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 21:29:02 GMT",
+   "summary": "Why the bond market may be resetting expectations about the US &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Explainer: Why the bond market may be resetting expectations about the US",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 20:05:11 GMT",
-   "summary": "Explainer: Why the bond market may be resetting expectations about the US &nbsp;&nbsp; Reuters",
+   "title": "Wall Street ends higher as tech rebounds before Nvidia results",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 20:29:41 GMT",
+   "summary": "Wall Street ends higher as tech rebounds before Nvidia results &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -400,14 +408,6 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 25 Aug 2026 15:21:14 GMT",
    "summary": "Iraq may show how U.S. can squeeze Iran's trade partners &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Wall Street rises as tech bounces back before Nvidia results, bond yields drop",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 18:36:17 GMT",
-   "summary": "Wall Street rises as tech bounces back before Nvidia results, bond yields drop &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -460,10 +460,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Dollar fragile as investors weigh Iran sanctions, Treasury buybacks",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 01:31:00 GMT",
-   "summary": "Dollar fragile as investors weigh Iran sanctions, Treasury buybacks &nbsp;&nbsp; Reuters",
+   "title": "Gold steadies after hitting over 3-month peak ahead of US inflation data",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 02:10:00 GMT",
+   "summary": "Gold steadies after hitting over 3-month peak ahead of US inflation data &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -478,7 +478,7 @@
    "source": "reuters-tech",
    "title": "Shares dip with pressure from technology, yields and oil fall",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 21:49:46 GMT",
+   "published": "Mon, 24 Aug 2026 00:49:00 GMT",
    "summary": "Shares dip with pressure from technology, yields and oil fall &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -502,7 +502,7 @@
    "source": "reuters-tech",
    "title": "Sonova unveils new AI-powered hearing-aid platform to support growth targets",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcTNacWNnb056NS1MRi1lMnJydTVMR3JoT2FVNmZTQU9tWjdUTEVsZW5ZRXQ3djIwbG1tWkVENEhLeVdVTHNGcmpjSExfNEFJQmxnVmJBdDIwdDBSUkxlUmNsSEdQSkVxSktmYlpENC14aW5aaXNKVUhVRFRsMzVDT0lrakNyMXE2dkhHS0NKY3RRRUt6ajB0QkJpLVNmVnBsRFdsejF5YjMyemVlZ002Y3QzRWxKZmxEdDV2ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 13:50:00 GMT",
+   "published": "Mon, 24 Aug 2026 05:06:00 GMT",
    "summary": "Sonova unveils new AI-powered hearing-aid platform to support growth targets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -512,14 +512,6 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblFqaGhQV3N2aDFBakVtbzBDMUphR0RiVVNZb2JjdksxdW5vSEpZcVdObmRDeVNZeUJwdUZra3J3eWVTX0RFSTRIQTExRWtnenU4UmZEenI5bWczLWdyNUFOZnE0RlNlRFFkVGNoSjd6RUU4OUZwTlZHZVZRT1R3VWNxS1A2TVV5LUllS2ZpWmdudU5ha2xZN003NDFZVVNz?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 20 Aug 2026 06:17:00 GMT",
    "summary": "China puts robocops on traffic duty, minus the arrest powers &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "New Zealand's main opposition party supports social media ban for under-16s",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVhUT3I1Y1lyVk02UTRrc25vMm1QM25KT3JVYWJocE04dFNLc0FjbE96RWlhcTF5RkU0cWpLRkJBNUQxOHVva2dJVHFBcW5CMmFTb0E3ejhORkZDSEFuYVFzUVhaZld2SmJuenY1dnlDRmQ1eUsxX1pCbTVWelUyTExpTGtnbVl4RmhiVEoxZjVQQkZaaGJ3SzU5QlMtRDV0ZGdXSThFU2F4MkpBTXpBRGZtdE1NVzFicUhDbW0xZTRabFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 03:26:00 GMT",
-   "summary": "New Zealand's main opposition party supports social media ban for under-16s &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
