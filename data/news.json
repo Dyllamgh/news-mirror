@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-25T23:01:13Z",
- "count": 66,
+ "generated_at": "2026-08-26T03:35:55Z",
+ "count": 65,
  "items": [
   {
    "source": "nyt-world",
    "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
    "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
-   "published": "Tue, 25 Aug 2026 18:42:58 +0000",
+   "published": "Wed, 26 Aug 2026 03:02:19 +0000",
    "summary": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.",
    "full_text": ""
   },
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
    "url": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
-   "published": "Tue, 25 Aug 2026 18:12:05 +0000",
+   "published": "Tue, 25 Aug 2026 23:58:04 +0000",
    "summary": "Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.",
    "full_text": ""
   },
@@ -80,6 +80,14 @@
    "url": "https://www.nytimes.com/2026/08/25/world/middleeast/us-syria-terrorism-list-sanctions.html",
    "published": "Tue, 25 Aug 2026 13:03:53 +0000",
    "summary": "The move lifted economic sanctions on the country, raising hopes of further recovery after its brutal civil war.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Worker Dies After Accident With Plane at Montreal Airport",
+   "url": "https://www.nytimes.com/2026/08/25/world/canada/montreal-airport-accident-worker-dead.html",
+   "published": "Tue, 25 Aug 2026 23:15:03 +0000",
+   "summary": "The Transportation Safety Board of Canada said the episode involved an Airbus A350 operated by French Bee, a French low-cost airline.",
    "full_text": ""
   },
   {
@@ -155,11 +163,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Is It Time for This 95-Year-Old Pianist to Retire?",
-   "url": "https://www.nytimes.com/2026/08/25/business/piano-teacher-performer-retirement.html",
-   "published": "Tue, 25 Aug 2026 15:05:46 +0000",
-   "summary": "Her vision and hearing are deteriorating, but she still wants to feel like she’s on top.",
+   "source": "nyt-technology",
+   "title": "Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
+   "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html",
+   "published": "Tue, 25 Aug 2026 22:38:18 +0000",
+   "summary": "Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
    "full_text": ""
   },
   {
@@ -180,26 +188,18 @@
   },
   {
    "source": "nyt-technology",
-   "title": "How Big Tech Captured American Schools",
-   "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
-   "published": "Mon, 24 Aug 2026 15:46:53 +0000",
-   "summary": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
-   "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html",
-   "published": "Tue, 25 Aug 2026 22:38:18 +0000",
-   "summary": "Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
    "title": "Laptop Fire on American Airlines Flight Injures at Least One Passenger",
    "url": "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html",
    "published": "Mon, 24 Aug 2026 19:34:57 +0000",
    "summary": "Flight attendants used a fireproof bag to contain the computer after its lithium battery began smoking. One passenger was treated on the ground for injuries.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "How Big Tech Captured American Schools",
+   "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+   "published": "Mon, 24 Aug 2026 15:46:53 +0000",
+   "summary": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
    "full_text": ""
   },
   {
@@ -219,18 +219,10 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.",
-   "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
-   "published": "Sat, 22 Aug 2026 00:24:21 +0000",
-   "summary": "The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk’s SpaceX.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "World braces as Trump's Canada tariff stand-off escalates",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHQzOTFqNEhOZUp2ZGJMT1J5d1pSaEUtQWFlZTZJdVZfT0ZlUmJPQy00dHFnekY5c05wNTNnSE56RDd2WFFwc28yTGptelZOcXJZMGtMSlcyZm5xLXRxWThaZTRXSkdieS1INUExMC1LVUduSXUzdGozS280U2JCOFRwTVVNbHhXZFVRcEcxSFlKZUdTRnlVYlJUZm1HUFctMDBkVmJhdGU5R19JbmlQOU84UktiVFRYZVdsRmZiVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 13:09:37 GMT",
+   "published": "Tue, 25 Aug 2026 23:30:30 GMT",
    "summary": "World braces as Trump's Canada tariff stand-off escalates &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -260,6 +252,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "India IT industry body urges US to weigh H-1B visa benefits as Trump proposes hefty fee",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnJWYnBvNk1lalc3QjIxMm55Z1pWc0hoOGpQdVRUQVlGOTdGWVFIZ3NoSkZkUEZTYXBWOEZvbHBOZlVrV2ZIRVR3dTdGUTgxb3BzQkJCUzRlWm5pSVNwUVpmTEVJclFJUXZXSFQ3MVBYY2VXVlpKVUJKVERKc1RhOWx1RmlpMjl1VnB5U2NxeVZycUhUb08yeHprbGstRk1NcEpiSUU1Q3FhNXRndklCOEYxQlBXMENXdW1SeW4zX01LREg3TFFleE4zWVlmdmF4V3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 23:03:31 GMT",
+   "summary": "India IT industry body urges US to weigh H-1B visa benefits as Trump proposes hefty fee &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Lego sales rise as World Cup products draw new customers",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3NibEtOTjVRdWJOTkxqTnhNdDAxV3p1dWlLWkY4WFNubGpabFhOOEN1bHRqMUo5Mlp0VElfWmJDejRPdE1QUEVrM0g0S0N0b095Q3ZHcndQVHNiLUY1NjVVNnRTOXRJZlNpb2lKOVlwcnFnVjk0V2RheWlxbFpFNXZmdjhnMDdEcFFpOW5qaGFtNlotMVE0T2xoNWhKTGM2NkZoS0lvMFNZZlAtdExnbmlZNGo?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 25 Aug 2026 07:50:09 GMT",
@@ -284,6 +284,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Iran vows to resist widened US sanctions, says Washington seeks talks",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 00:57:00 GMT",
+   "summary": "Iran vows to resist widened US sanctions, says Washington seeks talks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 10:09:14 GMT",
@@ -291,19 +299,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "California Orange County DA announces $100 million for 50,000 evacuated residents in GKN incident",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY05KM09tSlZDc0UzbTlyaWZpVDZfc1dZRWlRMXJrRkJ3b25EZ2ZJTVZJSUV5Y2phanF1ajF0SmF3LU9FQ0RrUnhiVW9yUnZpZ0p4a1pCNzNQTEFpN2N4UUxmSGMwTTlaWHV6c0RqWEkxNnRlZlAwM1VkM0NFSUxYanU4Y1JWWmgzaGo0ek9KczByZXI1ZnZPRXZuRjVGUEdUWWVvNXJaSm8tU2lZbmVhNGh6MkZRb1BxTmVfVkZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 22:07:39 GMT",
-   "summary": "California Orange County DA announces $100 million for 50,000 evacuated residents in GKN incident &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2pHQzFrSGY3SWhhYWxFS2FDTEtMWEhQV3FsX0dnRzVKeVlxRWdsdjJaQzFkRURmVURacGJCYU9NUUtGb0MyQS1EUVNtOWNCU2VaUDFIMnRHelZUVmpENE1vZVhhQmFZaWZNallubFI5MWp1bkpyb1FkMDNYWFlWTk1RU05nekFNdV9saXZ2VDRHdndXWFIwYnZYNGhlcGlRNFFKZ1BCeldwTkVqbW55elNzMFIxSURMOTIxcg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 06:22:00 GMT",
-   "summary": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "Siemens Energy to divest industrial unit in bid to focus on gas turbines, grids",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmh2eUxaTmhCX2pNWUpORFFOdmdLZnhwN2JVbDROSHQ3YU53U3U2V21LLW5ieGh5VTlpQmRfaW9wbE1KVHZHcnZkUTNTRWdDeFBZU0RJR25Ed1BCLVRKRkZ3WHRhZ2FrMzJObHVMR0xSeXNHUmhjR2RXRWpVbTNLYjdhTTJLbVhtNnlDaDN4bURvdEx4ZEJRRGVDTndxOEUtTXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 23:28:08 GMT",
+   "summary": "Siemens Energy to divest industrial unit in bid to focus on gas turbines, grids &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,18 +316,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Siemens Energy to divest industrial unit in bid to focus on gas turbines, grids",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmh2eUxaTmhCX2pNWUpORFFOdmdLZnhwN2JVbDROSHQ3YU53U3U2V21LLW5ieGh5VTlpQmRfaW9wbE1KVHZHcnZkUTNTRWdDeFBZU0RJR25Ed1BCLVRKRkZ3WHRhZ2FrMzJObHVMR0xSeXNHUmhjR2RXRWpVbTNLYjdhTTJLbVhtNnlDaDN4bURvdEx4ZEJRRGVDTndxOEUtTXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 19:56:45 GMT",
-   "summary": "Siemens Energy to divest industrial unit in bid to focus on gas turbines, grids &nbsp;&nbsp; Reuters",
+   "title": "US tariff threat upends copper surplus as prices test all-time peak",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelM0dUNmR3Y2QjBqdkNNdmZ2LVJ5c3hwR1lIUk1kVHNJcFp6VEp0YmdROUh1ME9YN2syOEtEaF9yZDQzbmszWnNtU0toX01SaHItUmc1RWdHYUZMRFpmMGZDaXMxeGViRDlnbnFKY05aUzZ2SE5BWDRycVQtZDBybWRWTWVzTWU5anpIZS14SFlIRWFRSF9WdmNPeHZMSDlQT2NnZ25nQzNZcmdKcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 22:49:37 GMT",
+   "summary": "US tariff threat upends copper surplus as prices test all-time peak &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "US consumer confidence falls in August, Conference Board says",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEVHaUNfU2o2RXgzemVSU2ZpN21hMENDdF9XSUM5cXRsdjAwUFV4U0pJRV8tZk15dEI1Y1JjSEVQUHJmS3VwZFkyTHV0MGV1anR0SEQ3clhnVUVDSEt5UmdwNkJyNWphS1pvQkdYUTMxU3Q2OFpuOWRXX3FMT0pqSWEtNkprNGZ1NEdGaWtHeVNJazJYbzdBbC1KVnFuRUk2RWR4NQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 14:57:45 GMT",
-   "summary": "US consumer confidence falls in August, Conference Board says &nbsp;&nbsp; Reuters",
+   "title": "EssilorLuxottica founder's son quits management roles after reported rift with CEO",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2poYTBla0RwaUR2Ums4LTNxQWxCZkw5TWhGRWpob3NmZFA0TVF2d2hyTl9SdUdHc09sT0JYZS0zaW5XcC1lLTRFc0N3cWhmZnlSdldBYVo2MXEzRUtSeEVUcTA5cjFPQnhkS1hFVlZVMEhuZkwxVTY5aVBwSjFuZDlsa1gtRW13Q2xjMGhvZEdaX2RtYWZub3NYMXh6RWM3Yml1WDl6NnVGcU0ybi1XRC1PYmpDZ19fVVAybUE1WmRnQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 05:47:00 GMT",
+   "summary": "EssilorLuxottica founder's son quits management roles after reported rift with CEO &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,18 +348,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Honda says it may not build new plant in North America without trade deal extension",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT05YNDUxZnEtZmtuaDBmVUdfVzFVZ1RfTXhfdURkVEh3SjYzbVRSbUNZVnd6cnhheGVSQXlGY0xuU3MwRUVzd1ExWHJDODdRQzlNWTlnYmlhOWczc3NIblF4MDd4NTBIM3RLMjAxN0RZQU1HQUJWd0VrTWRQXzNhaks1N3pCSFU0WnJEWk1aZTZJdFVmSDJhQ3h5eWdkekpmaW15SHNQQmEtNUxGdEVZWnptbWplLWsxRHJnYmpQSnFRUGwtNGVxYTlIVGk2Ui1aTFZKbkRTWVJqck1NbHJJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 16:10:24 GMT",
-   "summary": "Honda says it may not build new plant in North America without trade deal extension &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "US threatens countries doing business with Iran, but holds off on penalties for now",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 12:40:00 GMT",
    "summary": "US threatens countries doing business with Iran, but holds off on penalties for now &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1VQWjVudDlPckk5b1pkQ3U1bENxZUx1eGxOeGY2OHVKeHNKcERBeC1yOUVhQUcwYThGejZnbUNIOFY1cUtjam90bGZaWnRYNnlzQXM5X0ZoekNNMkljcDRmaEsyLVplOGx3OUdKaG10WVBISHRza3ZGQTNadjFSUmVOSmtYRl9jLURCQndQc19lSjdEWTlEWENKNTB3Q3Zlc0tTdDd6bUxiVmMxTXZzbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 10:02:00 GMT",
+   "summary": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -371,43 +371,43 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "EssilorLuxottica founder's son quits management roles after reported rift with CEO",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2poYTBla0RwaUR2Ums4LTNxQWxCZkw5TWhGRWpob3NmZFA0TVF2d2hyTl9SdUdHc09sT0JYZS0zaW5XcC1lLTRFc0N3cWhmZnlSdldBYVo2MXEzRUtSeEVUcTA5cjFPQnhkS1hFVlZVMEhuZkwxVTY5aVBwSjFuZDlsa1gtRW13Q2xjMGhvZEdaX2RtYWZub3NYMXh6RWM3Yml1WDl6NnVGcU0ybi1XRC1PYmpDZ19fVVAybUE1WmRnQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 05:47:00 GMT",
-   "summary": "EssilorLuxottica founder's son quits management roles after reported rift with CEO &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlR3eXlsWC1xOV9yNnI3OUcySkF2Z2xmdHJoZElUaWQxZXpwRlVoUHZXaDVsWU00ckUtR0FVdWN0RlhVSDFKS0tyZ0VuWVBXLVV4bDNfa3M0Zll5blM0OWJsQmU5TDJRVmZRVXFLM3VZNjdLMFhRTXBncE1pQUhrRDVORkpnODFtdXJiNjRsakFyQUR5c0phRVR2LXlWV1VFTUdEYThjZVEyMGNfcWQtRmNyblVaN2FJRFBPRjliT2RORkprd09YUDJBVUtzbWo2RUpTUHpB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 16:56:38 GMT",
-   "summary": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "Trading Day: Oil, yields slide",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWNydl9TRXBTU3ZISVRYVVJxUGw2Sm5QZnctdVJDdXFZTW1kZDMzV1JSRkk5cGtiWjdVa1FzV2U4d3dSTU8tNkJRRE9NWUxmMVpoODZpTExIajltTW9JWnhGOEtnM0k0VC1VMnQtS2dfMGxYVW81aUNxNXJ0a1NNN2dTemFiYU5Ld3EtT3FJR2d1WUg3Nnc1QVhWWjNiZWpwUFAtYVZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 21:47:51 GMT",
+   "summary": "Trading Day: Oil, yields slide &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Why the bond market may be resetting expectations about the US",
+   "title": "Gold holds steady as investors focus on US inflation data",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 26 Aug 2026 00:30:00 GMT",
+   "summary": "Gold holds steady as investors focus on US inflation data &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Explainer: The super peso is back — and it's starting to hurt",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXRQWGxKYTl0d29jd0dBLVJQbEFBSG03SUMwOEhsbGRjUG1sVV95TDFyZmpIWDRtV1d4X19zWGdHR3lRdmgwT1kwQnNWYVptOTkyd28xT1JYcmp5aXdybVNxLXBSeFVJY1RweFhOdUM5RWxHMmlqVnpTdHNpTnFNU3htZmlIZ0N6NnlZR09XR1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 22:55:08 GMT",
+   "summary": "Explainer: The super peso is back — and it's starting to hurt &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Explainer: Why the bond market may be resetting expectations about the US",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 21:29:02 GMT",
-   "summary": "Why the bond market may be resetting expectations about the US &nbsp;&nbsp; Reuters",
+   "published": "Tue, 25 Aug 2026 22:50:37 GMT",
+   "summary": "Explainer: Why the bond market may be resetting expectations about the US &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
    "title": "Wall Street ends higher as tech rebounds before Nvidia results",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 20:29:41 GMT",
+   "published": "Tue, 25 Aug 2026 23:14:21 GMT",
    "summary": "Wall Street ends higher as tech rebounds before Nvidia results &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Iraq may show how U.S. can squeeze Iran's trade partners",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 15:21:14 GMT",
-   "summary": "Iraq may show how U.S. can squeeze Iran's trade partners &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -416,6 +416,14 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS0NWWi1jaTJfVGJPVGV0NXR5bUt5UW9mZDc3aVpCbFNSdm9PUTdHVFZqMkxzTmxBM0x3aFlQSGVYcjd2STd0MmI5clFUWmo4RjNFMURIZUVvd1UzZko2ZEowdVRyajBkeEU3OGpENFBndDRra1JDOGNsNlRFY2hubjlGc21oc2Rja0Z0QU41cHNuQzROeXhv?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 25 Aug 2026 10:22:09 GMT",
    "summary": "Morning Bid: Economic salvos &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Iraq may show how U.S. can squeeze Iran's trade partners",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 22:55:43 GMT",
+   "summary": "Iraq may show how U.S. can squeeze Iran's trade partners &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -443,35 +451,19 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Oil settles down more than 3%; investors shrug off US sanctions on Iran",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 01:16:00 GMT",
-   "summary": "Oil settles down more than 3%; investors shrug off US sanctions on Iran &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A3ZDBwNm85VE41dmUyZGMzWUdmTHJMb3JMYkl4V21XdG9PTHNOZnFnLXhPR2VpSWtsbDNla1pna3I2WHNSRzU2TkhERE9oMnRNZGluNDNHMlFOWnlmSUEtT1dwNGxqVnRrQ1pJemRCTzlDa3A3b3hJV0pNSGJPSFpYbktMemhOblpRZW1QekkwT3F0VEY5TkNQaFZhdlZjejFTU1JjTjVKZ01SNjZMQ195YWlZOVA2NG1fTVFMaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 05:19:00 GMT",
-   "summary": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Gold steadies after hitting over 3-month peak ahead of US inflation data",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 02:10:00 GMT",
-   "summary": "Gold steadies after hitting over 3-month peak ahead of US inflation data &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-tech",
    "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk1vd2pFVnJwQWNUbVJRS1A0WDRCXzBuVVBMN0hlTFJtNDhSZDVnSkdaMmZTSXRhSWlOTjNvYTBSVU9KM1NSdE9OWTFIVXJKWEdEU0ZfaTBMbGV6WHlkWkdEWGdMNEE3WVFoNnRQdVZNamRlc3cxakRMbkxXd3JSYnFYMXlDVUJXZC1nOW9ONTVseXlCRGNxUExhOUhCb2E3aVpPWmRjYmpoUnFmNG5WMGRJV0lGelBQRjk3emF2MTdaSmF3eTE3UXZ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 17:10:33 GMT",
    "summary": "UK, Ukraine sign AI defence partnership linked to battlefield technology &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkp1YllobWRwNG5PZ2p2SmtTNG5IcTFhdU1vcHF4THhPN2NhU20zY3dQdFpna3dhMTBZMjhJY0hGWWNLMmlmWmd6ZnF3cGRnZXUySUVfZWdKQXhoei01cUZQWFNaUzNHbDV3YjRrSDludlNvQjRfa3JZOWlKeEtWTTY0SHJYOEJPQUdabUpHMTVsbTlIQWdleElGWU5yTlYyWGQwZUlZdUhMakVlbkNkRUhfQmp0dG9YZXJNZVA1QmlncFgzekc4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 03:05:00 GMT",
+   "summary": "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -484,10 +476,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkp1YllobWRwNG5PZ2p2SmtTNG5IcTFhdU1vcHF4THhPN2NhU20zY3dQdFpna3dhMTBZMjhJY0hGWWNLMmlmWmd6ZnF3cGRnZXUySUVfZWdKQXhoei01cUZQWFNaUzNHbDV3YjRrSDludlNvQjRfa3JZOWlKeEtWTTY0SHJYOEJPQUdabUpHMTVsbTlIQWdleElGWU5yTlYyWGQwZUlZdUhMakVlbkNkRUhfQmp0dG9YZXJNZVA1QmlncFgzekc4?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 25 Aug 2026 03:05:00 GMT",
-   "summary": "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO &nbsp;&nbsp; Reuters",
+   "title": "China puts robocops on traffic duty, minus the arrest powers",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblFqaGhQV3N2aDFBakVtbzBDMUphR0RiVVNZb2JjdksxdW5vSEpZcVdObmRDeVNZeUJwdUZra3J3eWVTX0RFSTRIQTExRWtnenU4UmZEenI5bWczLWdyNUFOZnE0RlNlRFFkVGNoSjd6RUU4OUZwTlZHZVZRT1R3VWNxS1A2TVV5LUllS2ZpWmdudU5ha2xZN003NDFZVVNz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 20 Aug 2026 06:17:00 GMT",
+   "summary": "China puts robocops on traffic duty, minus the arrest powers &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -502,16 +494,16 @@
    "source": "reuters-tech",
    "title": "Sonova unveils new AI-powered hearing-aid platform to support growth targets",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcTNacWNnb056NS1MRi1lMnJydTVMR3JoT2FVNmZTQU9tWjdUTEVsZW5ZRXQ3djIwbG1tWkVENEhLeVdVTHNGcmpjSExfNEFJQmxnVmJBdDIwdDBSUkxlUmNsSEdQSkVxSktmYlpENC14aW5aaXNKVUhVRFRsMzVDT0lrakNyMXE2dkhHS0NKY3RRRUt6ajB0QkJpLVNmVnBsRFdsejF5YjMyemVlZ002Y3QzRWxKZmxEdDV2ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 05:06:00 GMT",
+   "published": "Mon, 24 Aug 2026 13:56:09 GMT",
    "summary": "Sonova unveils new AI-powered hearing-aid platform to support growth targets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "China puts robocops on traffic duty, minus the arrest powers",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblFqaGhQV3N2aDFBakVtbzBDMUphR0RiVVNZb2JjdksxdW5vSEpZcVdObmRDeVNZeUJwdUZra3J3eWVTX0RFSTRIQTExRWtnenU4UmZEenI5bWczLWdyNUFOZnE0RlNlRFFkVGNoSjd6RUU4OUZwTlZHZVZRT1R3VWNxS1A2TVV5LUllS2ZpWmdudU5ha2xZN003NDFZVVNz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 20 Aug 2026 06:17:00 GMT",
-   "summary": "China puts robocops on traffic duty, minus the arrest powers &nbsp;&nbsp; Reuters",
+   "title": "New Zealand's main opposition party supports social media ban for under-16s",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVhUT3I1Y1lyVk02UTRrc25vMm1QM25KT3JVYWJocE04dFNLc0FjbE96RWlhcTF5RkU0cWpLRkJBNUQxOHVva2dJVHFBcW5CMmFTb0E3ejhORkZDSEFuYVFzUVhaZld2SmJuenY1dnlDRmQ1eUsxX1pCbTVWelUyTExpTGtnbVl4RmhiVEoxZjVQQkZaaGJ3SzU5QlMtRDV0ZGdXSThFU2F4MkpBTXpBRGZtdE1NVzFicUhDbW0xZTRabFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 25 Aug 2026 03:26:00 GMT",
+   "summary": "New Zealand's main opposition party supports social media ban for under-16s &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -526,7 +518,7 @@
    "source": "reuters-tech",
    "title": "New Zealand to introduce bill banning social media for children under 16",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTdXSm9FWElqNHo2dUFNNVJJenhqRDBOV1RXR3N5NHhoMXN5cXZ1TTZORGxpVmhRVS1aVzFCZUoxVk9qMkM5NEF1NFRDX25fMkJycmxaZHNyemJsVkNYRGR3cGcwOXZaYnQxbE9LWUQ1UEROTF9FRDlOOU90cXRQX0ZvMllEeTh3cTBFWmozcWZvQlNmYkQ3M0lDWEttRnNqRVJVUllGS2cxVmtpdk9aNXRqa2U3R3Zua0MzMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 24 Aug 2026 03:39:00 GMT",
+   "published": "Mon, 24 Aug 2026 04:42:31 GMT",
    "summary": "New Zealand to introduce bill banning social media for children under 16 &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
