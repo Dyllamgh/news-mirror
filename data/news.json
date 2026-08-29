@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-29T20:04:52Z",
- "count": 65,
+ "generated_at": "2026-08-29T22:04:39Z",
+ "count": 66,
  "items": [
   {
    "source": "nyt-world",
@@ -14,8 +14,16 @@
    "source": "nyt-world",
    "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
    "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
-   "published": "Sat, 29 Aug 2026 18:26:47 +0000",
+   "published": "Sat, 29 Aug 2026 21:47:52 +0000",
    "summary": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
+   "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
+   "published": "Sat, 29 Aug 2026 20:07:50 +0000",
+   "summary": "The Nepal Army, which is leading rescue efforts, turned to the trapped workers more than a day after the flood, according to army officials, industry groups and private rescuers.",
    "full_text": ""
   },
   {
@@ -24,6 +32,14 @@
    "url": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
    "published": "Sat, 29 Aug 2026 18:10:38 +0000",
    "summary": "The U.S.-Canada trade war has galvanized Canadians behind their prime minister’s decision to walk away from negotiations. What happens when the time comes for talks to restart?",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
+   "url": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
+   "published": "Sat, 29 Aug 2026 19:49:54 +0000",
+   "summary": "The theft of the precious object, once owned by an Egyptian queen and later sold to satisfy her creditors, was the latest in a string of high-profile museum losses.",
    "full_text": ""
   },
   {
@@ -67,19 +83,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Fear Over Malaysia’s Plan to Send Back Rohingya Migrants to Myanmar",
-   "url": "https://www.nytimes.com/2026/08/28/world/asia/rohingya-refugees-malaysia-myanmar.html",
-   "published": "Fri, 28 Aug 2026 09:04:28 +0000",
-   "summary": "The announcement has sent panic through a community that fled its country’s brutal military rule, civil war, religious persecution or some combination of the three.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Six Months In, Iran Appears Stronger and U.S. Goals Unclear",
-   "url": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
-   "published": "Fri, 28 Aug 2026 19:43:42 +0000",
-   "summary": "Trump’s replacement of a military war with a heightened economic one is not expected to alter Iran’s strategy, while further impoverishing its people.",
+   "source": "nyt-business",
+   "title": "Warsh, After Talking Tough on Inflation, Faces a ‘No-Win Situation’ on Rates",
+   "url": "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html",
+   "published": "Sat, 29 Aug 2026 21:47:19 +0000",
+   "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, must soon decide whether to raise interest rates if inflation does not ease, even if it draws President Trump’s ire.",
    "full_text": ""
   },
   {
@@ -155,14 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
-   "url": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
-   "published": "Fri, 28 Aug 2026 23:15:45 +0000",
-   "summary": "The outcome contradicted an earlier appeals court decision. Federal regulators said the split rulings called for resolution by the Supreme Court.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
    "url": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
@@ -206,8 +206,16 @@
    "source": "nyt-technology",
    "title": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
    "url": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
-   "published": "Sat, 29 Aug 2026 18:58:59 +0000",
+   "published": "Sat, 29 Aug 2026 21:11:02 +0000",
    "summary": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
+   "url": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
+   "published": "Fri, 28 Aug 2026 23:15:45 +0000",
+   "summary": "The outcome contradicted an earlier appeals court decision. Federal regulators said the split rulings called for resolution by the Supreme Court.",
    "full_text": ""
   },
   {
@@ -254,7 +262,7 @@
    "source": "reuters-world",
    "title": "China’s record robotic strides show the limits of human speed",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNURxNldrZFI4VWJWMEQ1bGhaVEVNZk9ObXpXaC01dHFNTm5INFFhOHlxSTZmNXpTdGw4ZF9SNWdvaGsyYTJFNXBhMmtqbGNKMHp1cFlpQXZrYUxBV1RhRWdJV0ZVbzJXWkxycjZHdEtsZ2hoSG9LM25QVHBTd25oTFlsTzF1bTJ1NUM1ek0zWGlwWVZwVloxUjEwbFNJeHZxZUJua2x0SEVoSE5r?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 05:48:00 GMT",
+   "published": "Fri, 28 Aug 2026 09:44:04 GMT",
    "summary": "China’s record robotic strides show the limits of human speed &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -262,8 +270,16 @@
    "source": "reuters-world",
    "title": "The world’s deadliest glacier disasters",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLThFSTBrVzYxRVFPalBlZzlSelloa19hd3ZJQjdib2hUM2FfbHFMa3VaYTBrbGw1VEg5VHRKRUYzTTF0VENWMmRibVU4Y3AwMVEycV9LYWQ0NnhGVW5OOXF3TnAtTmYxZlV1SlUwX1RINWZNZGc3Ry1VQ2NfamlVUEt6Q2dFTWktSGN4ZC1YcTRrTDZoZkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 10:36:00 GMT",
+   "published": "Thu, 27 Aug 2026 15:58:40 GMT",
    "summary": "The world’s deadliest glacier disasters &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Iceland votes in tight referendum on whether to start EU membership talks",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGtFSVlzUEFyMVhTNThSd2V4a29sUUtlZVdHeC1pc2ZnaWVwVjFGNW5OQjg4MHZNaTNHc29QRXcyT2ZJN29xNDdmQVBQaDRtX0N4N1lJeTc3Q1c0NU5VWldFSkJLSG1yMzBhLVI4cHRrQlVRZlNWVHA4d0NXRVBPLURxd09aNVJWSkpNV3JaUlpXU3Q0VHp0UDgza0M?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 29 Aug 2026 01:02:00 GMT",
+   "summary": "Iceland votes in tight referendum on whether to start EU membership talks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -296,14 +312,6 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVB4M2NDa28tblBTTVZjdGtZb3d5MGtYMURzeDBCYmVqYjRxbzEzOHh3aFpRRUpIdDl2RW5scE5USEIwOWQ4eXZYWmV6dEN2aG9Uc2VfY0dkRTBxb28yYXFqYkhJeFU2aGJxaTdWR1gwVXZNejdXaXZScjdPTlk5NDFFWXlBNW1NQUR4M2pqQVNkNzFXZWxOOVFsQUVLT0EyeHFjNF84Z3lGQzN1X1dNTGtwc3luOThCLUV4eDR5alBwT2F5VmhLeA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 17:52:19 GMT",
    "summary": "Russia says it could strike UK military targets in response to Kyiv's use of British missiles &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzFyYzlRYWJwQ1RBUnBoUHlUdm1tUEN2VndhbkR2Q2hKNjdXN3M1V1B1bGxvczdHOUtwaUp6QkJOMktBMkNhR3JqY0ZYYXR4ckJ6Z1YzVGx1TUVyUEtkSmZKb0JxSGhKaTl3cHI3NERBSXlVcmU2dTR0Y1lLZWFCbEJnUFlxM09xa1FJaDhEWXZJRDE1aW5NQ29uTy12VDMtTURGMzMwREhEWVJXbFVXV1ZnSV9valo1WmMtaWdMU09kdXpqRzluTGgyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 14:00:14 GMT",
-   "summary": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,26 +420,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 10:02:00 GMT",
-   "summary": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Stocks fall while dollar, bond yields rise as Warsh prompts rate hike bets",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1RUYUM0TDhTNURUOVdtU1ZYc0p2YTZQZGhTREUtRkRNWms5UVN5LUVxelJjWVluQVJkQ0UteTAtMng0V2h1Z014d2xQZXBZUDZfSHdSM2ZXdWljRFBJT0lXR1VHVUo3N0djMVJmaHkzaVh4YWJpWlZtSFM3RjJLYUc0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 01:56:00 GMT",
    "summary": "Stocks fall while dollar, bond yields rise as Warsh prompts rate hike bets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Stablecoins not a credible means of payment at scale, BIS chief says",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnRMdWlYZ3VXdTdSS0NWWi04QjVRbkpmSG5STFd1dUgtNl9tUWVkcVVGd0xOMU9oRHdlVnNDa2ZFWHdJSXIzQUpkSmNiZnpDTW5wbktodk52Ukprd3cyMDlfMmRvdlVJVDFNdFFWS2UyTGFjdUVKMWVoVmVlVEZHVHplZjYybHM4Q1NaVXlmcHh3VjBqSVVoZDhpZGdiN2xiRnd4QUFMWnNGZGtzaXhOU1N3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 16:59:30 GMT",
-   "summary": "Stablecoins not a credible means of payment at scale, BIS chief says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,10 +436,26 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Indian shares post weekly loss as Fed jitters, closing auction weigh",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzNGUWpsTjFQNm5KaC1uaUREbEp6dkR1WWlDbktxLVlnUGI0eG1RZ21Nai1wcXNPRndtOHlFR1ZfeTMyR3lFdXYtbzBPR1Nrdi1PTlBDbXAtVHU3S2IyQVdfRG5jSWNFMGFhMXZVa0p3dTVWbkI1REg2WmJScnpOd01DanJVRWlpTkF5ZWw0d09ubUQ3NUxuWUMzc29oNTlaT0Vmc2drR1VnVHVaUzl5aXdkTHJDT21fcWk3VFdsTWhMM1hkTkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 15:51:17 GMT",
-   "summary": "Indian shares post weekly loss as Fed jitters, closing auction weigh &nbsp;&nbsp; Reuters",
+   "title": "Stablecoins not a credible means of payment at scale, BIS chief says",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnRMdWlYZ3VXdTdSS0NWWi04QjVRbkpmSG5STFd1dUgtNl9tUWVkcVVGd0xOMU9oRHdlVnNDa2ZFWHdJSXIzQUpkSmNiZnpDTW5wbktodk52Ukprd3cyMDlfMmRvdlVJVDFNdFFWS2UyTGFjdUVKMWVoVmVlVEZHVHplZjYybHM4Q1NaVXlmcHh3VjBqSVVoZDhpZGdiN2xiRnd4QUFMWnNGZGtzaXhOU1N3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 16:59:30 GMT",
+   "summary": "Stablecoins not a credible means of payment at scale, BIS chief says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 10:02:00 GMT",
+   "summary": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Take Five: Summer's over, buckle up!",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVBSSzE1NlNIemZTN3paUGdCTlVuSTE4TGRvQkFIclpHd1hQR2ZhUDk2a1dBSDFGc3MxRUVMZzBtQW0yMFNDd3dILUNBN0gzTUFxR3FlVmJucGJ3SmwzZVl2WmFiaE5uS2pEdzlZcUFYQ0Z5Nlo4LXdGQ1NmNGpRblRJNVQ4VVRSVk1pNw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 06:28:00 GMT",
+   "summary": "Take Five: Summer's over, buckle up! &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
