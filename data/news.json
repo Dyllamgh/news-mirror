@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T12:05:07Z",
+ "generated_at": "2026-08-29T14:04:37Z",
  "count": 66,
  "items": [
   {
@@ -8,6 +8,14 @@
    "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
    "published": "Sat, 29 Aug 2026 10:12:23 +0000",
    "summary": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+   "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
+   "published": "Sat, 29 Aug 2026 13:52:49 +0000",
+   "summary": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.",
    "full_text": ""
   },
   {
@@ -72,14 +80,6 @@
    "url": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
    "published": "Fri, 28 Aug 2026 19:43:42 +0000",
    "summary": "Trump’s replacement of a military war with a heightened economic one is not expected to alter Iran’s strategy, while further impoverishing its people.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Disaster Experts Say Nepal Glacier Collapse Was Difficult to Predict",
-   "url": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-glacier-collapse.html",
-   "published": "Fri, 28 Aug 2026 11:27:32 +0000",
-   "summary": "Given the challenges in forecasting and detecting such calamities, researchers advised banning construction on floodplains and marking out clear evacuation routes.",
    "full_text": ""
   },
   {
@@ -276,26 +276,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Iran lashes out at US sanctions amid economic toll at home",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 01:34:00 GMT",
-   "summary": "Iran lashes out at US sanctions amid economic toll at home &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWRFTVVLeWNzcWswcTRJV0xyVkRqUkhkY0M4M01xck5KRDlyakVkaVU2Rk1FX2NBM1ZiRFVHUUczS19BbmpjVXBXeWNtOENJbFMyVjNDbGlnZEpHdVl3NEc1aEhJd3Nvem5ybFlacDlCWWQybkhDUVhqOTVHWXhaMjNleFVUZWxJVktnaHRMS2pRWUd1OXctZXRVa08wbTJCTGxSVEFjdDB6eFhfNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 05:01:00 GMT",
-   "summary": "EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzFyYzlRYWJwQ1RBUnBoUHlUdm1tUEN2VndhbkR2Q2hKNjdXN3M1V1B1bGxvczdHOUtwaUp6QkJOMktBMkNhR3JqY0ZYYXR4ckJ6Z1YzVGx1TUVyUEtkSmZKb0JxSGhKaTl3cHI3NERBSXlVcmU2dTR0Y1lLZWFCbEJnUFlxM09xa1FJaDhEWXZJRDE1aW5NQ29uTy12VDMtTURGMzMwREhEWVJXbFVXV1ZnSV9valo1WmMtaWdMU09kdXpqRzluTGgyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 14:00:14 GMT",
-   "summary": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow &nbsp;&nbsp; Reuters",
+   "title": "Russia says it could strike UK military targets in response to Kyiv's use of British missiles",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVB4M2NDa28tblBTTVZjdGtZb3d5MGtYMURzeDBCYmVqYjRxbzEzOHh3aFpRRUpIdDl2RW5scE5USEIwOWQ4eXZYWmV6dEN2aG9Uc2VfY0dkRTBxb28yYXFqYkhJeFU2aGJxaTdWR1gwVXZNejdXaXZScjdPTlk5NDFFWXlBNW1NQUR4M2pqQVNkNzFXZWxOOVFsQUVLT0EyeHFjNF84Z3lGQzN1X1dNTGtwc3luOThCLUV4eDR5alBwT2F5VmhLeA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 27 Aug 2026 17:52:19 GMT",
+   "summary": "Russia says it could strike UK military targets in response to Kyiv's use of British missiles &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -308,10 +292,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "Russian air attacks target Kyiv retailers, ports and industrial sites",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeU1UU1ZVd3p5WHJVdWxEVEVxVWNzQUh4bnBLUGJFRjhSVDFXUUpFT1JCVlU2aXAwT3E5QVFFNnlkamtnRmtKcVkxQmxVZFNvZzdRallja2gwdG9pOHJXdDNPMWxFSUVjaWhSQ056dTJaSkRtNlUxbUNiZE1BblRrdkhvZ2dsUkJSelZ3OG1JQXJYQjNsa0FmT25ZbDMwYXJOeVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 21:33:57 GMT",
-   "summary": "Russian air attacks target Kyiv retailers, ports and industrial sites &nbsp;&nbsp; Reuters",
+   "title": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzFyYzlRYWJwQ1RBUnBoUHlUdm1tUEN2VndhbkR2Q2hKNjdXN3M1V1B1bGxvczdHOUtwaUp6QkJOMktBMkNhR3JqY0ZYYXR4ckJ6Z1YzVGx1TUVyUEtkSmZKb0JxSGhKaTl3cHI3NERBSXlVcmU2dTR0Y1lLZWFCbEJnUFlxM09xa1FJaDhEWXZJRDE1aW5NQ29uTy12VDMtTURGMzMwREhEWVJXbFVXV1ZnSV9valo1WmMtaWdMU09kdXpqRzluTGgyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 14:00:14 GMT",
+   "summary": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWRFTVVLeWNzcWswcTRJV0xyVkRqUkhkY0M4M01xck5KRDlyakVkaVU2Rk1FX2NBM1ZiRFVHUUczS19BbmpjVXBXeWNtOENJbFMyVjNDbGlnZEpHdVl3NEc1aEhJd3Nvem5ybFlacDlCWWQybkhDUVhqOTVHWXhaMjNleFVUZWxJVktnaHRMS2pRWUd1OXctZXRVa08wbTJCTGxSVEFjdDB6eFhfNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 27 Aug 2026 05:01:00 GMT",
+   "summary": "EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Trump renames Lake Ontario as 'Lake America' amid Canada trade war",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDBsNDZLOG1YRlpTLTNmdXpEZkhpTzh4NHB5RGh1MzMtQm8tUGFROC02SXFmN2szQ3VIOW14MFV3aENsQ2JJdTNxTFFGNy1BRDljWkh6NTUxd2piM3NLWXdLR3JKQ2RLWVkwU3dzRlV1ME9DS1JPSGNFblppeG05Nl9jdDV5LUI1RWdET3VBUzB1eUdCM0F3RXoySQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 27 Aug 2026 17:31:00 GMT",
+   "summary": "Trump renames Lake Ontario as 'Lake America' amid Canada trade war &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,14 +340,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "Chevron to complete deal in Venezuela to migrate, expand oil projects, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjVMaGVWd1ZWUVUzYU15cjREcHFta0RvNVpwYlFoZXNhUlhyUndZdUU2Tk9UQXFET0JyLWE2Qi0yR1AtYVp2ZEQ3QlJKWTZSNjZGSmd0S2NCV09DdnY4WTBEaU5MczZ3aWpyZUFXYlI1Q3FKdURvUzEzeFFJWDQ2ckh2Nm11RDROVWI0Y0E3SXhHZGhudmhMbWNCWl9qcWlQYTE0Y2RqWWRrcGVPa1BVaTZobVp1c1FLNk95Y3J3MUo?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 21:13:43 GMT",
-   "summary": "Chevron to complete deal in Venezuela to migrate, expand oil projects, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXN5LXFjdWNZZ3hkbjdDc05kYTI2VEY5WkJtM1ptall5VFZWSU5hS2o2MUlDUFRVY0Y5NndMX1RWWVBFQnJtLXU2UFlDa0pDNzE1ZlRZOUpqVkxrLVg5SThqeTdjNkRwUnNtdnNzbTA5WEpUN19oYVJ3NjlFRl81bHFHT1NRSUpjcFhkS1lKSVlKTGFHMjdFbnZ2RGc1bTg0d0luRVVzclB0UDRqUUx3Vi10TWQtTnY1Y2ZfUWtSMDZhdjZf?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 17:12:51 GMT",
@@ -356,10 +348,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Iran war drives US transport fuel surcharges, but also industry profits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEl5QXd2UEpMZlNEOGszSng5WEotaDlSVG1qMXIxXzFNdDZiMFMxTnUxM0tIX2hYeXVkWVhYUUJMZF9PY3lSNXFVOC03TnF6dmstYzFVdFlwdWZZdVFqQ0tqS2VtSm5UU2p5bnhtQ2xPdnFhcWVmbTFpLU0zR0g5c0l4LTVMWHZFaXI2ME85a255SjdQMjRXSzloU2w1UFd5YWFPam5OOVRFanNqSEhvWVQ0cmFlUDFhWFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 10:32:30 GMT",
-   "summary": "Iran war drives US transport fuel surcharges, but also industry profits &nbsp;&nbsp; Reuters",
+   "title": "Trump says US is taking partial control of Venezuela's vast oil reserves",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDBRX1E5WWItYWoycXJDSUZhMWJaZUthYmJUcTFqcTA3MGJLZnVPS1dQcWZyeW1FbW9wYnRBNS1OSlVyM0VXN3BIV01IVl8tMmdjQzByaGxIcmVQSnRDSjRiTXdtdEkza1hkdDJQcGNzYXY4OGkzOGZpS1pFMUtyaVFXenBXalpHUTNnZGhZUl92bklLcUg5OVhVMWkzaWxvYWN6S05oN0w3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 22:55:00 GMT",
+   "summary": "Trump says US is taking partial control of Venezuela's vast oil reserves &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Chevron to complete deal in Venezuela to migrate, expand oil projects, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjVMaGVWd1ZWUVUzYU15cjREcHFta0RvNVpwYlFoZXNhUlhyUndZdUU2Tk9UQXFET0JyLWE2Qi0yR1AtYVp2ZEQ3QlJKWTZSNjZGSmd0S2NCV09DdnY4WTBEaU5MczZ3aWpyZUFXYlI1Q3FKdURvUzEzeFFJWDQ2ckh2Nm11RDROVWI0Y0E3SXhHZGhudmhMbWNCWl9qcWlQYTE0Y2RqWWRrcGVPa1BVaTZobVp1c1FLNk95Y3J3MUo?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 21:13:43 GMT",
+   "summary": "Chevron to complete deal in Venezuela to migrate, expand oil projects, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,10 +372,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "US weighs a new round of tariffs on semiconductors, Politico reports",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjhTUnRyakVvbHNuOEoxd0xfeVlyZUFNbXJvU2Y2M3lTdTdZSDNLRURQTmF1Tl9VSWpFRjNFVk5ubmhrbTV0TWI2XzJINEk4MDdUR1cxbGgzcFB5MUNFc01FaTRPYm1oZ3FuRVRaay1RQmc1OGt0ZTV5SFEwbFl1UlF5amhqc3NjX2h6d3prdmxJV3k5QzVScl9qeXBISElzU2NQdndaaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 14:28:26 GMT",
-   "summary": "US weighs a new round of tariffs on semiconductors, Politico reports &nbsp;&nbsp; Reuters",
+   "title": "German industry presses Merz for tougher China policy",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2hISF94TEZGRzNlMGV1NjA4NjBVU2hWMm5JZGJHOHBtSUxFME9uZEE3TUQwTDRHS1lrd3lRdGRQS1NrSGJSTWdZek8zbkw2a25rMFFFYWJENnBBTV9MTWZ4TUhtTjJfZHZCTW1LMW9NTi12bHRuMVp0d2dGVHM1TTBrUjJYUXVFcnVvb0RMUEsyX1V3SlZvb2tvd3NuWWtaa0NsQjNkNmM0em1sUVdMWUZ1THBOUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 05:03:00 GMT",
+   "summary": "German industry presses Merz for tougher China policy &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,10 +388,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "German industry presses Merz for tougher China policy",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2hISF94TEZGRzNlMGV1NjA4NjBVU2hWMm5JZGJHOHBtSUxFME9uZEE3TUQwTDRHS1lrd3lRdGRQS1NrSGJSTWdZek8zbkw2a25rMFFFYWJENnBBTV9MTWZ4TUhtTjJfZHZCTW1LMW9NTi12bHRuMVp0d2dGVHM1TTBrUjJYUXVFcnVvb0RMUEsyX1V3SlZvb2tvd3NuWWtaa0NsQjNkNmM0em1sUVdMWUZ1THBOUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 05:03:00 GMT",
-   "summary": "German industry presses Merz for tougher China policy &nbsp;&nbsp; Reuters",
+   "title": "Walmart settles US government's opioid lawsuit, which sought billions, for $50 million",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFRMTXpLZi02MkN6akFHWTVEZzl6RHpDRVc3S1JGbEFQS0JWSDV3dEp4WVYtT3NEczZSU3RLMWtpMUZzSktKT09xT1g3R2JyOFdQTzFXbTJGUjFhRDBRYUV0OXYwU2lXc1h2X3ZmSk0tQmhSdUhWYW9YV0NLU1d2cG1reGVDdFN0eGQtc1BJQVM3T1NWeHZNOTFfSGRwSWh1aEtuNkh5enM2dUUzRGJyeg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 22:29:32 GMT",
+   "summary": "Walmart settles US government's opioid lawsuit, which sought billions, for $50 million &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,10 +412,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlBkMDNVSkFLeW5ydV9lUnJVdDlNRjlQcTZzdTVFTTQ0X1RZWEc4MlFhLVdmLUZfWXlVMW4zNXhENHZkTEE2WU84ZTZ3V0kycE9wZ2dTQWNqZm4taEZlUGlBbEotT0pZbnFMVlM2aE0xdjZXbzJ3c0psWi1vdFNqZHZodk5TOVZHVXpYcXdKTzhhZkdQbzV4VUdRQkxkUXBPaVo2SjlJTGl6eGZMTTJ4TC1QZjZKUXdZanI1NlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 21:25:44 GMT",
-   "summary": "Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules &nbsp;&nbsp; Reuters",
+   "title": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 10:02:00 GMT",
+   "summary": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -436,14 +436,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 10:02:00 GMT",
-   "summary": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Dollar jumps after Warsh comments, set for weekly gain",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRZaFZxX1ZxcFJfZUs5OTl0c3lTVDJDWm55NWlHVG9CUmloOU9DWF91QXV1MGxVbTlGSTM2Zmp5MHlyUkJ4YjBiRHVMZGZLemlRcTV4N1ZiZ2Y1V0ZYelpGd3lROUNQSXYxNGFMYWoyWVFVMDQtWmt0RDgyemVtNm5lTDlXUVI4WGxzRWVxbmEtMXptWC02dWllNF9wRFR0anFYbG55TFhXVjRGSlRuQ0xJNFNvMXVDaVdMd09hdGg3VFpsMFE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 02:36:00 GMT",
@@ -454,8 +446,16 @@
    "source": "reuters-markets",
    "title": "Indian shares post weekly loss as Fed jitters, closing auction weigh",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzNGUWpsTjFQNm5KaC1uaUREbEp6dkR1WWlDbktxLVlnUGI0eG1RZ21Nai1wcXNPRndtOHlFR1ZfeTMyR3lFdXYtbzBPR1Nrdi1PTlBDbXAtVHU3S2IyQVdfRG5jSWNFMGFhMXZVa0p3dTVWbkI1REg2WmJScnpOd01DanJVRWlpTkF5ZWw0d09ubUQ3NUxuWUMzc29oNTlaT0Vmc2drR1VnVHVaUzl5aXdkTHJDT21fcWk3VFdsTWhMM1hkTkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 02:37:00 GMT",
+   "published": "Fri, 28 Aug 2026 15:51:17 GMT",
    "summary": "Indian shares post weekly loss as Fed jitters, closing auction weigh &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlBkMDNVSkFLeW5ydV9lUnJVdDlNRjlQcTZzdTVFTTQ0X1RZWEc4MlFhLVdmLUZfWXlVMW4zNXhENHZkTEE2WU84ZTZ3V0kycE9wZ2dTQWNqZm4taEZlUGlBbEotT0pZbnFMVlM2aE0xdjZXbzJ3c0psWi1vdFNqZHZodk5TOVZHVXpYcXdKTzhhZkdQbzV4VUdRQkxkUXBPaVo2SjlJTGl6eGZMTTJ4TC1QZjZKUXdZanI1NlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 21:25:44 GMT",
+   "summary": "Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -492,6 +492,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Taiwan prosecutors search Unimicron in suspected China fraud case",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb0YzamJ1SXlRdnljNkhyOWFlT3MxVWVod3pNdW1JUnE1NzNxSHB1QnZYVGNjNmRPVVlQSXluM2FCcXNfLXd1ZHBOZHhwdHdVU3hyTXh4V0U2NVFnbzd3eDRLZVBpZWh5aXUtTnhXck15S2g1a3dWM1dCQTFPaGFSUV9XZFpQUFNHOHhWZjVMZHltV01oUlNjRkdtSGpVR3k4TXF1RHFJWlZjRXZQcWJGcmNVVUhaQlpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 29 Aug 2026 02:05:00 GMT",
+   "summary": "Taiwan prosecutors search Unimicron in suspected China fraud case &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Shares dip with pressure from technology, yields and oil fall",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 21:49:46 GMT",
@@ -520,14 +528,6 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOUQtaFY4ZDZCci01cE11M3V4MHk2YXlVMEQ4Y2pueWtlbzlveEV4cmpJMlM2WWtrWmlzWG14Mnd1aVRXaW9BaHloMXlHMi1zUEFqZGliZVdybjBxNGxXM3d3b0lTM2g0ZDZYNHZMNGZEVkswQUFGZkdXUHo5NC1rUEE2dnh1anFSM3hlOXNIZTQ5WS0tdjU5anQ2OV9nbm9jQXhlZTNfcmNlZmIwNF9zcHJ3TzRIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 07:58:14 GMT",
    "summary": "Deutsche Bank cites progress in technology revamp at retail division &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1NWcXYyNEtyV1V5OHpSX3p1SUxvQmJHX0JYQVF6R2JBZkhJMmdpU3N6cDdQMkF5VFBuSlhRaGQ2LVM3VlYtTzBVTjlHZXFtRHZZZlA0ZEdTT2V4NWVReHZGNVpCV2VXMEhnZm91djRGYnJqWGlYMkh3UHVsMDUtRjNzWm0tVlg0TW1jVTZudVRlck1qSUV2SGR2NjNNczZUZURKMUJLZGlDZUZuM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 26 Aug 2026 15:44:18 GMT",
-   "summary": "China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
