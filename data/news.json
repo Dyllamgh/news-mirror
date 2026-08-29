@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-29T14:04:37Z",
- "count": 66,
+ "generated_at": "2026-08-29T16:05:14Z",
+ "count": 65,
  "items": [
   {
    "source": "nyt-world",
-   "title": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
+   "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
    "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
-   "published": "Sat, 29 Aug 2026 10:12:23 +0000",
+   "published": "Sat, 29 Aug 2026 16:00:39 +0000",
    "summary": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
    "full_text": ""
   },
@@ -14,7 +14,7 @@
    "source": "nyt-world",
    "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
    "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
-   "published": "Sat, 29 Aug 2026 13:52:49 +0000",
+   "published": "Sat, 29 Aug 2026 14:40:22 +0000",
    "summary": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.",
    "full_text": ""
   },
@@ -62,7 +62,7 @@
    "source": "nyt-world",
    "title": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
    "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
-   "published": "Sat, 29 Aug 2026 07:09:16 +0000",
+   "published": "Sat, 29 Aug 2026 15:32:21 +0000",
    "summary": "A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.",
    "full_text": ""
   },
@@ -80,6 +80,14 @@
    "url": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
    "published": "Fri, 28 Aug 2026 19:43:42 +0000",
    "summary": "Trump’s replacement of a military war with a heightened economic one is not expected to alter Iran’s strategy, while further impoverishing its people.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Teleprompter Operator Who Bet on Trump Speeches Is Ordered to Pay Fine",
+   "url": "https://www.nytimes.com/2026/08/29/us/politics/teleprompter-trump-speech-kalshi-perez-bet.html",
+   "published": "Sat, 29 Aug 2026 14:57:13 +0000",
+   "summary": "Gabriel Perez had access to the president’s speeches before they were delivered and was accused of placing unlawful wagers on words that would be spoken.",
    "full_text": ""
   },
   {
@@ -110,7 +118,7 @@
    "source": "nyt-business",
    "title": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
    "url": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
-   "published": "Sat, 29 Aug 2026 09:02:33 +0000",
+   "published": "Sat, 29 Aug 2026 14:54:48 +0000",
    "summary": "To win in 2024, the president promised an economic course correction. Almost two years later, his agenda has made that fight even harder.",
    "full_text": ""
   },
@@ -132,9 +140,9 @@
   },
   {
    "source": "nyt-business",
-   "title": "Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil",
+   "title": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
    "url": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
-   "published": "Sat, 29 Aug 2026 02:23:47 +0000",
+   "published": "Sat, 29 Aug 2026 14:30:17 +0000",
    "summary": "The president said an agreement between the countries covered more than 65 billion barrels of reserves. A U.S. official said it would involve a partnership with a private company.",
    "full_text": ""
   },
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html",
    "published": "Fri, 28 Aug 2026 21:30:58 +0000",
    "summary": "President Trump’s administration has been pushing U.S. companies like Chevron to invest more in Venezuela’s oil industry.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Trump Updates $15 Billion Libel Lawsuit Against The New York Times",
-   "url": "https://www.nytimes.com/2026/08/28/business/media/trump-new-york-times-lawsuit.html",
-   "published": "Fri, 28 Aug 2026 18:11:04 +0000",
-   "summary": "The president has argued that the news organization sought to undermine his 2024 presidential campaign by disparaging his reputation as a businessman. The Times has moved to dismiss the lawsuit.",
    "full_text": ""
   },
   {
@@ -206,7 +206,7 @@
    "source": "nyt-technology",
    "title": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
    "url": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
-   "published": "Sat, 29 Aug 2026 09:00:16 +0000",
+   "published": "Sat, 29 Aug 2026 15:31:44 +0000",
    "summary": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
    "full_text": ""
   },
@@ -262,7 +262,7 @@
    "source": "reuters-world",
    "title": "The world’s deadliest glacier disasters",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLThFSTBrVzYxRVFPalBlZzlSelloa19hd3ZJQjdib2hUM2FfbHFMa3VaYTBrbGw1VEg5VHRKRUYzTTF0VENWMmRibVU4Y3AwMVEycV9LYWQ0NnhGVW5OOXF3TnAtTmYxZlV1SlUwX1RINWZNZGc3Ry1VQ2NfamlVUEt6Q2dFTWktSGN4ZC1YcTRrTDZoZkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 10:36:00 GMT",
+   "published": "Thu, 27 Aug 2026 15:58:40 GMT",
    "summary": "The world’s deadliest glacier disasters &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -310,7 +310,7 @@
    "source": "reuters-world",
    "title": "Trump renames Lake Ontario as 'Lake America' amid Canada trade war",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDBsNDZLOG1YRlpTLTNmdXpEZkhpTzh4NHB5RGh1MzMtQm8tUGFROC02SXFmN2szQ3VIOW14MFV3aENsQ2JJdTNxTFFGNy1BRDljWkh6NTUxd2piM3NLWXdLR3JKQ2RLWVkwU3dzRlV1ME9DS1JPSGNFblppeG05Nl9jdDV5LUI1RWdET3VBUzB1eUdCM0F3RXoySQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 17:31:00 GMT",
+   "published": "Thu, 27 Aug 2026 22:09:51 GMT",
    "summary": "Trump renames Lake Ontario as 'Lake America' amid Canada trade war &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -340,18 +340,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXN5LXFjdWNZZ3hkbjdDc05kYTI2VEY5WkJtM1ptall5VFZWSU5hS2o2MUlDUFRVY0Y5NndMX1RWWVBFQnJtLXU2UFlDa0pDNzE1ZlRZOUpqVkxrLVg5SThqeTdjNkRwUnNtdnNzbTA5WEpUN19oYVJ3NjlFRl81bHFHT1NRSUpjcFhkS1lKSVlKTGFHMjdFbnZ2RGc1bTg0d0luRVVzclB0UDRqUUx3Vi10TWQtTnY1Y2ZfUWtSMDZhdjZf?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 17:12:51 GMT",
-   "summary": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Trump says US is taking partial control of Venezuela's vast oil reserves",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDBRX1E5WWItYWoycXJDSUZhMWJaZUthYmJUcTFqcTA3MGJLZnVPS1dQcWZyeW1FbW9wYnRBNS1OSlVyM0VXN3BIV01IVl8tMmdjQzByaGxIcmVQSnRDSjRiTXdtdEkza1hkdDJQcGNzYXY4OGkzOGZpS1pFMUtyaVFXenBXalpHUTNnZGhZUl92bklLcUg5OVhVMWkzaWxvYWN6S05oN0w3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 22:55:00 GMT",
    "summary": "Trump says US is taking partial control of Venezuela's vast oil reserves &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXN5LXFjdWNZZ3hkbjdDc05kYTI2VEY5WkJtM1ptall5VFZWSU5hS2o2MUlDUFRVY0Y5NndMX1RWWVBFQnJtLXU2UFlDa0pDNzE1ZlRZOUpqVkxrLVg5SThqeTdjNkRwUnNtdnNzbTA5WEpUN19oYVJ3NjlFRl81bHFHT1NRSUpjcFhkS1lKSVlKTGFHMjdFbnZ2RGc1bTg0d0luRVVzclB0UDRqUUx3Vi10TWQtTnY1Y2ZfUWtSMDZhdjZf?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 17:12:51 GMT",
+   "summary": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -366,7 +366,7 @@
    "source": "reuters-business",
    "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 00:45:00 GMT",
+   "published": "Thu, 27 Aug 2026 03:15:38 GMT",
    "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -416,14 +416,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 10:02:00 GMT",
    "summary": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: Morning Bid: Six months and counting",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFlTYWIzVk1oYkN0YnlyRS1Kcm1kTWxZcHFDcDcxNTNXU0tHZ25mZzNSWXp5VnNPTjZ6UTQzTjhZamx5clJEQ1FVSnR3MHo3ejJkN0JZVlZqWENaOEV0SlZPNGVlekg5ZW90Um5wN25BemljRGxoXzFIZ1hpSTNIX1lPZTVNYmpXMFZhTENwTUxDRzhKV3Bj?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 10:35:24 GMT",
-   "summary": "COMMENTARY: Morning Bid: Six months and counting &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
