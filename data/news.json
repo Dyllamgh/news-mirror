@@ -1,13 +1,37 @@
 {
- "generated_at": "2026-08-29T08:04:52Z",
+ "generated_at": "2026-08-29T10:04:44Z",
  "count": 66,
  "items": [
   {
    "source": "nyt-world",
-   "title": "Live Updates: Scale of Flood Disaster Grows as Nepal Says 2,400 Are Missing",
-   "url": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
-   "published": "Sat, 29 Aug 2026 07:28:37 +0000",
-   "summary": "More than 550 were still missing in China, and rescue efforts in both countries were complicated by fears of new flooding in the steep Himalayan valleys.",
+   "title": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
+   "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+   "published": "Sat, 29 Aug 2026 09:04:16 +0000",
+   "summary": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
+   "url": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
+   "published": "Sat, 29 Aug 2026 09:03:29 +0000",
+   "summary": "The U.S.-Canada trade war has galvanized Canadians behind their prime minister’s decision to walk away from negotiations. What happens when the time comes for talks to restart?",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Icelanders Are Voting on E.U. Membership Talks. Here’s What to Know.",
+   "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
+   "published": "Sat, 29 Aug 2026 04:01:14 +0000",
+   "summary": "The Nordic nation is holding a referendum on Saturday on whether to start membership talks with the European Union. Voters are divided.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Modi Is Hedging Against Trump, One Deal at a Time",
+   "url": "https://www.nytimes.com/2026/08/29/world/asia/modi-india-deals-trump.html",
+   "published": "Sat, 29 Aug 2026 04:01:07 +0000",
+   "summary": "In a year of globe-trotting, the Indian prime minister has secured deals around the world as the United States becomes less dependable.",
    "full_text": ""
   },
   {
@@ -16,6 +40,14 @@
    "url": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
    "published": "Fri, 28 Aug 2026 16:56:53 +0000",
    "summary": "The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
+   "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
+   "published": "Sat, 29 Aug 2026 07:09:16 +0000",
+   "summary": "A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.",
    "full_text": ""
   },
   {
@@ -51,35 +83,35 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Why Putin Is Fighting On, Even as His Problems Multiply",
-   "url": "https://www.nytimes.com/2026/08/28/world/europe/russia-ukraine-war-putin.html",
-   "published": "Fri, 28 Aug 2026 21:22:41 +0000",
-   "summary": "There is little sign that public exhaustion, economic headwinds or increased Ukrainian strikes are changing the Russian leader’s view that he will eventually achieve victory.",
+   "source": "nyt-business",
+   "title": "As Deadly Flash Flooding Batters Nepal, Some Fear ‘the Entire Himalayas Are Melting’",
+   "url": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
+   "published": "Sat, 29 Aug 2026 09:04:15 +0000",
+   "summary": "A glacier unleashed a deadly flood earlier this week. For local trekking guides and climbers, the mountains were already changing.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Who Is Haakon, Norway’s New King?",
-   "url": "https://www.nytimes.com/2026/08/28/world/europe/norway-new-king-haakon.html",
-   "published": "Fri, 28 Aug 2026 19:44:47 +0000",
-   "summary": "Crown Prince Haakon, the only son of King Harald V, will become monarch, a largely ceremonial and symbolic role.",
+   "source": "nyt-business",
+   "title": "Catastrophic Flood Exposes the Risks of Nepal’s Hydropower Bet",
+   "url": "https://www.nytimes.com/2026/08/29/business/nepal-hydropower-flood.html",
+   "published": "Sat, 29 Aug 2026 09:23:10 +0000",
+   "summary": "The loss of power-generating capacity has raised questions about an ambitious expansion of renewable energy in one of the world’s most hazard-prone mountain regions.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
-   "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
-   "published": "Fri, 28 Aug 2026 15:08:23 +0000",
-   "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+   "source": "nyt-business",
+   "title": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
+   "url": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
+   "published": "Sat, 29 Aug 2026 09:02:33 +0000",
+   "summary": "To win in 2024, the president promised an economic course correction. Almost two years later, his agenda has made that fight even harder.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "You Can Photograph This Pretty Irish Castle. You Just Can’t Go In.",
-   "url": "https://www.nytimes.com/2026/08/28/world/europe/ireland-dunguaire-castle.html",
-   "published": "Fri, 28 Aug 2026 11:04:42 +0000",
-   "summary": "Tourists still flock to the picturesque 16th-century Dunguaire Castle on Galway Bay. But in recent years, a dispute over ownership has prevented visitors from entering.",
+   "source": "nyt-business",
+   "title": "“The Invisible Hand of Maria Edgeworth”: An Economist, Erased",
+   "url": "https://www.nytimes.com/2026/08/29/business/she-popularized-economics-then-she-was-erased-from-history-why.html",
+   "published": "Sat, 29 Aug 2026 09:02:29 +0000",
+   "summary": "Maria Edgeworth sneaked economic theory into her best-selling novels. Two centuries later, a new book finally gives her the credit she deserves.",
    "full_text": ""
   },
   {
@@ -131,38 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "China Sees Opportunity in America’s Recent A.I. Security Scares",
-   "url": "https://www.nytimes.com/2026/08/28/business/china-artificial-intelligence-zai.html",
-   "published": "Fri, 28 Aug 2026 18:05:44 +0000",
-   "summary": "A leading Chinese A.I. start-up released its latest model and made the case that China’s embrace of open software is safer than Silicon Valley’s closed approach.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Smaller Revision Points to More Accurate Jobs Numbers",
-   "url": "https://www.nytimes.com/2026/08/28/business/economy/jobs-labor-numbers.html",
-   "published": "Fri, 28 Aug 2026 16:21:55 +0000",
-   "summary": "The 2026 revisions by the Bureau of Labor Statistics represent a downward adjustment of just 0.1 percent of the total work force.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Companies Can Tell Investors Less Under Proposed S.E.C. Rules",
-   "url": "https://www.nytimes.com/2026/08/28/business/economy/sec-quarterly-reporting.html",
-   "published": "Fri, 28 Aug 2026 14:39:25 +0000",
-   "summary": "Fewer audit and disclosure requirements could reduce costs, but experts say they could also help disguise fraud or financial stress.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
-   "url": "https://www.nytimes.com/2026/08/28/business/fed-kevin-warsh-speech-inflation.html",
-   "published": "Fri, 28 Aug 2026 19:11:23 +0000",
-   "summary": "In a high-profile speech, Kevin M. Warsh said the Federal Reserve was chiefly responsible for taming inflation. If price increases do not return to the central bank’s target quickly, “we have work to do,” he said.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
    "url": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
@@ -196,6 +196,22 @@
   },
   {
    "source": "nyt-technology",
+   "title": "How Meta’s $17.1 Billion Social Media Settlement Came Together",
+   "url": "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html",
+   "published": "Sat, 29 Aug 2026 09:02:44 +0000",
+   "summary": "State attorneys general spent months in negotiations. Then, as its legal losses mounted, the social media giant’s new top lawyer brought a huge settlement to the table.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
+   "url": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+   "published": "Sat, 29 Aug 2026 09:00:16 +0000",
+   "summary": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Social Media and the Myth of the Big Tobacco Moment",
    "url": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
    "published": "Fri, 28 Aug 2026 18:52:04 +0000",
@@ -219,22 +235,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules",
-   "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-   "published": "Fri, 28 Aug 2026 02:28:13 +0000",
-   "summary": "The government retaliated against the A.I. start-up “for constitutionally protected expressive activities,” a federal judge in California wrote.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "What Meta’s $17 Billion Settlement Means",
-   "url": "https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html",
-   "published": "Fri, 28 Aug 2026 16:06:48 +0000",
-   "summary": "Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "Ugandan King Oyo Nyimba, once world's youngest monarch, dies at 34",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWhTek5LX1pzampoMXpSNFQ5NzhUM0VUN0pkSDlxX3M0b0drM3h3ZHBSbzE0Slh4Wk15aFphRkFJV0pmLVExNElKOFo2ajhIcHoyRXR0V0pCcW1zMmVCMTdMazFIMTg5QjF1SVRrY2FvNU9KWElsQUNtWDNwVDZYbldYcUlfX3NMUWJkV190WjNLUEJFUzYyalNuc1VUM2RVZ0RLSDg2aWRPemgtaEE?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -254,7 +254,7 @@
    "source": "reuters-world",
    "title": "China’s record robotic strides show the limits of human speed",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNURxNldrZFI4VWJWMEQ1bGhaVEVNZk9ObXpXaC01dHFNTm5INFFhOHlxSTZmNXpTdGw4ZF9SNWdvaGsyYTJFNXBhMmtqbGNKMHp1cFlpQXZrYUxBV1RhRWdJV0ZVbzJXWkxycjZHdEtsZ2hoSG9LM25QVHBTd25oTFlsTzF1bTJ1NUM1ek0zWGlwWVZwVloxUjEwbFNJeHZxZUJua2x0SEVoSE5r?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 05:48:00 GMT",
+   "published": "Fri, 28 Aug 2026 08:06:17 GMT",
    "summary": "China’s record robotic strides show the limits of human speed &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -276,6 +276,22 @@
   },
   {
    "source": "reuters-world",
+   "title": "Iran lashes out at US sanctions amid economic toll at home",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 01:34:00 GMT",
+   "summary": "Iran lashes out at US sanctions amid economic toll at home &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzFyYzlRYWJwQ1RBUnBoUHlUdm1tUEN2VndhbkR2Q2hKNjdXN3M1V1B1bGxvczdHOUtwaUp6QkJOMktBMkNhR3JqY0ZYYXR4ckJ6Z1YzVGx1TUVyUEtkSmZKb0JxSGhKaTl3cHI3NERBSXlVcmU2dTR0Y1lLZWFCbEJnUFlxM09xa1FJaDhEWXZJRDE1aW5NQ29uTy12VDMtTURGMzMwREhEWVJXbFVXV1ZnSV9valo1WmMtaWdMU09kdXpqRzluTGgyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 14:00:14 GMT",
+   "summary": "Canadian economy recovers sharply in second quarter as domestic demand revives, exports grow &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWRFTVVLeWNzcWswcTRJV0xyVkRqUkhkY0M4M01xck5KRDlyakVkaVU2Rk1FX2NBM1ZiRFVHUUczS19BbmpjVXBXeWNtOENJbFMyVjNDbGlnZEpHdVl3NEc1aEhJd3Nvem5ybFlacDlCWWQybkhDUVhqOTVHWXhaMjNleFVUZWxJVktnaHRMS2pRWUd1OXctZXRVa08wbTJCTGxSVEFjdDB6eFhfNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 05:01:00 GMT",
@@ -284,26 +300,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "On islands key to Taiwan's defense, troops prepare for a Chinese first strike",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnFNSnVETUJac21zMjRFWkpDWElQNUl4WTFlNEw3NGdseUgwRk9oV21IMzB2Y1dORS0tRUwzTERsT3Y2a1ZjbEFubUt5V25qSjJiVGNzWDNNV2xCVWJRRDJYTDluX2s3NUVBOXV6bDg2MjZFeXZyZjFab3JHWVNOOWdVSjFTZC1ySVVoaUdPZWNJQTZBZ0JPMHZnX29BTmw2VXVmZjlOYlZYdl9KcTl1bVlB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 06:00:00 GMT",
-   "summary": "On islands key to Taiwan's defense, troops prepare for a Chinese first strike &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 11:34:20 GMT",
    "summary": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Trump renames Lake Ontario as 'Lake America' amid Canada trade war",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDBsNDZLOG1YRlpTLTNmdXpEZkhpTzh4NHB5RGh1MzMtQm8tUGFROC02SXFmN2szQ3VIOW14MFV3aENsQ2JJdTNxTFFGNy1BRDljWkh6NTUxd2piM3NLWXdLR3JKQ2RLWVkwU3dzRlV1ME9DS1JPSGNFblppeG05Nl9jdDV5LUI1RWdET3VBUzB1eUdCM0F3RXoySQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 17:31:00 GMT",
-   "summary": "Trump renames Lake Ontario as 'Lake America' amid Canada trade war &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,14 +332,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "Iran war drives US transport fuel surcharges, but also industry profits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEl5QXd2UEpMZlNEOGszSng5WEotaDlSVG1qMXIxXzFNdDZiMFMxTnUxM0tIX2hYeXVkWVhYUUJMZF9PY3lSNXFVOC03TnF6dmstYzFVdFlwdWZZdVFqQ0tqS2VtSm5UU2p5bnhtQ2xPdnFhcWVmbTFpLU0zR0g5c0l4LTVMWHZFaXI2ME85a255SjdQMjRXSzloU2w1UFd5YWFPam5OOVRFanNqSEhvWVQ0cmFlUDFhWFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 10:32:30 GMT",
-   "summary": "Iran war drives US transport fuel surcharges, but also industry profits &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "VIEW Rate-hike expectations rise on Warsh speech at Jackson Hole",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXBjd0lNNVhFZmdaUnNSRFVwa2F5X21TQmdickV5MmNQSjFtX2VjRHpPVzlYVWF2UWJieDY5RjFITTAxd2dOV2JQR0JZMXF6cVNFdmJER09lZHJ5TnBsN2YxMkZWM0ZVUnZ3YmNOdzIzYmV3WV9NU1VKZ2VCaldGVm1sX190VUVXTjMxOXdXa2RxZ0QwQmIxRHNHSjgxZEtzVjdTSG5R?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 16:58:20 GMT",
@@ -348,10 +340,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Boeing, union negotiators to meet Monday to resume stalled contract negotiations",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOelR2UjlOWXZYNkc3aEQtRW9VRHBZakxNTkhWNzJXaGI2akQyRjcxSlZfdURGbjl3Mko5Ykt3bjd2V0k2WUlsS2RBMUtkSmlnemNCQVBBbGhrRW1qekYybDVKM3JDLVQ5a3RQMFJKZnJ5TTBEbnJCcThNcVRZeWw3X1ZqcWJDUGtFeEFFMzZrTmRraE5PbjJTZ25ISzhYbnEwLU51TGVCdDdLZGFhN3JoSnZIc0V3OGI5WlNxVVc2cy1Md3JPMWdWZEJzZXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 19:15:21 GMT",
-   "summary": "Boeing, union negotiators to meet Monday to resume stalled contract negotiations &nbsp;&nbsp; Reuters",
+   "title": "Iran war drives US transport fuel surcharges, but also industry profits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEl5QXd2UEpMZlNEOGszSng5WEotaDlSVG1qMXIxXzFNdDZiMFMxTnUxM0tIX2hYeXVkWVhYUUJMZF9PY3lSNXFVOC03TnF6dmstYzFVdFlwdWZZdVFqQ0tqS2VtSm5UU2p5bnhtQ2xPdnFhcWVmbTFpLU0zR0g5c0l4LTVMWHZFaXI2ME85a255SjdQMjRXSzloU2w1UFd5YWFPam5OOVRFanNqSEhvWVQ0cmFlUDFhWFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 10:32:30 GMT",
+   "summary": "Iran war drives US transport fuel surcharges, but also industry profits &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Chevron to complete deal in Venezuela to migrate, expand oil projects, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjVMaGVWd1ZWUVUzYU15cjREcHFta0RvNVpwYlFoZXNhUlhyUndZdUU2Tk9UQXFET0JyLWE2Qi0yR1AtYVp2ZEQ3QlJKWTZSNjZGSmd0S2NCV09DdnY4WTBEaU5MczZ3aWpyZUFXYlI1Q3FKdURvUzEzeFFJWDQ2ckh2Nm11RDROVWI0Y0E3SXhHZGhudmhMbWNCWl9qcWlQYTE0Y2RqWWRrcGVPa1BVaTZobVp1c1FLNk95Y3J3MUo?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 21:13:43 GMT",
+   "summary": "Chevron to complete deal in Venezuela to migrate, expand oil projects, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,18 +364,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Stablecoins not a credible means of payment at scale, BIS chief says",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnRMdWlYZ3VXdTdSS0NWWi04QjVRbkpmSG5STFd1dUgtNl9tUWVkcVVGd0xOMU9oRHdlVnNDa2ZFWHdJSXIzQUpkSmNiZnpDTW5wbktodk52Ukprd3cyMDlfMmRvdlVJVDFNdFFWS2UyTGFjdUVKMWVoVmVlVEZHVHplZjYybHM4Q1NaVXlmcHh3VjBqSVVoZDhpZGdiN2xiRnd4QUFMWnNGZGtzaXhOU1N3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 16:59:30 GMT",
-   "summary": "Stablecoins not a credible means of payment at scale, BIS chief says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "German industry presses Merz for tougher China policy",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2hISF94TEZGRzNlMGV1NjA4NjBVU2hWMm5JZGJHOHBtSUxFME9uZEE3TUQwTDRHS1lrd3lRdGRQS1NrSGJSTWdZek8zbkw2a25rMFFFYWJENnBBTV9MTWZ4TUhtTjJfZHZCTW1LMW9NTi12bHRuMVp0d2dGVHM1TTBrUjJYUXVFcnVvb0RMUEsyX1V3SlZvb2tvd3NuWWtaa0NsQjNkNmM0em1sUVdMWUZ1THBOUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 05:03:00 GMT",
-   "summary": "German industry presses Merz for tougher China policy &nbsp;&nbsp; Reuters",
+   "title": "Boeing, union negotiators to meet Monday to resume stalled contract negotiations",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOelR2UjlOWXZYNkc3aEQtRW9VRHBZakxNTkhWNzJXaGI2akQyRjcxSlZfdURGbjl3Mko5Ykt3bjd2V0k2WUlsS2RBMUtkSmlnemNCQVBBbGhrRW1qekYybDVKM3JDLVQ5a3RQMFJKZnJ5TTBEbnJCcThNcVRZeWw3X1ZqcWJDUGtFeEFFMzZrTmRraE5PbjJTZ25ISzhYbnEwLU51TGVCdDdLZGFhN3JoSnZIc0V3OGI5WlNxVVc2cy1Md3JPMWdWZEJzZXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 19:15:21 GMT",
+   "summary": "Boeing, union negotiators to meet Monday to resume stalled contract negotiations &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -384,6 +376,14 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 00:45:00 GMT",
    "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Stablecoins not a credible means of payment at scale, BIS chief says",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnRMdWlYZ3VXdTdSS0NWWi04QjVRbkpmSG5STFd1dUgtNl9tUWVkcVVGd0xOMU9oRHdlVnNDa2ZFWHdJSXIzQUpkSmNiZnpDTW5wbktodk52Ukprd3cyMDlfMmRvdlVJVDFNdFFWS2UyTGFjdUVKMWVoVmVlVEZHVHplZjYybHM4Q1NaVXlmcHh3VjBqSVVoZDhpZGdiN2xiRnd4QUFMWnNGZGtzaXhOU1N3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 16:59:30 GMT",
+   "summary": "Stablecoins not a credible means of payment at scale, BIS chief says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -420,22 +420,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "India's markets regulator approves Jio Platforms' $3.8 billion IPO",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVpfMXktQU4wUXFHUVhTcnUxWkZWVnlDV1V6aGhFaC1tZ3Z2YnA2VGlDQTQta2NxdGtURTFWY1dpQXZrR1VVWlpxWGZLVW5tbU1qRGNVZmh0Sks5SXhUMXlSeGVZOG54YklIbS1ITTQ2ZnlTUUZzRG05eC1mN2loVENwZFltamRmeEVfTlBoZTFUYzI3NzJqSGRWUENFQ1JOUFhBZ0tyVVpaNDlPUGVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 17:10:34 GMT",
-   "summary": "India's markets regulator approves Jio Platforms' $3.8 billion IPO &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Morning Bid: Warsh heads into Jackson Hole hot seat",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxQm90VXdGYWc0WDM4SndsU0J3UHFIcDllWGxmZlo4VklpYWRxR3NleVdwRjdTMHcwbHE3NE5MZk9KR01FRVl4cU1EdUNHMkxtVTN0QUdwOFE0ZGJsNDJkZnpIT2xHUkkxWE1leEJUQlFqYzRhR2RqdllCYk8zREE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 04:31:00 GMT",
-   "summary": "Morning Bid: Warsh heads into Jackson Hole hot seat &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "COMMENTARY: Morning Bid: Six months and counting",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFlTYWIzVk1oYkN0YnlyRS1Kcm1kTWxZcHFDcDcxNTNXU0tHZ25mZzNSWXp5VnNPTjZ6UTQzTjhZamx5clJEQ1FVSnR3MHo3ejJkN0JZVlZqWENaOEV0SlZPNGVlekg5ZW90Um5wN25BemljRGxoXzFIZ1hpSTNIX1lPZTVNYmpXMFZhTENwTUxDRzhKV3Bj?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 10:35:24 GMT",
@@ -452,10 +436,26 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Stocks fall while dollar, bond yields rise as Warsh prompts rate hike bets",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1RUYUM0TDhTNURUOVdtU1ZYc0p2YTZQZGhTREUtRkRNWms5UVN5LUVxelJjWVluQVJkQ0UteTAtMng0V2h1Z014d2xQZXBZUDZfSHdSM2ZXdWljRFBJT0lXR1VHVUo3N0djMVJmaHkzaVh4YWJpWlZtSFM3RjJLYUc0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 01:56:00 GMT",
+   "summary": "Stocks fall while dollar, bond yields rise as Warsh prompts rate hike bets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Dollar jumps after Warsh comments, set for weekly gain",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRZaFZxX1ZxcFJfZUs5OTl0c3lTVDJDWm55NWlHVG9CUmloOU9DWF91QXV1MGxVbTlGSTM2Zmp5MHlyUkJ4YjBiRHVMZGZLemlRcTV4N1ZiZ2Y1V0ZYelpGd3lROUNQSXYxNGFMYWoyWVFVMDQtWmt0RDgyemVtNm5lTDlXUVI4WGxzRWVxbmEtMXptWC02dWllNF9wRFR0anFYbG55TFhXVjRGSlRuQ0xJNFNvMXVDaVdMd09hdGg3VFpsMFE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 02:36:00 GMT",
    "summary": "Dollar jumps after Warsh comments, set for weekly gain &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Indian shares post weekly loss as Fed jitters, closing auction weigh",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzNGUWpsTjFQNm5KaC1uaUREbEp6dkR1WWlDbktxLVlnUGI0eG1RZ21Nai1wcXNPRndtOHlFR1ZfeTMyR3lFdXYtbzBPR1Nrdi1PTlBDbXAtVHU3S2IyQVdfRG5jSWNFMGFhMXZVa0p3dTVWbkI1REg2WmJScnpOd01DanJVRWlpTkF5ZWw0d09ubUQ3NUxuWUMzc29oNTlaT0Vmc2drR1VnVHVaUzl5aXdkTHJDT21fcWk3VFdsTWhMM1hkTkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 02:37:00 GMT",
+   "summary": "Indian shares post weekly loss as Fed jitters, closing auction weigh &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -464,14 +464,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnRzcWtqWkpITVFZLUZmLW50MmtTenpmYXJMLWdpZ2tZdjZDMDFjYzJaakhCc08tOHFTTVZJN3BZcndUeWNmOEhTU0QwTlVfNnFtZzAtbWFUWVVUZUVueEpHUWFQcTVOUElGSlhrMjFtUkI2TU1UMERrZkh2VWJIdTJGVlNERHlBaWZIYVd4V2hUckh0dGJFN3BaNlZHbXlEd2VXY0Njc0ZHcFhURjZlelVBa1ZFWXBvMzlRemtrZUw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 17:41:51 GMT",
    "summary": "Canada to loan quantum startup Xanadu $140 million to build manufacturing plant &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Marvell raises annual forecasts, but shares fall as Google deal questions linger",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlF3Z2g0RTZaeDNWUEhvbFFuVm1BSUNST2JfRXpoQTdSRHdHRldQeVJWblJxVTRtc2ZEUGtDNHNGU3Z4dmI3blYtZmlCbHpNcG40S1JVd0pUREEyTHdoaWN5QjZ4dVg0czFLQVkxUVRGNFZNbUhsbHRLVjJYdHVIZ2lYcFh3MkNCWnoxQzRaSkphQVVhNFhSRjJwV3dZX2dfVjNVNmVIWllpX3BJTUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 23:10:48 GMT",
-   "summary": "Marvell raises annual forecasts, but shares fall as Google deal questions linger &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -492,6 +484,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Marvell raises annual forecasts, but shares fall as Google deal questions linger",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlF3Z2g0RTZaeDNWUEhvbFFuVm1BSUNST2JfRXpoQTdSRHdHRldQeVJWblJxVTRtc2ZEUGtDNHNGU3Z4dmI3blYtZmlCbHpNcG40S1JVd0pUREEyTHdoaWN5QjZ4dVg0czFLQVkxUVRGNFZNbUhsbHRLVjJYdHVIZ2lYcFh3MkNCWnoxQzRaSkphQVVhNFhSRjJwV3dZX2dfVjNVNmVIWllpX3BJTUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 27 Aug 2026 23:10:48 GMT",
+   "summary": "Marvell raises annual forecasts, but shares fall as Google deal questions linger &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "India's nuclear ambitions may be blunted by limits on foreign reactor technology",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcldvYUZibDZpWDVtQnZXY2c5ZDQzUGFoeFM2c0NpMUdwNGJlUUNfUExja2lnWjZ4S3YzZ0JURFlDYkR4TzJvaW90ZE9HRXhlYXYtR1h3bUxvZnR2Yk4zazJWcnZqQU1fMmFXSWRTWF9jMGx2SHNac01YMzVEVnJlTldITnFWN3JFVGJ5aU92b1MtNDhyMHlNY1dkMmJVNjVmTDN0ODBoMk43OUl3Mmx6enpzSF85VUVfeERfNk1oMGtZNENQLTU4?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 17:32:09 GMT",
@@ -508,6 +508,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Vietnam PM seeks higher quality tech investments from Chinese firms",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalBPWGJUMm1uRnA1c05sQnd2RWRHbjVTaE1pbi1jNDBVVWdOR2NjTkxOcldiM1E1S19fS1o0R1dXWWRseGUxTFFObGhFOWFheFR1N3RqVUdidGNPQXVxcWdITFZZMVRUVmgzNXUxakIwXzRwekpVSXRzTjZCUUxzc0IzaUpxbGdmUnNVZmU0MEJJQ2ctNXRtSTJaSWhWaWs1UTd2eE9aYWY3WHpRcjYzaUhtN2EwMnlP?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 27 Aug 2026 05:21:00 GMT",
+   "summary": "Vietnam PM seeks higher quality tech investments from Chinese firms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Deutsche Bank cites progress in technology revamp at retail division",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOUQtaFY4ZDZCci01cE11M3V4MHk2YXlVMEQ4Y2pueWtlbzlveEV4cmpJMlM2WWtrWmlzWG14Mnd1aVRXaW9BaHloMXlHMi1zUEFqZGliZVdybjBxNGxXM3d3b0lTM2g0ZDZYNHZMNGZEVkswQUFGZkdXUHo5NC1rUEE2dnh1anFSM3hlOXNIZTQ5WS0tdjU5anQ2OV9nbm9jQXhlZTNfcmNlZmIwNF9zcHJ3TzRIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 07:58:14 GMT",
@@ -520,14 +528,6 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2hNTjJlM0VMcW8yeWg1UjUtUWRVbDE2WFlUb0ZQTTRkb1hNaEUtdTd6MGZGelFvN1hwU2hHMHhNNGNOSVVxMVNhUmFKMlVBNGJkT1hOdDNCMjZKWmRrcEtrY3JGWFlMU3dPOWYxTGNDaUt2VjZlQzRWZW01dlE2a1RwRUZtblRqZDA3bVVwVllRWmpWZTF5ZmJ5cXBfZFlfNUEtYWtmXzZYd19pTEkxVA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 15:58:11 GMT",
    "summary": "OpenAI, Nvidia CEOs to speak at tech-focused G20 meeting &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1NWcXYyNEtyV1V5OHpSX3p1SUxvQmJHX0JYQVF6R2JBZkhJMmdpU3N6cDdQMkF5VFBuSlhRaGQ2LVM3VlYtTzBVTjlHZXFtRHZZZlA0ZEdTT2V4NWVReHZGNVpCV2VXMEhnZm91djRGYnJqWGlYMkh3UHVsMDUtRjNzWm0tVlg0TW1jVTZudVRlck1qSUV2SGR2NjNNczZUZURKMUJLZGlDZUZuM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 26 Aug 2026 15:44:18 GMT",
-   "summary": "China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
