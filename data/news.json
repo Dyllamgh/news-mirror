@@ -1,7 +1,15 @@
 {
- "generated_at": "2026-08-30T20:04:31Z",
+ "generated_at": "2026-08-30T22:04:33Z",
  "count": 66,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+   "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
+   "published": "Sun, 30 Aug 2026 21:11:57 +0000",
+   "summary": "Only a fraction of the over 2,500 missing are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood",
@@ -28,9 +36,9 @@
   },
   {
    "source": "nyt-world",
-   "title": "Ferry Carrying Hundreds Capsizes Off the Coast of Cyprus",
+   "title": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus",
    "url": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html",
-   "published": "Sun, 30 Aug 2026 19:46:10 +0000",
+   "published": "Sun, 30 Aug 2026 21:10:21 +0000",
    "summary": "Local authorities said 267 people were aboard the catamaran-type vessel when it began taking on water shortly after its departure from Kyrenia.",
    "full_text": ""
   },
@@ -72,14 +80,6 @@
    "url": "https://www.nytimes.com/2026/08/30/world/middleeast/uae-banque-misr-treasury-iran.html",
    "published": "Sun, 30 Aug 2026 14:49:15 +0000",
    "summary": "The Treasury Department accused Banque Misr’s branches in the United Arab Emirates of helping Iran. The Emirati central bank promised an examination.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes",
-   "url": "https://www.nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html",
-   "published": "Sat, 29 Aug 2026 23:13:14 +0000",
-   "summary": "The intensity of Saturday’s assault prompted condemnations from Prime Minister Benjamin Netanyahu of Israel and other officials.",
    "full_text": ""
   },
   {
@@ -284,6 +284,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Thousands march in Washington as leaders warn of voting and civil rights rollbacks",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0NGcWdzYUVBTGFzcVNhVzhJTTVFWmVjWFBqamtSNEZMUTg0ODNtcTdTVVFfZm8xNjQyVWxCMkFLdHFuMmRBUDRxbjNGdF9aUmZReV8xSnI5N0hTVXdIdmVvZTBBbkFkMFZaSmE3VXhkTDVMV3ZiMTJFRlBpOTRLdVdRTW51bUlrMUc3aVV6ei1vWlhVc2FYREJpNlVvTHpyVFlOMWxMQUZxMHRLMzRHTHZVN3M?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 10:04:00 GMT",
+   "summary": "Thousands march in Washington as leaders warn of voting and civil rights rollbacks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Ratko Mladic, former general convicted of Bosnia genocide, dies",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlJLX2s2Zk05UlYzNlRsMzZ4Zml1QnBteXJmZFpBLUx1blNxYWNHZGN5RjFQdEw5M2tPdTJiZlg4R25IRWxJWVBSOHpnSGx2a0xWeVZlVEJid1Nqb2NkdUlpRUo1aVZrS0t4dG53M3FfeG5feU84WlVsVjhicFdCMkhua1h0VWlHcV9wcUxzTnZ5YUc5Z2ZHZmRZUXQwdGdpMVVteC1sMkFFeW4zWlBNYzFjYnFUbEJTYTZ0eg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 20:39:44 GMT",
@@ -300,18 +308,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Thousands march in Washington as leaders warn of voting and civil rights rollbacks",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0NGcWdzYUVBTGFzcVNhVzhJTTVFWmVjWFBqamtSNEZMUTg0ODNtcTdTVVFfZm8xNjQyVWxCMkFLdHFuMmRBUDRxbjNGdF9aUmZReV8xSnI5N0hTVXdIdmVvZTBBbkFkMFZaSmE3VXhkTDVMV3ZiMTJFRlBpOTRLdVdRTW51bUlrMUc3aVV6ei1vWlhVc2FYREJpNlVvTHpyVFlOMWxMQUZxMHRLMzRHTHZVN3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 10:04:00 GMT",
-   "summary": "Thousands march in Washington as leaders warn of voting and civil rights rollbacks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Far-right commentator Milo Yiannopoulos deported to UK",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObURVMERBQWV0QWJua3FzNktCUjV4dE1POXg4MTBpQi1CTFJzSlpaMnpZZHNnR3VHUXpCeDdmQVdTQXU4UlFFLUtRd3JCejdiUERFNzZHTnpmTHFLM2JxMENIY0xrSUN4NjZXbU9JeFpmVnppMmlWY1F2SkdOY0NORElUN3lIX1FwVGc0RkIwSkNHM3VBbE5pYm1QNng?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 29 Aug 2026 18:16:34 GMT",
    "summary": "Far-right commentator Milo Yiannopoulos deported to UK &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Ukraine's former defence chief seeks US investment for defence tech fund, FT reports",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObFFWa1NKZk9lb1hMejA1R1lhT3FHTjhjNTluNWNfZXRNc2pVXzAyZjQ5UGQxTHZ0OElqR0hOYXlGaXd4cnJXQXZ6RW1ldDNuYktjZEVLR3pmZlVQQXlGQnZtb19kYm5tZnVkLXN2SWJ1bXVkcGZIOEZ5eklqaVI5X3JCOTJzMUFGanRkcG5zZHBuM2NHUlJrMTNUOF9QVW9sVGJIaDJibUJxU2YybDFwUmR6QXBfMkdVYWtXTkpLOFlTRUZCRTB3ckxkMUl0NTVhV092WVhJYmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 30 Aug 2026 18:29:21 GMT",
+   "summary": "Ukraine's former defence chief seeks US investment for defence tech fund, FT reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,14 +340,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeExELTZFbXpSSWtfaVM2N0VrcTR5VlR0OU1nSGw0SDlpc213OGFrbTBQNDVueWg4UlQ3aVd3QTdpQV83My04WDg3UG5zTWcyRGpKMy1ldjB3YU9WV3d6Sm0xb3NJV2I2am9BSldjOERGVS1Cbk51dlRobDZvdXUybkRYNUY1eFFpX3RiRmtEdjV5a0dvcm1jVEg0eFhqcFBZcHNjMTJaYWQ3c1hzOFJnVjExMUtVZkFaVTBfb0tvWko5eVh1?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 30 Aug 2026 18:01:33 GMT",
-   "summary": "Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "GM union deal would invest C$1.1 bln in Canada auto factories amid US tariff pressure",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDZ0M25LQzd4Y0NlQUxmUERXTE9tWkNiZjRvdUdORjJYcVdQX3VmWXJQdFFQV1dVaElRLXV6Vmo0X0taNGJEU0xQV1dyYmxsWFU3c3FUME5FcGI5N3JYc2prYnpYM2xzS1JjdHdGald0QXZsYUZ1ZEdtRGg3ZHdkTGpMT0ZaV2J2U0JQLVI4Qk9MZ2RmNmhPcHpPdUZCckI4LU96TWVxcnJUbW1ROGlfWjRrYXpDZVFIVjNraWlLeUtpbEd0TXBJVzZOZGY4a1pJakdOZjJTaS1jLWF4RFE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 29 Aug 2026 21:15:25 GMT",
@@ -348,9 +348,17 @@
   },
   {
    "source": "reuters-business",
+   "title": "Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeExELTZFbXpSSWtfaVM2N0VrcTR5VlR0OU1nSGw0SDlpc213OGFrbTBQNDVueWg4UlQ3aVd3QTdpQV83My04WDg3UG5zTWcyRGpKMy1ldjB3YU9WV3d6Sm0xb3NJV2I2am9BSldjOERGVS1Cbk51dlRobDZvdXUybkRYNUY1eFFpX3RiRmtEdjV5a0dvcm1jVEg0eFhqcFBZcHNjMTJaYWQ3c1hzOFJnVjExMUtVZkFaVTBfb0tvWko5eVh1?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 30 Aug 2026 18:01:33 GMT",
+   "summary": "Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Trump says US is taking partial control of Venezuela's vast oil reserves",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDBRX1E5WWItYWoycXJDSUZhMWJaZUthYmJUcTFqcTA3MGJLZnVPS1dQcWZyeW1FbW9wYnRBNS1OSlVyM0VXN3BIV01IVl8tMmdjQzByaGxIcmVQSnRDSjRiTXdtdEkza1hkdDJQcGNzYXY4OGkzOGZpS1pFMUtyaVFXenBXalpHUTNnZGhZUl92bklLcUg5OVhVMWkzaWxvYWN6S05oN0w3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 22:55:00 GMT",
+   "published": "Sat, 29 Aug 2026 07:35:18 GMT",
    "summary": "Trump says US is taking partial control of Venezuela's vast oil reserves &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -364,22 +372,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "NATO sees no imminent threat of attack, official says",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGlOUzNwdF82eE9iTjh5TVo3eUJ3RFkxdWVhMEJLM3BuVk1KSHlMU2dCMktSSFhwZllSd1ZIajlKZzU0SXFOQWh2bXlTQk5RZllPaVpuRHc1SGFDb3FJY0Q1Sk9Bc3FQc2xFNDNERkdQc2NkcUR1UG9OTFNsYnRpQUlnNWxRdUFJZ2Z4dDh4X19fWmJxZUNtQ1VsTm4yWFY0YmNyTVNaWE1mMTlxSGN2T1pn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 30 Aug 2026 14:41:43 GMT",
-   "summary": "NATO sees no imminent threat of attack, official says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Malaysia PM unveils measures to tackle living costs, support local businesses",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZkM3UzR0NmxQTTI0ZWlIdE5wc29xVlF4QXJiRUMxcnVUdU1DWUpXUktaZXhSY1ZlLUxVZWpCZ2p6bnBkbG9qd1lfelVVV0lSNXNpVThMQ2dod194VE1talJmbGRzTkFFM1R2QkZxZzhFdnl1cnU2SWdlaVV6LXlXZzlYV21MaHVmMHZPN3dRQV9Pcl83czN2TGMwSFBRd3dqNHdPSE55VXIxcnRidldicXYxY2o1UHVuV1pfV1ROTEMwbnBwM2w0Vlh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 30 Aug 2026 09:04:03 GMT",
-   "summary": "Malaysia PM unveils measures to tackle living costs, support local businesses &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 00:45:00 GMT",
@@ -388,18 +380,18 @@
   },
   {
    "source": "reuters-business",
+   "title": "Trump says NBC's Welker to be reported to FCC over characterization of his endorsement record",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTRSM0lreVpORDBYVV9hYUZRdHhRVXRmaXhBVWNpRXJKdmRFdEFreUZ2TnliZm9xMTNzdVE5dFIzOGkwQ3N4TzJhX0c5LUNDdTFRS3p0MHU1Q2ZGRVM5M2xnZndlaklYTk9MaC1vb2JKOHJEWWsyM2ZOQ19OVEdGTExHY3p1Qk9yQ1lzUG5hMXRKTkM0UlV1QXdNSHh6RXhicE5qLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 30 Aug 2026 19:34:15 GMT",
+   "summary": "Trump says NBC's Welker to be reported to FCC over characterization of his endorsement record &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "US hits Egyptian bank branches with Iran sanctions as war marks six months",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnRmTktBaHNUcXJSeXVoMEhUSDg0QlpTRkFGcllGUW5zcW84bE81NjQxTWZ0VjBSNHpxZjBnRkNmVHAyZkFaNkYtYXZ4R1VaRlpIVHF0YVIwZ3BfY1ByZVdKM0RPOXBNMnJzTDkyVnF6b0FnNlRFQ0ozTk02cWY0dHZPYm40TUY2TVlSUklxWUJWVkdZdXNYX21TM05QV1R4dnBxU3pWekdVelEwWXZObHNn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 17:37:19 GMT",
    "summary": "US hits Egyptian bank branches with Iran sanctions as war marks six months &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUp0Y2RpUlUyc1ZQakFhRXB4TjZwTlIzb1FUTVFCdEVMNHp6LWdkdXc2ZkdCUVo0TmZyb25XWUYzS0dkLTJuVzAzcldNWnhRZTJLREotVi1pQUlOeS1QMmM3ZWhVeTZIOTg2UGMtNzhZQ1EzM3BydUVGMC0xdzdOMzNBZ2VxOTNncUJOT2ZQa0FGU2FrR1YxYUNNcU9va2VRTXJ6ZGFscUdSRmc3V3JtRDJHaXE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 30 Aug 2026 13:15:45 GMT",
-   "summary": "Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -420,18 +412,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Stablecoins not a credible means of payment at scale, BIS chief says",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnRMdWlYZ3VXdTdSS0NWWi04QjVRbkpmSG5STFd1dUgtNl9tUWVkcVVGd0xOMU9oRHdlVnNDa2ZFWHdJSXIzQUpkSmNiZnpDTW5wbktodk52Ukprd3cyMDlfMmRvdlVJVDFNdFFWS2UyTGFjdUVKMWVoVmVlVEZHVHplZjYybHM4Q1NaVXlmcHh3VjBqSVVoZDhpZGdiN2xiRnd4QUFMWnNGZGtzaXhOU1N3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 16:59:30 GMT",
-   "summary": "Stablecoins not a credible means of payment at scale, BIS chief says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 23:21:06 GMT",
    "summary": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Stablecoins not a credible means of payment at scale, BIS chief says",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnRMdWlYZ3VXdTdSS0NWWi04QjVRbkpmSG5STFd1dUgtNl9tUWVkcVVGd0xOMU9oRHdlVnNDa2ZFWHdJSXIzQUpkSmNiZnpDTW5wbktodk52Ukprd3cyMDlfMmRvdlVJVDFNdFFWS2UyTGFjdUVKMWVoVmVlVEZHVHplZjYybHM4Q1NaVXlmcHh3VjBqSVVoZDhpZGdiN2xiRnd4QUFMWnNGZGtzaXhOU1N3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 16:59:30 GMT",
+   "summary": "Stablecoins not a credible means of payment at scale, BIS chief says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -456,6 +448,14 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFlTYWIzVk1oYkN0YnlyRS1Kcm1kTWxZcHFDcDcxNTNXU0tHZ25mZzNSWXp5VnNPTjZ6UTQzTjhZamx5clJEQ1FVSnR3MHo3ejJkN0JZVlZqWENaOEV0SlZPNGVlekg5ZW90Um5wN25BemljRGxoXzFIZ1hpSTNIX1lPZTVNYmpXMFZhTENwTUxDRzhKV3Bj?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 10:35:24 GMT",
    "summary": "COMMENTARY: Morning Bid: Six months and counting &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Take Five: Summer's over, buckle up!",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVBSSzE1NlNIemZTN3paUGdCTlVuSTE4TGRvQkFIclpHd1hQR2ZhUDk2a1dBSDFGc3MxRUVMZzBtQW0yMFNDd3dILUNBN0gzTUFxR3FlVmJucGJ3SmwzZVl2WmFiaE5uS2pEdzlZcUFYQ0Z5Nlo4LXdGQ1NmNGpRblRJNVQ4VVRSVk1pNw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 28 Aug 2026 13:46:10 GMT",
+   "summary": "Take Five: Summer's over, buckle up! &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -484,18 +484,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Marvell raises annual forecasts, but shares fall as Google deal questions linger",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlF3Z2g0RTZaeDNWUEhvbFFuVm1BSUNST2JfRXpoQTdSRHdHRldQeVJWblJxVTRtc2ZEUGtDNHNGU3Z4dmI3blYtZmlCbHpNcG40S1JVd0pUREEyTHdoaWN5QjZ4dVg0czFLQVkxUVRGNFZNbUhsbHRLVjJYdHVIZ2lYcFh3MkNCWnoxQzRaSkphQVVhNFhSRjJwV3dZX2dfVjNVNmVIWllpX3BJTUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 23:10:48 GMT",
-   "summary": "Marvell raises annual forecasts, but shares fall as Google deal questions linger &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Taiwan prosecutors search Unimicron in suspected China fraud case",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb0YzamJ1SXlRdnljNkhyOWFlT3MxVWVod3pNdW1JUnE1NzNxSHB1QnZYVGNjNmRPVVlQSXluM2FCcXNfLXd1ZHBOZHhwdHdVU3hyTXh4V0U2NVFnbzd3eDRLZVBpZWh5aXUtTnhXck15S2g1a3dWM1dCQTFPaGFSUV9XZFpQUFNHOHhWZjVMZHltV01oUlNjRkdtSGpVR3k4TXF1RHFJWlZjRXZQcWJGcmNVVUhaQlpB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 29 Aug 2026 02:05:00 GMT",
    "summary": "Taiwan prosecutors search Unimicron in suspected China fraud case &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Marvell raises annual forecasts, but shares fall as Google deal questions linger",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlF3Z2g0RTZaeDNWUEhvbFFuVm1BSUNST2JfRXpoQTdSRHdHRldQeVJWblJxVTRtc2ZEUGtDNHNGU3Z4dmI3blYtZmlCbHpNcG40S1JVd0pUREEyTHdoaWN5QjZ4dVg0czFLQVkxUVRGNFZNbUhsbHRLVjJYdHVIZ2lYcFh3MkNCWnoxQzRaSkphQVVhNFhSRjJwV3dZX2dfVjNVNmVIWllpX3BJTUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 27 Aug 2026 23:10:48 GMT",
+   "summary": "Marvell raises annual forecasts, but shares fall as Google deal questions linger &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
