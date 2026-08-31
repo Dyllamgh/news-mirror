@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T20:04:58Z",
+ "generated_at": "2026-08-31T22:04:33Z",
  "count": 70,
  "items": [
   {
@@ -38,7 +38,7 @@
    "source": "nyt-world",
    "title": "Israel and Greece Reach $3.5 Billion Defense Deal",
    "url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-greece-defense-deal.html",
-   "published": "Mon, 31 Aug 2026 19:28:59 +0000",
+   "published": "Mon, 31 Aug 2026 20:25:59 +0000",
    "summary": "Despite the growing diplomatic isolation of the government, the agreement makes clear that the Israeli defense industry is still finding considerable demand abroad.",
    "full_text": ""
   },
@@ -46,7 +46,7 @@
    "source": "nyt-world",
    "title": "Lionel Messi’s Retirement From Soccer Sparks Heartbreak Across Argentina",
    "url": "https://www.nytimes.com/2026/08/31/world/americas/lionel-messi-retirement-soccer-argentina.html",
-   "published": "Mon, 31 Aug 2026 18:27:02 +0000",
+   "published": "Mon, 31 Aug 2026 22:00:19 +0000",
    "summary": "Lionel Messi’s retirement from the national soccer team, though widely expected, sparked fears of a diminished squad, and heartbreak over the departure of a national icon.",
    "full_text": ""
   },
@@ -78,7 +78,7 @@
    "source": "nyt-world",
    "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
    "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
-   "published": "Mon, 31 Aug 2026 18:30:02 +0000",
+   "published": "Mon, 31 Aug 2026 20:11:10 +0000",
    "summary": "A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.",
    "full_text": ""
   },
@@ -118,7 +118,7 @@
    "source": "nyt-business",
    "title": "Global Oil Price Rises to $90 a Barrel After U.S. and Iran Trade Attacks",
    "url": "https://www.nytimes.com/2026/08/31/business/oil-prices-iran-war.html",
-   "published": "Mon, 31 Aug 2026 16:33:15 +0000",
+   "published": "Mon, 31 Aug 2026 20:04:53 +0000",
    "summary": "The first attacks in a month jolted energy markets. The average U.S. gasoline price remained 37 percent higher since the war began.",
    "full_text": ""
   },
@@ -156,10 +156,10 @@
   },
   {
    "source": "nyt-business",
-   "title": "Pennsylvania’s A.I. Gold Rush Meets Second Thoughts",
-   "url": "https://www.nytimes.com/2026/08/31/business/pennsylvanias-ai-gold-rush-meets-second-thoughts.html",
-   "published": "Mon, 31 Aug 2026 16:56:41 +0000",
-   "summary": "Amid a backlash, Gov. Josh Shapiro is pumping the brakes on enormous data centers. But in a region scarred by the collapse of the steel industry, some welcome billions in construction.",
+   "title": "U.A.E. To Review Banque Misr, Targeted by Iran Sanctions",
+   "url": "https://www.nytimes.com/2026/08/30/world/middleeast/uae-banque-misr-treasury-iran.html",
+   "published": "Sun, 30 Aug 2026 14:49:15 +0000",
+   "summary": "The Treasury Department accused Banque Misr’s branches in the United Arab Emirates of helping Iran. The Emirati central bank promised an examination.",
    "full_text": ""
   },
   {
@@ -198,8 +198,8 @@
    "source": "nyt-technology",
    "title": "FTC and 22 States Sue Amazon Over Advertising Practices",
    "url": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
-   "published": "Mon, 31 Aug 2026 19:56:06 +0000",
-   "summary": "Regulators say the e-commerce giant forced millions of advertisers to pay more than they should have. The company denies the claims.",
+   "published": "Mon, 31 Aug 2026 21:44:01 +0000",
+   "summary": "Regulators say the e-commerce giant forced more than a million advertisers to pay more than they should have. The company denies the claims.",
    "full_text": ""
   },
   {
@@ -246,7 +246,7 @@
    "source": "reuters-world",
    "title": "Argentina's Messi ends international career",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtqdnNIb08tN3Y4NTBJT2l5RTRXaEpDSmVacEVXSExtVjFJcnliTmVDQXc5SkRINWNaaGdmbFppTzgxMV9UaW1GTTRIaGxMcTRqd0VsOXFVWjhhMlRYcWpYX08tNjN6Qi1QWDVyRVA3clBTaUhYRmRmajJ5UDlLS2tDcFpvYXd0R0Mwc2s0Yk5zVGJ6Z0lIVk80ejFVZWNE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 17:39:45 GMT",
+   "published": "Mon, 31 Aug 2026 20:33:02 GMT",
    "summary": "Argentina's Messi ends international career &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -268,6 +268,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 30 Aug 2026 20:38:00 GMT",
+   "summary": "US forces strike two Iranian launchers on Iran's Larak island, US official says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Apple may change 'Lake Ontario' to 'Lake America' soon after talk with Trump, U.S. Interior Secretary says",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEIwd3dEcy1NOXh4R29vMkdGWWpxSVJTT0RmTVRMekZZYmtOTWpxOTB0LXNfZWpZV2Ftd2JFY3Uzd3dYdElrVkxzQVAwLTQ2SkczUFhsZGFJUTZrZWhGbjF3NnNWWUlyeUJkLTN5SkkyNmJZSmhUREcybWE5bnlVNW92cUU1OWVVSE1uVTBzWnhxZnRWai1yYlF6SzJlLWJpRk9mMnFJallIcGh6ejl3b3hJM2hSV2JLNnlLUkRTNGk?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 31 Aug 2026 13:03:09 GMT",
@@ -276,10 +284,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 30 Aug 2026 20:38:00 GMT",
-   "summary": "US forces strike two Iranian launchers on Iran's Larak island, US official says &nbsp;&nbsp; Reuters",
+   "title": "Trump's approval stuck at 33%; Democrats appear more fired up for midterms, Reuters/Ipsos poll finds",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTNTYnhYSHE0V3BkS3VCa2lmcFlPWkhyWFB1V1VFajUyYmZSQ0ZkSDI4UURFbzNiaUFycFFGUXRFVk1ubWpWcnpWUWUyLVotdHFQVnBKMms3WWNYZjVTbnRkd3NTbW5aaXdxbVBtU2dMMHFZOEhWZ004SHk4M3dmZDFlY2NBcFhIdkNaM09IakN6cU5oN1pWZExjRng0RVgyNFZKdXFvMTZVaXh0Tkx4N2dfS0JJMmZRMGF6NS1CRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 19:54:38 GMT",
+   "summary": "Trump's approval stuck at 33%; Democrats appear more fired up for midterms, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,26 +308,18 @@
   },
   {
    "source": "reuters-world",
+   "title": "Dollar slips, with traders already eyeing Friday jobs data",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzZFV05UVTZLQjh4TGh6S2xxU0xMU0w3c2lXNUd0am8tak9EV3p6NV84cVV0NDM2aXFrUkFpQUpVZ3dmdGNkYS1OaXRQbGhybm9lcHBfU2lLaVRwVGxiaXJKNnFRZW9ndFppTmp1TlhxeDJ2emxQLU5YWnVraXJFYzFHbldSU0pmVEtjeHFLdHJlUERTWjlkMmp0d25FSE1Wa3Q3SHpKbG1uNXBGa3FDRTg1cGxFX2VQZUkydHoxaWdHZUxER2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 01:32:00 GMT",
+   "summary": "Dollar slips, with traders already eyeing Friday jobs data &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Iceland rejects EU-accession talks in close-fought referendum",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGtFSVlzUEFyMVhTNThSd2V4a29sUUtlZVdHeC1pc2ZnaWVwVjFGNW5OQjg4MHZNaTNHc29QRXcyT2ZJN29xNDdmQVBQaDRtX0N4N1lJeTc3Q1c0NU5VWldFSkJLSG1yMzBhLVI4cHRrQlVRZlNWVHA4d0NXRVBPLURxd09aNVJWSkpNV3JaUlpXU3Q0VHp0UDgza0M?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 30 Aug 2026 13:09:42 GMT",
    "summary": "Iceland rejects EU-accession talks in close-fought referendum &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "VIEW India's GDP grows better-than-expected at 7.8% in April-June",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd3pJY2JhQ3prT1M1ZnJkQ3RXa21UMHQ5N2VMV2JKbzRId0t4bkttRUY2ZmZfbmJ0UENmd21nUVBqallrN2VpQ3BEcnNHNXhWWmdaWEhLbXdBNlNfbkZWSVZKb2dVR3BoSnBrNEVKUG1QYkZGcVBIY2NSM2RTTlY5c1dXaXQtNWY0eEtF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 11:38:11 GMT",
-   "summary": "VIEW India's GDP grows better-than-expected at 7.8% in April-June &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "September risks are stacking up hard and fast for world markets",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzFqNTRaNFlnMk1nN1JYVnNTUklVVU1JcTEtZW5OeVFwUC1OczhMY3NJcGpWQWJzMmoxQ3oxN0l0TW5wSEMtdEk4a3otcHJTSzVxdk94a3lLV0FNbXNBQTROVXltSk42ME02ZGVSb0NxNWFBTjlEU2YzX05YZXBOaXNpdEJhMnlWYWF1T1BVRFlmMkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 05:38:00 GMT",
-   "summary": "September risks are stacking up hard and fast for world markets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,6 +372,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Depleted US oil stash loses potency as Iran war grinds on",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUhmd2cwQ2lLMjFlWXpza0hEZWhGZU1NcGg2eGJ3Y0x4OVA0YWhIUVptWmcxVnU0V0hKRnRJR1FQSU5WT2M4aUZDRngzSDVpczVybkN5dUEyZ0FrdFFSaVlxZ0I2WjVLTEprenVzY2VCdFN2c0NXQXhldWxzN1daOGNya2RjMkZsSHN2ZXhuS19kdXJvS3VBYkk4OFVIYmtyN2JoRFJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 15:33:05 GMT",
+   "summary": "Depleted US oil stash loses potency as Iran war grinds on &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Asia's diesel exports to Africa jump in August, replace Mideast supply, data shows",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHR4VHBIdE9qWWpad282R1VVbTZlLUdrRXBNa3AxYXhMQUYzbkNiY0RSNHIxTHdFckpfM0doYl9MTUpHUlFTSkVrWm50VUkyNXlKSFlHNlBsYWlUWmVXbUh1ejMyR3hvNUtrd0M5WTU5WDRoUVBrOEhjN3Fld2RNcTB3YXM1d0hCQTZoLXVMb0NMWVB2TnJ0VkRHQm1xTGJsY3I2dHUtN0tnQlJrcDZKU3hlTV9zS0JqS3diZDVYcklTblU?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 31 Aug 2026 05:57:00 GMT",
@@ -380,26 +388,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "GM's Canadian workers approve deal adding truck to Ontario plant amid US trade war",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWmk4SG1MMEZIeXUxQlVKYnk0T1o0UEpJYW5OOXJYWUR1M09wTWNmWHY3RXNzbWFVTUFYcnduNDZGX0t1M1VqUEFycTlQRkQ2VVNrNEpjb2VCQkFyX3hLR3k0bVBpYm5OQnFKUWhJYW4tM2tvR1F2V1NHVnEwcmFMN2U5b09iWWwzcnZaclpaX21xUE9zMTh3WjVUaUhwdzZ4aDI2UmdpbUFQVENyME1lNFVmUzE1dVgyZUhQUWJuV1IxSjlhWDJFd0ZqbEkySkhsZXhsVV9Mc3VXSG5T?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 00:43:00 GMT",
-   "summary": "GM's Canadian workers approve deal adding truck to Ontario plant amid US trade war &nbsp;&nbsp; Reuters",
+   "title": "A look at Iran's Kharg Island and energy sector",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmt4Q3IzMGlodHRiaUpZWVBLUHNxQW5ydExabHlPNzlIMF85QjNWODQ0MWl6Y3ZETVJEVUpYaHN6a0ZabWlWNHpfMHRleWJfdllvZDRCRG5qVDVDb0JsZTh0M2xobFNQYTNMWGhMVkItM3RPRWZLaTdqQ2xKdmdtV3VCbjBmNE1nalpQZUxJelBoQmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 13:39:18 GMT",
+   "summary": "A look at Iran's Kharg Island and energy sector &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "The battle to build a global defence bank",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3Q2dzBUdTJQYkFrLVhDQnNaUks0eGd0dHRqQ0MxYjhlbkF5Y2Y5QXhoQXZsQU14QkZIb3hxelRSdW1KVVd4eGhLeEFuSFlXeFpHdUtER2VTZHh4ZlB5TmowZ3poR21acFM2T2dFUVRsd0RMNUlmclpWZXBtTHNVQ0ctcVVGbjNrMDJJcjJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 30 Aug 2026 09:07:00 GMT",
-   "summary": "The battle to build a global defence bank &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Chinese factory slump eases, but weak services signal uneven recovery",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1dkZTlRc3A3VUNWUTlzRDhhdmpZVkJuWnhWT2htcUxTd0tqbnF6cnFhR1UxbWV2MWpMTXk2ZE50eE85MzhFNGNzd1k0ZlRaVFM0TDdDdDRRRnBrT1I4Z0NqWlVMRmd3V0w1Q3RiM3BWSlA0Z09wblNIeXY2UWZwVmdEQk80WGZ4WEJ4UEVKNFk3TWRUa3FfTmppRTVERnZKZjNiQlVvb3lEMkpOQW5XX193?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 04:58:47 GMT",
-   "summary": "Chinese factory slump eases, but weak services signal uneven recovery &nbsp;&nbsp; Reuters",
+   "title": "German state leader urges joint effort to solve Volkswagen crisis",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOFVsbUhwT0RyXzhTS1V3VHc5WFl1dVc4bm5fbGNPZ2xSd2g5aS1TZWJCVDF3d0xCdEstX1FkYVpYTTBoaUkza1ZQMGxfcWNLV1hFMVpHOWtyb3RkUkZsS2g5dUN0MENIV3pSQlNvV1JrWDUtNW1rdkJld3RpMmE2SjU3bDVwZjlTbk5GeHQ4SENSNmNzT0d3enlEQmg0QmlmMjBfeXN3SE9GNHVmR250YlEtOW1jaEstOC1QUl9R?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 13:53:31 GMT",
+   "summary": "German state leader urges joint effort to solve Volkswagen crisis &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,10 +412,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
+   "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjdMVkl6Zld1cG16aFA3UUtRd2ozVHRERm1Sb1p0WGtVN2xsUEJVbnlaUWt6M2NiWERmaUo1d080c0hWeHFwVGY4UlpZMGJENG91NXJ4bzhMbXNjRVJRQlo1d0ppNlNPcjUtd2F1d2xheXhBaW5OYU43SDdkYk13R0Y0SGNzblZOOTFJcTM2SmJJV3VRbVNyWGZ1bVdzaGJSQ2lBMXZPOWdWb01VNmR1UGYxZGE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 18:29:35 GMT",
-   "summary": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike &nbsp;&nbsp; Reuters",
+   "published": "Mon, 31 Aug 2026 20:28:05 GMT",
+   "summary": "Wall Street closes lower as oil prices jump, indexes notch monthly gains &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "China reins in rising yuan as weak domestic demand clouds outlook",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUlZUUxvQ2xkTk15Zk8yRi1KZkU2UnUtX0lCdDYyUTBEMnh2LVBYUll5dE5DQVdCNVNrMUE3MXc0cTdQdTZ1WkNDdC1pNjdacS1SWFc5Y3RLYW9HdFg5eC13U1JJakFfbGR2cDVycUQ3d2w3aEYwYWJvc2lSY2pxckVwRWxOWHJ5dWxVYkZ1dVFoSFZtT0ZwcXowUE1rNmZpRzZYcEh5R1ptYkNES1Rmc2h6cUI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 10:59:00 GMT",
+   "summary": "China reins in rising yuan as weak domestic demand clouds outlook &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,14 +436,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Booming weight-loss drug demand in Brazil fuels thriving black market and health fears",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnU0M0piVjA4SE84VElRNXczdVEzTF80dFdtMU54OU13MkRvY3lrYkNuTGM3UjB4VnFxZlBpd2phTlM5bzNJUVl0azNpeU01YWRLdnBsRXVETEp0Y0YtaW5waVc0bFNOenRfcVhSMTdlcnpKMEd0cnQ4WkFjN2dkb0hMOU1IajhtU2RUeG4zeGx2THF0clV6MndvU1NQTG0wc25rTXNSVHpfSWxGVThJSHMtclo0VXJqRDJ3T2tTTFBwVWxseXBWVkU1Ulc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 10:41:45 GMT",
-   "summary": "Booming weight-loss drug demand in Brazil fuels thriving black market and health fears &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Yields rise, stocks ease, with oil gaining as US and Iran resume military attacks",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 31 Aug 2026 00:38:00 GMT",
@@ -444,10 +444,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Oil to hold above $80 a barrel as Middle East supply risks persist",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZm1UZWgzbTlVVzdIeFRJQWN1TEMtZGdwZFpaaUx6ZmhNU0RrakpicWtuNHNKb0JPc2VvbURJZzlYQkNzVk9Sc3NoMFBjcWZHQ0NoQ3hmaG1iZS0zdjJlbERFU25uN2VaNGp0Q3ZBb0JPRldfQjZLVDB5X25NdlBBT04tblFSdTFPTTVLUWxRMUNkM1NNSjE5X1A1WDlVUmtLZUs1bjItRmFqd1hEbHdzbDJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 11:08:09 GMT",
-   "summary": "Oil to hold above $80 a barrel as Middle East supply risks persist &nbsp;&nbsp; Reuters",
+   "title": "Booming weight-loss drug demand in Brazil fuels thriving black market and health fears",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnU0M0piVjA4SE84VElRNXczdVEzTF80dFdtMU54OU13MkRvY3lrYkNuTGM3UjB4VnFxZlBpd2phTlM5bzNJUVl0azNpeU01YWRLdnBsRXVETEp0Y0YtaW5waVc0bFNOenRfcVhSMTdlcnpKMEd0cnQ4WkFjN2dkb0hMOU1IajhtU2RUeG4zeGx2THF0clV6MndvU1NQTG0wc25rTXNSVHpfSWxGVThJSHMtclo0VXJqRDJ3T2tTTFBwVWxseXBWVkU1Ulc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 10:41:45 GMT",
+   "summary": "Booming weight-loss drug demand in Brazil fuels thriving black market and health fears &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -460,18 +460,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Bessent pushes back on fears over US debt market strains",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdmNsa1QyN3lTZU1IX1hDN0VjWHI3M2pQbW1IU3N5ZHJMQTBna3hkNUtYWFRNa2NBaVRTRlM3eVVxOVFHMHhLaUJBX0tqWi1WY0lTbkwyVGFfMTNNWTdVTk5CQVRUUl9pcG1HQXR0MDhnQTlFRGJtaU5xZFRBME5zVU1ZdGxCV0NDVDBpOVdCSVpmbHk3OHh2azFvXzlsR0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 04:37:00 GMT",
-   "summary": "Bessent pushes back on fears over US debt market strains &nbsp;&nbsp; Reuters",
+   "title": "Barclays sees two more Fed rate hikes this year after Warsh speech",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjVHcjZWTGVra3FoZ29XVXdDS05fZlh6S3ZwZHdzb2Z1bHo1Tm12NUNBZWZxN21sTG5hYkdfVVA5VmlBMm5xOERKNXJYZDJURkI2Yk5Lb1JNZFFyNEJVZUdKSjhtdFZtbm5MdHJfN3cwN1FTUzRlUkJwUWxnWjlqLVVpdHZrQkRnaUx0Y1oyZlQ1VzY0LUhmRlI5d2RKbU9lQWVZUC0xTG81QjljYzRwdDRQRndsY3FXZWdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 04:30:10 GMT",
+   "summary": "Barclays sees two more Fed rate hikes this year after Warsh speech &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Barclays sees two more Fed rate hikes this year after Warsh speech",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjVHcjZWTGVra3FoZ29XVXdDS05fZlh6S3ZwZHdzb2Z1bHo1Tm12NUNBZWZxN21sTG5hYkdfVVA5VmlBMm5xOERKNXJYZDJURkI2Yk5Lb1JNZFFyNEJVZUdKSjhtdFZtbm5MdHJfN3cwN1FTUzRlUkJwUWxnWjlqLVVpdHZrQkRnaUx0Y1oyZlQ1VzY0LUhmRlI5d2RKbU9lQWVZUC0xTG81QjljYzRwdDRQRndsY3FXZWdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 04:29:00 GMT",
-   "summary": "Barclays sees two more Fed rate hikes this year after Warsh speech &nbsp;&nbsp; Reuters",
+   "title": "Bessent pushes back on fears over US debt market strains",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdmNsa1QyN3lTZU1IX1hDN0VjWHI3M2pQbW1IU3N5ZHJMQTBna3hkNUtYWFRNa2NBaVRTRlM3eVVxOVFHMHhLaUJBX0tqWi1WY0lTbkwyVGFfMTNNWTdVTk5CQVRUUl9pcG1HQXR0MDhnQTlFRGJtaU5xZFRBME5zVU1ZdGxCV0NDVDBpOVdCSVpmbHk3OHh2azFvXzlsR0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 04:37:00 GMT",
+   "summary": "Bessent pushes back on fears over US debt market strains &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,6 +500,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPci1FMmItQ21hc2NTdV9rN3dIZXljSGVLYVNEN0lWRF9TYzZNN3VIUzRBSnFqcDUySXA1dEo5NkZUX3Jnb2ZPM2tzRkRSVXFjdTR2QWhkSGZVNTdFN1ctb0RLenFHWHN3ME9ZZVVhR3RRSzF3VHlqUl9tR21fNklHa3dEQ0tpclFaVTMycFk4ZGJOajVFQkZQZllsc0hjQVhESHZMalpiRFlobFlQNWlrbloyc21kSk02bkdkbHdJWDFkcVBIMzdsUVdQTkFUQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 15:17:17 GMT",
+   "summary": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Singapore commits $170 million over three years to drive fintech innovation",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNREZVSG9raWVNZV9YRVIwSF93LTFlWm9zeDB6LVlLbk9CYk1tSjRSWnNOYnBQNS1acjlod1podEpUY09RUHo0eEsxbzEyLUF4S0Rwck1Ua1pYRkZMeFlLbHg4U1NxRC1HYlg2QlA4U0JQaldaU3Q4NkFkRUlCRlJzZjlsN0hsRzk1UGQ2dEhNdkpFMU80RXZWX3VZVy1uUFBtYmRUQ0cwN2wyYUNNRmw2eUVJaTRqeWRyOUlrQWV0M1FtTzBC?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 31 Aug 2026 08:45:43 GMT",
@@ -524,14 +532,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 14:48:40 GMT",
-   "summary": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 27 Aug 2026 00:45:00 GMT",
@@ -540,26 +540,26 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 14:48:40 GMT",
+   "summary": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Chinese court freezes $300 million of Nexperia assets in Wingtech case",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMy1Xal9hQU5QWHU2R2NGN1FBMFZoNEM0dzVlbVd5Z2poTnlLZi1vcU05aGJzZnoyQWZQbUxQQUtmSGdZQ0ZYMWEtZHJhN1lTdy1SeUFBQXpfYXJlMXBfQ29JbUxsc0dJcWRjaDFmWUJmNTRmWWVJdjJLOWhkYmk4cjFGc3NFbjdmcUJRdzZ0UHI0ajF0OE5EMUNXYUZlRmExeUJtQlpfQmhlZ1VOYmdKNVR5WnYtUkszZ1FfV1dFQURkNGs0bzRmZg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 18:22:22 GMT",
+   "summary": "Chinese court freezes $300 million of Nexperia assets in Wingtech case &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Shares dip with pressure from technology, yields and oil fall",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 20:54:27 GMT",
    "summary": "Shares dip with pressure from technology, yields and oil fall &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Canada to loan quantum startup Xanadu $140 million to build manufacturing plant",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnRzcWtqWkpITVFZLUZmLW50MmtTenpmYXJMLWdpZ2tZdjZDMDFjYzJaakhCc08tOHFTTVZJN3BZcndUeWNmOEhTU0QwTlVfNnFtZzAtbWFUWVVUZUVueEpHUWFQcTVOUElGSlhrMjFtUkI2TU1UMERrZkh2VWJIdTJGVlNERHlBaWZIYVd4V2hUckh0dGJFN3BaNlZHbXlEd2VXY0Njc0ZHcFhURjZlelVBa1ZFWXBvMzlRemtrZUw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 17:41:51 GMT",
-   "summary": "Canada to loan quantum startup Xanadu $140 million to build manufacturing plant &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Marvell selloff deepens as investors seek clarity on Google AI deal payoff",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkt0SmdxUTF6c3JoZjhpNTluVEZialdkTmc5RDRWRjVGcXlFeFE5RlFROXR3WnJCR2tNazM4RWsyTlpNeXFqb0ttanlLQkpJMVAxaFJfYVV0Q19MMFNqdzhwdjdRWC1XdHBSelIzcWNzLWc4NWsyNmd1VlBnTng4bDB5Sm15RWFNeml5LTNQQ0xZY2NEeDRFaF81UTEzcHZiODREb1RZWnZCME9nblNUWVBwNDF3Y2QxdFFIbE5fbDNmUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 28 Aug 2026 14:15:28 GMT",
-   "summary": "Marvell selloff deepens as investors seek clarity on Google AI deal payoff &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
