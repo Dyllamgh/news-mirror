@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T00:10:30Z",
+ "generated_at": "2026-09-01T02:06:14Z",
  "count": 70,
  "items": [
   {
@@ -84,6 +84,22 @@
   },
   {
    "source": "nyt-business",
+   "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+   "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+   "published": "Tue, 01 Sep 2026 01:56:02 +0000",
+   "summary": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Shein’s Lackluster Debut Shows a Fast-Fashion Model Left Behind",
+   "url": "https://www.nytimes.com/2026/08/31/business/shein-ipo-china.html",
+   "published": "Tue, 01 Sep 2026 01:40:53 +0000",
+   "summary": "Squeezed by new trade rules, shrinking market share and labor concerns, Shein’s share decline in Hong Kong on Tuesday is a sign investors have moved on.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "Donald Trump Jr.’s Firm Leads $1 Billion Funding Round for Polymarket",
    "url": "https://www.nytimes.com/2026/08/31/business/polymarket-funding-trump.html",
    "published": "Tue, 01 Sep 2026 00:00:44 +0000",
@@ -94,7 +110,7 @@
    "source": "nyt-business",
    "title": "Expedia Fights Off Claim for Damages by Cuban Exile Families",
    "url": "https://www.nytimes.com/2026/08/31/world/americas/expedia-cuba-exiles-suit.html",
-   "published": "Mon, 31 Aug 2026 23:02:22 +0000",
+   "published": "Tue, 01 Sep 2026 00:06:57 +0000",
    "summary": "A jury in Florida found that in their suit against the travel booking company, the plaintiffs had failed to prove ownership over tourism properties in Cuba.",
    "full_text": ""
   },
@@ -144,22 +160,6 @@
    "url": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
    "published": "Mon, 31 Aug 2026 19:04:43 +0000",
    "summary": "The meeting, which China and Russia are attending, is focused on the ongoing economic shock from the war in Iran, which has driven up oil prices globally.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs",
-   "url": "https://www.nytimes.com/2026/08/31/business/pancreatic-cancer-drug-prices.html",
-   "published": "Mon, 31 Aug 2026 16:43:57 +0000",
-   "summary": "Rasonque, the new pancreatic cancer treatment from Revolution Medicines, illustrates the huge inflation in cancer drug prices over the past two decades.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "A Half-Price Luxury E.V. Comes With a Big Asterisk",
-   "url": "https://www.nytimes.com/2026/08/31/business/polestar-discounts-ev-china.html",
-   "published": "Mon, 31 Aug 2026 09:02:46 +0000",
-   "summary": "The Polestar 4 is a solid car, and current incentives make it a bargain. But the company, a Chinese-owned brand, is being forced from the U.S. market.",
    "full_text": ""
   },
   {
@@ -252,10 +252,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Argentina's Messi ends international career",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtqdnNIb08tN3Y4NTBJT2l5RTRXaEpDSmVacEVXSExtVjFJcnliTmVDQXc5SkRINWNaaGdmbFppTzgxMV9UaW1GTTRIaGxMcTRqd0VsOXFVWjhhMlRYcWpYX08tNjN6Qi1QWDVyRVA3clBTaUhYRmRmajJ5UDlLS2tDcFpvYXd0R0Mwc2s0Yk5zVGJ6Z0lIVk80ejFVZWNE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 22:42:27 GMT",
-   "summary": "Argentina's Messi ends international career &nbsp;&nbsp; Reuters",
+   "title": "VIEW India's GDP grows better-than-expected at 7.8% in April-June",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd3pJY2JhQ3prT1M1ZnJkQ3RXa21UMHQ5N2VMV2JKbzRId0t4bkttRUY2ZmZfbmJ0UENmd21nUVBqallrN2VpQ3BEcnNHNXhWWmdaWEhLbXdBNlNfbkZWSVZKb2dVR3BoSnBrNEVKUG1QYkZGcVBIY2NSM2RTTlY5c1dXaXQtNWY0eEtF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 11:38:11 GMT",
+   "summary": "VIEW India's GDP grows better-than-expected at 7.8% in April-June &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,10 +268,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 30 Aug 2026 20:38:00 GMT",
-   "summary": "US forces strike two Iranian launchers on Iran's Larak island, US official says &nbsp;&nbsp; Reuters",
+   "title": "Argentina's Messi ends international career",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtqdnNIb08tN3Y4NTBJT2l5RTRXaEpDSmVacEVXSExtVjFJcnliTmVDQXc5SkRINWNaaGdmbFppTzgxMV9UaW1GTTRIaGxMcTRqd0VsOXFVWjhhMlRYcWpYX08tNjN6Qi1QWDVyRVA3clBTaUhYRmRmajJ5UDlLS2tDcFpvYXd0R0Mwc2s0Yk5zVGJ6Z0lIVk80ejFVZWNE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 22:42:27 GMT",
+   "summary": "Argentina's Messi ends international career &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -280,6 +280,14 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjFyQU1qVzhRejFVNXloTTVqcDhBSm10VF91NUt3cWVmQWVnbk10bWFVSUFaZ19lMGptU3pWYThVU1RqZUVwc29faHNrWnh2X3NvbGhJbVcxZTQ3dnlmUG5DVk8tZURTOE9SNVBvZ1hpMHdIcXJQUF83WHloUWJQX1R2cTRMNk84dWFuQWlBLVNGWUxGd1pjdm9ZWjF2b2VHaWxRNm9zc1cyOWpf?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 31 Aug 2026 22:45:37 GMT",
    "summary": "No fairytale ending, but Messi leaves defining legacy for Argentina &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 30 Aug 2026 20:38:00 GMT",
+   "summary": "US forces strike two Iranian launchers on Iran's Larak island, US official says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,14 +308,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "VIEW India's GDP grows better-than-expected at 7.8% in April-June",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd3pJY2JhQ3prT1M1ZnJkQ3RXa21UMHQ5N2VMV2JKbzRId0t4bkttRUY2ZmZfbmJ0UENmd21nUVBqallrN2VpQ3BEcnNHNXhWWmdaWEhLbXdBNlNfbkZWSVZKb2dVR3BoSnBrNEVKUG1QYkZGcVBIY2NSM2RTTlY5c1dXaXQtNWY0eEtF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 11:38:11 GMT",
-   "summary": "VIEW India's GDP grows better-than-expected at 7.8% in April-June &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Ugandan King Oyo Nyimba, once world's youngest monarch, dies at 34",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWhTek5LX1pzampoMXpSNFQ5NzhUM0VUN0pkSDlxX3M0b0drM3h3ZHBSbzE0Slh4Wk15aFphRkFJV0pmLVExNElKOFo2ajhIcHoyRXR0V0pCcW1zMmVCMTdMazFIMTg5QjF1SVRrY2FvNU9KWElsQUNtWDNwVDZYbldYcUlfX3NMUWJkV190WjNLUEJFUzYyalNuc1VUM2RVZ0RLSDg2aWRPemgtaEE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 28 Aug 2026 09:02:06 GMT",
@@ -324,10 +324,26 @@
   },
   {
    "source": "reuters-business",
+   "title": "EXCLUSIVE: Officials: US firm to take over some Venezuela oilfields previously run by Chinese, Russian firms",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHl1UjZFYmc3QnhpUHI0RTZLWnV0X3l2d2x0U1l3Q2gzd0lrNVZKTVJYVDUxSFl6cHh4bFRxXzdjdXlPYklVNUNnVlYyQU1ucnpWMDZ3SVZ5NU95OWt2Sk5OQ25vQ01FQjJZT1RhV1QyUjRxVDBrZ1lZcks0bEtCbTloaHdXeDIwc0U2NFVPeVk1bGM5bGxsUDF4VXVWQXdHa2pEMFdPZ25WUU8zVWpqU1VBVXFPRTJKX3gtT1cwa1BQM2FXaXhkNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 22:51:00 GMT",
+   "summary": "EXCLUSIVE: Officials: US firm to take over some Venezuela oilfields previously run by Chinese, Russian firms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "OpenAI's ad business hits $1 billion annualized revenue run rate",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0hKQjN1ekFIRWlQcEVJazFubmJLMXlnTHZ6T1drTTFQcldkUTJsV0FMVXJMX2YwYThaaXQxYnNiTGhYQTlIcF9VdWZrd1lSWXExdkZGU1I3NXZ2ZVNPUk5ySHd3d0VJUTNieDA5S0NwY0l0eG84NVdGelkzT2tqNjd3RE1EdHpSWlNuU1RlSUJmZW1HNVU3M3FYTU9zSm1uS1B5OExKUkxZY2k5OURHdFczblVhQm9pd0NjZnVR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 31 Aug 2026 16:12:44 GMT",
    "summary": "OpenAI's ad business hits $1 billion annualized revenue run rate &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "SLB expands data center business with $4.1 billion deal for Kelvion",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDA3Zno2OFNIT1VmT0UtN0diWl9UUkNESmxRam4xMmduamNDNm96QkVhV1p6RGNnNDhVWmphbWdxOWw0ZjR0U0hqTV9Cdi1TdTRYU1hILXlEV2twbGx0c2x5QXE1dVdlV0p3NFRObkRTekJMU2p1RHdPTGstREt6WU05TzBHLVJQaVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 15:30:17 GMT",
+   "summary": "SLB expands data center business with $4.1 billion deal for Kelvion &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,10 +356,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "SLB expands data center business with $4.1 billion deal for Kelvion",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDA3Zno2OFNIT1VmT0UtN0diWl9UUkNESmxRam4xMmduamNDNm96QkVhV1p6RGNnNDhVWmphbWdxOWw0ZjR0U0hqTV9Cdi1TdTRYU1hILXlEV2twbGx0c2x5QXE1dVdlV0p3NFRObkRTekJMU2p1RHdPTGstREt6WU05TzBHLVJQaVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 15:30:17 GMT",
-   "summary": "SLB expands data center business with $4.1 billion deal for Kelvion &nbsp;&nbsp; Reuters",
+   "title": "Trump says Exxon is 'going in' to Venezuela as US pushes oil deals",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWhyUHdqZW5HWWIxUTVpZUFxQ3YwVmZpUm1sQXBBZGFjVG5pS1Ric3I4UkRrdEx3Yi1nWmFHWjFIYkxzcjdjTFphdzl5Q2VJRWZiQV9sM1hYV2xnMDh5SGcwdkNLeVFJUXlIVFdoVnZNYnk4VVB3RGNiNlFTWTgyZlRWYWk1X3JiX0NCX2FldWxaMXp4YWFtX21PNGFqZEYzQklOYVIxM0xIbEVnUDY4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 21:37:38 GMT",
+   "summary": "Trump says Exxon is 'going in' to Venezuela as US pushes oil deals &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "German unions warn of massive opposition in turnaround dispute with Volkswagen",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLXRTbkpzLTFBZjdNdmU0XzZaWjR4QXBiSmw5QW5Ddy0zajdrV2pOeFpDWDBkNk1HdFd4YmloMXFBWDAzRG5MX2JURl80eTRmLWt6bjJFU1dFcS1QSk0zZjJ0elBsdFZIWVo3aXN4OHlQYWJIQmx5Q2Z3R0RDcG94NEljbTcxazlDbXM2dzNlVzI5YURCZTZvcWk5VWJNeWMxM0JFYnFQLTVBeGJpbWtURFI0STR3QzR2Z0trTkpMMVJMS2tkXzdibjFkOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 14:43:11 GMT",
+   "summary": "German unions warn of massive opposition in turnaround dispute with Volkswagen &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,34 +396,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "German state leader urges joint effort to solve Volkswagen crisis",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOFVsbUhwT0RyXzhTS1V3VHc5WFl1dVc4bm5fbGNPZ2xSd2g5aS1TZWJCVDF3d0xCdEstX1FkYVpYTTBoaUkza1ZQMGxfcWNLV1hFMVpHOWtyb3RkUkZsS2g5dUN0MENIV3pSQlNvV1JrWDUtNW1rdkJld3RpMmE2SjU3bDVwZjlTbk5GeHQ4SENSNmNzT0d3enlEQmg0QmlmMjBfeXN3SE9GNHVmR250YlEtOW1jaEstOC1QUl9R?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 13:53:31 GMT",
-   "summary": "German state leader urges joint effort to solve Volkswagen crisis &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "GM's Canadian workers approve deal adding truck to Ontario plant amid US trade war",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWmk4SG1MMEZIeXUxQlVKYnk0T1o0UEpJYW5OOXJYWUR1M09wTWNmWHY3RXNzbWFVTUFYcnduNDZGX0t1M1VqUEFycTlQRkQ2VVNrNEpjb2VCQkFyX3hLR3k0bVBpYm5OQnFKUWhJYW4tM2tvR1F2V1NHVnEwcmFMN2U5b09iWWwzcnZaclpaX21xUE9zMTh3WjVUaUhwdzZ4aDI2UmdpbUFQVENyME1lNFVmUzE1dVgyZUhQUWJuV1IxSjlhWDJFd0ZqbEkySkhsZXhsVV9Mc3VXSG5T?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 00:43:00 GMT",
-   "summary": "GM's Canadian workers approve deal adding truck to Ontario plant amid US trade war &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Chinese factory slump eases, but weak services signal uneven recovery",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1dkZTlRc3A3VUNWUTlzRDhhdmpZVkJuWnhWT2htcUxTd0tqbnF6cnFhR1UxbWV2MWpMTXk2ZE50eE85MzhFNGNzd1k0ZlRaVFM0TDdDdDRRRnBrT1I4Z0NqWlVMRmd3V0w1Q3RiM3BWSlA0Z09wblNIeXY2UWZwVmdEQk80WGZ4WEJ4UEVKNFk3TWRUa3FfTmppRTVERnZKZjNiQlVvb3lEMkpOQW5XX193?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 04:58:47 GMT",
-   "summary": "Chinese factory slump eases, but weak services signal uneven recovery &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Trump on possible Venezuela departure from OPEC: 'It's up to them'",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmExU2NGdUttWnF3ZGxuQ28xT0k0eE1aSTl3Z1QtaHBkdWQ0c0JnV1NFM1RYaTlua0EwY0FHRFZmUzZHUFhrZEZ3cy1zXy12VVVmY2hWS240bklXUGlnYW1LYTVBSzJabU5uMWx2dW9XN1E1SG8wcHBSazFMOGhnUWNSeEM3anRHVjJYeHU4M1pmWFVDSGZNblhUUEpxYVRKcGVyLTV3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 21:17:36 GMT",
-   "summary": "Trump on possible Venezuela departure from OPEC: 'It's up to them' &nbsp;&nbsp; Reuters",
+   "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2R4a18tclZHTktSM0VZczM5djlzd1Rsb21fX0Q2ZEwzV25CTHVDbEpDUks5TGVyWFBCclBnTU9xSkp3R05NN3pLSENlMUJIRTRYRFdjQ0ZxcE9XajNXNkRrRFFjeTJSMlE3dEZnYXNJb3dneGdQY2NIRGRJQWw1eTg1SGxhbmhEUGlxSHRJU01RX0ViWl8yWnJnSXcyYktxcUh1WW5DNHp3SWE1U0pWcEJTRGktOHdjeWFzUE1KNURXSGxlTmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 16:19:13 GMT",
+   "summary": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,6 +412,14 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVm55QmtFUkI5aVhxUHJNamRFWWRHZDhRS2FURXFKMFljbGZZZHNCWkdUUGZPM0RoMThzYkg2b1JTcnRmU3p5Si1ndV9oUVRGaFRkSjlmWnZIeUJ2M1NVNWtjWkE3UGczX29XZXI0YnJTQTJHWFBFeXl5YlFkbkxGWmlhOXRFRDJSSFVYVGJ3TFBONmFRZE1ac1JOY2ZoUHc1NUdFbUllVm9saFZIX28tNEVQeUdQTl83X1dobGUwRTI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 23:15:16 GMT",
+   "summary": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjdMVkl6Zld1cG16aFA3UUtRd2ozVHRERm1Sb1p0WGtVN2xsUEJVbnlaUWt6M2NiWERmaUo1d080c0hWeHFwVGY4UlpZMGJENG91NXJ4bzhMbXNjRVJRQlo1d0ppNlNPcjUtd2F1d2xheXhBaW5OYU43SDdkYk13R0Y0SGNzblZOOTFJcTM2SmJJV3VRbVNyWGZ1bVdzaGJSQ2lBMXZPOWdWb01VNmR1UGYxZGE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 31 Aug 2026 22:55:47 GMT",
@@ -420,18 +428,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "US irks G20 ministers by inviting Russia, barring some journalists",
+   "title": "US irks G20 ministers by bringing back Russia, barring journalists",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDY4ZlJsY3c3S2d4bGo2T2FyVEVyNmY2UzltakRiUktLUnlSWUk4YlFQSXd4VnlQUWtrbDZaR1pYZEVLV2d1UEdZLW05N0xIdWZFSjRzN1VUaXlQQnNJY0hQMnl1cEw3ZWQzY3dVbmRXNTk2b21McGh5YW9OdWVRbDAwVi1aZWY2Z3g1a1BaVUxaRm9XaHo3czZJU0VCWU1ucDNETUV2eVFqMXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 22:14:41 GMT",
-   "summary": "US irks G20 ministers by inviting Russia, barring some journalists &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "China reins in rising yuan as weak domestic demand clouds outlook",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUlZUUxvQ2xkTk15Zk8yRi1KZkU2UnUtX0lCdDYyUTBEMnh2LVBYUll5dE5DQVdCNVNrMUE3MXc0cTdQdTZ1WkNDdC1pNjdacS1SWFc5Y3RLYW9HdFg5eC13U1JJakFfbGR2cDVycUQ3d2w3aEYwYWJvc2lSY2pxckVwRWxOWHJ5dWxVYkZ1dVFoSFZtT0ZwcXowUE1rNmZpRzZYcEh5R1ptYkNES1Rmc2h6cUI?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 10:59:00 GMT",
-   "summary": "China reins in rising yuan as weak domestic demand clouds outlook &nbsp;&nbsp; Reuters",
+   "published": "Mon, 31 Aug 2026 16:20:00 GMT",
+   "summary": "US irks G20 ministers by bringing back Russia, barring journalists &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,18 +444,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Booming weight-loss drug demand in Brazil fuels thriving black market and health fears",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnU0M0piVjA4SE84VElRNXczdVEzTF80dFdtMU54OU13MkRvY3lrYkNuTGM3UjB4VnFxZlBpd2phTlM5bzNJUVl0azNpeU01YWRLdnBsRXVETEp0Y0YtaW5waVc0bFNOenRfcVhSMTdlcnpKMEd0cnQ4WkFjN2dkb0hMOU1IajhtU2RUeG4zeGx2THF0clV6MndvU1NQTG0wc25rTXNSVHpfSWxGVThJSHMtclo0VXJqRDJ3T2tTTFBwVWxseXBWVkU1Ulc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 10:41:45 GMT",
-   "summary": "Booming weight-loss drug demand in Brazil fuels thriving black market and health fears &nbsp;&nbsp; Reuters",
+   "title": "Yields rise, oil jumps; US and Iran resume military attacks",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 22:56:48 GMT",
+   "summary": "Yields rise, oil jumps; US and Iran resume military attacks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Yields rise, stocks ease, with oil gaining as US and Iran resume military attacks",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 17:21:20 GMT",
-   "summary": "Yields rise, stocks ease, with oil gaining as US and Iran resume military attacks &nbsp;&nbsp; Reuters",
+   "title": "China reins in rising yuan as weak domestic demand clouds outlook",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUlZUUxvQ2xkTk15Zk8yRi1KZkU2UnUtX0lCdDYyUTBEMnh2LVBYUll5dE5DQVdCNVNrMUE3MXc0cTdQdTZ1WkNDdC1pNjdacS1SWFc5Y3RLYW9HdFg5eC13U1JJakFfbGR2cDVycUQ3d2w3aEYwYWJvc2lSY2pxckVwRWxOWHJ5dWxVYkZ1dVFoSFZtT0ZwcXowUE1rNmZpRzZYcEh5R1ptYkNES1Rmc2h6cUI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 10:59:00 GMT",
+   "summary": "China reins in rising yuan as weak domestic demand clouds outlook &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -516,14 +516,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Singapore commits $170 million over three years to drive fintech innovation",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNREZVSG9raWVNZV9YRVIwSF93LTFlWm9zeDB6LVlLbk9CYk1tSjRSWnNOYnBQNS1acjlod1podEpUY09RUHo0eEsxbzEyLUF4S0Rwck1Ua1pYRkZMeFlLbHg4U1NxRC1HYlg2QlA4U0JQaldaU3Q4NkFkRUlCRlJzZjlsN0hsRzk1UGQ2dEhNdkpFMU80RXZWX3VZVy1uUFBtYmRUQ0cwN2wyYUNNRmw2eUVJaTRqeWRyOUlrQWV0M1FtTzBC?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 08:45:43 GMT",
-   "summary": "Singapore commits $170 million over three years to drive fintech innovation &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "NEWSLETTER: How Meta’s AI layoff plans went kaput",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjY5eWhaSGFuNFFCTVVVQWNXZDhFM2FOUEFLNUo5QjY0QWl6OWtVRmlrU3F0YVRSZTA5NFpteUdlUHBPTGlNTThXYlNfTV9PX0UyaVh0Y3oyMkIxSDJGRDJZLXJLQ1hQeWFzZkJWQnBqVHBGTVU4Z0VXR3FlWmtEZmM0dFRJczNvNFlweEdEc3E4NWRGZl90NVZrWjJWam9ZYXpZQ3R5WWphVXhNUWZMcmF1LUZmLThQMkdVUy04d3FVUU0?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 26 Aug 2026 20:15:00 GMT",
@@ -532,18 +524,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 00:45:00 GMT",
-   "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports &nbsp;&nbsp; Reuters",
+   "title": "Singapore commits $170 million over three years to drive fintech innovation",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNREZVSG9raWVNZV9YRVIwSF93LTFlWm9zeDB6LVlLbk9CYk1tSjRSWnNOYnBQNS1acjlod1podEpUY09RUHo0eEsxbzEyLUF4S0Rwck1Ua1pYRkZMeFlLbHg4U1NxRC1HYlg2QlA4U0JQaldaU3Q4NkFkRUlCRlJzZjlsN0hsRzk1UGQ2dEhNdkpFMU80RXZWX3VZVy1uUFBtYmRUQ0cwN2wyYUNNRmw2eUVJaTRqeWRyOUlrQWV0M1FtTzBC?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 08:45:43 GMT",
+   "summary": "Singapore commits $170 million over three years to drive fintech innovation &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 14:48:40 GMT",
-   "summary": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership &nbsp;&nbsp; Reuters",
+   "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 27 Aug 2026 00:45:00 GMT",
+   "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -560,6 +552,14 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 24 Aug 2026 20:54:27 GMT",
    "summary": "Shares dip with pressure from technology, yields and oil fall &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 31 Aug 2026 14:48:40 GMT",
+   "summary": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
