@@ -14,13 +14,13 @@
  },
  "nyt_via_jina": {
   "status": 403,
-  "size": 787,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Wed Sep 02 2"
+  "size": 741,
+  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Thu Sep 03 2"
  },
  "reuters_via_jina": {
-  "status": 403,
-  "size": 717,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Wed Sep 02 2"
+  "status": 200,
+  "size": 28189,
+  "sample": "Title: World News | Latest Top Stories | Reuters\n\nURL Source: https://www.reuters.com/world/\n\nMarkdown Content:\n[Skip to main content](https://www.reu"
  },
  "nyt_svc_api": {
   "status": 404,
