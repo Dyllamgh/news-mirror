@@ -1,7 +1,15 @@
 {
- "generated_at": "2026-09-03T02:26:19Z",
- "count": 69,
+ "generated_at": "2026-09-03T08:28:03Z",
+ "count": 68,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Syrians Want Justice for Assad-Era Killings and Torture",
+   "url": "https://www.nytimes.com/2026/09/03/world/middleeast/syria-justice-abuse-assad.html",
+   "published": "Thu, 03 Sep 2026 04:00:11 +0000",
+   "summary": "Hundreds of thousands were killed and tortured. But prosecuting everyone involved in atrocities could be impractical and risk renewed civil strife.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
@@ -12,10 +20,10 @@
   },
   {
    "source": "nyt-world",
-   "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
-   "url": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
-   "published": "Wed, 02 Sep 2026 17:55:12 +0000",
-   "summary": "People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters.",
+   "title": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
+   "url": "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html",
+   "published": "Thu, 03 Sep 2026 00:03:43 +0000",
+   "summary": "The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said.",
    "full_text": ""
   },
   {
@@ -24,6 +32,14 @@
    "url": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
    "published": "Wed, 02 Sep 2026 09:05:50 +0000",
    "summary": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
+   "url": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
+   "published": "Wed, 02 Sep 2026 17:55:12 +0000",
+   "summary": "People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters.",
    "full_text": ""
   },
   {
@@ -46,7 +62,7 @@
    "source": "nyt-world",
    "title": "Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says",
    "url": "https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html",
-   "published": "Wed, 02 Sep 2026 15:41:09 +0000",
+   "published": "Wed, 02 Sep 2026 15:41:10 +0000",
    "summary": "As the war sputters on, an internal report from the International Atomic Energy Agency said Iran’s refusal to grant access to its inspectors was an urgent concern.",
    "full_text": ""
   },
@@ -54,7 +70,7 @@
    "source": "nyt-world",
    "title": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
    "url": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
-   "published": "Wed, 02 Sep 2026 08:55:25 +0000",
+   "published": "Thu, 03 Sep 2026 04:35:07 +0000",
    "summary": "The pro-democracy dissident was accused of urging Western politicians like Nancy Pelosi and Marco Rubio to pressure Hong Kong by imposing sanctions on the city.",
    "full_text": ""
   },
@@ -62,24 +78,16 @@
    "source": "nyt-world",
    "title": "Netanyahu’s Israel Is Looking for a Fight in Every Direction",
    "url": "https://www.nytimes.com/2026/09/02/world/middleeast/netanyahu-israel-election.html",
-   "published": "Wed, 02 Sep 2026 13:03:55 +0000",
+   "published": "Wed, 02 Sep 2026 13:03:56 +0000",
    "summary": "The Israeli leader, facing a tough re-election contest, may need a security crisis to rally voters behind him and hold on to his job.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Do Active Shooter Drills Help? Two Asian Nations Grapple With Gun Violence.",
-   "url": "https://www.nytimes.com/2026/09/02/world/asia/thailand-philippines-active-shooter-drills.html",
-   "published": "Wed, 02 Sep 2026 09:03:54 +0000",
-   "summary": "After school shootings, Thailand and the Philippines are taking different approaches to the drills, which are common practice in the United States.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "After the Earthquake, They Used A.I. to Mobilize Aid",
-   "url": "https://www.nytimes.com/2026/09/02/world/americas/colombia-earthquake-ai-aid-app.html",
-   "published": "Wed, 02 Sep 2026 09:02:30 +0000",
-   "summary": "As volunteers struggled to get supplies to quake victims in Colombia, a few tech workers built an app to map and organize the sprawling relief effort.",
+   "source": "nyt-business",
+   "title": "Trump Puts Tariffs of Up to 100% on Foreign-Made Drones",
+   "url": "https://www.nytimes.com/2026/09/03/business/trump-drone-tariffs.html",
+   "published": "Thu, 03 Sep 2026 04:01:05 +0000",
+   "summary": "In addition, the F.C.C. is weighing stiff restrictions on common drone technology such as thermal imaging and aerosol spraying.",
    "full_text": ""
   },
   {
@@ -110,7 +118,7 @@
    "source": "nyt-business",
    "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
    "url": "https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html",
-   "published": "Wed, 02 Sep 2026 16:20:36 +0000",
+   "published": "Wed, 02 Sep 2026 16:20:37 +0000",
    "summary": "The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.",
    "full_text": ""
   },
@@ -118,7 +126,7 @@
    "source": "nyt-business",
    "title": "Investors Still on Edge Over War, Debt and Inflation",
    "url": "https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html",
-   "published": "Wed, 02 Sep 2026 20:17:54 +0000",
+   "published": "Wed, 02 Sep 2026 20:17:55 +0000",
    "summary": "U.S. and Iranian forces traded attacks again, pushing oil prices higher, stocks lower and making bond investors nervous.",
    "full_text": ""
   },
@@ -155,18 +163,10 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Get to Know Your Phone’s Built-In Emergency Kit",
-   "url": "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html",
-   "published": "Wed, 02 Sep 2026 09:03:10 +0000",
-   "summary": "In times of natural disasters and other dangers, special features tucked away on your iPhone or Android device could help make a difference.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules",
    "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-   "published": "Wed, 02 Sep 2026 20:50:30 +0000",
+   "published": "Wed, 02 Sep 2026 20:50:31 +0000",
    "summary": "In a long-awaited decision, a federal judge said Google must change its ad tech business to address antitrust issues, but did not disclose the measures.",
    "full_text": ""
   },
@@ -174,7 +174,7 @@
    "source": "nyt-technology",
    "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
    "url": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
-   "published": "Wed, 02 Sep 2026 18:48:36 +0000",
+   "published": "Wed, 02 Sep 2026 18:48:37 +0000",
    "summary": "The department argued in a court filing that OpenAI legally used articles by The New York Times to develop A.I., adding that national security depended on American tech dominance.",
    "full_text": ""
   },
@@ -182,8 +182,16 @@
    "source": "nyt-technology",
    "title": "Uber Lays Off 10% of Employees in Sweeping Reorganization",
    "url": "https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html",
-   "published": "Wed, 02 Sep 2026 17:47:49 +0000",
+   "published": "Wed, 02 Sep 2026 17:47:50 +0000",
    "summary": "The layoffs affect about 3,300 workers, as Chief Executive Dara Khosrowshahi bets on a “leaner organization.”",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Get to Know Your Phone’s Built-In Emergency Kit",
+   "url": "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html",
+   "published": "Wed, 02 Sep 2026 09:03:10 +0000",
+   "summary": "In times of natural disasters and other dangers, special features tucked away on your iPhone or Android device could help make a difference.",
    "full_text": ""
   },
   {
@@ -244,10 +252,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "German minister says Brandenburg power grid target of sabotage attack",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNW1ldHZCdU9GenhqU1k3d0M5b2pYdml2MXl2UVZqNWpUUkhJN01hN1lTczFrZmItQXNnalE1RFN5a3c5YTZIdjBqMy01SU9PdW4zSzd5RHZTZk0ybmVlMzVRRVVvU3dSTC0wb2tUenJERXducXNiNGRIM2lCdWF5eTZTWDBhRXZTWmljRXV5VmFfck1WVzRETGg5VDNMYnZZQWxnbjg5LTdhMVNUTlVVd2pTcVhzWklSVk13?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 01 Sep 2026 17:03:47 GMT",
-   "summary": "German minister says Brandenburg power grid target of sabotage attack &nbsp;&nbsp; Reuters",
+   "title": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 18:01:52 GMT",
+   "summary": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "US-Iran strikes raise fears of renewed war across the Middle East",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 02:41:00 GMT",
+   "summary": "US-Iran strikes raise fears of renewed war across the Middle East &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Germany probes second power grid sabotage case, fears of hybrid warfare grow",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnhHa3pMVHB4TzBwMmZZd3NGb1hYSERTNmJIRXZyY0twUlhRMnRwdGt3dzNRRHhKVkk1WDdyTnNLVnRsdWVlUXFEdXR1eWdLQml2Q1hOM1pfRk5MRFYwX2ZQRmdkRDdjZkFMa2p3NjVpTUpIMDY1cThnVkt4SDZTNnBFazkxcC1TWTVRdTF2QWdWU2NNWnZHUGdlWGc0X2JBTDNLcDJRcS0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 09:59:20 GMT",
+   "summary": "Germany probes second power grid sabotage case, fears of hybrid warfare grow &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,6 +284,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "German minister says Brandenburg power grid target of sabotage attack",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNW1ldHZCdU9GenhqU1k3d0M5b2pYdml2MXl2UVZqNWpUUkhJN01hN1lTczFrZmItQXNnalE1RFN5a3c5YTZIdjBqMy01SU9PdW4zSzd5RHZTZk0ybmVlMzVRRVVvU3dSTC0wb2tUenJERXducXNiNGRIM2lCdWF5eTZTWDBhRXZTWmljRXV5VmFfck1WVzRETGg5VDNMYnZZQWxnbjg5LTdhMVNUTlVVd2pTcVhzWklSVk13?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 01 Sep 2026 17:03:47 GMT",
+   "summary": "German minister says Brandenburg power grid target of sabotage attack &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "US launches new strikes on Iran and Tehran hits back in widening conflict",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWVYQlZISm1jT2ZUaUZ4bDJ2ZE10ZEpaeXo5MnBPQTJYS0ZJNDFjNmdBNGlPQjdyRTIxMVJWeDYzTlFEZi1wVm55eUJTUjkxSjB2WnVVU3NLaEtjTWlMTFFXZlZuTDYyNzREc3hxWnpxRzdUV2MtRUdhei12TE9TQ0Rrc1hTMEN4alFnS1VFcVRzSEM1dmVxR2FYbzZXb1B2a254Y2FlVXlNMFBhQVlFRTAyNzdoaE1FN2Q5dFF0LS1PZDR3bm1PS2JR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 01 Sep 2026 11:13:00 GMT",
@@ -268,10 +300,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "US, China arm for space warfare: hunter satellites and orbital weapons",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVTFkS3hQM190ZEszNldpWmYwLXh6QnhmSHJvUDV3WFNIMHJMc3BVMmloVlA2NHp5X09rVVJaTDExMFZrX3EwUVUyTl9rclo5dzJVeWxBeWhSVGZKWHh1UkRHSDdOR1BaQjcycXhhUjhMN2JqWmZPQnJ0d3RNQWJ4X1daSXVoX3ZVekt6TGRPSzJ6aEJlQXZVa3U3T1p0QV9LVEZDSGtabFBfMFhjWnJVdHF4Zl9mQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 10:00:00 GMT",
-   "summary": "US, China arm for space warfare: hunter satellites and orbital weapons &nbsp;&nbsp; Reuters",
+   "title": "Volkswagen's road to restructuring",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1FRSWJnMVQzb3QwaG1ROC1TSVd0QzhrSDd4eHR5N05YSDkyeHdTWWZrMXExX2NQQy1ETTN0elpoUHhOTjNDcjBCYXFDYTZqMGJZSkFmOG5SaDFPYzVwMmt1QUdTMEJVb0VyWUFSZnUyeGp4WUZuNDhuUk8xR2dwSUxhbWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 05:01:00 GMT",
+   "summary": "Volkswagen's road to restructuring &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb05GRzZpQ2VFMXEyVTVCdzFLd2NtYVBqYUNldVo3WXhybzRZTXctUFEwSkxzWF9TcmE1d3hmM2JNMnkycndvLXJreW1XZkE1elp4QU5Sc25tbERmMVhaMktXUlNWQkQzMkF1VVl0YmFtQUo4c2hqZGhFX21HdFlmR3NsMVJwanZSaG12M3MxaUVvLUxyOGlzbE8tWjRQM0VVYjliWFR0ams?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 13:02:00 GMT",
+   "summary": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -283,43 +323,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "WPP cutting up to 1,000 more jobs by year-end, FT reports",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2dKUDVJdHRGQ2RJYzE2aFY5WGVDSW9Gb1RjSDUxS1NsU1kyUFdCY3pQeEs3SWg3R09QNTRXMm9HV19tOUdDVDlXMko1WkFNUTZEQU84dThvU2dhTVd0eFRqTUV2Wl8wX2lPQTNqYnZRTC12eWQxS1lJU3VoR2lLZnBHV3l6RGZTRFpMSGhrRzEyX0lkNHRiS2FPWDVySThRRWxMbWRWUU5mMHpkYXhZQw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 01 Sep 2026 07:11:00 GMT",
-   "summary": "WPP cutting up to 1,000 more jobs by year-end, FT reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSl9GcExBdk5lb3U4c1NTalROY2NUNHE4SXdlbE5yemw4WkwteWNMdTZVTFdrcHhPUVF5Q181eTlxZ2xoUkV6Q3F4a19ldHJBdGFnaG9URjY3bXNTMDE0aV9mVDU1MUtxMTRXRl9pR2p2THVmc2JiWGlSb1prUElXTWtaNzBsb3Z5U2tCNXZlTlMtM3pHU3Y0dkVNWUhHWmVWUmJxbnZmVVFlNmVlMDR3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 01 Sep 2026 07:27:00 GMT",
-   "summary": "Government borrowing costs rise anew, adding to pressure on global policymakers &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "COMMENTARY: The 'real' deal — world bonds grind towards higher neutral rates",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObEk0Q09CTi14SmVKc3c5d3dSclpzM21pYkRoRXROd3g3MHgwWWxzaUFzV1VNTi10MG5xWXdycUJoTEdwTF81enZYZnl6azdoZHJVT3E1NEFXQ1NlUVBBOUVvRENSWGFOd05sYTdvZ3Q5eEU1emlaTWdlX1FXbXpSUE1Rdm9GVHJUS0ZJNjlTdEROMVpEV3lSdFdrc043S2xNX2hhXy12QUo0YU5GNUFBb1pBYkpkcTFEXzBNZmdZWEtqQVlWSTVHbXVtQzEwUDY0OEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 06:00:00 GMT",
-   "summary": "COMMENTARY: The 'real' deal — world bonds grind towards higher neutral rates &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Leaders gather in Kyrgyzstan for the World Nomad Games",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMXdFM1pmSWJKYVNXaGVLbW1ZUW1GalJ6SjlqcjhBLXpHSTY3Nkh1VXVBOE9mdnZDTnNDNkNMV1RwRThoNW5TejJGQ05rVktIOVRHMFUzMldycjNMUzI1Rm5vRTgwUmxKSXpNLXRjbW9ibUtCdXFBRWdTbEFrSXhwVFdJVUtoRDhwZ04xamdhVnNYSVNxdDFPYUhmWmN1Qzg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 15:54:00 GMT",
-   "summary": "Leaders gather in Kyrgyzstan for the World Nomad Games &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-business",
-   "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 23:31:56 GMT",
-   "summary": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks &nbsp;&nbsp; Reuters",
+   "title": "Chinese e-commerce moves to next phase after delivery price war changes shopping habits",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR1drbGN3cGlMZTA4aTFsbExzSmc5X0cwM1lYdFFtdnQyckJqdHQzZUpvNkcxWHVBczM3c0xqN2RBOFc1NEc0WUhWVFlRcmVjeVBWYUNIaTYwZFZvN3UzT09yeGVNMlU2bWRxOGVFOTlDbk1JV3ozQ3FxOTR3Nld0MDkyLXI1bTNBNTlpREdNOW5ZcHJPRmRWWE1oR01YREpqVEdWYlQ2RjRFdHBDSThCcFFMUGI1TEozYTFPLXRGUDlFX3dsU2VkY2NzMVNzRUEzWXhVMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 07:15:27 GMT",
+   "summary": "Chinese e-commerce moves to next phase after delivery price war changes shopping habits &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,42 +340,26 @@
   },
   {
    "source": "reuters-business",
+   "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 23:31:56 GMT",
+   "summary": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnpYSkJQNF9FY2pHYXBETVkzdkdMRGhfLVU4ZVZ6MmhRSkRxSGlhYUktc0RpOFhxMEZ4NG4yaW9TdGZJMU80OG9UVG9xc0JKRzVCb21UZTJJZjZoMi1ONWdVT2dCUXNRRi1QZ3RFVnp2QnZRa3hNUFB0QnNGNV9fUGxmckttdXFjX2JSUEljSjFMRnNoSmFoT2Z4U3ctUHoweWVnQnlCYUhaZ1FCd1c5TXBHZUVEUTdGRXlQcFVhZ1lwZTRMYjk2QXRpbE5wU1pWeC1YS2NB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 16:01:43 GMT",
+   "summary": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "US private payroll growth slows in August; factory orders rebound in July",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmZUU2czdEdrYnpvU0I4OHNuOEVCekFKY0lmWVNYaGhhSTg0c0llcUIyNFE2bVRGSGxNS2wwcWsxTW1TeTlGby0xODVONXFURU9QZVB5MG9qQm42eDJJWVNIRTZGRld0YXJ3bXJEek9sRWZOUUlURkkxRi1nYTVlZGV2c05uOWNLWXNicU14WjZWeHhldk9FTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 02 Sep 2026 15:43:59 GMT",
    "summary": "US private payroll growth slows in August; factory orders rebound in July &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzBsYXlGY0dqSEdBMnJCNHNJaHo2YUtSNTRIaEcxTFd6dVIxOHhDWDl2TlVEREVYOE1WcEs3dE5IRHYyVXE3TDE4S0pBeHd4SG9MUjVfdzlaTWNLX3JWODU4VEFWS25IdEtnb1BKeHQ2ejU0NFYzZ3dGdmIwajRwc2lVclEwcXRYZ29OOVlYUTFrbmM2dFMzU2N5aWVwN3JHSVJtUDVqM01JTzBfRWd1amZLc3V0QV9Mdncw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 12:07:39 GMT",
-   "summary": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "From street names to supply chains, Canadians pull away from US as rift grows",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYl91c3ctMThSR18yUGRXLTlrdkpueHBUZHRHNTloRHdmWFlmZTZHLW5OeGVZWXZOTGhjQVdLeGZsYXhNd2J5Z2xIRjFLRlBzT3NCRFlqTFRxb0JkLWxaNzNOUmVuN0x4RWY5czV3a1hyNWdzX1MzR1lKb1g5QTIydVljbThpOWJOTE5mM2pTa18tZ1NINWZoVktVc21IZ3lVbFVNTUlwN00?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 17:14:00 GMT",
-   "summary": "From street names to supply chains, Canadians pull away from US as rift grows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Dell shares gain after strong AI server demand boosts annual forecast",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmNtT1NWQzNvZG9xWl90RkNVMTdUUGMwS056SGE5X2Y5SDNFNEVqRmUxQ2MtZjJrcDJDWU1rcTFMdTBNQTRhNUZPdjYtUU5XSTlCQkxhSl9wd0lWOVlxRy1weGpiUW9PdTJaTUtnNmhicktYWmE2cWw0SHRMU0JuU0k4STJrSjhwcmxEeUNONm1tUVFmMkNEZFVlS2xoandSQURBSG1EVC02QWx5RkkzMkVwMEhFd1lJM3dIMzBveDU0bXV4ZHV6REJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 13:51:24 GMT",
-   "summary": "Dell shares gain after strong AI server demand boosts annual forecast &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Uber to lay off 10% of staff in biggest cuts since COVID",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelprYTZqU1R2cFNKc2lqX0NZdGFxR0tyVjI0OGRUNFJHSHJJSkkzWmlfNGY0cXc2ZmpZaUc2X3RHZ3h5eEx1U2xZdkRBOHJQZnpRMVJYckhhUUVqZVd0Q3FWczl0dVNycmxiUGxuT3lqcWZVdkpLeW1jaG5rV0lNeTU0RzVYNVZKQTNRLWxXbE9CMkplR2xQaTlzZEJOaUU0MVMyanZZaUIwY0o3OHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 14:48:53 GMT",
-   "summary": "Uber to lay off 10% of staff in biggest cuts since COVID &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,6 +372,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Dell shares gain after strong AI server demand boosts annual forecast",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmNtT1NWQzNvZG9xWl90RkNVMTdUUGMwS056SGE5X2Y5SDNFNEVqRmUxQ2MtZjJrcDJDWU1rcTFMdTBNQTRhNUZPdjYtUU5XSTlCQkxhSl9wd0lWOVlxRy1weGpiUW9PdTJaTUtnNmhicktYWmE2cWw0SHRMU0JuU0k4STJrSjhwcmxEeUNONm1tUVFmMkNEZFVlS2xoandSQURBSG1EVC02QWx5RkkzMkVwMEhFd1lJM3dIMzBveDU0bXV4ZHV6REJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 13:51:24 GMT",
+   "summary": "Dell shares gain after strong AI server demand boosts annual forecast &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Berkshire CEO Abel says AI to help power growth",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUhNVlk0cFV2aWlLZS05RGdXb09LX2E3V01uSzBlc0tqY3R5S2NDblgyNk10QW05Z3FFSXBGVkhVTUJkSVU5TGxvZ0VqelU0eVdjV1gyWXBHWFZnMnQ5VW1sRnQyRXhkR1BYSlplWnF1OG4wYWFvWEJCQThFa2ljMFdvRFpVZk45eGFaNHdrSzZMVWNCSjNxcHVSNy1CdFZUNWxIWjBHSmFxXzhvZm1r?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 02 Sep 2026 16:26:23 GMT",
@@ -388,10 +388,58 @@
   },
   {
    "source": "reuters-business",
-   "title": "Climate shocks hit EU maize heartland in Hungary and Romania",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVhWZGYySm9Zd0tLMnY2NnQ5LWF3S2VpdGZFRzBLRzFNVFZHNFkyVXQyWS1PeFJ6ZjBETjN3b1REUFExVk1KOGN5Tm1qU2drVkFPdWQzOFFfYTQzOFAtS0F4UkUzV0ltMGRQYjJ2ckhTS1lYc2xBN0lMT1R0bHV3MWZrOU42d2JaUG9iVmJLeVZpeG03X1pTV0NpMHhNb185Wnd6cUE3TVhZY2xMUHNj?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 12:04:21 GMT",
-   "summary": "Climate shocks hit EU maize heartland in Hungary and Romania &nbsp;&nbsp; Reuters",
+   "title": "Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamJMNVI1ZThlMnNnbFl2Tl81SXd2ckc1eGF1aS1uOU11RHFSTjh1a29pOUV6cV9VR2QtS0liSlU4YlBBbWxVQ0ZTMDlLRnlad0p0cGtXY0ozWkl2MURsM0lOdktDSFRMN1pDLUh6TEplLWtJSFY1T3hmRVVMeG1jNGc1bFVhZ2V3YTdLZ0VKRlZQWks4SXVyb09uRmJ5YllpNTdKVVFfZXk5VEg4Mmw1UTFja0hFYjZDZjFfXzhFd3pBWmxvcnljT055Zl8?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 01 Sep 2026 23:03:00 GMT",
+   "summary": "Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Japan services growth hits five-month high, PMI shows",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM2ZxOFJ2YVVjMGR5YThVdVU1M0tkbzB0emFlRzFrUzVRZ0Y2cEdQb21GM2xwbGFLeUFuc0xsOHRZQWp5cVE5cWEtM3A1aVZvcjNUNzBvREYxeE9VU21uN0hFRnA1d2x3Tl8yQ0dtejNkMVVHSEFwS2Y1X2t5OGx2cVBHcEpVRHVFNmJTdGNSNXVUSS1BSFFlbF82YkJTR09iOXZNWWZYcFpPMWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 01:33:27 GMT",
+   "summary": "Japan services growth hits five-month high, PMI shows &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Shares, bonds rally as markets await Fed signals; yen jumps",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 07:37:08 GMT",
+   "summary": "Shares, bonds rally as markets await Fed signals; yen jumps &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Yen rallies sharply as markets raise bets on Bank of Japan rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk4xazZBQThxRzlWV094ZGRtRGVpZUNWekE2R1lYVnRkQTduUVRHM3N3RW9TcmNjbWJ6TmIwNkliS0xNTzJDM09WVlIzOWktRV8tZE5LaTNJbkdoOHpRZVlWWkpQM2hVSXA5QTBDNklmTUdJbnlVVk9NV0tkT0dUcko3YmFSVUhVVzRkQnMwbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 01:03:00 GMT",
+   "summary": "Yen rallies sharply as markets raise bets on Bank of Japan rate hikes &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Morning Bid: Bonds breathe sigh of relief",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pU05Pa19Wdk1kVndQUEY2UEhQeDVyUVRZYk5KczZYeXpwM0lQVzZjc0FuSmx5X3JETzV0NTl4clRicWtaTDl6SVBxbXJ4VDV2M3NUdFg1QTRXajBYRU9fYWd1clN1WUdYTTQ0TDlEOXJGTmMtbzVVaDNKekRKeFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 04:33:00 GMT",
+   "summary": "Morning Bid: Bonds breathe sigh of relief &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Financials lead Indian shares higher after recent decline",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmx3ekk2V0VXSlJYX04xM2x3WHVkOW1id2dsUlVJTDI5U1hWekdqeGZSRHlJUnR1U09RZ3FVRzFUa09uNFgyeng0Z0VuYjltTFFwMGVqb3dxRFlOaGZzTGtKS1FhN19vaWl5V3poemFDVFRwTWRuQlJPcnkxdTB0b19TS2VCQnR4NVZzaHU0NU9KMHR5TzdqSnBuR1oyTExNTmlXbFIzNWVtTHhBbV9ET0FzbjBpSjQ0MFpXT2hQOGJnZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 02:38:00 GMT",
+   "summary": "Financials lead Indian shares higher after recent decline &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Gold gains, with investors gearing up for US nonfarm payrolls report",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhNZ1JkRGozUnRmOFd3alQyWTVjNjd4WXp4SmV4anJuRndaaEVRdzlXajB2b1pWUjh5LTJscnFjY0l6QkhINE9MaXAtRVVWVkdrVXZTSlRudFlSU2cxVVlMT1pkN21TTG55MUxyZEkxalhRUGNwRkVNYXZOeWZuX3VsSWx4alNGeENzSzdfSFRvRzlwdHNZRUppTGdIcHMtTUdrU05KV2VoQmNiWTNfOS1kVjNFMzFDQzFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 02:41:00 GMT",
+   "summary": "Gold gains, with investors gearing up for US nonfarm payrolls report &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -400,6 +448,14 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnktR0puZFhQOEtHMGZJTG9TLW12Q19oMkItWlVXMFJIbzdycF9rWl9pOUxUeU01MzZBeXowQ2xrSmdoQTNMMDExQWstWkkwdUpicC01VkhxSEthcHZTUTRHbmUza3RXMWF5WFd2bkRkOWFvSWxpVFRxa2lRMzM0RzBmYzBOZnFJUVJEYnhLaEpIT3ZLYTU2Y2haLWdPV3FBUHVQSnpJSUhkRjVJT1R2aFd3MG5GUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 02 Sep 2026 11:08:32 GMT",
    "summary": "Bull or bear market? AI spurs rethink of traditional market measures &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "New Jersey takes fight over Kalshi's prediction market to US Supreme Court",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjRqMUR0RmozaFNMRndreUh2cEpXYXowSndYVi15Z0FLNFV5bUgxd2cxTUlpSnVhUlc5SDJvWmV6N2xVOGctanIyUEJXVVVNMUZ4a3h3NDVpUHVsb1pjR1ZKTDVuN05oY0prVVFoUEtxd3lQUUdTdnpQN1lrdHZyNEJqZmhpY0ZVRjVfNjltZTVLWUpfR21iXzlvcFBkbF9EWHdxZGZoTGpvblh4ZFpXTHRuVUFqQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 16:01:00 GMT",
+   "summary": "New Jersey takes fight over Kalshi's prediction market to US Supreme Court &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -427,51 +483,27 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "How Japan's bond rout is turning the tide of global capital",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXo3bnhiY3VkSFJ2TDZLUVBrS1lYakxJQ1FXel9HS3hJQmFmN3d4c1ljaHlBd3RvelZyekRzV2w2UU9SWDJVYnpydXQ1cHplOXFWQmd4R2lwUEZSMDV4SHR2V25FUHBWWUpaSTM2SkpsdGNHRC1VSUZOeURDY1dQeERiUVJIQlZqTl9idjlBUGU5QklHOXlsRlp3MklYaHNKYzV5MUlpbmJwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 08:18:08 GMT",
-   "summary": "How Japan's bond rout is turning the tide of global capital &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Mamdani imposes one-year ban on AI for most NYC students",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3pZYVc0QVRhMWllSnUwZHJsNDlzd1ZhWXZOTmpHVXZwcXU3T2FtTUl0b0ZrLTdFLVNJdmRNYjdUalY5cnVSV1VjZU82SlpPTkdqRS0zSENzd3N1dl9rcEpzSVpfeC12cVp6V21TSDJwYmdmVmEtVXNOdkMtb0F6QXIzZ3d4eDVEekxHMkZ3UHI0WGphSVFrcDd3UWE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 20:01:43 GMT",
+   "summary": "Mamdani imposes one-year ban on AI for most NYC students &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Indian shares join global slide as Mideast woes mount",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 02:23:00 GMT",
-   "summary": "Indian shares join global slide as Mideast woes mount &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Google escapes ad tech breakup in third Big Tech antitrust loss for US",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzZjU0NTeE1iWXZnaFIwQ3owdlFBWTM4NnZNZ25ncjI0VngydVFCc2ZLOS1PalpFLTNBdjNkTkpyNDNIYTFXd1JQMURDbnFadXB1T2s4eFNENXpxQk9BcVFWdUNvRTBwVFh4NEwzaGd4S3NmbDJYZVVyeGlseTVXWktpa2tDWmpTZllyYmVOQ2FIaVEzSVlacA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 16:54:51 GMT",
+   "summary": "Google escapes ad tech breakup in third Big Tech antitrust loss for US &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Stocks climb and US yields ease; yen jumps against dollar",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 22:01:50 GMT",
-   "summary": "Stocks climb and US yields ease; yen jumps against dollar &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: Morning Bid: Bonds boil",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGpDVWZIa0U1VExDTExaZ1ZyYlBjV2ZBLWtIYUtBX2lfcUNxQ1ZkQWxqR3NQNVRKcFVWU2g0RDNXSkJyU2pwUEMwS0tJcnYxRG9ucUlVMUxFMDl6TjlOSWE1VGJXZ3lFZEh4Z0FvaXFpalVfcXBPa01LSGxTS0lfOGJVY09xYlJxZi1pTG52M2F2aEprZ1Zn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 10:43:45 GMT",
-   "summary": "COMMENTARY: Morning Bid: Bonds boil &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: TRADING DAY Yen jumps, oil pumps",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0FHMEFfd2xEWjlNWjNZazN5b01VM0MwbW96M3Z0bDZ6cktHVGdXN3UzbjZ1RnZsYTNaWk15REIyRDdPQ190bklNVTFOWkFEclZGMm1WWlZ5TDBqRWlsUUZpbjROSHFnX3NWb3gyWWRaOGRUbWZyakZMVTNVc2tVWC0wWXlNN1RjMmJDVmtIZVRjdXMtRWFDOFBrdG1jVF9Ec0pVWlZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 21:04:17 GMT",
-   "summary": "COMMENTARY: TRADING DAY Yen jumps, oil pumps &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "No shortage of culprits in panic over long US Treasury yields",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVVczNWtaWmZ0TmRaZTk0UjJBaHBJb3ZmWVIwdEt4RnFwRTVLdnNQVEV6RmhJTmItdlFiR1pkTXZEUEZXZjk4elVNUE55TFJ4ckt1MHJzekhGVFhHRGNpby1Pel8xOGUydmRGdlV3REQtbFJ4VnRRc3U3c0pGaHZSTmhabDVqX0pyVWlBZzFOUWZ6dVJaNTA1QXctTm5xbnNTT3FNQ1gtckUwMnBpVEhFWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 07:47:01 GMT",
-   "summary": "No shortage of culprits in panic over long US Treasury yields &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Uber and AI-firm Wayve launch London's first robotaxis",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLUM0eWN6Q0l5Z1FRZ2ZPX2JSREZCczlvTFpYdlpzVVBlVWlveG52eTRRaVpRQ0tqREZ0RnhPLUJLOGFjZHdweDVxNEVfTW9OLS1YdDg3aWw2N25DTnM1dmlXQzJvT0xxSW82MWpGdlFBZnN4ZXpsZEVRVjdhOVNqdXdyalNJN3BOTWFwT0R5MFZSNkhUMGxCdjR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 23:02:00 GMT",
+   "summary": "Uber and AI-firm Wayve launch London's first robotaxis &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -492,34 +524,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUNLeXg3N3k2RHR6T1ozbUI0MFd3ekE1YS1sNmxuWjZxeDhSZ1lDb1NqWXBsbXRaMktEcWV6b3dKREtyMEVCcy12dlI3cGtoVk1xYUFVbjVsNXVyclRIVXdvMFBWZG1UN21JLUZkcVpEZjdvbjRlU3YzUS1hd2xqYzJSZVFSZF9LVVBtY01Demh0U094NzE4a0xtaUNONHlqcTVqZWlybGdYYWlEVzlpaHFJZV80NkY2N1NQR1E2a1FIaFRwT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 14:49:30 GMT",
-   "summary": "Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamJMNVI1ZThlMnNnbFl2Tl81SXd2ckc1eGF1aS1uOU11RHFSTjh1a29pOUV6cV9VR2QtS0liSlU4YlBBbWxVQ0ZTMDlLRnlad0p0cGtXY0ozWkl2MURsM0lOdktDSFRMN1pDLUh6TEplLWtJSFY1T3hmRVVMeG1jNGc1bFVhZ2V3YTdLZ0VKRlZQWks4SXVyb09uRmJ5YllpNTdKVVFfZXk5VEg4Mmw1UTFja0hFYjZDZjFfXzhFd3pBWmxvcnljT055Zl8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 01 Sep 2026 23:03:00 GMT",
-   "summary": "Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Anthropic unveils new framework allowing AI agents to operate physical devices",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWhmNnhIejBEcG1zQWRzeWtHbVZCOUtZZmtraGJiNHdjVzdpU3liY2VfZTF0X3pUUl8tNWN1TXMxcTNqRk9xRXRTZ3VGQUV2MVl1MllqWHpCby1ua2R2VWJJR1hRUi1aTWJxQ1lXWHBEcklUb1hZS3dkTEZkSDFxUjNzbFFiZUktaXJ3WGJRUjF5RHROREJSd2c3N0RfRkNIbzNxd05GdnJ4VnZma0R5QU5QTEJwOG1aUmZuaERmMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 19:20:09 GMT",
-   "summary": "Anthropic unveils new framework allowing AI agents to operate physical devices &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 27 Aug 2026 00:45:00 GMT",
-   "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports &nbsp;&nbsp; Reuters",
+   "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJlc1IxSnBNVlBndHZMS1kwYVlDX0ZMdWh6NUpST05rNjJhX21oSHBoRkROUjVoUVcycTZuaTZPYk8tXzBDdjRvdjlJaDBHMkNTdlF1VnZmQmxVRnI0empNaTEyQ211Ulh2Z0wtbXFmYUJJZWRCakUwYld4Sk5BbjlTa29sTk1Kd20xMEMxR1hyVWdGb29Hb0twOUdZeUZYOE9TOFplT2NORTB0ZGNmbEpkVl9Hd2Fq?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 01 Sep 2026 21:26:48 GMT",
+   "summary": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -532,26 +540,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPci1FMmItQ21hc2NTdV9rN3dIZXljSGVLYVNEN0lWRF9TYzZNN3VIUzRBSnFqcDUySXA1dEo5NkZUX3Jnb2ZPM2tzRkRSVXFjdTR2QWhkSGZVNTdFN1ctb0RLenFHWHN3ME9ZZVVhR3RRSzF3VHlqUl9tR21fNklHa3dEQ0tpclFaVTMycFk4ZGJOajVFQkZQZllsc0hjQVhESHZMalpiRFlobFlQNWlrbloyc21kSk02bkdkbHdJWDFkcVBIMzdsUVdQTkFUQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 15:17:17 GMT",
-   "summary": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Huawei H1 profit drop quickens to 36% on rising costs, R&D spending",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1I4TEstT1VlcF91UEZnTXNwSHVuaFNrc1dhQ2F1dFNZdG9YZmFFR2YydTEzRDlUZ1lzN3lFbFZnTFRkejJ6TDFWcF9NcU9BUlVJWmJ3TzM2bTNJby1pS1FETXFpOWtFblNfdWJKZjk3UU1ybkwtbHZfNmZ6MGhYcUZGMGZrUGswRHM2RU9VQ0lfc3RUUjR1QXFmdUUwMUVJQUduRHFqNFJsbTJzUHRNMXVJSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 11:08:59 GMT",
-   "summary": "Huawei H1 profit drop quickens to 36% on rising costs, R&amp;D spending &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Chinese court freezes $300 million of Nexperia assets in Wingtech case",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMy1Xal9hQU5QWHU2R2NGN1FBMFZoNEM0dzVlbVd5Z2poTnlLZi1vcU05aGJzZnoyQWZQbUxQQUtmSGdZQ0ZYMWEtZHJhN1lTdy1SeUFBQXpfYXJlMXBfQ29JbUxsc0dJcWRjaDFmWUJmNTRmWWVJdjJLOWhkYmk4cjFGc3NFbjdmcUJRdzZ0UHI0ajF0OE5EMUNXYUZlRmExeUJtQlpfQmhlZ1VOYmdKNVR5WnYtUkszZ1FfV1dFQURkNGs0bzRmZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 31 Aug 2026 18:22:22 GMT",
-   "summary": "Chinese court freezes $300 million of Nexperia assets in Wingtech case &nbsp;&nbsp; Reuters",
+   "title": "Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUNLeXg3N3k2RHR6T1ozbUI0MFd3ekE1YS1sNmxuWjZxeDhSZ1lDb1NqWXBsbXRaMktEcWV6b3dKREtyMEVCcy12dlI3cGtoVk1xYUFVbjVsNXVyclRIVXdvMFBWZG1UN21JLUZkcVpEZjdvbjRlU3YzUS1hd2xqYzJSZVFSZF9LVVBtY01Demh0U094NzE4a0xtaUNONHlqcTVqZWlybGdYYWlEVzlpaHFJZV80NkY2N1NQR1E2a1FIaFRwT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 14:49:30 GMT",
+   "summary": "Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
