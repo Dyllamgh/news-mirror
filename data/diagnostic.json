@@ -19,7 +19,7 @@
  },
  "reuters_via_jina": {
   "status": 403,
-  "size": 749,
+  "size": 713,
   "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Fri Sep 04 2"
  },
  "nyt_svc_api": {
