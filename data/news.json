@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-04T17:19:59Z",
- "count": 58,
+ "generated_at": "2026-09-04T20:08:59Z",
+ "count": 69,
  "items": [
   {
    "source": "nyt-world",
@@ -38,16 +38,8 @@
    "source": "nyt-world",
    "title": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
    "url": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html",
-   "published": "Fri, 04 Sep 2026 15:41:24 +0000",
+   "published": "Fri, 04 Sep 2026 18:42:04 +0000",
    "summary": "The attack came as the American envoys Steve Witkoff and Jared Kushner were said to be planning imminent visits to Kyiv and to Moscow.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Inside the Nepal Tunnel Rescue Operation",
-   "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html",
-   "published": "Fri, 04 Sep 2026 11:20:39 +0000",
-   "summary": "An Australian engineer advising the effort described how two men were freed after nine days trapped in a tunnel at the Upper Trishuli 3A hydropower plant.",
    "full_text": ""
   },
   {
@@ -83,6 +75,14 @@
    "full_text": ""
   },
   {
+   "source": "nyt-world",
+   "title": "Inside the Nepal Tunnel Rescue Operation",
+   "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html",
+   "published": "Fri, 04 Sep 2026 11:20:39 +0000",
+   "summary": "An Australian engineer advising the effort described how two men were freed after nine days trapped in a tunnel at the Upper Trishuli 3A hydropower plant.",
+   "full_text": ""
+  },
+  {
    "source": "nyt-business",
    "title": "What to know about the report.",
    "url": "https://www.nytimes.com/live/2026/09/04/business/jobs-report-economy/what-to-know-about-the-report",
@@ -94,7 +94,7 @@
    "source": "nyt-business",
    "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
    "url": "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html",
-   "published": "Fri, 04 Sep 2026 15:58:29 +0000",
+   "published": "Fri, 04 Sep 2026 19:45:22 +0000",
    "summary": "The president said he could halt trade between the United States and countries with which it has a trade deficit if the central bank doesn’t do his bidding.",
    "full_text": ""
   },
@@ -110,15 +110,15 @@
    "source": "nyt-business",
    "title": "How Gloria Steinem and Ms. Magazine Transformed the Publishing Industry",
    "url": "https://www.nytimes.com/2026/09/04/business/media/gloria-steinem-ms-magazine.html",
-   "published": "Fri, 04 Sep 2026 16:13:05 +0000",
-   "summary": "The late feminist icon insisted that women were not a niche audience — and proved it in 1971 with the start of an influential publication owned and operated by them.",
+   "published": "Fri, 04 Sep 2026 18:47:12 +0000",
+   "summary": "The feminist icon insisted that women were not a niche audience — and proved it in 1971 with the start of an influential publication owned and operated by them.",
    "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
    "url": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
-   "published": "Fri, 04 Sep 2026 15:29:53 +0000",
+   "published": "Fri, 04 Sep 2026 18:07:13 +0000",
    "summary": "The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulations.",
    "full_text": ""
   },
@@ -132,10 +132,10 @@
   },
   {
    "source": "nyt-business",
-   "title": "What to know about the report.",
+   "title": "Robust Hiring Reinforces Strength of the U.S. Economy",
    "url": "https://www.nytimes.com/2026/09/04/business/economy/jobs-unemployment.html",
-   "published": "Fri, 04 Sep 2026 16:43:01 +0000",
-   "summary": "",
+   "published": "Fri, 04 Sep 2026 19:17:35 +0000",
+   "summary": "Employers added 162,000 jobs and unemployment held at 4.1 percent last month, signs of a stability that contrasted with high inflation weighing on households and markets.",
    "full_text": ""
   },
   {
@@ -196,6 +196,14 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
+   "url": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html",
+   "published": "Fri, 04 Sep 2026 17:19:30 +0000",
+   "summary": "The survivors contend that the company should have notified the police when it shut down the shooter’s disturbing ChatGPT account eight months before the February attack in British Columbia.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Corporate America Is Getting Hooked on Open-Source A.I.",
    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
    "published": "Fri, 04 Sep 2026 14:55:38 +0000",
@@ -227,243 +235,323 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Patrick Gleeson, Who Made Synthesizers Part of Jazz, Dies at 91",
-   "url": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
-   "published": "Wed, 02 Sep 2026 17:29:04 +0000",
-   "summary": "He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock’s jazz band.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
-   "title": "World food prices at highest since 2022 as supply risks mount, FAO says - reuters.com",
+   "title": "World food prices at highest since 2022 as supply risks mount, FAO says",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWg1YTJhUEh0WXJNUk11cTZYSDhIcHBqTFIxX0E3NU4xdmd2YTJUaFJUb0hKa0hZOFo1SVJXM3padGM0a0ljeGJrZ2VoNXFaQmhrbGMzMmo1dEJPbFl0enJPa0JCelVlWmZiWXppMzl2b3k0NjJRVVJZX2haU25RWWYyWjhZOFJDSGJKVDFiOGpwdHE1U1Y5Vzg2V1AwNmw0b0dLazRRUnp5aU1TczMybW5Pcw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 04 Sep 2026 13:43:55 GMT",
-   "summary": "World food prices at highest since 2022 as supply risks mount, FAO says &nbsp;&nbsp; reuters.com",
+   "summary": "World food prices at highest since 2022 as supply risks mount, FAO says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "From hunger to obesity: Developing world faces growing threat to child health - reuters.com",
+   "title": "Body of King Oyo Nyimba, once world's youngest monarch, returns to Uganda for burial",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFlnZ29rOW9sT2Y2MDU1RHhlRXY4QTkxTk4wRC1DbTFGSnFkN0pMSlRVV01pTG9oa1lJMUFrQ29rcUo3NXpRSncwN0FqVVBGTllFV1dRU3lKOVp6LXVyWjF2T2lpZVBIcEpISG1WcHF0VUFqQi1OTFliazdQM0ZfMk8zQ2NLOFRjOFVBTWhBT25TNXpua3dNb0FNelVEc3JSeDNvUkR5c1dXR3BhRzMyOC1TdmRqZ1NKSHZaTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 14:15:45 GMT",
+   "summary": "Body of King Oyo Nyimba, once world's youngest monarch, returns to Uganda for burial &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "UN approves resolution in support of map that shows Africa's true size",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkZDdXVTbjZITk5peW5zRVhuVEF3eHB2ZWR4STdweWQyMUhFRnV1MWpHZ0ZNUi10akk4d0FlUGRGdGZwY05hN0pRLWU5MlhIMXNKeEVickZDenZfN3p3UTF2MElYR2VXV21qRkJIRmstU2lwQ0EyREUyclNkX0lvaTBsc0Q5aXBBY2FnVHFIS2gtODFqUTFiQzk4TktXd25hUXRXT24zc3E3NlBleFhwelZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 16:59:43 GMT",
+   "summary": "UN approves resolution in support of map that shows Africa's true size &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Canada loses 41,700 jobs as summer hiring fades; unemployment rate holds steady",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUW96LVpPUnhIbXM0UnhLUDBVdk10dXI5WkJjWHVteGFNSHBXbTczQy01eC1fYXNnVUNRQXFsa3FXZFg1M3MtVXoxOWpWalFHNzRxNEdRRTNtTkVRcWFSNGRkTFBKV1VIdlFyRXpKWUJsX2oyajRkX1NiRGNOcXVPcnZKQnpNZC1fbW91VndCVG0yMjZyZHBLNWhRSXN6cS1xZVYwS2lYNUN3ZFU2RW42cXh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 14:07:42 GMT",
+   "summary": "Canada loses 41,700 jobs as summer hiring fades; unemployment rate holds steady &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "From hunger to obesity: Developing world faces growing threat to child health",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbHZLQlV3UVV1d0l3dnFRYWRSeklFOUlEU3plMXFpTDZiYXI3aVpjRy0zc0RDQXdRZVp3Z1VvQ09oS0o0dW5PRzl2SWVBOXJON2hVZ1FMcnFFVE5oMWpWOElnV2swNVFPdzhiRjBSMFNVcl9FcDE3TGlfaFp0Q0hock9pTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 02 Sep 2026 16:03:02 GMT",
-   "summary": "From hunger to obesity: Developing world faces growing threat to child health &nbsp;&nbsp; reuters.com",
+   "summary": "From hunger to obesity: Developing world faces growing threat to child health &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Explainer: Why India's strong GDP growth is raising eyebrows - reuters.com",
+   "title": "Explainer: Why India's strong GDP growth is raising eyebrows",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVFUUzlab1o2WlFMRVFWUzg4V09qWDRMVHdjSng4b0hOZFE5T3dWclNrY0toU3FfRW0xaHhERTJrS1pwel9fTExJUFNERFA4TWhNSVpWaEsxUmJjbmxVWkM3b2FMUHUyTmNrbUZPdUhQcE4tZ1A3S1dZYzk1eHdlOUZPd0UxLXc5VUZKY1dmOWFQcmZkTVNtNTdBR2I?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 03 Sep 2026 08:22:00 GMT",
-   "summary": "Explainer: Why India's strong GDP growth is raising eyebrows &nbsp;&nbsp; reuters.com",
+   "summary": "Explainer: Why India's strong GDP growth is raising eyebrows &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "World Cup stars generate $3.3 billion in transfer fees as spending hits record highs - reuters.com",
+   "title": "World Cup stars generate $3.3 billion in transfer fees as spending hits record highs",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWE15TDFOUTBPLUg4V09jVWROSXlXV0dSVktwejJMcDhaVWpvLU9SUl9ySWg5UjlxbUxIWXYwT0pkLUpGaXZjVXI2cWw1OHR1S1pVZFQwdzltT3BoVUhzN3BrbnBiNlViV09qeWxBRFlMNVVsRFQxUmhmaGJGX3JfVnNtT1BXRl8zU2FRTFJnM2V1VS1HbGxpT3Jvd2RwRExOYlZmdWVsVUpCR1ZhX2Y5MWpQcUtiOVRBb24xUlI3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 03 Sep 2026 13:59:43 GMT",
-   "summary": "World Cup stars generate $3.3 billion in transfer fees as spending hits record highs &nbsp;&nbsp; reuters.com",
+   "summary": "World Cup stars generate $3.3 billion in transfer fees as spending hits record highs &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Canada July trade surplus shrinks, US exports drop - reuters.com",
+   "title": "Canada July trade surplus shrinks, US exports drop",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFZzNm5ENTdxTDJpbzgybWtydi1xeFI1WnRmTXoyNlZDeTIyMFJUUEhVUVVsYnlacThKLXdqVWdIV015SlVVNThKYmJYV2M5cUtuUmVYUWNXdUJ2eG5fVXdSRnROb1ZaY3MxMFdrVk82Z0xtWTRDcmtibmg2T0FKX1k2WVNKcm5uMmdya2JIVTh6bjJJNG8zMjZNdXNKRVZuYnZBWjRBTFRhVjlHWXhtMVh3?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 03 Sep 2026 19:45:10 GMT",
-   "summary": "Canada July trade surplus shrinks, US exports drop &nbsp;&nbsp; reuters.com",
+   "summary": "Canada July trade surplus shrinks, US exports drop &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: India stalls Alipay+ payments link over security, data concerns, sources say - reuters.com",
+   "title": "EXCLUSIVE: India stalls Alipay+ payments link over security, data concerns, sources say",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 03 Sep 2026 08:41:53 GMT",
-   "summary": "EXCLUSIVE: India stalls Alipay+ payments link over security, data concerns, sources say &nbsp;&nbsp; reuters.com",
+   "summary": "EXCLUSIVE: India stalls Alipay+ payments link over security, data concerns, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "US and allies push IAEA board to report Iran to UN Security Council, diplomats say - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWN6cU9lV0RMREdsVnRUZW1vS0tKZk9tZUJmMnFpTTdNM2c4c2J2bUtzOElSbjA2WnFCQzdZSnotczdsYnNPRWFLckFyV0EwNWg1akIyTFo4NDF4ODVMTnVSNnBjcWREd1Q4dWk3Q3FyWFkwMFdLbzY5YU9yLVkySDlEOGJBVktZQTJ1d2NJMkJSUGpKaks5dTNUb2xySnVBb3VGUUdILXZpaVZqeHVtcWR4Nm03M1oxNUFUNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 15:36:48 GMT",
-   "summary": "US and allies push IAEA board to report Iran to UN Security Council, diplomats say &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "India's Bharat Forge unit, France's Thales sign rocket systems alliance - reuters.com",
+   "title": "India's Bharat Forge unit, France's Thales sign rocket systems alliance",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUlfOUU0aV9BeFNRdzdqTnRsOFVaZVJHQ00tcG45Z29fUGNqUk1famd6UDBHYlUxN3dnRWk4TWVDcEQ1ZXI5RmxUc0RQRUxFZXJvZmY2NHFZRVRBYS1KM1RFV1NVemMtWWtBSWpiVnZlNFBvV2dnblVPT1diVHI2ZGdDa2NPTjIwVExBWWhqV1l3cWR0M2RmNjl3MG1fanZoeUhYWjgwUFJHUFpYSGI0UVZEY1Y2WUU?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 03 Sep 2026 11:49:00 GMT",
-   "summary": "India's Bharat Forge unit, France's Thales sign rocket systems alliance &nbsp;&nbsp; reuters.com",
+   "summary": "India's Bharat Forge unit, France's Thales sign rocket systems alliance &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "Canada ready for US trade deal that benefits both countries, Carney says - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZTVVYTAwY0dudTNwcWRhSmp6ZzhHY3prMXFrLUdOTndmR1NqSHhjX0x1OThJN1ZsUGVHT1AyR3FzZFRBOWY0V0lUUmtfWkN5NW5BTmtmWWtkaVV1Z1pGOGswMHhDQUZ2WnRpQXpCVEVyWllOd2pSb3l5TzRDbmZXeEhUdTctU05GNFBMZmRlS0kzT1JyU3dYOFNKNVFELV9vRU5XUG1xWU9LVGg5UXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 03 Sep 2026 16:23:43 GMT",
-   "summary": "Canada ready for US trade deal that benefits both countries, Carney says &nbsp;&nbsp; reuters.com",
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: Trump's bid to shield chip supply chain could backfire in Tennessee",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHFyWjB0QnNONEhxOUtDV3NaZW9vNmY3d3ZGSTVQQjdRWUM5Z2gtSDVtZzl0eFdoV19YSFExaC1oOWZSck1fR1JaUVRVWjRNOUtBUWd0d21yWk9KOUxOVmpORzBqbHhaUHRFTVZjMWFjSUlZc0UzMDJlRkx4Ym4xV2ZCTlZIWFlQN1hCU1owRkJCMm5CMUp6NHl3QnM3OHhwTkdLNnNQaTE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 15:29:49 GMT",
+   "summary": "EXCLUSIVE: Trump's bid to shield chip supply chain could backfire in Tennessee &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "EXCLUSIVE: Chinese banks purchasing Treasuries after wooing dollar deposits, sources say - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9McUNSanBsYWhzUDNIQUk5Y2VEOE55RjNQQzZFdW00cFpIZFN3bERyUE1Hcm9qMjVEYzhPbVlUbHdEd2pnSHRmcGt0cy1YaWplbFBnZnJRT1hjcWlsUU9BQU53SmZoRXBDUWtqWGgtMDA5d0pvclFyUTJTRjBCZVRRNEFzVDdabzR4d1RTV05RUEV3dHVEUUtHRzVjMndMMzExRTdKeDQ2d0pjZ1NjWEw3ZG5Ddw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 06:35:00 GMT",
-   "summary": "EXCLUSIVE: Chinese banks purchasing Treasuries after wooing dollar deposits, sources say &nbsp;&nbsp; reuters.com",
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: Citi eyes China brokerage unit licence as soon as this month, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDBoUUlZZmVDRDRNWmlMMnNzNHRqYnZ2QjlVdFpmUGh6b3Bqem5CU0Fsck8td01XVHhoSGdHTnJKZlJleGdYbHNNLUV3VWxxSkhibU1uZGE3cWs0MnFRZWRhZ241NGpwNVItaUlRVzZYakZIQ2oxYjljUTVPSHlfSjFBcERHd3BUVHJVYVhZZGMybEdlb2hiM1dFZS1DMWdjczVjS2dUc2lJWmZxV0oxalhQOG5JaVVpU01j?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 06:32:00 GMT",
+   "summary": "EXCLUSIVE: Citi eyes China brokerage unit licence as soon as this month, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 16:03:43 GMT",
+   "summary": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHcxbUxjUE8tUFJjekxwekEyZ3hzRzVwUExkWWdiVF9UdmtXeXVWTkp1UnQxQy1ZMWVmeEQzVkRsM19YcmhBOGRjLWt3YmNveFBUczUtQVM1a3N4WFhlb1BjTnJ0VTNuNG9GWlAxaGVEZWFrZGZRLWg3QmlHcmhWdENCbE5mTmZlZWFFTEtVSktReGp0Vmt0OXljc2k2UzRlOHBuMjhBb3V2U3FDcXNOSmlEeFFoUVpmQmV5aXZpcURxQ0NfUDBXQmExOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 15:12:09 GMT",
+   "summary": "EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Strong demand boosts US services sector activity in August",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTZ6MzlYdWNYakN3c1VsLW5OUjFQYlJFWC1xYTFIU0dfSjQwVG5zRHZlcE9aWU9DaGY0QTkxQkMyY2U5c1VzN2VQZTRtekNocFhCbHVGNGdMVWVmLWVuZDNUWENoN1FQOEw2elFaajRuajZNdGhpVTl1c1RXZ29lNmFoVjd2amw3MF9YU1RPX0lyMkxBbDVYbnVsdkRZRktFcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 14:25:23 GMT",
+   "summary": "Strong demand boosts US services sector activity in August &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: Nigeria's Dangote seeks around $1.5 billion with refinery IPO, sources say",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2c4bVpDbjdaOUhkNDFPX1dxZm5DSFoxS01TZF84NXNySlpDZkRLZFpidVMyaHB4QmlrNEpaaFo4dDFiQWIzLXptV1UtZnNVdzlQRW5kcFR2U1RoOV9tYWZUVHJWaFZqRXIwSUFabHdEMmZrSUpsNXpXOG1NUDJ0eFBQc0xUUGdqX2hTZWdXNm4wLVhGMEI2bXlpNDdVd3RTZU51eUZ4a2pQb3ZQZ21VZm1qY2E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 15:15:45 GMT",
+   "summary": "EXCLUSIVE: Nigeria's Dangote seeks around $1.5 billion with refinery IPO, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Maria Bartiromo out at Fox News Media",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTBURkZ5OXJfelRmR2s4NFYwS3lpNkRuLWg5MHJVcm5KMy1vMm0tNmZTaXVLNmZIWTkzV2g2aGNSU3hJTWdFTF9raHc0OVhraWp5Y2JndUZYcEU3a2JLSEVsa2RpWTFWWF84S2N4OUVabnIxeXZDeVZGZTdHU1k0RDFCWlF6eVlZaEhYTXlQVUZPZGJDNTZlMGdOLTl6QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 22:41:48 GMT",
+   "summary": "Maria Bartiromo out at Fox News Media &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Nigeria's Dangote says refinery IPO to open within days",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVVOaTVGQ1dUUVpfcFBwSGQ5WTRNMEQwTmtFejg1RHh4Uk9vRFA5UVNzYXc1blJsZ29DQXJBZ2Z6WGZpRHhteWhOU2haVkQxWXN6bjlJdXFaSnpkb2Y2SXQ5TnNhaWhUbXBwQVE5cm9QMlE3Z3Z5Y183dENkZjBzLTItdjNUYWFOVjV1Q2kzWDVFOUpLblhwMnk5U0V4WHZBUVhyTkt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 22:57:53 GMT",
+   "summary": "Nigeria's Dangote says refinery IPO to open within days &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Tyson Foods cuts profit outlook again as pressure from cattle shortage worsens",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcU1mZVFuTzdvU1NyOGVib2d2NHJ5cElSemtEbWZMOWxzWElhN1JMSDNCNmtSWU1NeWZ5cUx4MFF1bHhfaWJWOWMwaFJUSGJSRTdGMTU4eURmYVVxMG9fNTBZY0NTMFN6N0huR1locW5BalN6RWFjendScmt2c2ZmSGJHcS1lcFlnSTY3TnBtQmZBOEZUSlpZUGNpUGNESkJVaWFLeGxrZTE1SF96eVprdzc1T29oV29rV2hoeFZ4VGFVTzhpSUNr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 13:26:00 GMT",
+   "summary": "Tyson Foods cuts profit outlook again as pressure from cattle shortage worsens &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "New York Fashion Week leans into American legacy brand revival",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDlkTDZCQ2FkZi14X3RjSm5jWlRnOHJKdVV0R3lsX1dOWkx3XzljLTQ1b09iazBzU3VDaXpKMmx3T1d6SUpGWnBnRGxLcUpjak9icjdKajJYQi1VUk9sTTZpaUpSVzFJcGxydFNhTmNNV0VLMUxwenlVZXUyd3ByX3J5VGJZd0IwdThRVVBfYUo3RVFtUEJXWGFXS0czeGg5LTdjbTN6NU1yeWF1ckYzY3VUdXQ5eTVwMUxFWnpXZVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 18:12:42 GMT",
+   "summary": "New York Fashion Week leans into American legacy brand revival &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Strong August jobs report sends yields higher - reuters.com",
+   "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 17:56:40 GMT",
+   "summary": "Strong job gains signal Fed hike as Trump levels new rate-cut demand &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Strong August jobs report sends yields higher",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdTJNUkhrZnFtcjZwZmtHcGNSYTBCNkZKZFBlUy1IS3BiTlhBYzRNSm1VRWlLRFhHdmVjUEt4ajZmWFRHOGUzWHBKeFhWSlllYzdoc3g3dmFDVFpfLXQ5d19GRmtiT2UtT0gyV0d1cnpaQmY4RElYZzBBY0pfY2I5Q01HRjhxak1pOHo2c0JiUlJIWmdiX0NZX3Z1Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 04 Sep 2026 13:41:25 GMT",
-   "summary": "Strong August jobs report sends yields higher &nbsp;&nbsp; reuters.com",
+   "summary": "Strong August jobs report sends yields higher &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "PODCAST: Waller's inflation signal - reuters.com",
+   "title": "PODCAST: Waller's inflation signal",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXk3bDJVV2ViYy1VSWZUWFlmc1NXSnFrVks2V3lFY20xRGRrWTRJNEdudVFwQUdsbk5ja3RnLUFjY1I1OEZsS0R3WnFyRDlqMFN3TkJsSHpVQU92M0FQR3hhY1ZQN2FSd2NwY0h6VnIySFVhM1hjWElTZWJRckZKZlgzV2hoNkRGN05vV1IyUU4zRjA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 04 Sep 2026 14:08:14 GMT",
-   "summary": "PODCAST: Waller's inflation signal &nbsp;&nbsp; reuters.com",
+   "summary": "PODCAST: Waller's inflation signal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Norway's $2 trillion sovereign fund proposes deep cuts to US Treasury holdings - reuters.com",
+   "title": "Norway's $2 trillion sovereign fund proposes deep cuts to US Treasury holdings",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmxGOEpiUDZLcDdndTZmQVVRblBRSzBzTmV4V0lQbGFOQUNJRGt6NW11MTNSZHdzdGtfZ3Fzc2FlVEN0akRuREtUYkNqMUcxME1aRVhYYmtOWjRnekxlaW52M2ZvZmhJSHN4ZE9qUy1xcTdNNDBKd2Z5OTlpYjJ1SHh0V2dUVUNQU2RKV3kzSWFKZjRHWnRmZ1ZCUXpia19iNVNWRl9CM0FTcTFCWWRaVXJuOHB4UFZlWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 04 Sep 2026 16:01:29 GMT",
-   "summary": "Norway's $2 trillion sovereign fund proposes deep cuts to US Treasury holdings &nbsp;&nbsp; reuters.com",
+   "summary": "Norway's $2 trillion sovereign fund proposes deep cuts to US Treasury holdings &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St slides after strong jobs report bolsters hawkish Fed bets - reuters.com",
+   "title": "Wall Street dips after strong jobs data fuels hawkish Fed bets",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 16:25:46 GMT",
-   "summary": "Wall St slides after strong jobs report bolsters hawkish Fed bets &nbsp;&nbsp; reuters.com",
+   "published": "Fri, 04 Sep 2026 18:29:49 GMT",
+   "summary": "Wall Street dips after strong jobs data fuels hawkish Fed bets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Yen's changing fortunes might finally be spooking the bears - reuters.com",
+   "title": "Yen's changing fortunes might finally be spooking the bears",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjNuenNBZEFnRFFvQk82SmxjeTV2Yk9DeUlRZzZFT05QdWZmSThJVTdtYkY4RFNQODhXcFdxMWxGV0xta0w4SEFzc3ZXVUtPNlRDcC02Zkdma2hDYXZqNHdmN3FEWHljaG1pdE5fRkZ5dmpXeDlRdmlLbkxIMlB4ZTFNWGhYeDRwSUtKc2tXbktob0JFaFVvU1JiSWlOaUZhVzhxZjF2YkpYTkpOYUE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 04 Sep 2026 15:38:40 GMT",
-   "summary": "Yen's changing fortunes might finally be spooking the bears &nbsp;&nbsp; reuters.com",
+   "summary": "Yen's changing fortunes might finally be spooking the bears &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Yields rise, stocks mostly ease after solid U.S. jobs report - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcFlLejhNNm1fZ1hhM3NvLV8zZTJuOTE5QUVSUVR2V0IxQWpuLUZxVHFmRXpWVHd2OWU0cUR3eW9ZMFZKQnhwcFdrOHBZclNEZkF1X01MYmw4dUZTbU9zWGJPMEJ4N3FXNkY1MHAwSFZWenJGVWM4blVzbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 02:34:00 GMT",
-   "summary": "Yields rise, stocks mostly ease after solid U.S. jobs report &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTdNLWtPQVlCTmNqVS0zVHFSbkdxSnhwdHU2MGtaWVliUHNpTHRvZzkwc2lQLUVqcEU4LUp3eEw1M2RXcW9kVXgta3ZYV2FxNndyZmxaMWVHZHFZOHZfWGhjbG5CWVpRdVhRT2tCVlNYWlVSVWZ3UnVrQ1hEaWpkbFdYbFBjNEtBclM2RzJPRkViT09FVEhVZkZpdGpuSm00Y0p2Ym1OYkppVjl0OTFSaUIyUkJyZHdkeldmUnhRdnYtdnpHa2dYdzVDVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 06:50:00 GMT",
-   "summary": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "India's NSE eyes September 21-week listing after regulator clears IPO, sources say - reuters.com",
+   "title": "India's NSE eyes September 21-week listing after regulator clears IPO, sources say",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1MxaThhcGFxb1ZXZ1phbzBtcEloVzJDUW1UOXdRXzJSY3VrMktsb0VQalVEMFlFQVU0eV9zQ0hHclIzTHBFaWo3cTFaaWwwdEczcl91R0VhX2p6T0M4OWtyTTREMjVhbkxFSzFKZHBERWpFOFRCTjVsS211TXBKdzY2OUVpOHE4bmtpUWpvRkgwcVo3NURTeXJEbVVUOWFWUVE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 04 Sep 2026 15:16:41 GMT",
-   "summary": "India's NSE eyes September 21-week listing after regulator clears IPO, sources say &nbsp;&nbsp; reuters.com",
+   "summary": "India's NSE eyes September 21-week listing after regulator clears IPO, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1% - reuters.com",
+   "title": "EXCLUSIVE: Chinese banks purchasing Treasuries after wooing dollar deposits, sources say",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9McUNSanBsYWhzUDNIQUk5Y2VEOE55RjNQQzZFdW00cFpIZFN3bERyUE1Hcm9qMjVEYzhPbVlUbHdEd2pnSHRmcGt0cy1YaWplbFBnZnJRT1hjcWlsUU9BQU53SmZoRXBDUWtqWGgtMDA5d0pvclFyUTJTRjBCZVRRNEFzVDdabzR4d1RTV05RUEV3dHVEUUtHRzVjMndMMzExRTdKeDQ2d0pjZ1NjWEw3ZG5Ddw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 06:35:00 GMT",
+   "summary": "EXCLUSIVE: Chinese banks purchasing Treasuries after wooing dollar deposits, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Yields rise, stocks mostly ease after solid U.S. jobs report",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcFlLejhNNm1fZ1hhM3NvLV8zZTJuOTE5QUVSUVR2V0IxQWpuLUZxVHFmRXpWVHd2OWU0cUR3eW9ZMFZKQnhwcFdrOHBZclNEZkF1X01MYmw4dUZTbU9zWGJPMEJ4N3FXNkY1MHAwSFZWenJGVWM4blVzbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 02:34:00 GMT",
+   "summary": "Yields rise, stocks mostly ease after solid U.S. jobs report &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 14:52:23 GMT",
-   "summary": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1% &nbsp;&nbsp; reuters.com",
+   "published": "Fri, 04 Sep 2026 18:49:58 GMT",
+   "summary": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Tech pilgrims flock to China as global innovation race heats up - reuters.com",
+   "title": "Tech pilgrims flock to China as global innovation race heats up",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTV1eVp6ajVXRkVyRlFMVXBJNG9UQ1p0UDZuZTh2VldJTDJZSXRPYmVsOWFsVmxMd0dOeGtkWmlkNGpKeXJjMjVoTEV0cjJlQ0N6Rk9sTTFVdWppSWFORVF2Wk0waFZERWNXNXZpbWoteW5JSVdIR1loNnQyR21VODVQU2gyTGl5a1N2TFVFd0RORFpPTjItY0tvTWliNDFZSXZlYkx2c2U?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 03 Sep 2026 00:02:00 GMT",
-   "summary": "Tech pilgrims flock to China as global innovation race heats up &nbsp;&nbsp; reuters.com",
+   "summary": "Tech pilgrims flock to China as global innovation race heats up &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Mamdani imposes one-year ban on AI for most NYC students - reuters.com",
+   "title": "Mamdani imposes one-year ban on AI for most NYC students",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3pZYVc0QVRhMWllSnUwZHJsNDlzd1ZhWXZOTmpHVXZwcXU3T2FtTUl0b0ZrLTdFLVNJdmRNYjdUalY5cnVSV1VjZU82SlpPTkdqRS0zSENzd3N1dl9rcEpzSVpfeC12cVp6V21TSDJwYmdmVmEtVXNOdkMtb0F6QXIzZ3d4eDVEekxHMkZ3UHI0WGphSVFrcDd3UWE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 02 Sep 2026 21:21:28 GMT",
-   "summary": "Mamdani imposes one-year ban on AI for most NYC students &nbsp;&nbsp; reuters.com",
+   "summary": "Mamdani imposes one-year ban on AI for most NYC students &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Uber to lay off 10% of staff in biggest cuts since COVID - reuters.com",
+   "title": "Google escapes ad tech breakup in third Big Tech antitrust loss for US",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzZjU0NTeE1iWXZnaFIwQ3owdlFBWTM4NnZNZ25ncjI0VngydVFCc2ZLOS1PalpFLTNBdjNkTkpyNDNIYTFXd1JQMURDbnFadXB1T2s4eFNENXpxQk9BcVFWdUNvRTBwVFh4NEwzaGd4S3NmbDJYZVVyeGlseTVXWktpa2tDWmpTZllyYmVOQ2FIaVEzSVlacA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 16:54:51 GMT",
+   "summary": "Google escapes ad tech breakup in third Big Tech antitrust loss for US &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Uber to lay off 10% of staff in biggest cuts since COVID",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelprYTZqU1R2cFNKc2lqX0NZdGFxR0tyVjI0OGRUNFJHSHJJSkkzWmlfNGY0cXc2ZmpZaUc2X3RHZ3h5eEx1U2xZdkRBOHJQZnpRMVJYckhhUUVqZVd0Q3FWczl0dVNycmxiUGxuT3lqcWZVdkpLeW1jaG5rV0lNeTU0RzVYNVZKQTNRLWxXbE9CMkplR2xQaTlzZEJOaUU0MVMyanZZaUIwY0o3OHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 21:34:03 GMT",
-   "summary": "Uber to lay off 10% of staff in biggest cuts since COVID &nbsp;&nbsp; reuters.com",
+   "published": "Wed, 02 Sep 2026 11:30:00 GMT",
+   "summary": "Uber to lay off 10% of staff in biggest cuts since COVID &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology - reuters.com",
+   "title": "Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUNLeXg3N3k2RHR6T1ozbUI0MFd3ekE1YS1sNmxuWjZxeDhSZ1lDb1NqWXBsbXRaMktEcWV6b3dKREtyMEVCcy12dlI3cGtoVk1xYUFVbjVsNXVyclRIVXdvMFBWZG1UN21JLUZkcVpEZjdvbjRlU3YzUS1hd2xqYzJSZVFSZF9LVVBtY01Demh0U094NzE4a0xtaUNONHlqcTVqZWlybGdYYWlEVzlpaHFJZV80NkY2N1NQR1E2a1FIaFRwT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 02 Sep 2026 14:49:30 GMT",
-   "summary": "Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology &nbsp;&nbsp; reuters.com",
+   "summary": "Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Uber and AI-firm Wayve launch London's first robotaxis - reuters.com",
+   "title": "Uber and AI-firm Wayve launch London's first robotaxis",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLUM0eWN6Q0l5Z1FRZ2ZPX2JSREZCczlvTFpYdlpzVVBlVWlveG52eTRRaVpRQ0tqREZ0RnhPLUJLOGFjZHdweDVxNEVfTW9OLS1YdDg3aWw2N25DTnM1dmlXQzJvT0xxSW82MWpGdlFBZnN4ZXpsZEVRVjdhOVNqdXdyalNJN3BOTWFwT0R5MFZSNkhUMGxCdjR3?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 02 Sep 2026 23:02:00 GMT",
-   "summary": "Uber and AI-firm Wayve launch London's first robotaxis &nbsp;&nbsp; reuters.com",
+   "summary": "Uber and AI-firm Wayve launch London's first robotaxis &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "US urges hands-off approach to AI regulation at G20 tech meeting - reuters.com",
+   "title": "US urges hands-off approach to AI regulation at G20 tech meeting",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmFFcTlLcU1BTjFTOXBjTE80ZGFzSUc5ZUtPREdXX2tDcTJZODd4UTNwekU1M3JFdXlZdUhPcFl6Z0RqcWhjQ3VvLW92cmtZMHlLY0ZmTktxNlUtVXJLRlFfTXhWWXpvbGRBTU1Vb0FEY0dVNWE1Y3VNZTJ5SVhoU19hU0lsU0xmUnpoSkJrMVY5T1ZIaHlzTHRBS2JRTjdRU0U0R0tB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 01 Sep 2026 10:06:00 GMT",
-   "summary": "US urges hands-off approach to AI regulation at G20 tech meeting &nbsp;&nbsp; reuters.com",
+   "summary": "US urges hands-off approach to AI regulation at G20 tech meeting &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Huawei H1 profit drop quickens to 36% on rising costs, R&D spending - reuters.com",
+   "title": "Huawei H1 profit drop quickens to 36% on rising costs, R&D spending",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1I4TEstT1VlcF91UEZnTXNwSHVuaFNrc1dhQ2F1dFNZdG9YZmFFR2YydTEzRDlUZ1lzN3lFbFZnTFRkejJ6TDFWcF9NcU9BUlVJWmJ3TzM2bTNJby1pS1FETXFpOWtFblNfdWJKZjk3UU1ybkwtbHZfNmZ6MGhYcUZGMGZrUGswRHM2RU9VQ0lfc3RUUjR1QXFmdUUwMUVJQUduRHFqNFJsbTJzUHRNMXVJSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 31 Aug 2026 11:08:59 GMT",
-   "summary": "Huawei H1 profit drop quickens to 36% on rising costs, R&amp;D spending &nbsp;&nbsp; reuters.com",
+   "summary": "Huawei H1 profit drop quickens to 36% on rising costs, R&amp;D spending &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports - reuters.com",
+   "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-   "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports &nbsp;&nbsp; reuters.com",
+   "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+   "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "TCL sues Samsung for false advertising over 'Mini LED' televisions - reuters.com",
+   "title": "TCL sues Samsung for false advertising over 'Mini LED' televisions",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjFMMGhkRDJPaEZHckZ4ckxHSjZNQWRvUWxodUp4a0RBbUJBTzNNWDhyalpYOFpuLUEzRGViNkdjbU5YdUZYcEFLRkpEcm9ZSm52ZzJ1a0VEMDBwZ1BvMklWLUlUX0Q2b1dWUFJPLV94Z25qUGtQYXEwQ21kT2oyMDl3VmFYM3BmbTd2bUVzekJVQlhjMWl4ZnhZUjJZSWZyenllMjI0UHdzOF9MQW1pYXhLcw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 01 Sep 2026 17:24:14 GMT",
-   "summary": "TCL sues Samsung for false advertising over 'Mini LED' televisions &nbsp;&nbsp; reuters.com",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "BASF sues Apple in US, says iPhones infringe face authentication patents - reuters.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG5tODNYYkwwaUNaZUNaZXVFQXM5eGJpY0JCcExGNE5HUjJValRUellSRzFlNTBZVWo3RnpxUVByTHJlNkFTYnM4UEh6dmF0OFFYV0RYWVBFa0EzVlpaNkVTaFNYUFVBM29Hb0hzamFVaFl3VVhDQU12aDBDdC1OTHk5eXUxSHpwaVFBNXJzbWZYa0lXU2QxR2lVMnVDWTk5dFpnTE11ckNyOWdsZHg2V0dHWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 03 Sep 2026 22:00:29 GMT",
-   "summary": "BASF sues Apple in US, says iPhones infringe face authentication patents &nbsp;&nbsp; reuters.com",
+   "summary": "TCL sues Samsung for false advertising over 'Mini LED' televisions &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
