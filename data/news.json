@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-06T21:54:08Z",
+ "generated_at": "2026-09-06T23:24:19Z",
  "count": 68,
  "items": [
   {
    "source": "nyt-world",
    "title": "Live Updates: Germany’s Far Right Tops Key State Race, but Falls Short of Power",
    "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
-   "published": "Sun, 06 Sep 2026 21:43:56 +0000",
+   "published": "Sun, 06 Sep 2026 23:04:44 +0000",
    "summary": "The Alternative for Germany party is projected to finish first in the eastern state of Saxony-Anhalt. But lacking a majority, without the help of other parties it cannot become the first far-right party to govern a state since 1945.",
    "full_text": ""
   },
@@ -14,7 +14,7 @@
    "source": "nyt-world",
    "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
    "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-   "published": "Sun, 06 Sep 2026 19:30:37 +0000",
+   "published": "Sun, 06 Sep 2026 22:18:56 +0000",
    "summary": "Steve Witkoff and Jared Kushner met on Sunday with Volodymyr Zelensky in Kyiv, a day after talks with Vladimir V. Putin in Moscow.",
    "full_text": ""
   },
@@ -70,8 +70,8 @@
    "source": "nyt-world",
    "title": "Germany’s AfD Could Win Its First State Government. Here’s What to Know.",
    "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
-   "published": "Sun, 06 Sep 2026 20:28:56 +0000",
-   "summary": "Elections in Saxony-Anhalt, in the country’s east, could result in an outright majority for the Alternative for Germany party.",
+   "published": "Sun, 06 Sep 2026 22:23:25 +0000",
+   "summary": "The Alternative for Germany dominated the vote in Saxony-Anhalt, though it appeared to fall short of an absolute majority.",
    "full_text": ""
   },
   {
@@ -84,10 +84,18 @@
   },
   {
    "source": "nyt-business",
+   "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
+   "url": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
+   "published": "Sun, 06 Sep 2026 22:47:19 +0000",
+   "summary": "Brent crude, the global benchmark for oil, was up about 1 percent as trading resumed on Sunday, while the national average price of gas was nearly $4.15 a gallon.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
    "url": "https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html",
-   "published": "Sun, 06 Sep 2026 21:38:03 +0000",
-   "summary": "Officials said there were “multiple patients” but their injuries were not immediately known. Flights were halted at Miami International Airport after the Boeing 767-300 cargo plane overran its landing.",
+   "published": "Sun, 06 Sep 2026 23:06:58 +0000",
+   "summary": "Officials said 5 others were injured. Flights were halted for hours at Miami International Airport after the Boeing 767-300 cargo plane overran its landing.",
    "full_text": ""
   },
   {
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/09/05/health/frozen-blueberries-recall-e-coli.html",
    "published": "Sat, 05 Sep 2026 21:06:16 +0000",
    "summary": "The affected frozen fruit products, which were distributed to 19 states and to retailers like Walmart and Publix, were recalled starting in July.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "What Led to Maria Bartiromo’s Downfall at Fox News",
-   "url": "https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html",
-   "published": "Sat, 05 Sep 2026 14:31:04 +0000",
-   "summary": "The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit.",
    "full_text": ""
   },
   {
@@ -316,18 +316,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "UK business minister to meet Jaguar Land Rover CEO over job cuts",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSDM2dUJidmVsajhRMG93Z2VOZlZyTTV5UlVVMExuODB1YURwLURQY3NuVXlCZklkejJHd2pXRXcyMnNmOFBYTmU4WTl2WmFobjhDREFYci1QMmFwQmpYNkdGUVN3ZWRJc2xZaFBXS0xfVEZjYXlnUGl0Z25YZDdLSHJ6Mzd3RmtIYVZPVnVVajY5WlRadWJOdkNxY3NrZHpRcHVDek0wenBQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 06 Sep 2026 10:21:43 GMT",
-   "summary": "UK business minister to meet Jaguar Land Rover CEO over job cuts &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Iran's Hormuz leverage wanes as US economic squeeze bites",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkdaTTdQcUYwZTFzUm1OdFRGTGpYN012MkM3R0ZzZVZnV2dfTUxLbmF3RGdzakZiNWhhVEpqQzhyemo0am1yaDRmMlRJenQ5VzNJWmxGeWhOWVo5bW5FT1laODBqUkhGRlNCaWNLTHROWEVyVlk2Tmtxa3laLVJ4LVUwWTFXWlZrby13Vl95NVo4VDNCQkNmdHkyeXhIWU54NlNQc0Q0WXc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 06 Sep 2026 13:46:13 GMT",
    "summary": "Iran's Hormuz leverage wanes as US economic squeeze bites &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "UK business minister to meet Jaguar Land Rover CEO over job cuts",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSDM2dUJidmVsajhRMG93Z2VOZlZyTTV5UlVVMExuODB1YURwLURQY3NuVXlCZklkejJHd2pXRXcyMnNmOFBYTmU4WTl2WmFobjhDREFYci1QMmFwQmpYNkdGUVN3ZWRJc2xZaFBXS0xfVEZjYXlnUGl0Z25YZDdLSHJ6Mzd3RmtIYVZPVnVVajY5WlRadWJOdkNxY3NrZHpRcHVDek0wenBQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 06 Sep 2026 10:21:43 GMT",
+   "summary": "UK business minister to meet Jaguar Land Rover CEO over job cuts &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -352,6 +352,14 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXh6eWxQRGNtakxfbFFRRkVheHRiWmtFQlUwYWRtRHBBMDRFcGdFSllSUDZxeWtzclV6UFpuMHhNVWZ5YWRnVWx3V3NLQ0ZxSzlQQy15QWlrT3BvZy1KVEt5UnhlamY1cU9sTXpROUNzWjdKWmMtcTA3LXZzRGhENTN4MVMyVVhCYk5scXFuMXhvMENraG9xNlZtYTNwNjZuUFlSWW1vU1hMSm15d0R6U3hVZWVRQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 05 Sep 2026 18:35:43 GMT",
    "summary": "Milei finds unity in pushback against Falkland Islands oil project &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 18:49:58 GMT",
+   "summary": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -387,14 +395,6 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "US diesel prices hit record high as conflicts intensify supply crunch",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 07:29:22 GMT",
-   "summary": "US diesel prices hit record high as conflicts intensify supply crunch &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-markets",
    "title": "OPEC+ keeps oil output policy unchanged for October",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -420,18 +420,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 18:49:58 GMT",
-   "summary": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "India's NSE eyes September 21-week listing after regulator clears IPO, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1MxaThhcGFxb1ZXZ1phbzBtcEloVzJDUW1UOXdRXzJSY3VrMktsb0VQalVEMFlFQVU0eV9zQ0hHclIzTHBFaWo3cTFaaWwwdEczcl91R0VhX2p6T0M4OWtyTTREMjVhbkxFSzFKZHBERWpFOFRCTjVsS211TXBKdzY2OUVpOHE4bmtpUWpvRkgwcVo3NURTeXJEbVVUOWFWUVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 15:16:41 GMT",
-   "summary": "India's NSE eyes September 21-week listing after regulator clears IPO, sources say &nbsp;&nbsp; Reuters",
+   "title": "Oil ends week higher on renewed US-Iran strikes, diesel hits record",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 05 Sep 2026 16:35:41 GMT",
+   "summary": "Oil ends week higher on renewed US-Iran strikes, diesel hits record &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -456,6 +448,14 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGdCTnowcWtGV3Y4bmJUbnRhNXVPTEFrWHBqVnQ5OG1tcVF5aC1ya2VvRHl6SWhJTlNrNGxPamtHbnRkT2xBX0F2bHJ2ck9HelE3OXVDejZSeXc3MENwaDgwbzlSaVd3VTNGNXhtc2NsR0pFeXdIdFYwRXJpTEZWdjlIck5BSmp5YWNfeTk1VjA5YW5NLWFr?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 04 Sep 2026 10:39:37 GMT",
    "summary": "COMMENTARY: Morning Bid: Bonds' reality check &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "US equity funds record second weekly outflow on Iran tensions, high yields",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGhMbVBWWDBNWUFLb3ptNmx5c3VITlc1Zzc3TlZGcjJCbnY4cGliQ1R1UmlLZi1OQnpxY2txSlRsME9oZUZIVzQxcnJHeGIwN1VkdUpaejVnSjFLaUp5a1o1Y3kxV0kwXzVNSExyWC1Nb3RVc2hyRF82Sk5yc01xX1hXcjdjQ3VPRExPd1Z4OXdNbllfUFpRak0wU1ppejVrNmxGMmFPX3ZlN3RxdndGSV8wNnVTZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 13:05:44 GMT",
+   "summary": "US equity funds record second weekly outflow on Iran tensions, high yields &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
