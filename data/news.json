@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-06T23:24:19Z",
+ "generated_at": "2026-09-07T02:15:23Z",
  "count": 68,
  "items": [
   {
    "source": "nyt-world",
    "title": "Live Updates: Germany’s Far Right Tops Key State Race, but Falls Short of Power",
    "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
-   "published": "Sun, 06 Sep 2026 23:04:44 +0000",
+   "published": "Sun, 06 Sep 2026 23:34:22 +0000",
    "summary": "The Alternative for Germany party is projected to finish first in the eastern state of Saxony-Anhalt. But lacking a majority, without the help of other parties it cannot become the first far-right party to govern a state since 1945.",
    "full_text": ""
   },
@@ -54,7 +54,7 @@
    "source": "nyt-world",
    "title": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
    "url": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html",
-   "published": "Sun, 06 Sep 2026 20:36:10 +0000",
+   "published": "Sun, 06 Sep 2026 20:36:11 +0000",
    "summary": "A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence — and as the technology begins to upend the work force.",
    "full_text": ""
   },
@@ -260,6 +260,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Costa Rica president says US ground forces would help national security",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0VVWDFtbTdZQXZvU2NoT1hHWWlQTHA5OEFqb0YzZEF5ZG1yejVIM2xDZURWOGdHTFZRTWtpWTdHYndSTklQSEdSTXhpQTNSWHVOZ2l1ZFJua2JfSDl5a0xKYmRjZWlrbzlXd0oxWW9valBFb0VtQXJBbmdLdWo3QWR3NDIxTkVQYWVxaVBCdUl5Q250SF9nb3dFRGRZcGE2NGRDQWRXSDBrX0JZZWdzdkprbnhrR2VpeWZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 17:52:00 GMT",
+   "summary": "Costa Rica president says US ground forces would help national security &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "US pressure on Iran starting to tell, as sanctions and blockade bite",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFdWSEQ0NWhzbDhXcnU0Qkg3M2tkUTFVd3FORVkycWhEWWN4M0ZvM3gzaHRUb1c5dkw0Vm1iZXNfM1FiVUFFLURwUUhGektkY01rd0VYT1N2dXJTTks4OEhKN09lRExxZ1dCTDcwZ082XzRmMEMwNkpENlF1c1BnVFlBMmdmd1pRUC14cVZfMmpTdzVpTmpaVWtjdUszR1pxWExxX05Zb0hxSDQy?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 03 Sep 2026 14:59:00 GMT",
@@ -307,18 +315,18 @@
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "Niger blames France for inciting soldiers' mutiny",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3dqdDhwV1dDXzFpSU9LYzR0cE5XSlh6U1hKSUt2NkYwdVZtMmhXdzY0ajh4U1lwSFNEWl95MWZtQTU3bnpQaGRWTXJDX19iN0l2RmRYTEg3dkpFcVMzMEhIdmdXN1M4cTgwVy1KODJYQk1VTkhNQWVZM05ZeVVjcm4wUlhfV2VfQzRqSzljNmx3d2w2d3lBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 23:56:00 GMT",
-   "summary": "Niger blames France for inciting soldiers' mutiny &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "Oil extends gains after US and Iran strike ships",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 07 Sep 2026 00:15:00 GMT",
+   "summary": "Oil extends gains after US and Iran strike ships &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "Iran's Hormuz leverage wanes as US economic squeeze bites",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkdaTTdQcUYwZTFzUm1OdFRGTGpYN012MkM3R0ZzZVZnV2dfTUxLbmF3RGdzakZiNWhhVEpqQzhyemo0am1yaDRmMlRJenQ5VzNJWmxGeWhOWVo5bW5FT1laODBqUkhGRlNCaWNLTHROWEVyVlk2Tmtxa3laLVJ4LVUwWTFXWlZrby13Vl95NVo4VDNCQkNmdHkyeXhIWU54NlNQc0Q0WXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 06 Sep 2026 13:46:13 GMT",
+   "published": "Sun, 06 Sep 2026 12:48:00 GMT",
    "summary": "Iran's Hormuz leverage wanes as US economic squeeze bites &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -332,26 +340,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "China rare earth firms halt some US shipments over geopolitical worries, sources say",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDN1dWNKT01aNWd3OWc5WGpVc2FRYk5TTEpfUXdHRkFxeEwyYmxlRGxtQUtXRlVkbHZzbkFOd1VndGxSMWh4anJ3RDc0eFRVNjlEM3ZJZGRKUEsxQ1V5bWtPNUdjNG9ocGhmRXVMcnhNZ1pkSnBmbDRBcjlfdXJGWGJ3ZngzaTVzNFIwem1FQ0tPUUdkc3F6WEdNS3dGSDkxOVFHRVAtR2wzajR5bndEbjNWRlhTU2JhcDAwUzFBbjBVdTZNQmZyZHQ4c3hnWEhpV3hpTm1lNnVWdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 04 Sep 2026 15:15:39 GMT",
-   "summary": "China rare earth firms halt some US shipments over geopolitical worries, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Norway's $2 trillion sovereign fund proposes deep cuts to US Treasury holdings",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmxGOEpiUDZLcDdndTZmQVVRblBRSzBzTmV4V0lQbGFOQUNJRGt6NW11MTNSZHdzdGtfZ3Fzc2FlVEN0akRuREtUYkNqMUcxME1aRVhYYmtOWjRnekxlaW52M2ZvZmhJSHN4ZE9qUy1xcTdNNDBKd2Z5OTlpYjJ1SHh0V2dUVUNQU2RKV3kzSWFKZjRHWnRmZ1ZCUXpia19iNVNWRl9CM0FTcTFCWWRaVXJuOHB4UFZlWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 04 Sep 2026 18:50:22 GMT",
    "summary": "Norway's $2 trillion sovereign fund proposes deep cuts to US Treasury holdings &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Milei finds unity in pushback against Falkland Islands oil project",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXh6eWxQRGNtakxfbFFRRkVheHRiWmtFQlUwYWRtRHBBMDRFcGdFSllSUDZxeWtzclV6UFpuMHhNVWZ5YWRnVWx3V3NLQ0ZxSzlQQy15QWlrT3BvZy1KVEt5UnhlamY1cU9sTXpROUNzWjdKWmMtcTA3LXZzRGhENTN4MVMyVVhCYk5scXFuMXhvMENraG9xNlZtYTNwNjZuUFlSWW1vU1hMSm15d0R6U3hVZWVRQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 05 Sep 2026 18:35:43 GMT",
-   "summary": "Milei finds unity in pushback against Falkland Islands oil project &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,6 +364,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Milei finds unity in pushback against Falkland Islands oil project",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXh6eWxQRGNtakxfbFFRRkVheHRiWmtFQlUwYWRtRHBBMDRFcGdFSllSUDZxeWtzclV6UFpuMHhNVWZ5YWRnVWx3V3NLQ0ZxSzlQQy15QWlrT3BvZy1KVEt5UnhlamY1cU9sTXpROUNzWjdKWmMtcTA3LXZzRGhENTN4MVMyVVhCYk5scXFuMXhvMENraG9xNlZtYTNwNjZuUFlSWW1vU1hMSm15d0R6U3hVZWVRQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 05 Sep 2026 18:35:43 GMT",
+   "summary": "Milei finds unity in pushback against Falkland Islands oil project &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9CXzlJanVHV0E1X1VldkR1YURIamdnbTAweGxwYk1CSzdpWlJ0Y093MVg1MUlmV1d1SFF3RmVIeHlFT1dKYjdGdlo5em83Ym8zRVhMa1BZN1ZlWU9NZ2hWcWZuOUEwdFhJaGRTTmVfMDlUOTd2bzhaSDYxek9JcjZqNW9ERkhycGRtZ3pVc28xTjdScDFJbGF5TEhSNTBWQWVhNEV2R1NTbDVGZkdOU2hhWjhYN2V0SUNwSlF2OG5nd3NrcVh3?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 05 Sep 2026 10:05:00 GMT",
@@ -380,18 +380,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Nigeria's Dangote says refinery IPO to open within days",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVVOaTVGQ1dUUVpfcFBwSGQ5WTRNMEQwTmtFejg1RHh4Uk9vRFA5UVNzYXc1blJsZ29DQXJBZ2Z6WGZpRHhteWhOU2haVkQxWXN6bjlJdXFaSnpkb2Y2SXQ5TnNhaWhUbXBwQVE5cm9QMlE3Z3Z5Y183dENkZjBzLTItdjNUYWFOVjV1Q2kzWDVFOUpLblhwMnk5U0V4WHZBUVhyTkt3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 03 Sep 2026 22:57:53 GMT",
-   "summary": "Nigeria's Dangote says refinery IPO to open within days &nbsp;&nbsp; Reuters",
+   "title": "China rare earth firms halt some US shipments over geopolitical worries, sources say",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDN1dWNKT01aNWd3OWc5WGpVc2FRYk5TTEpfUXdHRkFxeEwyYmxlRGxtQUtXRlVkbHZzbkFOd1VndGxSMWh4anJ3RDc0eFRVNjlEM3ZJZGRKUEsxQ1V5bWtPNUdjNG9ocGhmRXVMcnhNZ1pkSnBmbDRBcjlfdXJGWGJ3ZngzaTVzNFIwem1FQ0tPUUdkc3F6WEdNS3dGSDkxOVFHRVAtR2wzajR5bndEbjNWRlhTU2JhcDAwUzFBbjBVdTZNQmZyZHQ4c3hnWEhpV3hpTm1lNnVWdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 15:15:39 GMT",
+   "summary": "China rare earth firms halt some US shipments over geopolitical worries, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Strong demand boosts US services sector activity in August",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTZ6MzlYdWNYakN3c1VsLW5OUjFQYlJFWC1xYTFIU0dfSjQwVG5zRHZlcE9aWU9DaGY0QTkxQkMyY2U5c1VzN2VQZTRtekNocFhCbHVGNGdMVWVmLWVuZDNUWENoN1FQOEw2elFaajRuajZNdGhpVTl1c1RXZ29lNmFoVjd2amw3MF9YU1RPX0lyMkxBbDVYbnVsdkRZRktFcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 03 Sep 2026 14:25:23 GMT",
-   "summary": "Strong demand boosts US services sector activity in August &nbsp;&nbsp; Reuters",
+   "title": "Nigeria's Dangote says refinery IPO to open within days",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVVOaTVGQ1dUUVpfcFBwSGQ5WTRNMEQwTmtFejg1RHh4Uk9vRFA5UVNzYXc1blJsZ29DQXJBZ2Z6WGZpRHhteWhOU2haVkQxWXN6bjlJdXFaSnpkb2Y2SXQ5TnNhaWhUbXBwQVE5cm9QMlE3Z3Z5Y183dENkZjBzLTItdjNUYWFOVjV1Q2kzWDVFOUpLblhwMnk5U0V4WHZBUVhyTkt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 03 Sep 2026 22:57:53 GMT",
+   "summary": "Nigeria's Dangote says refinery IPO to open within days &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -422,7 +422,7 @@
    "source": "reuters-markets",
    "title": "Oil ends week higher on renewed US-Iran strikes, diesel hits record",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 05 Sep 2026 16:35:41 GMT",
+   "published": "Fri, 04 Sep 2026 01:28:00 GMT",
    "summary": "Oil ends week higher on renewed US-Iran strikes, diesel hits record &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -468,26 +468,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Mamdani imposes one-year ban on AI for most NYC students",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3pZYVc0QVRhMWllSnUwZHJsNDlzd1ZhWXZOTmpHVXZwcXU3T2FtTUl0b0ZrLTdFLVNJdmRNYjdUalY5cnVSV1VjZU82SlpPTkdqRS0zSENzd3N1dl9rcEpzSVpfeC12cVp6V21TSDJwYmdmVmEtVXNOdkMtb0F6QXIzZ3d4eDVEekxHMkZ3UHI0WGphSVFrcDd3UWE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 21:21:28 GMT",
-   "summary": "Mamdani imposes one-year ban on AI for most NYC students &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Tech pilgrims flock to China as global innovation race heats up",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTV1eVp6ajVXRkVyRlFMVXBJNG9UQ1p0UDZuZTh2VldJTDJZSXRPYmVsOWFsVmxMd0dOeGtkWmlkNGpKeXJjMjVoTEV0cjJlQ0N6Rk9sTTFVdWppSWFORVF2Wk0waFZERWNXNXZpbWoteW5JSVdIR1loNnQyR21VODVQU2gyTGl5a1N2TFVFd0RORFpPTjItY0tvTWliNDFZSXZlYkx2c2U?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 04 Sep 2026 07:00:00 GMT",
    "summary": "Tech pilgrims flock to China as global innovation race heats up &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Uber to lay off 10% of staff in biggest cuts since COVID",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelprYTZqU1R2cFNKc2lqX0NZdGFxR0tyVjI0OGRUNFJHSHJJSkkzWmlfNGY0cXc2ZmpZaUc2X3RHZ3h5eEx1U2xZdkRBOHJQZnpRMVJYckhhUUVqZVd0Q3FWczl0dVNycmxiUGxuT3lqcWZVdkpLeW1jaG5rV0lNeTU0RzVYNVZKQTNRLWxXbE9CMkplR2xQaTlzZEJOaUU0MVMyanZZaUIwY0o3OHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 02 Sep 2026 21:34:03 GMT",
-   "summary": "Uber to lay off 10% of staff in biggest cuts since COVID &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -544,6 +528,22 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnJRZHlsdFA4MG9zV3UxMG5jczR6end0dWktOFgtRUh4NC1Zc1libmlTR0IwOWNzbWpwanRDeEhlNlJmLThsT2RNU0dGYlg2LWVLUGhBbjNiYzVvM3RIbDJlLUU0S0ViUG1kTGNfeEcyOXNJaTZkWVFZWVZ5Ujd6X3FfT2NPWXBkZm9QNDBLem1wYXlUTWRqdFVUd2g2Mk5IWTdOX3JEMndJRmNXV2hBc3V0d2xnU0lDT3J5eEhB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 17 Jul 2026 07:00:00 GMT",
    "summary": "South Korea-US team unveils robotic technology that dresses the wearer &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Tencent-backed Enflame IPO draws 6,109 times online demand",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGozNnBkYjNjcjkwMlhXX0l2YlVQRThVU3Z1NElnbWJxQklrNU94WTlvRDctcVlDUW5Mb1ctZmFVN2VmM2RLTmZfbXg5M3c4Q1NBLUVLUm9sMU5TYnhRNWFHMDE0WUZONF96TGNiZnJGUlZtaVVlRjBFRDV2UnBhNWg4M2lzb2FXa2RUZk9xc2xMSzA2U2o4V3dYb3VmQ01XZkRHX1ZuWVc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 15:50:17 GMT",
+   "summary": "Tencent-backed Enflame IPO draws 6,109 times online demand &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Uber to lay off 10% of staff in biggest cuts since COVID",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelprYTZqU1R2cFNKc2lqX0NZdGFxR0tyVjI0OGRUNFJHSHJJSkkzWmlfNGY0cXc2ZmpZaUc2X3RHZ3h5eEx1U2xZdkRBOHJQZnpRMVJYckhhUUVqZVd0Q3FWczl0dVNycmxiUGxuT3lqcWZVdkpLeW1jaG5rV0lNeTU0RzVYNVZKQTNRLWxXbE9CMkplR2xQaTlzZEJOaUU0MVMyanZZaUIwY0o3OHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 21:34:03 GMT",
+   "summary": "Uber to lay off 10% of staff in biggest cuts since COVID &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
