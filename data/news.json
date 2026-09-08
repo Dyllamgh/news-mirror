@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T19:11:53Z",
+ "generated_at": "2026-09-08T22:16:19Z",
  "count": 66,
  "items": [
   {
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’",
    "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
-   "published": "Tue, 08 Sep 2026 19:02:43 +0000",
+   "published": "Tue, 08 Sep 2026 21:49:47 +0000",
    "summary": "Britain, Canada and France on Tuesday announced sanctions on Israeli settlements in the West Bank, with Britain saying Israel had “turned a blind eye” to violence against Palestinians.",
    "full_text": ""
   },
@@ -84,6 +84,14 @@
   },
   {
    "source": "nyt-business",
+   "title": "Politics News Site NOTUS Rebrands as The Washington Sun",
+   "url": "https://www.nytimes.com/2026/09/08/business/media/notus-washington-sun-rebrand.html",
+   "published": "Tue, 08 Sep 2026 21:00:06 +0000",
+   "summary": "A trademark dispute scuttled its plans to relaunch as The Washington Star, so the site chose a different name.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "TSA PreCheck Now Unlocks Access to Visit Airports Without a Plane Ticket",
    "url": "https://www.nytimes.com/2026/09/08/travel/tsa-precheck-airports-security-non-flyers.html",
    "published": "Tue, 08 Sep 2026 18:34:16 +0000",
@@ -126,7 +134,7 @@
    "source": "nyt-business",
    "title": "Oil Climbs Toward $100 a Barrel Following Houthi Attacks",
    "url": "https://www.nytimes.com/2026/09/08/business/oil-prices-iran-war.html",
-   "published": "Tue, 08 Sep 2026 17:37:32 +0000",
+   "published": "Tue, 08 Sep 2026 20:39:14 +0000",
    "summary": "Analysts said they expected the price of Brent crude, the international benchmark, to remain elevated for the rest of the year.",
    "full_text": ""
   },
@@ -147,43 +155,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Seaweed Is Their Way of Life. A Company’s Sweeping Plan Threatens It.",
-   "url": "https://www.nytimes.com/2026/09/08/world/europe/ireland-seaweed-harvesting.html",
-   "published": "Tue, 08 Sep 2026 09:00:36 +0000",
-   "summary": "As global demand for seaweed surges, a Canadian corporation’s bid for exclusive harvesting rights in the west of Ireland has upended a once-sleepy industry.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
-   "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
-   "url": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
-   "published": "Tue, 08 Sep 2026 16:03:26 +0000",
-   "summary": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Key App Developers Have Yet to Embrace Apple’s New Siri A.I.",
-   "url": "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html",
-   "published": "Tue, 08 Sep 2026 09:04:17 +0000",
-   "summary": "For the company’s new artificial intelligence system to take off, it will need plenty of support from the makers of popular apps on Apple’s phones.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-   "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
-   "published": "Sat, 05 Sep 2026 21:11:57 +0000",
-   "summary": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-   "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-   "published": "Tue, 08 Sep 2026 01:54:45 +0000",
-   "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
+   "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+   "url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+   "published": "Tue, 08 Sep 2026 21:02:03 +0000",
+   "summary": "The company’s announcement is the most dramatic sign yet that artificial intelligence is fundamentally transforming the field of higher mathematics.",
    "full_text": ""
   },
   {
@@ -196,10 +172,34 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
+   "url": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
+   "published": "Tue, 08 Sep 2026 16:03:26 +0000",
+   "summary": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+   "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+   "published": "Sat, 05 Sep 2026 21:11:57 +0000",
+   "summary": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click",
    "url": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
    "published": "Tue, 08 Sep 2026 16:50:25 +0000",
    "summary": "An attack discovered by A.I. researchers could have compromised hundreds of millions of devices within hours, experts said.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Key App Developers Have Yet to Embrace Apple’s New Siri A.I.",
+   "url": "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html",
+   "published": "Tue, 08 Sep 2026 09:04:17 +0000",
+   "summary": "For the company’s new artificial intelligence system to take off, it will need plenty of support from the makers of popular apps on Apple’s phones.",
    "full_text": ""
   },
   {
@@ -220,18 +220,18 @@
   },
   {
    "source": "nyt-technology",
-   "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
-   "url": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
-   "published": "Sat, 05 Sep 2026 09:03:10 +0000",
-   "summary": "The tech giant must pay $3,000 per pirated book that it used to train its chatbot. Many authors fear they could lose funds to others in the book business.",
+   "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+   "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+   "published": "Tue, 08 Sep 2026 01:54:45 +0000",
+   "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
    "full_text": ""
   },
   {
    "source": "nyt-technology",
-   "title": "The Generation That’s Never Had to Say ‘Hello?’",
-   "url": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
-   "published": "Mon, 07 Sep 2026 02:40:54 +0000",
-   "summary": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
+   "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+   "url": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+   "published": "Sat, 05 Sep 2026 09:03:10 +0000",
+   "summary": "The tech giant must pay $3,000 per pirated book that it used to train its chatbot. Many authors fear they could lose funds to others in the book business.",
    "full_text": ""
   },
   {
@@ -268,6 +268,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "China's exports surge as demand for high-tech, AI help prop up economic growth",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmQ2cXNneko5R0o0eDZ1MUVmY25oRkhpeVNDUXJFNVdhMDV1eDg1TnFFWjg4Z1pqUk9lYTZoWHUyblNqT1NZRDlhMEFjN2REVm9CWFBhM2hIbkVLd2lOQ1otRUtpNlFLNmkxeEdYUzRVbUs0MGF5R1VfOHZjMkJzUllpODZja01aZWdDM2R4cl82WHZldExHcV9IN2x2S3d5eFZjYmVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 02:45:00 GMT",
+   "summary": "China's exports surge as demand for high-tech, AI help prop up economic growth &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "UK retailer Next wins appeal to pay warehouse staff higher basic pay",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHJuNVN4UkFVS1M1c2dQcWFqV0hPcFhidzI5RVdmLUEwdzh4X2ZyMl9jRWxmQU9EWHJGWUZHV3Y3UXhqSFlxbE5ENno0OE0tZ3o5ajRjbF9PcmNpVzJhMG14WVR1SkNNV3VUSUo5eVYtZVpVX1U1R3MwX3JFbVVkcUtYRDJ4RmFZazFDd05EcnVybi1pbk05YVhZUDhWbEFoaDBzUg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 07 Sep 2026 12:48:14 GMT",
@@ -278,16 +286,8 @@
    "source": "reuters-world",
    "title": "Insight: Congo extends state control over mining with bid to lock down geological data",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTFl4Y3RaTV9fZGhuWnB2NjZmaGVGWUs1eVBPR0llVmZQSlRpOGFBWllBaGFoQ0s1WmNIWUFTY1lKYk1zVEU3ZGcwbnQ0dkhuSS1XOGRSUUpMRlBXZ0lheVZiYklxLVF0Nklnai1HZ1l3ZFd6bjlNYTBkTW4yblZ0b3BrZEJhWWY1NVFHMUJWLWxTS1ZFd0kzdXJ2WF94ZnFjX1h2TXlzMW1lc0o3bFZhZ1BMVkxKMlZ6a3R0NGJUNkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 05:03:00 GMT",
+   "published": "Tue, 08 Sep 2026 12:12:09 GMT",
    "summary": "Insight: Congo extends state control over mining with bid to lock down geological data &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Small German leftist party emerges as potential far-right kingmaker",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTS1MSTVIVUx1b2tyNlRJZnBEQTZEV1g2dmg1VmVDV1I3OUtHeWIweFpPQkpROUZUNXZXcXpxeEw0ZUpfN3lmaEFOdFM5MS1GOExQTE11TjBSQ1VHREFrSDRsR24yakwweDNMcTlUVWJ6cTFyWnhNTnJYczNEa1BHMkdqN3JVYmFUeEVuVExxVDZ5OUczdjZmUk9sWnM0VHFkNEFpc1ZQbWJ6dGlGaGhwcVpXWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 07 Sep 2026 17:25:08 GMT",
-   "summary": "Small German leftist party emerges as potential far-right kingmaker &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,26 +300,50 @@
   },
   {
    "source": "reuters-world",
-   "title": "US imports more Congo copper as consumer acceptance grows",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTJWZEN6WkthU1B5a3RoMm4wOG45eGFZQlpwcTVIc01PUk1COHRCNDRhVEktblNDR2dKc3o0dHo0N3ZLODR4TDdlUFRjU0g1bXNBSTV5QjJma1JkVmNiamJPTmcwdjk3aWNsQ2tEVTNvai1iT2ZhakcwR19IUUZYWDJLamhNNEpUcnhndG4ySGw2VnRNUUZHTkh0cFF3dUJDWmx5V3dB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 07 Sep 2026 14:50:51 GMT",
-   "summary": "US imports more Congo copper as consumer acceptance grows &nbsp;&nbsp; Reuters",
+   "title": "Small German leftist party emerges as potential far-right kingmaker",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTS1MSTVIVUx1b2tyNlRJZnBEQTZEV1g2dmg1VmVDV1I3OUtHeWIweFpPQkpROUZUNXZXcXpxeEw0ZUpfN3lmaEFOdFM5MS1GOExQTE11TjBSQ1VHREFrSDRsR24yakwweDNMcTlUVWJ6cTFyWnhNTnJYczNEa1BHMkdqN3JVYmFUeEVuVExxVDZ5OUczdjZmUk9sWnM0VHFkNEFpc1ZQbWJ6dGlGaGhwcVpXWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 07 Sep 2026 17:25:08 GMT",
+   "summary": "Small German leftist party emerges as potential far-right kingmaker &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Far-right AfD wins historic victory in German state election",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHlKLTRObzFSci1rMWZ6aTRzcFhXUGtKc0JQakJVb1FBUmdNTFowMHU4X0tiRkdFUkVnbWhremU0V05zSUtYVzBxUkZ0bHdPZjhadEF4T3lZLXdrajlidkQ2b05OVTdydG1va0NjbGp4TEVHXzJNUmI2dkF5ZEJneUtta19hT0tnTDE2OEZiS2V0SFh6VFE0YVpXOFhqS3pENV9idTd6V0lwd0lOcEdCV3J2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 07 Sep 2026 00:03:44 GMT",
-   "summary": "Far-right AfD wins historic victory in German state election &nbsp;&nbsp; Reuters",
+   "title": "Smithsonian chief Lonnie Bunch announces departure",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEptUy01SmIzWkdEeEJWcHVESjR0U0xCMkpSN3BRYTZQVTNJaWNsMTRiNUtBTGtSYUh2SEJ3dUhuZTB4U0gtd2ZWWFFXWEgwWjAzRkVDTHZwb2dHYUNhMk5oZXNNdDhEeU91Ymxtbzd2RzFJaEw2SFd1N0Jtekw4dVV2MUQ4elc3bE1kZ1JUQ2RLR2Y3d2QxelRsMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 19:32:21 GMT",
+   "summary": "Smithsonian chief Lonnie Bunch announces departure &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Trump administration blasts Ford business deals with Chinese firms",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUxxT0xDWVRud1VVVzV3eXRFTDR2eXRmalJ4Uk1qTmNkWmRBYnl6LVBTTUdDMVFJWllPTVlPQm90Y3JMUE5lZF9MMHI1dG4xQ3dpWmhDblFQbUVRek1HYndoSlV6dXgwUEtFYXllb2xvUDZSTTRkLV9nU043bXlQQmozSlotNTExRGxmbUhHZUtMcDVjeTFlaU9hLTdKMktvc0FNSGZFUU9SMFJLRnBQV0dvOXo4T3A4OHlWSENPdU8yWUVkNTFYUWJtWVY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 19:28:11 GMT",
+   "summary": "Trump administration blasts Ford business deals with Chinese firms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Trump directs GSA to take steps to remove Canadian goods from agency lists",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXc1ZFExQVRyQXJLck41cG9oRHdFOE01YTBpeUUzWVN4UDlpdEhkMUN2RGFJTHo1d2ZNZVNnMDl6WEhvSnRyLU5kSmwtN1NHSi1hNnFmOTVuamJPeUZ6eTRNc2JEaTdXUVU0czJoRGJyR0xSOUVZM0VUUTFsZjNuRm83a29QVmxyQW1wanJxbFlidVNWX3ROMmFVSktSSHJONlk2ajFidjFWMVJK?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 20:45:43 GMT",
+   "summary": "Trump directs GSA to take steps to remove Canadian goods from agency lists &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "Huawei heads to trial in US over its business dealings in Iran",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnZfcVJUeEZKOFpSTE5oQk9WTU1GWE5fc1U2R1g3NGFuOGdnNnZfT29tOU4xbmFISzhvd2paSmIyb2Y1V05nTFRjTl9xejZrUGdoSTJHS3prREdOOVlSbkl2UkxFQlk3NFRvM3J6YUdBdklRZ2RmZ3gzVUd2NXFsN01PcUFTXzZmSU1SQ3NUakdWc1MxU2V5N0RGMzd1ejFydDNnR2ptdUlYZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 10:18:39 GMT",
+   "published": "Tue, 08 Sep 2026 20:00:16 GMT",
    "summary": "Huawei heads to trial in US over its business dealings in Iran &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Kansas Republicans throw weight behind Bombardier jobs after Trump threat",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa3BTMXFpcFNYY2locy1GNGNCOGtWU0JMZ194TU0yb2k3QW1jUXM1MzFBZEtQSXNTV3o0QmE0b3JGTDdjOE4tR2hObG01ZE8zUzh2X1YycFQ2eEJSbmpIc2xoRzRyUlcwdUxSa1NsbHZtRksxSmNKbDNlNXBsdlBIbk5IemtOeDJwcFFTSHZkMmtILWJIYlFobGNLcnYxNGgtOHdMSHFkak1ZVDJZcHFoUk5kYnJPM3c3d1d0enhhSXJaQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 19:26:19 GMT",
+   "summary": "Kansas Republicans throw weight behind Bombardier jobs after Trump threat &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,34 +356,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Kansas Republicans throw weight behind Bombardier jobs after Trump threat",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa3BTMXFpcFNYY2locy1GNGNCOGtWU0JMZ194TU0yb2k3QW1jUXM1MzFBZEtQSXNTV3o0QmE0b3JGTDdjOE4tR2hObG01ZE8zUzh2X1YycFQ2eEJSbmpIc2xoRzRyUlcwdUxSa1NsbHZtRksxSmNKbDNlNXBsdlBIbk5IemtOeDJwcFFTSHZkMmtILWJIYlFobGNLcnYxNGgtOHdMSHFkak1ZVDJZcHFoUk5kYnJPM3c3d1d0enhhSXJaQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 18:20:54 GMT",
-   "summary": "Kansas Republicans throw weight behind Bombardier jobs after Trump threat &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "EXCLUSIVE: Google warns of lower quality as it revamps Europe search results to avoid EU fines",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUx1SUpiY29kQzBaZ0I0UmVKN0J1UkFoRlRmN0I1c0xwUjZackt2T3BVNHBvSFYwTzg3YUd6VUZlV3JrZ1FYUXVVUVpJWlRqZGN1VTNxUTZVNndVWXNJTkZ5Ui1YVjkyUDZuSW9ZWmNiR1NQYmtfOEhaVVhFWUE0dDROaVBOckhYZ3pvcnFwNXR4M3lkdmpxdUZ5eFRBT01jOGpzR0oyX2t1UHNValpzRmZJOWhnWGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 16:36:14 GMT",
-   "summary": "EXCLUSIVE: Google warns of lower quality as it revamps Europe search results to avoid EU fines &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Macron summit to seek boost for European space despite no-shows",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHFaM2NCSDA1eTFvbTlXamJjM0dEVWJ3bG9yVTJobERVbFR1ZV9aZFdsUkRFSDdnUHRBVk0xX25TRklJa1lvdmlySkE3Zzh6cmpCc25uRWJFMWpucUxwcWZBNXBUNVViVUtGVXhsdloyMGV5VEQ4X1NGV1JIYndSdzJfZ2RsQzNUSE5QV1lXSGQ2Z1FVR3FsZjFzdklKaTBLTWk3Rkc1OHlIbVM0WlplcEo0UndjM3BXbFNv?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 08 Sep 2026 14:06:21 GMT",
    "summary": "Macron summit to seek boost for European space despite no-shows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Boards prepare for digital infrastructure shocks, survey says",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWhjXzJDcS11NlJvRUlPTGZWMm1uajBfRWw2RnViRHBRUFRHc3BQdVdTVmJDblZURlF0TFJudG5Bb2dUY3pVN2RaX0NzdnhieXR4WlFXY1c1RHlsMjZ5Nlp6ZGpha0VCR3hVMzR3ZnA4bUNaTFFLaHZZSW4tZU1aR0tsOHNjLVYxcEo0QTBCanZQVlJpLXpJeUxMc0lDTnNwWUtr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 07:10:09 GMT",
-   "summary": "Boards prepare for digital infrastructure shocks, survey says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,6 +372,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Boards prepare for digital infrastructure shocks, survey says",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWhjXzJDcS11NlJvRUlPTGZWMm1uajBfRWw2RnViRHBRUFRHc3BQdVdTVmJDblZURlF0TFJudG5Bb2dUY3pVN2RaX0NzdnhieXR4WlFXY1c1RHlsMjZ5Nlp6ZGpha0VCR3hVMzR3ZnA4bUNaTFFLaHZZSW4tZU1aR0tsOHNjLVYxcEo0QTBCanZQVlJpLXpJeUxMc0lDTnNwWUtr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 06:31:00 GMT",
+   "summary": "Boards prepare for digital infrastructure shocks, survey says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Boeing August deliveries dip as 787 handovers fall",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbl9KQ1A0bVppSEcwNE1TWlNPN1BZN3BlU19QU3lZc1RGUDBRZHRNMFZwTlgyOVR1SjNuMlY3RFFiaTZ2bWxYZkViSmdXYTQxb0lDR2pmdXJLNjAyTGtTdnFJYmg1Vk5QdUt2M0FhRnMwbWVSazVmRUlQdzMyU3J3ZW1ybjR5bHhZVVl4RGcyWXZpS0hxSkIwWTJkankwcktMYUtKNGZneVQtWTV4OHhJ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 08 Sep 2026 15:05:46 GMT",
@@ -380,18 +388,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Stoke Space plans more powerful rocket, raises $1 billion",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDFTS1I1WXB4UjJqcHdsdW9FWDhFUUE1NktRREJ6cjdjRUtQR3BDQTVwajR4M1F3RUFDM3Y4S3dYeVIwb0JHWjU3dDlhUUdnWVF2am8waFlSTWhTVkFfbkZmQkpnSUkxcmo0cEVXOUg2WUVBTWdKb2RiM0o2Q19tdXE5NFZLSDFHdHRVR21odk1UaE1yYlAzZDVYdUhhX18xOERzWThLT21heExTbjhYTkZCSTk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 14:32:02 GMT",
-   "summary": "Stoke Space plans more powerful rocket, raises $1 billion &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Germany risks potential winter gas shortage due low storage levels, lobby group says",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnBOWVQ4SDZrTUZweEJWTHFQUTJFTFNNM3ZXaHVPa0VNLXA0ZUdiRkczZ1VybUtob2RXS1hlR2k4NHNrengyM2RrcGRfN0FRUzROUWRObG84dXh6VVEtLXF6dC1BbjhtYk9YZXVlN0w4cnF6c09YVlM3ME85OFhJR3hNN2o3Q0lWcEwxN2lPYkNjdFhSOVhGSGV2YnVveEFoWUcyMmduWlowZE55NGpvMVJzTW1qek9TcWN5T1kxdG1hR3F5eDZxT0Rn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 04:08:00 GMT",
-   "summary": "Germany risks potential winter gas shortage due low storage levels, lobby group says &nbsp;&nbsp; Reuters",
+   "title": "UK publishes legislation for tougher sanctions on Iran over nuclear programme",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHhqMGdpaWtLcy1Pb3ExcFhZSmd4MUtieGtkb0tiLUtpeWhGZVNwRVJOR2FSTnBCLWFVSDdRSUpaS083WHNWZUk2ZDQ4SU1sSG9UNDFIYW9wSk5RUW1PRlhud3plZFdUdjBPeVRPRDVGWm5RYzh1d05lRnltVmNneXBNbkpUaFZwRzJaX0dvYWxSY1V1bkFibzcyRFkzWDBPV1U1ZDZ2blB1NkZObUZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 16:24:47 GMT",
+   "summary": "UK publishes legislation for tougher sanctions on Iran over nuclear programme &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,18 +404,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St slips as steep oil prices stoke inflation concerns ahead of CPI",
+   "title": "S&P 500 falls as AI worries hit software makers",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjZqc0tNY1VPMHZtRldqOUxwQzJYN0JtWEpoUVNoNGw4U3I5UnVCYXVjd0ZEUUw1SnZhc1JkWnFoTmFoYlVrZ0R3ZlFaQVQ3cmR6ZDVURG1vU1VoR09EcXI4Sl8wemY1RlU2WFJOQ1h6TXpSbUIzdS1WTDhXZnRONzFjRlI0UGIwQTVkeUxWN3YyMkhHeHd6ag?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 16:51:41 GMT",
-   "summary": "Wall St slips as steep oil prices stoke inflation concerns ahead of CPI &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Gold lackluster ahead of inflation data as oil prices rise",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVFOMG93MEp4ZjJ0VUtRcWQxVTRKYTJOb3RwbTZpMnNyZlJ5eFdCRGhNTXF4b2MyRGpXWTh0T1N1d28tUGRfSW80bmFNT1RNelFYMTlLU2ctZEZpYmsyNjZRb2ROTnVqMkVuX2Z3UU12UDlCV2cxSmd1MzR2dktuNUtOR3ZXdjR2YnAyUlJDYjFtWmwybURmNEdLMHk3SFBQNVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 16:00:33 GMT",
-   "summary": "Gold lackluster ahead of inflation data as oil prices rise &nbsp;&nbsp; Reuters",
+   "published": "Tue, 08 Sep 2026 20:18:27 GMT",
+   "summary": "S&amp;P 500 falls as AI worries hit software makers &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -436,10 +428,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall Street dips as yen, oil gain amid Middle East strife",
+   "title": "Wall Street slides, oil surges amid worries over inflation, Middle East",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82VU5LOUdHSU5uLWxoeWs1bi16RTM3dUozczYtZXhPUF9RRFEtUVNTQmphRjloY2k5dkxodEZ1eTZnRjF4NU90clpNZGZJTnk1SEJXME44NDIxT1JNNW5rWW80VGlNbDJXNDdjMHN4YXd4eTRLb3RJLW5Ybw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 01:48:00 GMT",
-   "summary": "Wall Street dips as yen, oil gain amid Middle East strife &nbsp;&nbsp; Reuters",
+   "published": "Tue, 08 Sep 2026 20:17:40 GMT",
+   "summary": "Wall Street slides, oil surges amid worries over inflation, Middle East &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -467,19 +459,19 @@
    "full_text": ""
   },
   {
-   "source": "reuters-tech",
-   "title": "US accuses Chinese AI firms of 'industrial-scale' theft of AI technology",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 17:49:43 GMT",
-   "summary": "US accuses Chinese AI firms of 'industrial-scale' theft of AI technology &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "Oil prices hit six-week high after Houthis attack Saudi sites",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTBHazRJMEhoZks2V2o5M2loY0UtV3pnUjMweXB6cXZuVjQtYmhTWV9oSnF0cDhRZGVybzBuNk9fYWRJU1diemp5VDFxZWdHYy16a0ctWG9ob0JfMUZqRTIwRnoyeHhxckI4NFZCVmM1MGVRaDFPeWh0MVFKTXYyVURKSWdJZGJ5ZWZWYzdHanhyQTBNTGYyRWF6bXVWSDRZdXdYN0pWdURYU0p6Z1lkVzlRWlF4UEIyY1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 00:50:00 GMT",
+   "summary": "Oil prices hit six-week high after Houthis attack Saudi sites &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "South Korea's power demand set to soar on AI boom as nation weighs expanding nuclear energy",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDRHQ2lNc29oTV9XNHhGY3RFZ0szbDFQOGV1akd4d1FnYk5ORmF3ZUw0VDQwTHdzdVFndjBYMHg0MzM2NDA2X2xiZml4WnV0X3ZOMndrM1NERFloVjJYZVZHSnFLSm5ENG5vVkVQVy1LTExwWkN1SkttQ3BSdHZFYVJ1XzVJc21mZ0dzajlnUTBIV18tYkp0a3VybW9oN0hlTFM2R2lCM0JBdFgya1JyUjlaX2IxdVQ3NllGZTFzLWNxZ2lr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 06:26:00 GMT",
-   "summary": "South Korea's power demand set to soar on AI boom as nation weighs expanding nuclear energy &nbsp;&nbsp; Reuters",
+   "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 19:35:43 GMT",
+   "summary": "US accuses Chinese AI firms of 'malicious' copying of AI technology &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -488,6 +480,14 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0hfNmdmb2ZPZlZjVU9TOVduRl8zU0d6c1VDOUVRd2lBX09oWGtLdTBNZ1hjWGJpZkY3UFFBZnlZU0doQWdOTXNMeWQ0RTUzLW5hTUlsbk1ZVmItcXJHY2hyTUF2UnZ0OGE5ZTdOMHF6ZVB5UW1UektuMTc4NlQwV09mNzBVQ3R2anNxb05mNVhHMm9yUkxDQUxjZGV0eTRVYTlSdlBZMTY3bm00bUJLTg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 08 Sep 2026 13:43:58 GMT",
    "summary": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "South Korea's power demand set to soar on AI boom as nation weighs expanding nuclear energy",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDRHQ2lNc29oTV9XNHhGY3RFZ0szbDFQOGV1akd4d1FnYk5ORmF3ZUw0VDQwTHdzdVFndjBYMHg0MzM2NDA2X2xiZml4WnV0X3ZOMndrM1NERFloVjJYZVZHSnFLSm5ENG5vVkVQVy1LTExwWkN1SkttQ3BSdHZFYVJ1XzVJc21mZ0dzajlnUTBIV18tYkp0a3VybW9oN0hlTFM2R2lCM0JBdFgya1JyUjlaX2IxdVQ3NllGZTFzLWNxZ2lr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 06:26:00 GMT",
+   "summary": "South Korea's power demand set to soar on AI boom as nation weighs expanding nuclear energy &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -510,7 +510,7 @@
    "source": "reuters-tech",
    "title": "JPMorgan names APAC, EMEA tech investment banking chiefs as international co-heads",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaVRsOUJVWUI0aHlEbVJaRy1OYVpXWWxvS0VSWk5MTWQybzllRGFSbEhPb19BemlTQzJEdl9tRl9qaEVYS0w3ZnhWcE14MWcyV3FmZXk4Ty0wdmpMOXViUGk4VDVURlZubUlXWHVYUVJ0QkJBYlQzU0VTYzhnTmpsdURuZUdWSENkdDI2QVYwZDJ0VGZhWjVoTU5PTHVKUXB6ZjZSRnZnNGZxTDRNeXF1MzBzSEx3Y19tdkR6dzRDcTJQZUNtaWtEQS02eEFXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 05:15:56 GMT",
+   "published": "Tue, 08 Sep 2026 21:15:44 GMT",
    "summary": "JPMorgan names APAC, EMEA tech investment banking chiefs as international co-heads &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
