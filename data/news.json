@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-09T19:00:19Z",
- "count": 67,
+ "generated_at": "2026-09-09T22:10:15Z",
+ "count": 68,
  "items": [
   {
    "source": "nyt-world",
@@ -12,10 +12,26 @@
   },
   {
    "source": "nyt-world",
+   "title": "Spain Declassifies Warning to Morocco About Migrant Crossing Plans",
+   "url": "https://www.nytimes.com/2026/09/09/world/europe/spain-ceuta-migrants-report.html",
+   "published": "Wed, 09 Sep 2026 18:56:11 +0000",
+   "summary": "Spain’s intelligence service had alerted Morocco about social media calls for a border exodus into Ceuta, which led to more than 100 deaths and a political crisis in Spain.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
    "title": "How a Driver’s Sudden Death Triggered Ebola Panic in Congo",
    "url": "https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html",
-   "published": "Wed, 09 Sep 2026 13:53:07 +0000",
+   "published": "Wed, 09 Sep 2026 19:43:37 +0000",
    "summary": "When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
+   "url": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
+   "published": "Wed, 09 Sep 2026 21:09:08 +0000",
+   "summary": "With its oil-export routes once again under threat, Saudi Arabia is stepping up its military campaign against an old antagonist.",
    "full_text": ""
   },
   {
@@ -46,7 +62,7 @@
    "source": "nyt-world",
    "title": "Police Expand Investigation Into Reform U.K. After Undercover Sting",
    "url": "https://www.nytimes.com/2026/09/09/world/europe/reform-uk-investigation-nigel-farage.html",
-   "published": "Wed, 09 Sep 2026 17:51:26 +0000",
+   "published": "Wed, 09 Sep 2026 19:40:51 +0000",
    "summary": "The Metropolitan Police are investigating Nigel Farage’s right-wing populist party after footage appeared to show party officials arranging secret contributions from a foreign donor.",
    "full_text": ""
   },
@@ -67,26 +83,18 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Thousands Gather for Funeral of Norway’s King Harald",
-   "url": "https://www.nytimes.com/2026/09/09/world/europe/norway-king-harald-funeral.html",
-   "published": "Wed, 09 Sep 2026 11:56:55 +0000",
-   "summary": "Royal families and heads of state, including President Volodymyr Zelensky of Ukraine, attended the funeral of King Harald V in Oslo.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "This Tiny Anti-Establishment Party May Put Germany’s Far Right in Power",
-   "url": "https://www.nytimes.com/2026/09/09/world/europe/afd-bsw-sahra-wagenknecht.html",
-   "published": "Wed, 09 Sep 2026 09:06:37 +0000",
-   "summary": "Germany’s far right won a state election but fell short of a majority. Its path to power depends on a small populist group that defies traditional labels.",
+   "source": "nyt-business",
+   "title": "Hunter Biden’s ‘Laptop’ Crypto Coin Plummets Upon Launching",
+   "url": "https://www.nytimes.com/2026/09/09/us/politics/hunter-biden-crypto-coin-laptop.html",
+   "published": "Wed, 09 Sep 2026 21:31:50 +0000",
+   "summary": "The president’s son portrayed his memecoin as a symbol of redemption. Critics denounced it as hypocrisy.",
    "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs",
    "url": "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html",
-   "published": "Wed, 09 Sep 2026 18:53:05 +0000",
+   "published": "Wed, 09 Sep 2026 20:29:49 +0000",
    "summary": "A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.",
    "full_text": ""
   },
@@ -102,7 +110,7 @@
    "source": "nyt-business",
    "title": "Bond Market Rebuffs Treasury’s $6 Billion Plan to Reduce Borrowing Costs",
    "url": "https://www.nytimes.com/2026/09/09/business/economy/treasury-repurchase-bessent.html",
-   "published": "Wed, 09 Sep 2026 18:53:01 +0000",
+   "published": "Wed, 09 Sep 2026 21:38:28 +0000",
    "summary": "The 10-year yield rose to its highest level in three years, suggesting investors were underwhelmed by the details of a move to buy back government bonds.",
    "full_text": ""
   },
@@ -155,18 +163,10 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
-   "url": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html",
-   "published": "Wed, 09 Sep 2026 12:15:01 +0000",
-   "summary": "The cost of crude has risen 40 percent since the start of the war in Iran, pushing up the price of gasoline, diesel and other refined fuels.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
    "url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
-   "published": "Wed, 09 Sep 2026 18:52:19 +0000",
+   "published": "Wed, 09 Sep 2026 22:04:28 +0000",
    "summary": "At the company’s annual September product event, Apple also demonstrated its work on artificial intelligence and other new devices.",
    "full_text": ""
   },
@@ -190,7 +190,7 @@
    "source": "nyt-technology",
    "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
    "url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
-   "published": "Wed, 09 Sep 2026 18:10:42 +0000",
+   "published": "Wed, 09 Sep 2026 20:17:38 +0000",
    "summary": "Their warnings echo concerns that other artificial intelligence experts have voiced in recent months, as calls increase for a slowdown in the pace of development.",
    "full_text": ""
   },
@@ -254,40 +254,32 @@
    "source": "reuters-world",
    "title": "As Trump takes center stage in Dallas, Republicans debate a future without him",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2NXWmxOTzBqLS1jVW1JTjBsMzgxS2VuQkFVRl9KeDlJR28taW9UWUE0YlZIRWprbEtoMDZXc2lpUDItLWVkWHdiQ19XRDNFUll4YnQ2ZmhfbGV1ZWxndXplbHNUM3NKdlNJVUNaY1Jqa2o4Z0hUb185Tk5CQk1jd1dBbzhZYjR3NXJnWE91NEVJQ3NidWV6ZTJGSTJmQURXcS1YMlJvUm9uSEtQdXlYMGtiT1M?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 15:51:10 GMT",
+   "published": "Wed, 09 Sep 2026 21:16:24 GMT",
    "summary": "As Trump takes center stage in Dallas, Republicans debate a future without him &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Conflict over Taiwan would be disastrous, de facto US ambassador says",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGdPcmx6b1hqWkp2bVg1eThPNUJRMnd5U0J4WTJoNFlBYzM3ZDEySEpia1RlRVNfQmZCRjJrSmh1bGJTelI0RUJDeWZBQk1pVEY4d0gwR3FSVlo1Z0JWTkNFNE9PR1VNbXg0NGEzMml3bWxxZUR6N3Z0dDloU2hPbzdDY2d1UG8zU1RVclNIZWhVb1doeEVuWHg5WXhmRFVJRXRJMzl3YUxfRnhqUlpVUENiZlRJcGs?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 02:07:00 GMT",
-   "summary": "Conflict over Taiwan would be disastrous, de facto US ambassador says &nbsp;&nbsp; Reuters",
+   "title": "Costa Rican man, 119, seeks recognition as world's oldest person",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHI3U2ZHSlo4Z21Yc2djV0RCY2RfQlQzSWhHTGthU3NSYWlja055ckJabkcxVEh4NlhxVEpyQUlnT0Z6NjY4Wk5MVl9MSTFOZHR2OG02MGQwX1gxTVFXTUYwaVZIX1BvRVo1S2tYejY2VjRwMlZRT0h2YVhOMDQydjFrT3VUeTRCYkhoenJUME1TbkFDNGFfcC10Ni1aU2hOVzVEc1RpRHRFS20yREE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 18:38:50 GMT",
+   "summary": "Costa Rican man, 119, seeks recognition as world's oldest person &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Ash-covered shoes and a president in crisis: A Reuters reporter remembers 9/11",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnVwNUtycWN2VWRwUUVtZEFmVVMzRzVVc0tkY01JbWl0dVpnT2hWYzVrbGFzMFdwUGdtZVMzSkJqbzhkLTBwMEs3N0ZMWDdwSHdqN2FYS3lMU2drNF85Sl9GR3hQRlNGYnJYTWh0ajdUVkxva1V6VDRISFlPRDBzamN1YUszRTdwVlRNREd5emozM0xkNVZ5NlRtMEZBam0tVXpiY0RPNmh4RnVOYllZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 17:23:53 GMT",
+   "summary": "Ash-covered shoes and a president in crisis: A Reuters reporter remembers 9/11 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
    "title": "What is the yen carry trade?",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUU4wYlJybXRLcFlOVVJnd0dRb2tEcVd0ZnNVczZpN1FDTGZIQkVvV081QjRnWThySmQ2NG5FVlBhZ3h0ZlRJYTlRemtJdDBxZWxoMFo5VGQwbmg4UmxrS1BGVEpyV1dHQnlsYUpSeENHdVhEYzBEMGhjdFlNZVZYZEVmSEM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 08:01:25 GMT",
+   "published": "Wed, 09 Sep 2026 05:13:00 GMT",
    "summary": "What is the yen carry trade? &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Republicans tie midterm hopes to Trump at Dallas convention despite political risks",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFVuRjI3ZmphcmFXSWxBWkNkYUtjc1FhVDB4RllGaUZfdlNCOTViQktDc1lieWRpQmhtMWkxZkZ6eTdYRE53eE1MSjI3M0tLNkpzZnRIUW9veERzNi1OTS0ycW0tUFFxUE8zV0ZRQ0gyRXExSFFwajlVUnJOd0dLemIyYnh6R3Q2TWx6MXhqc1NhX1BDbVZPX3JRLUhhTlRnal9naEdkYVpBYnpLcnRORHNhbmNVQ3Zrdkl5TXhndw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 11:08:52 GMT",
-   "summary": "Republicans tie midterm hopes to Trump at Dallas convention despite political risks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "OpenAI says working with Samsung on next-generation chips, deepening cooperation",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2o2VUItNFg5QW81Z1pGUDRZejdleV9jLXpNTTRFWWd6aHVrRkEzYk04dHIwUU1DcXNBc2pGQ2hFU01UNUtkZVBseGd1RE9SdGotVkxnLWZoYk9BQ2owaHZKZ1NNQTEtUDdaSzMtZXFMcnB2RXNtbjBEMXhwUGJhQXgtNmZLTHNnODdPTVNYZ3c1ZXZJclUzOWJBTkZuaVREVWN3a2Z0TUh5MjY4MmFsTWMyWEdIVWF6LXNWQVpELXR1SXFucUNhQ3Nzbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 05:58:00 GMT",
-   "summary": "OpenAI says working with Samsung on next-generation chips, deepening cooperation &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,10 +292,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Iran says it captured US submarine drone in Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0VkUnd5VzlEZVhBUy1ja1Q0dFZ6RE0yZHp2dGdobTZHajY0ZTZ6MXdkVWtKV2hYal9nY2dRRUlxU0RlZmxyQ3dmMXpKMFVVNlh2Q25LRVp3LXZHWmtrbzZGM3djQlVtVWdQb0U5RFNTOVA2U1BUMlFWcDZqblV2MGZLdEZPQllselJKcm44eld0STZhTDdsd2R1RG1HT1RrNm53VTZXNXVWWDla?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 22:31:00 GMT",
-   "summary": "Iran says it captured US submarine drone in Strait of Hormuz &nbsp;&nbsp; Reuters",
+   "title": "Conflict over Taiwan would be disastrous, de facto US ambassador says",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGdPcmx6b1hqWkp2bVg1eThPNUJRMnd5U0J4WTJoNFlBYzM3ZDEySEpia1RlRVNfQmZCRjJrSmh1bGJTelI0RUJDeWZBQk1pVEY4d0gwR3FSVlo1Z0JWTkNFNE9PR1VNbXg0NGEzMml3bWxxZUR6N3Z0dDloU2hPbzdDY2d1UG8zU1RVclNIZWhVb1doeEVuWHg5WXhmRFVJRXRJMzl3YUxfRnhqUlpVUENiZlRJcGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 02:07:00 GMT",
+   "summary": "Conflict over Taiwan would be disastrous, de facto US ambassador says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -315,19 +307,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHg4WTBWRU9RMm16bXRLQnA2WHZfYm9ydEdPNnBXdHpKSEpRQi1rVS1hcW5VUk9DdlA3SE9ZWXpLMVZFNDUydzBYM2ROdmRqeEZfMmZtN0MxWDNRTnA3UklLYjNfTDlNNzcyY3Etb2JaSVZ2TGpIYVJWQWhsbGhTY0ZHdFNrS3FtYmdBN0pwU053OUZLU1NLT2ttZDM1emJ3VE10N3d6NF96UUxkLTFWUVV3elpNMTRLdjdjaV9MbHZDa2s3eTIxTEdrMk9CNl9oa0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 10:00:09 GMT",
-   "summary": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlB6ckhOUjNOZ3VfSVNXTVBvQWlkLTRiWUwxLU1KZG9fT0t3QVI5U043NS1pdGp6UHpCM0hjTHFzZm5OelhkWVdZbkY3RnBBbEdCVnFTXzhJNl8yTW4tOHo5UzU3SEU5VW0xNFZnQkhCNjJzWVVWTmZEQUhsUVNYalpYNnpIZUo1S0UxNEF0MHFtalVablBwWFF1ZDE5V25OSDIzd2tadlZqdU9xdDFQc1YwR1FxNW91aDJKeHNaeF9iQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 16:57:43 GMT",
-   "summary": "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round &nbsp;&nbsp; Reuters",
+   "source": "reuters-world",
+   "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0VkUnd5VzlEZVhBUy1ja1Q0dFZ6RE0yZHp2dGdobTZHajY0ZTZ6MXdkVWtKV2hYal9nY2dRRUlxU0RlZmxyQ3dmMXpKMFVVNlh2Q25LRVp3LXZHWmtrbzZGM3djQlVtVWdQb0U5RFNTOVA2U1BUMlFWcDZqblV2MGZLdEZPQllselJKcm44eld0STZhTDdsd2R1RG1HT1RrNm53VTZXNXVWWDla?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 22:31:00 GMT",
+   "summary": "Iran says it captured US submarine drone in Strait of Hormuz &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,10 +324,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "EU's Russian energy exit faltering, auditors say",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdm5Ic1I5N1Y4RHE1Q2hiZFJWcXJDcEh1aG45NTBheU56c2ZCWko0aEl5cE1qeE1KYkNhbmh1OW9zbllzY2F1VXN0eHQ1YjRqVnJ3TWxjbDRReVVMZGUteTBHaldqd0NRa0lqNzNESTctdk5ibHhVM1h5bnBxRTNtT0JGN2hxSk1EWkpjREsxd21hZjVBdXJQajBYc29PZG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 15:05:43 GMT",
-   "summary": "EU's Russian energy exit faltering, auditors say &nbsp;&nbsp; Reuters",
+   "title": "Canada's Enbridge to buy Tallgrass crude oil business for $2.55 billion",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2FZanFEQlJ4cHVfUHdleUFIZzM3RFUwdmFvUG1NZnEwYkNYQ1pJSzdlRkpiMXpMM1BURkpCQW5JMlBYcUFab2VlbEswRmUwRmQ1dlk5dzlJRVlfSDZJcVlPWkVRRGRYTkZkbEJvMWZUdnZxNGJrX0xBUjV5UlhiYzJnZEJfN1EwaTZVeTFWT2g0UGVjaU82VlVxd3NUSnRQbjNBRVY1UnZGRkFCbmRhaVA5dzRjX09qUTB4bW1rQko0S3c0N01z?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 21:13:18 GMT",
+   "summary": "Canada's Enbridge to buy Tallgrass crude oil business for $2.55 billion &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHg4WTBWRU9RMm16bXRLQnA2WHZfYm9ydEdPNnBXdHpKSEpRQi1rVS1hcW5VUk9DdlA3SE9ZWXpLMVZFNDUydzBYM2ROdmRqeEZfMmZtN0MxWDNRTnA3UklLYjNfTDlNNzcyY3Etb2JaSVZ2TGpIYVJWQWhsbGhTY0ZHdFNrS3FtYmdBN0pwU053OUZLU1NLT2ttZDM1emJ3VE10N3d6NF96UUxkLTFWUVV3elpNMTRLdjdjaV9MbHZDa2s3eTIxTEdrMk9CNl9oa0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 10:00:09 GMT",
+   "summary": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,18 +372,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "Huawei heads to trial in US over its business dealings in Iran",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnZfcVJUeEZKOFpSTE5oQk9WTU1GWE5fc1U2R1g3NGFuOGdnNnZfT29tOU4xbmFISzhvd2paSmIyb2Y1V05nTFRjTl9xejZrUGdoSTJHS3prREdOOVlSbkl2UkxFQlk3NFRvM3J6YUdBdklRZ2RmZ3gzVUd2NXFsN01PcUFTXzZmSU1SQ3NUakdWc1MxU2V5N0RGMzd1ejFydDNnR2ptdUlYZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 20:00:16 GMT",
-   "summary": "Huawei heads to trial in US over its business dealings in Iran &nbsp;&nbsp; Reuters",
+   "title": "Oil nears $100 as fresh Middle East strikes raise supply risks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 00:23:00 GMT",
+   "summary": "Oil nears $100 as fresh Middle East strikes raise supply risks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Oil nears $100 as fresh Middle East strikes raise supply risks",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 08:44:31 GMT",
-   "summary": "Oil nears $100 as fresh Middle East strikes raise supply risks &nbsp;&nbsp; Reuters",
+   "title": "LIV Golf files for Chapter 11 bankruptcy in New Jersey",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlhndWJYMzZJcDBVZTB4ZUtlRThuY3BCYzh3MGxqNUR5aEZOdmtRX0F1NnFkblhhZGJVSlFXWU1kMlRyeW5UQVgyTXdEWkk1dUduRmE1bjZmRzYzaWoxY2lLOGNIcWdHU2JXQUpmN0NLbEhGRVJEbS1RVVMtSDB4SUlfSmx0aEJ3NTdtaVlYWU5vVlVaRTlJRDB1Q01CTUY5R0lQZDNBSWdRaTctV2pTS0VMN3ZOelU1VlZ3NzZfcGU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 20:52:00 GMT",
+   "summary": "LIV Golf files for Chapter 11 bankruptcy in New Jersey &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Huawei heads to trial in US over its business dealings in Iran",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnZfcVJUeEZKOFpSTE5oQk9WTU1GWE5fc1U2R1g3NGFuOGdnNnZfT29tOU4xbmFISzhvd2paSmIyb2Y1V05nTFRjTl9xejZrUGdoSTJHS3prREdOOVlSbkl2UkxFQlk3NFRvM3J6YUdBdklRZ2RmZ3gzVUd2NXFsN01PcUFTXzZmSU1SQ3NUakdWc1MxU2V5N0RGMzd1ejFydDNnR2ptdUlYZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 10:01:00 GMT",
+   "summary": "Huawei heads to trial in US over its business dealings in Iran &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,10 +412,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "S&P 500 falls as oil tops $100 per barrel",
+   "title": "S&P 500 ends down as oil tops $100 per barrel",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZExkRWJ1dThFMjNOZWdHdkJuSFd4UENUUko1cUI2aWJNMkQzb3FtYm5kNWUza3hVRVQ2Qlk0WjFGRnlGZWRhbzVMckNacFc4NDRXbzRqTmdyWWxTdVZoQ3pYNjY2Nm9pNHJRTUo0dlhkNkFzN2NSZ3BYR2Rqb1dfYkFjWHI1eW5USFlQd200RzI1cVVYY0VsdEZMbDdNQnZrLThZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 18:33:53 GMT",
-   "summary": "S&amp;P 500 falls as oil tops $100 per barrel &nbsp;&nbsp; Reuters",
+   "published": "Wed, 09 Sep 2026 20:15:15 GMT",
+   "summary": "S&amp;P 500 ends down as oil tops $100 per barrel &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -436,26 +436,34 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Amazon raises almost $6 billion in first sterling bond sale, lead manager says",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlZhMHZ0RkVhaWNCVWdOa3N1aXVYdXJ1LS1tUTFFWU5hMlJYYTJaQkQ3SWc5RGhMcklmZkxrQlNZV0ozd1lnWTdZbjFVT1hYYzFRTkJYZVZiTEFNRjBlNWkxVGprb29nRnVEeHBlZ3dkVl9HdkNhcUg1bjBpYlo0dFVDbTl4YXA2MEllSXo5bS16N3lzYUh0TThldUJhci1jYTJiWXFOdU1teDAxZmVhbTRBOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 15:46:55 GMT",
-   "summary": "Amazon raises almost $6 billion in first sterling bond sale, lead manager says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Oil, Treasury yields turn higher as stocks falter",
+   "title": "Wall Street dips as $100 oil, inflation worries weigh on investors",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 09 Sep 2026 02:27:00 GMT",
-   "summary": "Oil, Treasury yields turn higher as stocks falter &nbsp;&nbsp; Reuters",
+   "summary": "Wall Street dips as $100 oil, inflation worries weigh on investors &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "COMMENTARY: Morning Bid: Tit for tat",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXdZVmkycHFERjNZMW9tcmx5QUhGWmtGVU5WWHVVWHhtV2xqOS1XYUVhbHhmQVZDeVdYX0ozYXRsbDJXd0h0dTdaY3d1YUVYTi11WnpicFlDdExsdndYaWFXbDZhS0o5RXpnUHdCUzE4QjE4dzN2cms3aGY2ZFdUOXRfVXpHTS0tNTJmSW5ZVXNlRGtja004?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 10:51:10 GMT",
-   "summary": "COMMENTARY: Morning Bid: Tit for tat &nbsp;&nbsp; Reuters",
+   "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pZExCdjRUZTV3SXBlS3pmdE81QndXdmxLbGpXVDdKOEVVNVJfUF9xTDB2T3pWMlFDR3hsMi1TaGJaN1FUMXhWZkExbEd2Q19jdmNiLS0wR3RzSzg5MHNmRURCNVZpLVhsd0FQQjFwUjRRc0ZTbER0THlSY2tnYVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 04:32:00 GMT",
+   "summary": "Morning Bid: $100 Brent in sight, yen defies gravity &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Indian stocks fall to three-month low as Brent oil surges past $100",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTJ5YTBDcXdScFdqQUJJNmpuSC1YYmZtQUJEbDdlV3dEazhPNWtIb3MwV2lqQTdqakNBZDhlZ21uMHMzNWp4ZFF2djRtZ3hnQnlnRnhzel9CbzJsXzJnSHg3aUlCUGZzZDc1RnpENVBQMEtUUXVYcThYUG1pU1dPdVpqR1BPWjlJSWYwRW02MU9nOVNxV3h5UTFRTHVaSnVPQmU1QW5mZGRWci1oZ2FqUG1TYU9fSGhzS1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 02:20:00 GMT",
+   "summary": "Indian stocks fall to three-month low as Brent oil surges past $100 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Dollar trades near 7-month low against yen as oil settles above $100",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEotZFlXVDdDeG05cmdnOVhQN0xrYXBpeUhaNDg2ZkQxNkdEZ0k2aVp6ZThfRWMwaHk4TUVPcTh1NHJ2S2VmQk1hZWdqM1Y2cXpqeGwtdHgxN291b0F2OGc3SGZMV0F2RUktY2g3RE1uVzhLSXVQMWc1OE9hSXhjNmxSTktoY2o3Uy01SjRYUVg1NjUxVHRPMndmODlpWW5OdEpPaUFpQjd3MHhfcmIxWGpZWFFhRnBSeEtIRFdDTTI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 01:59:00 GMT",
+   "summary": "Dollar trades near 7-month low against yen as oil settles above $100 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,17 +476,9 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0hfNmdmb2ZPZlZjVU9TOVduRl8zU0d6c1VDOUVRd2lBX09oWGtLdTBNZ1hjWGJpZkY3UFFBZnlZU0doQWdOTXNMeWQ0RTUzLW5hTUlsbk1ZVmItcXJHY2hyTUF2UnZ0OGE5ZTdOMHF6ZVB5UW1UektuMTc4NlQwV09mNzBVQ3R2anNxb05mNVhHMm9yUkxDQUxjZGV0eTRVYTlSdlBZMTY3bm00bUJLTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 13:43:58 GMT",
-   "summary": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "As Apple prepares to make a splash, a brief history of foldable phones",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXFBSFBWSWRTZlJRS3RSU0p1RFo5MldCdzNVdG9JMjZOT0xFSllKMlRPLTVfZkZSM2xqRDlZYmRkUnEySWwwTmRmRHQyaF82eVNieTlPVjZ5OUkyOWJFVllfSExTd2NNamtSVmtGSWF2SGhoc0U2RzI4TmRhM3VGWGFnX2Y5VXlVb2xHM2NWOFBaaHRRU2ZTdmRSbjZTTldBaHpHRXNLZjJKVWh4aTg3RmFEeHhWcVZt?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 13:59:38 GMT",
+   "published": "Wed, 09 Sep 2026 21:13:48 GMT",
    "summary": "As Apple prepares to make a splash, a brief history of foldable phones &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -536,6 +536,14 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaVRsOUJVWUI0aHlEbVJaRy1OYVpXWWxvS0VSWk5MTWQybzllRGFSbEhPb19BemlTQzJEdl9tRl9qaEVYS0w3ZnhWcE14MWcyV3FmZXk4Ty0wdmpMOXViUGk4VDVURlZubUlXWHVYUVJ0QkJBYlQzU0VTYzhnTmpsdURuZUdWSENkdDI2QVYwZDJ0VGZhWjVoTU5PTHVKUXB6ZjZSRnZnNGZxTDRNeXF1MzBzSEx3Y19tdkR6dzRDcTJQZUNtaWtEQS02eEFXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 08 Sep 2026 21:15:44 GMT",
    "summary": "JPMorgan names APAC, EMEA tech investment banking chiefs as international co-heads &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Huawei, Xiaomi launch new foldable smartphones ahead of Apple event",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 07 Sep 2026 07:20:00 GMT",
+   "summary": "Huawei, Xiaomi launch new foldable smartphones ahead of Apple event &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
