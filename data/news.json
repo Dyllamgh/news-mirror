@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-09T02:29:42Z",
- "count": 67,
+ "generated_at": "2026-09-09T08:32:32Z",
+ "count": 66,
  "items": [
   {
    "source": "nyt-world",
@@ -30,7 +30,7 @@
    "source": "nyt-world",
    "title": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
    "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
-   "published": "Tue, 08 Sep 2026 16:35:07 +0000",
+   "published": "Tue, 08 Sep 2026 16:35:08 +0000",
    "summary": "The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate.",
    "full_text": ""
   },
@@ -38,7 +38,7 @@
    "source": "nyt-world",
    "title": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
    "url": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html",
-   "published": "Tue, 08 Sep 2026 16:34:36 +0000",
+   "published": "Wed, 09 Sep 2026 02:33:37 +0000",
    "summary": "In a video address, the prime minister said the United States was seeking “dependency, not a true economic partnership” from Canada.",
    "full_text": ""
   },
@@ -46,7 +46,7 @@
    "source": "nyt-world",
    "title": "Hungary Expels 10 Russian Diplomats, Signaling a Shift",
    "url": "https://www.nytimes.com/2026/09/08/world/europe/hungary-russia-diplomats-expulsion.html",
-   "published": "Tue, 08 Sep 2026 16:00:40 +0000",
+   "published": "Wed, 09 Sep 2026 02:35:16 +0000",
    "summary": "The housecleaning puts the new government more in line with how European allies relate to Moscow, tempering cozy ties developed under Viktor Orban’s administration.",
    "full_text": ""
   },
@@ -78,8 +78,16 @@
    "source": "nyt-world",
    "title": "Rubio Meets Colombia’s Leader, Cites Progress on Security and Tariffs",
    "url": "https://www.nytimes.com/2026/09/08/world/americas/rubio-colombia-cocaine.html",
-   "published": "Wed, 09 Sep 2026 01:34:36 +0000",
+   "published": "Wed, 09 Sep 2026 01:34:37 +0000",
    "summary": "Secretary of State Marco Rubio said he would talk with leaders in Colombia, Ecuador and Peru this week about drug-traffickers and trade deals.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
+   "url": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html",
+   "published": "Wed, 09 Sep 2026 07:51:42 +0000",
+   "summary": "The cost of crude has risen 40 percent since the start of the war in Iran, pushing up the price of gasoline, diesel and other refined fuels.",
    "full_text": ""
   },
   {
@@ -144,14 +152,6 @@
    "url": "https://www.nytimes.com/2026/09/08/travel/new-luxury-cruise-ships.html",
    "published": "Tue, 08 Sep 2026 12:06:30 +0000",
    "summary": "The latest batch of yacht-like vessels sailing in Europe, the Caribbean and beyond offer personalized experiences, great food and spacious suites.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Why Stocks Are Defying Gravity and What Could Bring Them Down",
-   "url": "https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html",
-   "published": "Tue, 08 Sep 2026 13:53:51 +0000",
-   "summary": "Investors are focused on strong corporate earnings and A.I., while looking past the war in Iran. But rising interest rates are an increasing risk to the rally.",
    "full_text": ""
   },
   {
@@ -236,18 +236,34 @@
   },
   {
    "source": "reuters-world",
-   "title": "From dance floor to war: China readies humanoid robots for combat",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 07 Sep 2026 14:32:23 GMT",
-   "summary": "From dance floor to war: China readies humanoid robots for combat &nbsp;&nbsp; Reuters",
+   "title": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 06:05:00 GMT",
+   "summary": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Breakingviews - COMMENTARY: How to make the world safer for AI",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHhsMk9Ic1dobWlDbFhLb1R2eVZyOWZkUC04dWFGc3VMR2FHVUdfUENEcU9ERW1YV2lkNjVXbjJjNGFlU3ExUEVOYTBHVzkweDZkcVpVUW9fekpzUHBVUXZJdHRld3BjcUFEYXBxSHFORVI1UzNXNDdSVXNsbk9xODlNQ3ZlYmRrVGhtVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 07 Sep 2026 05:00:28 GMT",
-   "summary": "Breakingviews - COMMENTARY: How to make the world safer for AI &nbsp;&nbsp; Reuters",
+   "title": "Conflict over Taiwan would be disastrous, de facto US ambassador says",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGdPcmx6b1hqWkp2bVg1eThPNUJRMnd5U0J4WTJoNFlBYzM3ZDEySEpia1RlRVNfQmZCRjJrSmh1bGJTelI0RUJDeWZBQk1pVEY4d0gwR3FSVlo1Z0JWTkNFNE9PR1VNbXg0NGEzMml3bWxxZUR6N3Z0dDloU2hPbzdDY2d1UG8zU1RVclNIZWhVb1doeEVuWHg5WXhmRFVJRXRJMzl3YUxfRnhqUlpVUENiZlRJcGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 02:07:00 GMT",
+   "summary": "Conflict over Taiwan would be disastrous, de facto US ambassador says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Yen stands tall as dollar drifts, oil's run towards $100 chills sentiment",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEotZFlXVDdDeG05cmdnOVhQN0xrYXBpeUhaNDg2ZkQxNkdEZ0k2aVp6ZThfRWMwaHk4TUVPcTh1NHJ2S2VmQk1hZWdqM1Y2cXpqeGwtdHgxN291b0F2OGc3SGZMV0F2RUktY2g3RE1uVzhLSXVQMWc1OE9hSXhjNmxSTktoY2o3Uy01SjRYUVg1NjUxVHRPMndmODlpWW5OdEpPaUFpQjd3MHhfcmIxWGpZWFFhRnBSeEtIRFdDTTI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 01:59:00 GMT",
+   "summary": "Yen stands tall as dollar drifts, oil's run towards $100 chills sentiment &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "From dance floor to war: China readies humanoid robots for combat",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 07 Sep 2026 14:32:23 GMT",
+   "summary": "From dance floor to war: China readies humanoid robots for combat &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,34 +276,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Kremlin says Russia will not consider Tokyo's request to dismantle new World War Two memorial",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3F6dnluOEM1NWRrSzItQnlDaW9iQUQySHVrZUZpMF9FN2RTZGk0RzFaTVFRbG5Cb01Zakk5V1ZraDVvYllkaTFKOGEtdDAwaEFJOUsyZXVZYXNGUVNZaWFrc2hwODZTQnlXRFNIU196cG82V3VhZjViUjVPVHFORXNnZEtOSnVtNGJlMm9GckxYQWhfdW9zVzVFMmdicm40SHBGc1lGZDI1OTJEZ1B3Q3NIQ0xxUmFBdlJhcDhmNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 11:14:59 GMT",
-   "summary": "Kremlin says Russia will not consider Tokyo's request to dismantle new World War Two memorial &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Smithsonian chief Lonnie Bunch announces departure",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEptUy01SmIzWkdEeEJWcHVESjR0U0xCMkpSN3BRYTZQVTNJaWNsMTRiNUtBTGtSYUh2SEJ3dUhuZTB4U0gtd2ZWWFFXWEgwWjAzRkVDTHZwb2dHYUNhMk5oZXNNdDhEeU91Ymxtbzd2RzFJaEw2SFd1N0Jtekw4dVV2MUQ4elc3bE1kZ1JUQ2RLR2Y3d2QxelRsMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 19:32:21 GMT",
-   "summary": "Smithsonian chief Lonnie Bunch announces departure &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "UK retailer Next wins appeal to pay warehouse staff higher basic pay",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHJuNVN4UkFVS1M1c2dQcWFqV0hPcFhidzI5RVdmLUEwdzh4X2ZyMl9jRWxmQU9EWHJGWUZHV3Y3UXhqSFlxbE5ENno0OE0tZ3o5ajRjbF9PcmNpVzJhMG14WVR1SkNNV3VUSUo5eVYtZVpVX1U1R3MwX3JFbVVkcUtYRDJ4RmFZazFDd05EcnVybi1pbk05YVhZUDhWbEFoaDBzUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 07 Sep 2026 12:48:14 GMT",
-   "summary": "UK retailer Next wins appeal to pay warehouse staff higher basic pay &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Amazon accused in lawsuit of systematic discrimination against pregnant employees",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnNsS1ljbDZEeWkwUWw1QmVMTVFtRHpBd3daZGxlcHRJelBmOENLVGwtNU1FQUt2NDE2U3lXbFQ0MjVSWFZCdGljREgwdTZDeUJJVENKcDJsbEVuNGxZT0FXS0J3ckJEdlRzRHN6UWtHOFMyakZrX0RZa1RyMTNDNkM4cXc4dENHbm16eFQtY1JVdUtKVW5Rdk90VHVDNXRRbTNlX2FmRTZHdFh4enB4YVBxSW9PWG5RTEFmSA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 21:27:43 GMT",
-   "summary": "Amazon accused in lawsuit of systematic discrimination against pregnant employees &nbsp;&nbsp; Reuters",
+   "title": "Tung Chee-hwa, Hong Kong's first leader under Chinese rule, dies at 89",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSllJdzlWZ1NndWpYNmZGMHRsc18yV2ctMlU3MHNJZU9PaWlkRFYwVDdKbmJlRXcwX0ctQmNPOE8zNXRZWndhSmRFcVhVUGhDTUd2UXk3VUpmN1pfZU1UT2MwdlpvTjYwdVRvbDNodTFuZVp2X1dTTW03MjdtQXdnbm4xYzJHVEJVMzRDdmY3NEJWdldPNVJzS0Q0MEdqTnBaaHB6SVVubGVRRXdLUXZKc1pB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 18:40:40 GMT",
+   "summary": "Tung Chee-hwa, Hong Kong's first leader under Chinese rule, dies at 89 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,50 +292,34 @@
   },
   {
    "source": "reuters-world",
-   "title": "BoE's Bailey pushes back against idea of rate hike being inevitable",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSk5ZbUFqcWNQcktCOExEaGVxMVVya3JQc0dBdE50NE1NN2hHQzEtcTRGaThDMERRZk9CWlBLRW9EM0QtUWxoeFdsY3BXdkExMDBvZ2E3VDFlWHJXc1FoM1N2Q2x2N0Itbk5yNlA0V2dubWFlUXotY0VpVzlEem5wT2owa3hyd012RVJYNEwwN08xUDhfajlodUJ1ZkJwTFVfRDRYZGd3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 15:59:56 GMT",
-   "summary": "BoE's Bailey pushes back against idea of rate hike being inevitable &nbsp;&nbsp; Reuters",
+   "title": "Amazon accused in lawsuit of systematic discrimination against pregnant employees",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnNsS1ljbDZEeWkwUWw1QmVMTVFtRHpBd3daZGxlcHRJelBmOENLVGwtNU1FQUt2NDE2U3lXbFQ0MjVSWFZCdGljREgwdTZDeUJJVENKcDJsbEVuNGxZT0FXS0J3ckJEdlRzRHN6UWtHOFMyakZrX0RZa1RyMTNDNkM4cXc4dENHbm16eFQtY1JVdUtKVW5Rdk90VHVDNXRRbTNlX2FmRTZHdFh4enB4YVBxSW9PWG5RTEFmSA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 21:27:43 GMT",
+   "summary": "Amazon accused in lawsuit of systematic discrimination against pregnant employees &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Far-right AfD wins historic victory in German state election",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHlKLTRObzFSci1rMWZ6aTRzcFhXUGtKc0JQakJVb1FBUmdNTFowMHU4X0tiRkdFUkVnbWhremU0V05zSUtYVzBxUkZ0bHdPZjhadEF4T3lZLXdrajlidkQ2b05OVTdydG1va0NjbGp4TEVHXzJNUmI2dkF5ZEJneUtta19hT0tnTDE2OEZiS2V0SFh6VFE0YVpXOFhqS3pENV9idTd6V0lwd0lOcEdCV3J2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 07 Sep 2026 00:03:44 GMT",
-   "summary": "Far-right AfD wins historic victory in German state election &nbsp;&nbsp; Reuters",
+   "title": "Explainer: What is the yen carry trade?",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUU4wYlJybXRLcFlOVVJnd0dRb2tEcVd0ZnNVczZpN1FDTGZIQkVvV081QjRnWThySmQ2NG5FVlBhZ3h0ZlRJYTlRemtJdDBxZWxoMFo5VGQwbmg4UmxrS1BGVEpyV1dHQnlsYUpSeENHdVhEYzBEMGhjdFlNZVZYZEVmSEM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 05:13:00 GMT",
+   "summary": "Explainer: What is the yen carry trade? &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "UK retailer Next wins appeal to pay warehouse staff higher basic pay",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHJuNVN4UkFVS1M1c2dQcWFqV0hPcFhidzI5RVdmLUEwdzh4X2ZyMl9jRWxmQU9EWHJGWUZHV3Y3UXhqSFlxbE5ENno0OE0tZ3o5ajRjbF9PcmNpVzJhMG14WVR1SkNNV3VUSUo5eVYtZVpVX1U1R3MwX3JFbVVkcUtYRDJ4RmFZazFDd05EcnVybi1pbk05YVhZUDhWbEFoaDBzUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 07 Sep 2026 12:48:14 GMT",
+   "summary": "UK retailer Next wins appeal to pay warehouse staff higher basic pay &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "Trump administration blasts Ford's business deals with Chinese firms",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUxxT0xDWVRud1VVVzV3eXRFTDR2eXRmalJ4Uk1qTmNkWmRBYnl6LVBTTUdDMVFJWllPTVlPQm90Y3JMUE5lZF9MMHI1dG4xQ3dpWmhDblFQbUVRek1HYndoSlV6dXgwUEtFYXllb2xvUDZSTTRkLV9nU043bXlQQmozSlotNTExRGxmbUhHZUtMcDVjeTFlaU9hLTdKMktvc0FNSGZFUU9SMFJLRnBQV0dvOXo4T3A4OHlWSENPdU8yWUVkNTFYUWJtWVY?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 21:04:51 GMT",
+   "published": "Tue, 08 Sep 2026 19:03:00 GMT",
    "summary": "Trump administration blasts Ford's business deals with Chinese firms &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Oil jumps $1 in early trade after Iran launches missiles at Jordan",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 00:23:00 GMT",
-   "summary": "Oil jumps $1 in early trade after Iran launches missiles at Jordan &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US to ban Canadian dairy, alcohol, motor vehicle imports on September 29",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUYwWFIyd1Y1Y2FfSnVUSnNiVzFJSlV2Zzg0QjF2U2NJb2M5VDJRMkRCbG5BXzBmWVA3WkIydnNBNHdTZHQzbTRtT3hfcHZ6MW1oYjFMeWVDQmREUEdabDBsZFZMeHQtYU5sck1BbG5NNTFwemxyVmxOaEpWYXJIa0RZbkVWc1BHdTdyZXRtdDBaTDhYM3VtNUVrV3UwV1R6RlJzRXFxQ0xDRXVJQUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 23:49:44 GMT",
-   "summary": "US to ban Canadian dairy, alcohol, motor vehicle imports on September 29 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Trump directs GSA to take steps to remove Canadian goods from agency lists",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXc1ZFExQVRyQXJLck41cG9oRHdFOE01YTBpeUUzWVN4UDlpdEhkMUN2RGFJTHo1d2ZNZVNnMDl6WEhvSnRyLU5kSmwtN1NHSi1hNnFmOTVuamJPeUZ6eTRNc2JEaTdXUVU0czJoRGJyR0xSOUVZM0VUUTFsZjNuRm83a29QVmxyQW1wanJxbFlidVNWX3ROMmFVSktSSHJONlk2ajFidjFWMVJK?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 22:18:51 GMT",
-   "summary": "Trump directs GSA to take steps to remove Canadian goods from agency lists &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,6 +340,22 @@
   },
   {
    "source": "reuters-business",
+   "title": "Oil stocks in US Strategic Petroleum Reserve fall by 1.2 million barrels to lowest level since 1982",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEprZzBjSzNENHRjMDBEOTdLUkFBQk1KQ3J5VnVYSWxjWHRWSTV5X1ZEa1JWS3pvc3NLM1dSZms0YllJaTB0eVMxUWZuNFcwMTFReUJQTDdHSDdaNVE1WkNPTlhvOEx5OXZ4OG5XT05FNmFwUjJkT1VXZjVBYk8xNHpKQmV5bXZuUWpETi1zNTVMQklJQWotTkpWWmtHRWNhaXVtTC0xdThQaHU0MTM1b05QUHlGcm1RTFFJTHRCYWVDeWdnb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 16:17:44 GMT",
+   "summary": "Oil stocks in US Strategic Petroleum Reserve fall by 1.2 million barrels to lowest level since 1982 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Trump directs GSA to take steps to remove Canadian goods from agency lists",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXc1ZFExQVRyQXJLck41cG9oRHdFOE01YTBpeUUzWVN4UDlpdEhkMUN2RGFJTHo1d2ZNZVNnMDl6WEhvSnRyLU5kSmwtN1NHSi1hNnFmOTVuamJPeUZ6eTRNc2JEaTdXUVU0czJoRGJyR0xSOUVZM0VUUTFsZjNuRm83a29QVmxyQW1wanJxbFlidVNWX3ROMmFVSktSSHJONlk2ajFidjFWMVJK?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 22:18:51 GMT",
+   "summary": "Trump directs GSA to take steps to remove Canadian goods from agency lists &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMTJHeXY1WWRiVXhNYkFVY01lNmZFR2FWZy1LbVZkczdzZzB4Z2NKRVlabHZmR2tQT3l1b2YyWXpLYWZfX0h3Ynl6Sm4tNGVtWUY2V0JHSGJJVHVEbVdyc1NRSl9IS3FHWGpaTmZBNU5kZTFYM2ZUczk0MWpjRUhtckZ6UVR6UURpVEk5QzNFc3pGYVNxOGZjcE9zVEMyQkw4YWh4VXhyVDV3NWMwYloyRTFGT05GRkxrUDlIV00yaw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 08 Sep 2026 17:16:58 GMT",
@@ -380,10 +372,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Amazon hires banks for first ever sterling bond sale",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGFxOXNnek1vZUFuMWxwajJnR1A0SHZrLTBxbVdjYlBsclBaNmNpbURKczduT3BvUEpab3ZNQXd0RVRuZ3YyaFIteFVweUxjbGNFYW9KQmxzZXNOQ2t4LXo5Z1c0ODB0OXR1ODNYWUNCYnhXamRCTkh0bmhKblBQcUdOR0t3TF9ZZWVsWC1HdzhSZmFxZjk0dEN1eHplVGxyYmdmdjhBTHZNQ2QwbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 12:06:05 GMT",
-   "summary": "Amazon hires banks for first ever sterling bond sale &nbsp;&nbsp; Reuters",
+   "title": "US to ban Canadian motorcycle, dairy, alcohol imports as trade war sizzles",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV2tRQzNWVFljd0NSczFNTXlWRXI0WWtzV1BFNFBURXlDcHRjSHNOcXNzVVMzNFBYbmZpY0l6UU05OU9HSWxVeGRkSlNLS1kxa3J6OXZPcXFCc1RFN1dDdERRakxPaGloYWZqNDFkWEdhOWVZOEdvaF9TWFlEa2dSeHF2LWgzZGttdC1jMDQ4aXpUNDZkT0V0MHlHdnNnTzQxM2l5eUIzWnY5Qjd4bUxDeUNzSUZNVGk0NEx3R1c1SzNOaWZx?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 04:03:00 GMT",
+   "summary": "US to ban Canadian motorcycle, dairy, alcohol imports as trade war sizzles &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -392,6 +384,62 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2VEOFBFc3FIc0xlQVlKbUd3UjRSTE92NUFlQXI5c3Jlb0pMVk9CUGl4R2czaDNTak9rSHNmYVJRVjVtRmdDTnZPQ3kzUHBkdnJBSnhYaW1jVjQ4YkNNNl9uRHppNi00c0tzcy0zUHlSU2o3Zkd3V2Vvd2tzVGFGa2hDcFNqdzMzQ0hYNzFubUpyUEx0aDJlUjZSb1lzcXBlRk92cFFtN24xN1dNak5GV2RJanc0cDVBRTlXWV9uVWt0NV8wMFplVUhFOFIydw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 08 Sep 2026 07:05:35 GMT",
    "summary": "China's car exports stay strong in August but domestic sales decline more &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Boards prepare for digital infrastructure shocks, survey says",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWhjXzJDcS11NlJvRUlPTGZWMm1uajBfRWw2RnViRHBRUFRHc3BQdVdTVmJDblZURlF0TFJudG5Bb2dUY3pVN2RaX0NzdnhieXR4WlFXY1c1RHlsMjZ5Nlp6ZGpha0VCR3hVMzR3ZnA4bUNaTFFLaHZZSW4tZU1aR0tsOHNjLVYxcEo0QTBCanZQVlJpLXpJeUxMc0lDTnNwWUtr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 06:31:00 GMT",
+   "summary": "Boards prepare for digital infrastructure shocks, survey says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 02:27:00 GMT",
+   "summary": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pZExCdjRUZTV3SXBlS3pmdE81QndXdmxLbGpXVDdKOEVVNVJfUF9xTDB2T3pWMlFDR3hsMi1TaGJaN1FUMXhWZkExbEd2Q19jdmNiLS0wR3RzSzg5MHNmRURCNVZpLVhsd0FQQjFwUjRRc0ZTbER0THlSY2tnYVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 04:32:00 GMT",
+   "summary": "Morning Bid: $100 Brent in sight, yen defies gravity &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Brent crude rises above $100 a barrel as Middle East conflict escalates",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 07:42:51 GMT",
+   "summary": "Brent crude rises above $100 a barrel as Middle East conflict escalates &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Oil nears $100 as fresh Middle East strikes raise supply risks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 00:23:00 GMT",
+   "summary": "Oil nears $100 as fresh Middle East strikes raise supply risks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Indian shares decline on crude spike; Coforge tumbles after chairman's exit",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTJ5YTBDcXdScFdqQUJJNmpuSC1YYmZtQUJEbDdlV3dEazhPNWtIb3MwV2lqQTdqakNBZDhlZ21uMHMzNWp4ZFF2djRtZ3hnQnlnRnhzel9CbzJsXzJnSHg3aUlCUGZzZDc1RnpENVBQMEtUUXVYcThYUG1pU1dPdVpqR1BPWjlJSWYwRW02MU9nOVNxV3h5UTFRTHVaSnVPQmU1QW5mZGRWci1oZ2FqUG1TYU9fSGhzS1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 02:20:00 GMT",
+   "summary": "Indian shares decline on crude spike; Coforge tumbles after chairman's exit &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "COMMENTARY: TRADING DAY Roll out the $100 barrel",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWhUQ1NpdmNLVzc0cWl4c0ZwUXZrV3dBeTBJVXF0ZnZQNDZlb3NXcnJlbUo3cUFQRV9nUE9VbGhfWXpzZTFaZGRMVkRrdUhhME5OYUs5Mm5PLWFmVTBvTk0teDdocVhhQXhNVVNWaXk0QmJpeXRTMDh5VzRTRTFjLTAxdkEwZDVPT3pxX2Zwd1N0RGdqVVhjVWI4bTVLZHotNjdwWHlB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 08 Sep 2026 21:08:06 GMT",
+   "summary": "COMMENTARY: TRADING DAY Roll out the $100 barrel &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -411,67 +459,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "PODCAST: Yen at Work",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CUFk1czBwVHg4X0ZrMHhVdlk0NVlKcVNYWm1pTkc0cWdFMWlaS3RrWDVHaE1iaE5RVWJYS25Fc0RkZHFrNnJXaG1kM1hGYmhLWDkzdTFuSERyTnpDQXk5SzVwemxVNnB3bEI0UWtzQkNTU1R6WUVZTVVOUHRwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 14:32:27 GMT",
-   "summary": "PODCAST: Yen at Work &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: TRADING DAY Roll out the $100 barrel",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWhUQ1NpdmNLVzc0cWl4c0ZwUXZrV3dBeTBJVXF0ZnZQNDZlb3NXcnJlbUo3cUFQRV9nUE9VbGhfWXpzZTFaZGRMVkRrdUhhME5OYUs5Mm5PLWFmVTBvTk0teDdocVhhQXhNVVNWaXk0QmJpeXRTMDh5VzRTRTFjLTAxdkEwZDVPT3pxX2Zwd1N0RGdqVVhjVWI4bTVLZHotNjdwWHlB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 21:08:06 GMT",
-   "summary": "COMMENTARY: TRADING DAY Roll out the $100 barrel &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Wall Street down, oil up as inflation, Middle East worries persist",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82VU5LOUdHSU5uLWxoeWs1bi16RTM3dUozczYtZXhPUF9RRFEtUVNTQmphRjloY2k5dkxodEZ1eTZnRjF4NU90clpNZGZJTnk1SEJXME44NDIxT1JNNW5rWW80VGlNbDJXNDdjMHN4YXd4eTRLb3RJLW5Ybw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 01:48:00 GMT",
-   "summary": "Wall Street down, oil up as inflation, Middle East worries persist &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: Morning Bid: Yen at work",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUttZ1l5UlpFTERDUDliVXVBRnFSODQzZ3h0RUtaTnJnNGZPdmtGbE8zNi1YSEhsbHJxQTNfX3BLbkZka1BYRzlyellqSVVCZjBiaFpCanZ3WVVURGpnRnFaSkdaY3lrSFdUNXJnVDZIMzRkXzV5MWdQSEpZUUF3WlZGbDlRMktxS3hEVkd5Y3NkNXVIWi1j?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 10:43:59 GMT",
-   "summary": "COMMENTARY: Morning Bid: Yen at work &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEl5UFVvaWZBUmFEZkVObFBBRVk3MHRBV29pSnoxSDJXSFVxUTl0SGR6NjdlamEyWUF5WF9LQW5nWVFRUTZhTnRjalplVWVEc3NPTEk4NllZR1B6VWVJbE1UaDlPLUFycVpRenZNRWRnUGlvREIyNy1kLUYyVTl0WU9IaG91MlV2dFpfYnpUNk1idFVMbmI0T2pmWHRWalY3UHRvMU1aazJhejh2eGJnS1pqUXpnNWdXY2k4THEzdV82OURFWjFz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 01:40:00 GMT",
-   "summary": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Yen holds near seven-month high as US dollar steadies",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzJTNlNmRkk4ZlAxN0diYXoyblUyaE41UTRRRFpZbURGSk9pZGlTVDc5QkpJSHpqWlRWY0ZjR1M1ZW1sdU5KNmJqUGZ6eTRleGRfektFaDFlMmprZW14T2RodGJMcVlfNG5fMmZTbFhqNERNeGZvVW1CcHQ5MUZ4R0pGbTF3WllEN2hqQkpTVUZrUmVlUnh2UWIwOTJSQU5IZ2pxRGJNelRPdU8wd0dYS0Q4QXB0bWNRSnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 00:56:00 GMT",
-   "summary": "Yen holds near seven-month high as US dollar steadies &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-tech",
    "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 08 Sep 2026 21:31:44 GMT",
    "summary": "US accuses Chinese AI firms of 'malicious' copying of AI technology &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Boards prepare for digital infrastructure shocks, survey says",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWhjXzJDcS11NlJvRUlPTGZWMm1uajBfRWw2RnViRHBRUFRHc3BQdVdTVmJDblZURlF0TFJudG5Bb2dUY3pVN2RaX0NzdnhieXR4WlFXY1c1RHlsMjZ5Nlp6ZGpha0VCR3hVMzR3ZnA4bUNaTFFLaHZZSW4tZU1aR0tsOHNjLVYxcEo0QTBCanZQVlJpLXpJeUxMc0lDTnNwWUtr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 06:31:00 GMT",
-   "summary": "Boards prepare for digital infrastructure shocks, survey says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,10 +500,26 @@
   },
   {
    "source": "reuters-tech",
+   "title": "EXCLUSIVE: US, China gear up for mid-September AI safety talks",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0dTWnZWcm1zc3pGR2l0R0c3YWhnUWFZa2JQeDFSeDA0OHNBdXlULTgya3ZKQ192OXI3NU0xZEEyRmdYb01zaHRQTEt6N01CNFZxU1NnOEZ3WVI0MGtkOUNQSmI3UTJyaWVVTE1hY19NOGJMOWJESVYycVpRU3NvaTdIamVWX2k4dXlIUXVhMUtzZXo4SWV6S01JblIwMGJ5UDF1VA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 04 Sep 2026 22:57:32 GMT",
+   "summary": "EXCLUSIVE: US, China gear up for mid-September AI safety talks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "JPMorgan names APAC, EMEA tech investment banking chiefs as international co-heads",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaVRsOUJVWUI0aHlEbVJaRy1OYVpXWWxvS0VSWk5MTWQybzllRGFSbEhPb19BemlTQzJEdl9tRl9qaEVYS0w3ZnhWcE14MWcyV3FmZXk4Ty0wdmpMOXViUGk4VDVURlZubUlXWHVYUVJ0QkJBYlQzU0VTYzhnTmpsdURuZUdWSENkdDI2QVYwZDJ0VGZhWjVoTU5PTHVKUXB6ZjZSRnZnNGZxTDRNeXF1MzBzSEx3Y19tdkR6dzRDcTJQZUNtaWtEQS02eEFXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 04:41:00 GMT",
+   "published": "Tue, 08 Sep 2026 21:15:44 GMT",
    "summary": "JPMorgan names APAC, EMEA tech investment banking chiefs as international co-heads &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Google escapes ad tech breakup in third Big Tech antitrust loss for US",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzZjU0NTeE1iWXZnaFIwQ3owdlFBWTM4NnZNZ25ncjI0VngydVFCc2ZLOS1PalpFLTNBdjNkTkpyNDNIYTFXd1JQMURDbnFadXB1T2s4eFNENXpxQk9BcVFWdUNvRTBwVFh4NEwzaGd4S3NmbDJYZVVyeGlseTVXWktpa2tDWmpTZllyYmVOQ2FIaVEzSVlacA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 02 Sep 2026 16:54:51 GMT",
+   "summary": "Google escapes ad tech breakup in third Big Tech antitrust loss for US &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -520,22 +528,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 07 Sep 2026 07:20:00 GMT",
    "summary": "Huawei, Xiaomi launch new foldable smartphones ahead of Apple event &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 19:44:57 GMT",
-   "summary": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "AI could pose 'existential' risk to humanity, UN rights chief warns",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 07 Sep 2026 14:30:23 GMT",
-   "summary": "AI could pose 'existential' risk to humanity, UN rights chief warns &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
