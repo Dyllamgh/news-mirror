@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10T20:18:56Z",
- "count": 70,
+ "generated_at": "2026-09-10T23:37:32Z",
+ "count": 69,
  "items": [
   {
    "source": "nyt-world",
@@ -38,7 +38,7 @@
    "source": "nyt-world",
    "title": "Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands",
    "url": "https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html",
-   "published": "Thu, 10 Sep 2026 17:14:02 +0000",
+   "published": "Thu, 10 Sep 2026 20:28:06 +0000",
    "summary": "One archaeologist called the tombs “the discovery of the decade” as the first burials from the Chimu kingdom to have escaped centuries of plunder.",
    "full_text": ""
   },
@@ -80,6 +80,30 @@
    "url": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
    "published": "Thu, 10 Sep 2026 04:49:27 +0000",
    "summary": "The June Aster was sailing from Manila to Coron, a popular tourist destination, when a fire broke out aboard the vessel.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "McClatchy Makes Deep Job Cuts to Newspapers Around the Country",
+   "url": "https://www.nytimes.com/2026/09/10/business/media/mcclatchy-miami-herald-layoffs.html",
+   "published": "Thu, 10 Sep 2026 23:27:39 +0000",
+   "summary": "The owner of The Miami Herald said subscriber interest did not support its current level of investment. One employee called the layoffs a “blood bath.”",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "TSA May Allow Passengers With PreCheck to Bring Water Through Checkpoints",
+   "url": "https://www.nytimes.com/2026/09/10/travel/tsa-airport-security-liquids-precheck.html",
+   "published": "Thu, 10 Sep 2026 22:11:19 +0000",
+   "summary": "Bottles of water could soon be allowed through security checkpoints at some airports, relaxing a strict policy in place for more than 20 years.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It?",
+   "url": "https://www.nytimes.com/2026/09/10/insider/apple-iphone-duo-tech-reviews-journalists.html",
+   "published": "Thu, 10 Sep 2026 20:56:03 +0000",
+   "summary": "Here’s the process for vetting new smartphones and gadgets at The Times and Wirecutter.",
    "full_text": ""
   },
   {
@@ -139,30 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Oil Prices Surge as Stocks and Bonds Wobble",
-   "url": "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html",
-   "published": "Thu, 10 Sep 2026 20:03:45 +0000",
-   "summary": "Crude oil hit its highest levels in months, bond yields continued to rise and stocks fell for a fourth consecutive session as investors worried about energy supplies and inflation.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "European Central Bank Raises Rates in Bid to Quell Inflation",
-   "url": "https://www.nytimes.com/2026/09/10/business/european-central-bank-interest-rates.html",
-   "published": "Thu, 10 Sep 2026 17:55:44 +0000",
-   "summary": "The bank, fighting price pressures spurred by the war in the Middle East, raised its benchmark rate to 2.5 percent.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "A $5,000 ‘Trump Dividend’? The Bond Market May Like a Word.",
-   "url": "https://www.nytimes.com/2026/09/10/business/dealbook/trump-dividend-bond-market.html",
-   "published": "Thu, 10 Sep 2026 11:55:22 +0000",
-   "summary": "President Trump’s latest political gambit could cost more than $1 trillion, and further roil a volatile bond market.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
    "url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
@@ -188,18 +188,26 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Could A.I. Really Kill All Humans?",
+   "url": "https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html",
+   "published": "Thu, 10 Sep 2026 21:53:02 +0000",
+   "summary": "After an Anthropic researcher quit, warning that the A.I. race is “gambling with our lives,” Cade Metz joined Natalie Kitroeff on “The Call” to break down what’s at stake.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "California’s Governor Signs Landmark Online Child Safety Bills",
    "url": "https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html",
-   "published": "Thu, 10 Sep 2026 19:09:46 +0000",
-   "summary": "Gov. Gavin Newsom signed a bill that prohibited social media platforms from providing addictive features to users under 16, the first law of its kind in the nation.",
+   "published": "Thu, 10 Sep 2026 20:49:14 +0000",
+   "summary": "Gov. Gavin Newsom signed a bill that prohibits social media platforms from providing addictive features to users under 16, the first law of its kind in the nation.",
    "full_text": ""
   },
   {
    "source": "nyt-technology",
    "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
    "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-   "published": "Thu, 10 Sep 2026 17:00:06 +0000",
-   "summary": "In a new report, the A.I. start-up added that it could not determine if the research was legitimate or nefarious, leading the company to shut down the work.",
+   "published": "Thu, 10 Sep 2026 21:50:37 +0000",
+   "summary": "In a new report, the A.I. start-up added that it could not determine whether the research was legitimate or nefarious, leading the company to shut down the work.",
    "full_text": ""
   },
   {
@@ -235,14 +243,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
-   "url": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
-   "published": "Tue, 08 Sep 2026 19:00:03 +0000",
-   "summary": "Muse, Meta’s new A.I. agent, acts as a personal digital assistant that connects to Facebook and Instagram, as well as third-party apps such as Spotify and OpenTable.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "Casablanca will host 2030 World Cup final, says Moroccan federation chief",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGYyZWpLekQzV2ZfNlVoUzVpUEh4Q0tLb3hpVGwzaGo0ODFBcHB6dUNhUHJCSzVPdFo1YUIta2QyVU51QUNDbng0d05Pa1hGcmcwaGE0dGh3S2t1aXMzSUp4SXczeWJKNWxtWC15dDNIdUxzYkpOZ2Z4aW84YmZLVUF1dmhmV1dZTEFfWEh3N1hsQmhNQlRpWjVBV1MwV1NjSWozaGFUVUhMMkp6WEFZTEUzM2JTSVJUVVBPOTdrWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -262,7 +262,7 @@
    "source": "reuters-world",
    "title": "August was world's joint-hottest month on record, scientists say",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG1VMGJxTjFMWlJ4Ul9YSWlQSUZxNDdWcVBfSDhNRFJWWnBYbGs0c25qSkRWcHBzNU96UzRtRDZicmlXMXRIWS1Nb3dSOXREdkVzRXpJMHpmWEI2R0EzZHgyQm1IZnFSZ0dFLTJERW13aG5wcFlVaXh5NDFFRG5UdnhYRXJEeU9IQ0JyWGtZYzNPa2dWRFJ1SHRYdTJUcHVPV3FCMmliUVhlQzZHSFF3SWVheWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 02:16:52 GMT",
+   "published": "Thu, 10 Sep 2026 02:05:00 GMT",
    "summary": "August was world's joint-hottest month on record, scientists say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -310,24 +310,24 @@
    "source": "reuters-world",
    "title": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 16:32:30 GMT",
+   "published": "Wed, 09 Sep 2026 06:05:00 GMT",
    "summary": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "White House copper tariff plan stalls amid affordability concerns, sources say",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNURGbmRQdjJaanFqS0VBQUVyTjZCNkZyeTBrV2NVcWtGLVRQdk5jaG9pYU5FejR3REpqdHJSQWM0NlRUSVdnclJOR0RiWEpUNlV1ZXRUU1RPSTFlNF90elZIZWFxbFhDYm1nUlFjQ3l0UjRMbGstTmItU3BiOVZDYi0tRUxPelM0V1J6TmhVTnJJQkdxdUFBemtkdWxTdUNScndiZlNiQm1rQXRsMlh6ZFhxNnRmemFLN2ZfMnk2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 16:31:39 GMT",
-   "summary": "White House copper tariff plan stalls amid affordability concerns, sources say &nbsp;&nbsp; Reuters",
+   "title": "As forest loss accelerates, can the world meet the rising demand for wood?",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSjBRX3RhdzlBM1I0Z09wNktCQ2tlU0RWTUEtazQyM3RCX3A2N2VQVTV6NmU3SjdpelpvUFFWeGlyMHdncXdQYU5PdTBESERqaUh1WjlwODBVcVlPX2hOVkdQbDhQUmd0UXpuRnRFOEZKbldBamRkUUtQVFBrQV93eHk3Sm42RERHeFV4RE1NNGpFWlFycUVZUC02TC1kc1BfSERWWEI1bzF6eG9IbXloVHI0VU9KZTVSZWxIWWRELURlWDY4eThrbTdVYmotS0R2WnZz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 16:22:04 GMT",
+   "summary": "As forest loss accelerates, can the world meet the rising demand for wood? &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Iran suspends freight charge on foreign vessels carrying energy products to or from Iran",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXZnOXJwQTRsaF9qbG1MR25Ld3EzOW56Yk95anF6NFJuRlhzc05YZ0V3VFB5endhR1NIUVI0MWVPSUtVbUwtb1lPV1AzZXFBY2hfZERIb1QyYm5yT3JWY3oya09CdFVsVm1yRUpnUDAxOFRpaWVvekRsR205cFZRNFQ2WFFrb3pnaU02Q05yaEFSN2JKYXRhQlBhdDRJVEhicEd0djU3VHVDWElLUUJxcl8wcWVzTldDbHcyM2xVd3ZYUjZuWldEUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 11:18:49 GMT",
-   "summary": "Iran suspends freight charge on foreign vessels carrying energy products to or from Iran &nbsp;&nbsp; Reuters",
+   "title": "Portuguese group D3 sues Meta, TikTok and YouTube over addictive design",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1ZUdV8ySE9LN2ZodTVWN21hcC0wOHZ1Ml9oMy1zVGFNY1R2RHo4UWVjV1RGMER4MGJDWllvbFFVbW5TS1VaZTk0WW5QV2RZbHZPMnpXSVhSUlVSUXAwbWdRS1dpVEo4Wk1SU3lUVk5sTkR4V0pHRkhyVU05VFMxTFI1VWYyZlE3dTBRWDVVNVNnZEg0TVByVWg5QlMzaU1wRGxoTW9uYmtKTUxJTm5HUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 21:31:28 GMT",
+   "summary": "Portuguese group D3 sues Meta, TikTok and YouTube over addictive design &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -336,6 +336,14 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 10 Sep 2026 02:20:00 GMT",
    "summary": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Iran suspends freight charge on foreign vessels carrying energy products to or from Iran",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXZnOXJwQTRsaF9qbG1MR25Ld3EzOW56Yk95anF6NFJuRlhzc05YZ0V3VFB5endhR1NIUVI0MWVPSUtVbUwtb1lPV1AzZXFBY2hfZERIb1QyYm5yT3JWY3oya09CdFVsVm1yRUpnUDAxOFRpaWVvekRsR205cFZRNFQ2WFFrb3pnaU02Q05yaEFSN2JKYXRhQlBhdDRJVEhicEd0djU3VHVDWElLUUJxcl8wcWVzTldDbHcyM2xVd3ZYUjZuWldEUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 11:18:49 GMT",
+   "summary": "Iran suspends freight charge on foreign vessels carrying energy products to or from Iran &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,10 +364,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Portuguese group D3 sues Meta, TikTok and YouTube over addictive design",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1ZUdV8ySE9LN2ZodTVWN21hcC0wOHZ1Ml9oMy1zVGFNY1R2RHo4UWVjV1RGMER4MGJDWllvbFFVbW5TS1VaZTk0WW5QV2RZbHZPMnpXSVhSUlVSUXAwbWdRS1dpVEo4Wk1SU3lUVk5sTkR4V0pHRkhyVU05VFMxTFI1VWYyZlE3dTBRWDVVNVNnZEg0TVByVWg5QlMzaU1wRGxoTW9uYmtKTUxJTm5HUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 15:42:59 GMT",
-   "summary": "Portuguese group D3 sues Meta, TikTok and YouTube over addictive design &nbsp;&nbsp; Reuters",
+   "title": "Supply squeeze in marine fuel eases as market adapts to prolonged Hormuz disruption",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQk40cFBfcWRKYVBUbTZlamcwWEdZUm9hZ2ZvUUxzSml4dEhhdG1zSVZ4b3hmZTNTQVpEREZwUHNhMHQxS093YmtyaVhQckVFazZaNG5qOEswcG9CTmVucGc1QXNwRkdoUjF5STI2RXVxamh2WE5uVDJNWjdqaWFwSGJhb3c0RUVEUEFQYkl6MktDdmNudEhldFFPWXJ6V1RDaWtQTGhfTlhQMGpzRXQyRDRtbWRndHZXakVlZXZmeVA0SUJaelE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 06:18:00 GMT",
+   "summary": "Supply squeeze in marine fuel eases as market adapts to prolonged Hormuz disruption &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,10 +380,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "UAE to invest €40 billion in Germany amid slew of business deals",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3VkT2E1dEJFUUo5OW9VQlU1SjlaeGhleXNuQmlyUkZKQnp2VFBsNlQxNkdWdWI2dHc0VUwtbGFlMHZzU3VJOXpUbmVFeWlITjlxN2Q0ZHllTTlWbThlSDZRZXB0cHNHaGRzanJlSjB2Q0RBNVVXQkpmTG5ZOThYQ0pGM3g5QTJDUEl6R05NeE0xMGJQbE1KRVRiWG9DajE2YkNnR1IwSmo4Y3VkLS1v?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 18:15:36 GMT",
-   "summary": "UAE to invest €40 billion in Germany amid slew of business deals &nbsp;&nbsp; Reuters",
+   "title": "US existing home sales drop to 14-month low in August",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXF4YklSUlAteXJvV3lzeWdsdFlmeWVxUUo4WVVFeWdKa1pES3M0T1E5Unl0U2x0X1RzZVlObUxLWDZ2SnpNTHNYNmZzdTFhellqSEVTNEN0YUNJRDdnM0hRUDl6YWpNcWxGcFZuQ1pUV2pMUElSM0pYSk5YbGNIdFZ5SFRfQkJVUEFiNkpuS0k5T05CTjJj?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 14:07:32 GMT",
+   "summary": "US existing home sales drop to 14-month low in August &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,26 +396,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHg4WTBWRU9RMm16bXRLQnA2WHZfYm9ydEdPNnBXdHpKSEpRQi1rVS1hcW5VUk9DdlA3SE9ZWXpLMVZFNDUydzBYM2ROdmRqeEZfMmZtN0MxWDNRTnA3UklLYjNfTDlNNzcyY3Etb2JaSVZ2TGpIYVJWQWhsbGhTY0ZHdFNrS3FtYmdBN0pwU053OUZLU1NLT2ttZDM1emJ3VE10N3d6NF96UUxkLTFWUVV3elpNMTRLdjdjaV9MbHZDa2s3eTIxTEdrMk9CNl9oa0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 09:59:00 GMT",
-   "summary": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Canada's Enbridge to buy Tallgrass crude oil business for $2.55 billion",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2FZanFEQlJ4cHVfUHdleUFIZzM3RFUwdmFvUG1NZnEwYkNYQ1pJSzdlRkpiMXpMM1BURkpCQW5JMlBYcUFab2VlbEswRmUwRmQ1dlk5dzlJRVlfSDZJcVlPWkVRRGRYTkZkbEJvMWZUdnZxNGJrX0xBUjV5UlhiYzJnZEJfN1EwaTZVeTFWT2g0UGVjaU82VlVxd3NUSnRQbjNBRVY1UnZGRkFCbmRhaVA5dzRjX09qUTB4bW1rQko0S3c0N01z?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 22:05:03 GMT",
-   "summary": "Canada's Enbridge to buy Tallgrass crude oil business for $2.55 billion &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "EU watchdog flags risk of abrupt market correction",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGVYOU9CMTBjT3ZQTS0xQkRncU5LdVZfLXlEaXlEcHNwU3lERXFkZzJiSGVUUGdLSTVwdEZET2NHN0ZXcmtGdDBDV0kzS0pIcWlGWHhKM3BZWDQtWXYybE5GWHQzU1UyekJMWWg1TXRZYk1lWDRqYzk0ajd6YmI2elRaZ1VUUDI3QnhjbUJzR21OX1hfVnQ4UVBGYWNud3JpMVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 12:53:33 GMT",
-   "summary": "EU watchdog flags risk of abrupt market correction &nbsp;&nbsp; Reuters",
+   "title": "US average diesel price crosses $6 a gallon for the first time, GasBuddy says",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3FTSU5adzBIaU92QmVKNkt0UUVCV1FtbTZiN0Vqd0tseU1QeUxPal9NU1NLVVE4VnJDS1NkQUR6Y1NBaFp6RGVLSWg3Y0RjdFlHRnMzdFVFM0F6R2ZCSGdNZ0pLcExYYXh0dHdZRGl2Wkkwb2l4WWFiYUtxU2FnRjJ2OUh0QXlPcXlGcFhDRUEtdzNRRnZ4eS1hV3dRZlRHMGxhU09lZWZJU3RkX0Npei1xLWpkRFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 21:16:35 GMT",
+   "summary": "US average diesel price crosses $6 a gallon for the first time, GasBuddy says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -422,16 +414,16 @@
    "source": "reuters-markets",
    "title": "Fed, eyeing inflation data, may lean toward a hike, traders bet",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ2l2aklZZV9FVlF3OFZCeDU5UzBIZXdXVkhTRDR3VVZsZV9seEJRT3dVa29MUFd4eTdlcHNnMnBfZFhQVUVqcnloVXJ5VFRkd3VhYlRMeVVCMS05NFlJSU00bXd1UmEtTjlYSHFIVHJzT1ZtTHlUVEFIQzlFaWFsNTQxeDl2dTdPR0pXTVZCTV8yOVNUeDJzOHhMQTdRRWtkakdjR0oxSG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 16:53:49 GMT",
+   "published": "Thu, 10 Sep 2026 21:18:51 GMT",
    "summary": "Fed, eyeing inflation data, may lean toward a hike, traders bet &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall Street dips as Treasury yields rise and investors fret about inflation",
+   "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 18:20:18 GMT",
-   "summary": "Wall Street dips as Treasury yields rise and investors fret about inflation &nbsp;&nbsp; Reuters",
+   "published": "Thu, 10 Sep 2026 22:55:15 GMT",
+   "summary": "S&amp;P 500 ends down as Treasury yields rise and traders fret about inflation &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -440,6 +432,14 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2N3dTlTV3YtRHd0WmhTRE4tTDh6TzBNZW1MWHdaUHhPUzRnakxadDdCWUgwRjM1X3o0S3lmVFR4dV9JSl9uR2hEbzFFWG9rcGx4WDdwMFlNSU8wR25QWjBEUUpBd3F0Z2VlemZ0ODVQbWZxVktsYjRUd3QyOE82M1VDN0tTRU92OGdySlFUalVST1hldjVSNVMwMjJrVlJTd2RlZ1NVb1BkT1psQnow?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 10 Sep 2026 17:48:35 GMT",
    "summary": "Edgy bond investors unconsoled by Bessent's big buyback &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "EU watchdog flags risk of abrupt market correction",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGVYOU9CMTBjT3ZQTS0xQkRncU5LdVZfLXlEaXlEcHNwU3lERXFkZzJiSGVUUGdLSTVwdEZET2NHN0ZXcmtGdDBDV0kzS0pIcWlGWHhKM3BZWDQtWXYybE5GWHQzU1UyekJMWWg1TXRZYk1lWDRqYzk0ajd6YmI2elRaZ1VUUDI3QnhjbUJzR21OX1hfVnQ4UVBGYWNud3JpMVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 12:53:33 GMT",
+   "summary": "EU watchdog flags risk of abrupt market correction &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -460,10 +460,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Supply squeeze in marine fuel eases as market adapts to prolonged Hormuz disruption",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQk40cFBfcWRKYVBUbTZlamcwWEdZUm9hZ2ZvUUxzSml4dEhhdG1zSVZ4b3hmZTNTQVpEREZwUHNhMHQxS093YmtyaVhQckVFazZaNG5qOEswcG9CTmVucGc1QXNwRkdoUjF5STI2RXVxamh2WE5uVDJNWjdqaWFwSGJhb3c0RUVEUEFQYkl6MktDdmNudEhldFFPWXJ6V1RDaWtQTGhfTlhQMGpzRXQyRDRtbWRndHZXakVlZXZmeVA0SUJaelE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 06:18:00 GMT",
-   "summary": "Supply squeeze in marine fuel eases as market adapts to prolonged Hormuz disruption &nbsp;&nbsp; Reuters",
+   "title": "Dollar rises, euro slips after ECB rate increase",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYU50UmRVNmIyeFBOSmd6azlDeDMxNlh1S0cycHpnYjU4NERYWjhoN2diSmthTngzdWZScmFTdldrTGtUcTh3SDFKbVIySmU2TUx3cnMtOEdKMnFkV3J1d3pYRmdvZDVWb2VPSXNjcG52cEVPTGtLNF9UT1BFSnJ3WlUzOXNuU1FwZmNSdGVTdV9Na1h6M3dPVGVtU0ttYlBlRWc0S1Q0Rl9HSmVCNlZaZXhjMVc0OUduMk1mOGRqVkxjY0d2SGhRbWJsUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 02:07:00 GMT",
+   "summary": "Dollar rises, euro slips after ECB rate increase &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -475,11 +475,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Euro slips as dollar rises after ECB rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYU50UmRVNmIyeFBOSmd6azlDeDMxNlh1S0cycHpnYjU4NERYWjhoN2diSmthTngzdWZScmFTdldrTGtUcTh3SDFKbVIySmU2TUx3cnMtOEdKMnFkV3J1d3pYRmdvZDVWb2VPSXNjcG52cEVPTGtLNF9UT1BFSnJ3WlUzOXNuU1FwZmNSdGVTdV9Na1h6M3dPVGVtU0ttYlBlRWc0S1Q0Rl9HSmVCNlZaZXhjMVc0OUduMk1mOGRqVkxjY0d2SGhRbWJsUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 16:53:36 GMT",
-   "summary": "Euro slips as dollar rises after ECB rate hike &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkktWlJVd2tXLVVfa2tROW5TNjhnaC1rVjRRVlFJWmJUVVU3WlRaVFVUVXhFN1MwbXhSczdJUU5QcjBiNlZVM0RBNVFJbWdGN0FndkNOMlM4RWlDSWdGU1hhOThtbm1jckxrdFhmYjRDYVlWTEZEMDNNd1RaYVVUMy1kX0xFVGtHeDU2WXFUeUw1bHBIZnBBaGVXbnpEellQSi13OVMyVlVmWUpIVjJocW9yS0NaaTBwaHhVNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 13:23:02 GMT",
+   "summary": "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,18 +500,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "As Apple prepares to make a splash, a brief history of foldable phones",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXFBSFBWSWRTZlJRS3RSU0p1RFo5MldCdzNVdG9JMjZOT0xFSllKMlRPLTVfZkZSM2xqRDlZYmRkUnEySWwwTmRmRHQyaF82eVNieTlPVjZ5OUkyOWJFVllfSExTd2NNamtSVmtGSWF2SGhoc0U2RzI4TmRhM3VGWGFnX2Y5VXlVb2xHM2NWOFBaaHRRU2ZTdmRSbjZTTldBaHpHRXNLZjJKVWh4aTg3RmFEeHhWcVZt?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 23:00:18 GMT",
-   "summary": "As Apple prepares to make a splash, a brief history of foldable phones &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0hfNmdmb2ZPZlZjVU9TOVduRl8zU0d6c1VDOUVRd2lBX09oWGtLdTBNZ1hjWGJpZkY3UFFBZnlZU0doQWdOTXNMeWQ0RTUzLW5hTUlsbk1ZVmItcXJHY2hyTUF2UnZ0OGE5ZTdOMHF6ZVB5UW1UektuMTc4NlQwV09mNzBVQ3R2anNxb05mNVhHMm9yUkxDQUxjZGV0eTRVYTlSdlBZMTY3bm00bUJLTg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 08 Sep 2026 13:43:58 GMT",
    "summary": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "As Apple prepares to make a splash, a brief history of foldable phones",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXFBSFBWSWRTZlJRS3RSU0p1RFo5MldCdzNVdG9JMjZOT0xFSllKMlRPLTVfZkZSM2xqRDlZYmRkUnEySWwwTmRmRHQyaF82eVNieTlPVjZ5OUkyOWJFVllfSExTd2NNamtSVmtGSWF2SGhoc0U2RzI4TmRhM3VGWGFnX2Y5VXlVb2xHM2NWOFBaaHRRU2ZTdmRSbjZTTldBaHpHRXNLZjJKVWh4aTg3RmFEeHhWcVZt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 23:00:18 GMT",
+   "summary": "As Apple prepares to make a splash, a brief history of foldable phones &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -540,26 +540,18 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaDN5R3NoMmwwSDN4OURmOFNXelBDS3BlOWtsM1dnckpwbTRBcUZ0SXYtNnBBSWRQaEJkVFRISHpIdG5aay1UN3ducXU0c0tvUW1fZEVsXy1TY2l3LWRpZi14cFBHSHFMbE1GanA0YUktUlVVbnpkSGR2V25JTUxtdjc3VUppQ0plMnRpMUtwcGpqWUxpczhiY0ZGYWZ4V1E3cTZDTVhMXzgwek5qWnBaVXFvM09iOFN0V05Denpxbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 10:09:51 GMT",
+   "summary": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Indian space startup GalaxEye wins US patent for satellite imaging technology",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2d3NVNFZzVmYU5LT2VMZDhveUJjcENzdVNqRUhPa2xaazVIcFd1UERnS3BLYllsTUVXblpQcm9JcGVsdXlwYlBNM1JPNWdLVlFhalI2RlE2SG1fb0FIVms3UFUwTnlCQnloUFRVcXZFTjQ5aUE0aTJudURWalluOG92Xzh2U1ZkTTBDM3Z5cXdzZ2hpcG9Tb1VSUXNTeTVqYVVrdmtPTjlJWXVEaVRESXgwc0FfcVA4?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 08 Sep 2026 18:11:06 GMT",
    "summary": "Indian space startup GalaxEye wins US patent for satellite imaging technology &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "French AI company Mistral hits $24 billion valuation in funding round",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 08 Sep 2026 05:02:00 GMT",
-   "summary": "French AI company Mistral hits $24 billion valuation in funding round &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Huawei, Xiaomi launch new foldable smartphones ahead of Apple event",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 07 Sep 2026 16:51:00 GMT",
-   "summary": "Huawei, Xiaomi launch new foldable smartphones ahead of Apple event &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
