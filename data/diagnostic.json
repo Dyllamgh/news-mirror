@@ -1,12 +1,12 @@
 {
  "reuters_sitemap": {
   "status": 401,
-  "size": 771,
+  "size": 774,
   "sample": "<html lang=\"en\"><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please ena"
  },
  "reuters_world_page": {
   "status": 401,
-  "size": 771
+  "size": 774
  },
  "gn_link_decode": {
   "decoded_urls": [],
@@ -18,18 +18,18 @@
   "sample": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html\n\nWarning: This page maybe requ"
  },
  "reuters_via_jina": {
-  "status": 200,
-  "size": 27605,
-  "sample": "Title: World News | Latest Top Stories | Reuters\n\nURL Source: https://www.reuters.com/world/\n\nMarkdown Content:\n[Skip to main content](https://www.reu"
+  "status": 403,
+  "size": 749,
+  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Fri Sep 11 2"
  },
  "nyt_svc_api": {
-  "status": 200,
-  "size": 1665089,
-  "sample": "<!DOCTYPE html>\n<html lang=\"en\" class=\"  nytapp-vi-homepage  tpl-always-light\"  xmlns:og=\"http://opengraphprotocol.org/schema/\">\n  <head>\n    \n    \n  "
+  "status": 404,
+  "size": 68667,
+  "sample": "<!DOCTYPE html>\n<html lang=\"en\"  xmlns:og=\"http://opengraphprotocol.org/schema/\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <title data-rh=\"true\">Not "
  },
  "reuters_pf_api": {
   "status": 401,
-  "size": 771,
+  "size": 774,
   "sample": "<html lang=\"en\"><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please ena"
  }
 }
