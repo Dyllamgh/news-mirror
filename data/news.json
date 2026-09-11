@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-11T14:00:03Z",
- "count": 70,
+ "generated_at": "2026-09-11T17:38:03Z",
+ "count": 59,
  "items": [
   {
    "source": "nyt-world",
-   "title": "Houthis Capture Crucial Red Sea Island Off Yemen, Officials Say",
+   "title": "Houthis Seize a Key Red Sea Island, Threatening Yet Another Global Oil Route",
    "url": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
-   "published": "Fri, 11 Sep 2026 12:20:53 +0000",
+   "published": "Fri, 11 Sep 2026 16:27:41 +0000",
    "summary": "The Iran-backed militia’s ground offensive has reached the Bab al-Mandab, a Red Sea strait that is a choke point for global trade.",
    "full_text": ""
   },
@@ -38,8 +38,16 @@
    "source": "nyt-world",
    "title": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
    "url": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html",
-   "published": "Fri, 11 Sep 2026 13:38:44 +0000",
-   "summary": "The leaders of China, Russia, India and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.",
+   "published": "Fri, 11 Sep 2026 16:29:25 +0000",
+   "summary": "The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Emma Bonino, Italian Campaigner for Civil Rights, Dies at 78",
+   "url": "https://www.nytimes.com/2026/09/11/world/europe/emma-bonino-italian-campaigner-dies.html",
+   "published": "Fri, 11 Sep 2026 15:50:16 +0000",
+   "summary": "In nearly five decades in politics, Ms. Bonino wielded outsize influence on Italian discourse, helping erode the political sway of the Catholic Church.",
    "full_text": ""
   },
   {
@@ -54,7 +62,7 @@
    "source": "nyt-world",
    "title": "For China, a Mock A.I. Attack on WeChat Signals a Dangerous New Era",
    "url": "https://www.nytimes.com/2026/09/11/world/asia/china-ai-attack-wechat.html",
-   "published": "Fri, 11 Sep 2026 09:43:29 +0000",
+   "published": "Fri, 11 Sep 2026 15:13:57 +0000",
    "summary": "The demonstration of a potent cyberweapon has exposed China’s vulnerabilities and added to the urgency of A.I. safety talks between Beijing and Washington.",
    "full_text": ""
   },
@@ -62,24 +70,32 @@
    "source": "nyt-world",
    "title": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
    "url": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
-   "published": "Fri, 11 Sep 2026 12:27:58 +0000",
+   "published": "Fri, 11 Sep 2026 16:21:33 +0000",
    "summary": "The complex sat below Ali al-Taher ridge, a strategic hilltop that overlooks the region and that has seen intense fighting.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
-   "url": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
-   "published": "Fri, 11 Sep 2026 13:53:25 +0000",
-   "summary": "Chow Hang-tung, Lee Cheuk-yan and Albert Ho were given lengthy prison sentences under a national security law imposed on the city by Beijing.",
+   "title": "Fake Horse Passports Were Key to Trafficking Scheme, Police Say",
+   "url": "https://www.nytimes.com/2026/09/11/world/europe/horses-trafficked-europe-fake-passports.html",
+   "published": "Fri, 11 Sep 2026 17:06:44 +0000",
+   "summary": "The police in Belgium, France, Ireland and the Netherlands say they suspect a fraud network of faking identities and duplicating microchips for hundreds of horses.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Dopamine Sites Sell Nothing, and People Cannot Get Enough",
-   "url": "https://www.nytimes.com/2026/09/11/world/asia/dopamine-sites-popularity.html",
-   "published": "Fri, 11 Sep 2026 09:02:23 +0000",
-   "summary": "Digital spaces that simulate indulgences like shopping and ordering food have taken off worldwide. Experts in human behavior say there are real reasons for their appeal.",
+   "source": "nyt-business",
+   "title": "AARP Projects 2027 Social Security COLA at 3.6%",
+   "url": "https://www.nytimes.com/2026/09/11/business/economy/social-security-cola.html",
+   "published": "Fri, 11 Sep 2026 16:37:30 +0000",
+   "summary": "If the AARP’s projection holds, the cost-of-living adjustment would be the largest since 2023.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "How Minnesota Became the Front Line in the Fight Over Prediction Markets",
+   "url": "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html",
+   "published": "Fri, 11 Sep 2026 14:35:45 +0000",
+   "summary": "The state was the first to pass a law banning Kalshi and Polymarket. A lawsuit filed by a federal agency may set a precedent on who gets to regulate them.",
    "full_text": ""
   },
   {
@@ -100,10 +116,10 @@
   },
   {
    "source": "nyt-business",
-   "title": "Here’s what to know.",
-   "url": "https://www.nytimes.com/live/2026/09/11/business/inflation-cpi-report/inflation-cpi-august",
-   "published": "Fri, 11 Sep 2026 13:29:14 +0000",
-   "summary": "",
+   "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+   "url": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html",
+   "published": "Fri, 11 Sep 2026 15:47:38 +0000",
+   "summary": "The odds of a quarter-point rate increase at the Federal Reserve’s meeting next week surged to 90 percent after August’s Consumer Price Index report.",
    "full_text": ""
   },
   {
@@ -125,8 +141,8 @@
   {
    "source": "nyt-business",
    "title": "Diesel Jumps Above $6 a Gallon, Adding to Inflation Pressure",
-   "url": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices.html",
-   "published": "Fri, 11 Sep 2026 13:42:46 +0000",
+   "url": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html",
+   "published": "Fri, 11 Sep 2026 16:34:56 +0000",
    "summary": "The price of U.S. diesel fuel hit to a new high over mounting fears that fighting in the Middle East could further threaten oil supplies.",
    "full_text": ""
   },
@@ -147,43 +163,27 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It?",
-   "url": "https://www.nytimes.com/2026/09/10/insider/apple-iphone-duo-tech-reviews-journalists.html",
-   "published": "Thu, 10 Sep 2026 20:56:03 +0000",
-   "summary": "Here’s the process for vetting new smartphones and gadgets at The Times and Wirecutter.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Ryanair C.E.O. Disputes Account of Passenger Sucked Out of Plane Window",
-   "url": "https://www.nytimes.com/2026/09/10/business/ryanair-ceo-passenger-plane-window.html",
-   "published": "Thu, 10 Sep 2026 19:28:56 +0000",
-   "summary": "“We don’t think any part of his body got out the window,” Michael O’Leary of Ryanair said. A lawyer for the passenger pushed back.",
+   "source": "nyt-technology",
+   "title": "Elon Musk Has Pledged to Rid His Platform, X, of Child Sexual Abuse, but It Persists",
+   "url": "https://www.nytimes.com/2026/09/11/technology/x-grok-child-images.html",
+   "published": "Fri, 11 Sep 2026 09:01:02 +0000",
+   "summary": "Reviews by the Canadian Center for Child Protection and The New York Times found that explicit images of children remain on the social media site owned by Elon Musk.",
    "full_text": ""
   },
   {
    "source": "nyt-technology",
-   "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
-   "url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
-   "published": "Wed, 09 Sep 2026 22:04:28 +0000",
-   "summary": "At the company’s annual September product event, Apple also demonstrated its work on artificial intelligence and other new devices.",
+   "title": "Why is Apple’s New Foldable iPhone Duo $1,999?",
+   "url": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
+   "published": "Thu, 10 Sep 2026 17:20:51 +0000",
+   "summary": "The company unveiled a new iPhone that costs $1,999. Here are the economics behind that price tag.",
    "full_text": ""
   },
   {
    "source": "nyt-technology",
-   "title": "How Amazon’s Zoox Is Taking On Waymo in San Francisco",
-   "url": "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html",
-   "published": "Wed, 09 Sep 2026 22:14:30 +0000",
-   "summary": "The Amazon-owned driverless car company is a distant second to Waymo. Its pitch to riders? Wine pop-ups, festival sponsorships and a car built to be filmed.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
-   "url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
-   "published": "Tue, 08 Sep 2026 21:02:03 +0000",
-   "summary": "The company’s announcement is the most dramatic sign yet that artificial intelligence is fundamentally transforming the field of higher mathematics.",
+   "title": "California’s Governor Signs Landmark Online Child Safety Bills",
+   "url": "https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html",
+   "published": "Thu, 10 Sep 2026 20:49:14 +0000",
+   "summary": "Gov. Gavin Newsom signed a bill that prohibits social media platforms from providing addictive features to users under 16, the first law of its kind in the nation.",
    "full_text": ""
   },
   {
@@ -192,14 +192,6 @@
    "url": "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html",
    "published": "Fri, 11 Sep 2026 11:21:16 +0000",
    "summary": "As audiences demand perfection from live performances, pitch correction technology has become an increasingly common way for singers to deliver.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Elon Musk Has Pledged to Rid His Platform, X, of Child Sexual Abuse, but It Persists",
-   "url": "https://www.nytimes.com/2026/09/11/technology/x-grok-child-images.html",
-   "published": "Fri, 11 Sep 2026 09:01:02 +0000",
-   "summary": "Reviews by the Canadian Center for Child Protection and The New York Times found that explicit images of children remain on the social media site owned by Elon Musk.",
    "full_text": ""
   },
   {
@@ -220,14 +212,6 @@
   },
   {
    "source": "nyt-technology",
-   "title": "California’s Governor Signs Landmark Online Child Safety Bills",
-   "url": "https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html",
-   "published": "Thu, 10 Sep 2026 20:49:14 +0000",
-   "summary": "Gov. Gavin Newsom signed a bill that prohibits social media platforms from providing addictive features to users under 16, the first law of its kind in the nation.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
    "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
    "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
    "published": "Thu, 10 Sep 2026 21:50:38 +0000",
@@ -238,8 +222,24 @@
    "source": "nyt-technology",
    "title": "How the New iPhone Duo’s Glass Screen Bends Without Breaking",
    "url": "https://www.nytimes.com/2026/09/10/science/iphone-duo-apple-foldable-glass.html",
-   "published": "Thu, 10 Sep 2026 16:21:33 +0000",
+   "published": "Fri, 11 Sep 2026 15:17:42 +0000",
    "summary": "The screens of foldable phones are a triumph of materials science and microengineering.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
+   "url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+   "published": "Wed, 09 Sep 2026 22:04:28 +0000",
+   "summary": "At the company’s annual September product event, Apple also demonstrated its work on artificial intelligence and other new devices.",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Americans mark 25 years since September 11 attacks amid enduring grief, reflection",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUV1QV9MNGlUbTdkanZIUUEwY0x1UlRXaXViVFlMVi14NW1aMkwwUjMzOUdnclVJSWFCQ3p6SGYtQ1NtY3NDMlVvUmZ3bk42bUdjVDAwNHpaLUVGTkFqak40WTlrdFhJX2RRdjZDTV9sUmRYSXU5V3dtM09hOVpmT3hwbzRxbDlCZFFqUnY3dGZNZ0VraWR5WC1qeFNEM0ZmRWFwZUd3ZjZlYWRfWjBfZEprWE5MZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 15:16:40 GMT",
+   "summary": "Americans mark 25 years since September 11 attacks amid enduring grief, reflection &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,34 +268,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Americans mark 25 years since September 11 attacks amid enduring grief, reflection",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUV1QV9MNGlUbTdkanZIUUEwY0x1UlRXaXViVFlMVi14NW1aMkwwUjMzOUdnclVJSWFCQ3p6SGYtQ1NtY3NDMlVvUmZ3bk42bUdjVDAwNHpaLUVGTkFqak40WTlrdFhJX2RRdjZDTV9sUmRYSXU5V3dtM09hOVpmT3hwbzRxbDlCZFFqUnY3dGZNZ0VraWR5WC1qeFNEM0ZmRWFwZUd3ZjZlYWRfWjBfZEprWE5MZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 13:33:09 GMT",
-   "summary": "Americans mark 25 years since September 11 attacks amid enduring grief, reflection &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "August was world's joint-hottest month on record, scientists say",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG1VMGJxTjFMWlJ4Ul9YSWlQSUZxNDdWcVBfSDhNRFJWWnBYbGs0c25qSkRWcHBzNU96UzRtRDZicmlXMXRIWS1Nb3dSOXREdkVzRXpJMHpmWEI2R0EzZHgyQm1IZnFSZ0dFLTJERW13aG5wcFlVaXh5NDFFRG5UdnhYRXJEeU9IQ0JyWGtZYzNPa2dWRFJ1SHRYdTJUcHVPV3FCMmliUVhlQzZHSFF3SWVheWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 02:05:00 GMT",
-   "summary": "August was world's joint-hottest month on record, scientists say &nbsp;&nbsp; Reuters",
+   "title": "Saudi oil supply hits more than three-decade low after Houthi attacks, IEA says",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3o1VnU0amR5MnduMjR2RW1ENURKWmRGUkNFd0tQdWpwdXlkTXZLdEJyZWZmQ1VCQm54a1lkS2NjLUt2WFNGckFnWEFMN3YtdFBvbElNbmlxbjBKejV2ZXI2QmRyV285S3RLY1lZTEFIMnlXSWpTc3pYa0FEcVlYZGltU3dmX3QyUlRyQjNUc18tMW9NeDlsMXljekJ5VkRnVGlhOXBRQmM5OWRCb2pSYVI1Y2s1RE5hd2p4RHFUbXlUVHJpeHZTaUhNM3U?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 10:49:59 GMT",
+   "summary": "Saudi oil supply hits more than three-decade low after Houthi attacks, IEA says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
    "title": "EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGlCSkhKXzBhbWZWekZJVGdkaDA1VEZqYndkSGlucjZET1A3RE1Nbi1fNTlRdHh5bnRHckh2VkFTU080U1ZROWpwS3BnTWs1Q2cwSk1XVDNjVDBxQTBJNDVUdmwwV2JTOE5vZlc1a3BkcS1YNFF5eVFuSk84UUVGNEJFN0VIQnJXRW0yUlJrVVY3NDZ2dTZzNUhQdGZ3RlNfZEUzWG5BSkpwN3o3cHdseU52UEFsLWR0SDQwQmlLY0RZZVg0Vm84?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 00:03:00 GMT",
+   "published": "Thu, 10 Sep 2026 03:00:46 GMT",
    "summary": "EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Peru to join US anti-drug coalition 'Shield of the Americas' after Rubio visit",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGpBcGZ0UHNmcWI1UEVnMGtFNjlZUDNlR2lHZjFXLUx3dGlzeDNSSTJGSzRpN1c5eDU4OU1aQ3ZrWWNXRWRDS2FyaFB0S2o0T3I2S1BMcTB6TDR5ZkNrWnJRYlllNUVPUER5elc0eXc4ZDVOcnlYU0lTRUJMSll0bWV1b1dpZ0EtTVROMlU4Ym5Ba0NuaEFzc3V6d3RPaVk4ZzJR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 19:23:57 GMT",
-   "summary": "Peru to join US anti-drug coalition 'Shield of the Americas' after Rubio visit &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,10 +300,66 @@
   },
   {
    "source": "reuters-world",
-   "title": "Trump's Iran campaign echoes the post-9/11 'forever wars'",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3RtVWR6NUtkY0Z0YjY4dEluTGdFb3FsaGFyMFJNd0xucTFzQlJDQ2FZOTlHbFp1OVoyT2tySHdHZklrZll6MWF5VVRxVGJKMXJpOXYza2dMaTJCUk14WWZLLUt1QU5fQjUyVkZhdTFnajkwdEpVam4wbi1pQ283bUMwRzBJN3pkSWFyLWdOLVRZZ080Nnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 05:04:00 GMT",
-   "summary": "Trump's Iran campaign echoes the post-9/11 'forever wars' &nbsp;&nbsp; Reuters",
+   "title": "Defining images from the 9/11 attacks",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TamhqeVVHN0FJS3RKQXNGLWc4TG1PN1ZZMU9wcUwyQ0gwMkZaekZaRXE1bk02OWpjNlYtVHZMNGg1R3RFZ3lsVXZXQTFzd09Uc3lMN0dSOUpLVTI3aU1QVW00dzNKc0JtOEI2RFB4cHBxdU1CUWFmTG9IZ00xdDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 22:03:00 GMT",
+   "summary": "Defining images from the 9/11 attacks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Peru to join US anti-drug coalition 'Shield of the Americas' after Rubio visit",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGpBcGZ0UHNmcWI1UEVnMGtFNjlZUDNlR2lHZjFXLUx3dGlzeDNSSTJGSzRpN1c5eDU4OU1aQ3ZrWWNXRWRDS2FyaFB0S2o0T3I2S1BMcTB6TDR5ZkNrWnJRYlllNUVPUER5elc0eXc4ZDVOcnlYU0lTRUJMSll0bWV1b1dpZ0EtTVROMlU4Ym5Ba0NuaEFzc3V6d3RPaVk4ZzJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 19:23:57 GMT",
+   "summary": "Peru to join US anti-drug coalition 'Shield of the Americas' after Rubio visit &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: White House weighs how to use Defense Production Act to expand US oil refining capacity, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0ZqSUthcUJzTkJ2dzNRelh0akJQaS1LaGYxMjRzQUEyMktJalJWTkJXTVhFYy12ZzhPc2xEZXlHLVpjQzRrTzBQemxMMWV5RjROYzVTbGxMMGVhUjhkVi1NQXdaNGkxRFVrdkFBdnhRWDFCNG9UaFF3d1B1eEVicmJiNS11bmJIMkwyeU9uOTNhVlFpOVdoeUJ2WTFUREE3OTJMY2xOaEdGaW9sUENWY0ViTkM0UlhsM0ozdGt0MFhBUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 16:54:30 GMT",
+   "summary": "EXCLUSIVE: White House weighs how to use Defense Production Act to expand US oil refining capacity, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDdUSXMwLWNhY0JhRXAtUjVJamcyeFhTckRjbWNfelI0ajc1THAweTBRbW9faGR3cHVTeGI5RnNnbDhDSjZ3YzFQMEtzZnZaaGlBU1Y1UGFXSHE4NGwtRkFwV1VMWDlQSkpRakVHVlNVcU9qRHp6bm5JeDF2VlliM0VOeFNsaEwzX3FEWTMtUnM5d2lEUVRUdjZETzY1YXloWi1sbEt1dGRSTzNYM1VkaUtpcTZCcTZmNDFhYjd2bjdtQTNSeVlJMkZJR1A2Mm82WTVoNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 15:37:35 GMT",
+   "summary": "Mexico, Washington sprint toward bilateral trade deal before US elections &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Chevron CEO says depleted crude oil buffers could lead to higher prices",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZEtqcVRxSzRKdkFERnkxUDFwd2l6ZmVOQXNiNWJFLUxGc2R6X19JZ19WaUNQZzRTWXNjRTJsTjZ6MnNzTUhGcDR3QzRlOXdvRFVNZWV3V3B2Y0M2bmRVa0NuQXdRc1Z4TFljREh6XzRZQkpOaHoyX2lFeFhKa0Jqc0pyRWdtQnBWV0VFakt4cGQ0T0t4RWlQVzI2cmxXZXBLR08xdGJSemdfOHhGbnhWby1OcExja3F3RnYxNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 15:53:43 GMT",
+   "summary": "Chevron CEO says depleted crude oil buffers could lead to higher prices &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Oracle rises as AI-fueled backlog growth deflects spending worries",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWJSSTdqOGtkTkZWLU1xNDNtZEtldTd2QnU0Vy1iR0w1dGl1bVJEdXBDbWNxeWVZR1ZnemZRSEFVT1B0UVhqVEF1dEl4cUN1MkQ1U1N2SFFSRUpKeW5FT2pNUXF6ZUgtRmFBTDExR0MzVW85S1k1OWpzYmNhNHM3d2pwREVQOGVMWlAwZXFPcW1HOERNZzIydFhseWEyUFNWUUthSXdHaWlReVMtbU1LMDJB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 14:00:26 GMT",
+   "summary": "Oracle rises as AI-fueled backlog growth deflects spending worries &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Oil tanker rates hit record highs following Iran, US shipping attacks",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 14:37:33 GMT",
+   "summary": "Oil tanker rates hit record highs following Iran, US shipping attacks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Italy moves to speed oil, gas projects in energy security push",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE9PNnNsWnhZckpuM0xyUy10NWpTSDc4M0FKX20wZ2pYYUtPTjdGYVhvSEF3VG9xdkh4ODRVeUk4VFhuRjRKa2c4OV9XMXBGd2ItckJudVY1dkRhYnF0T1ozdm5YbGwyRlJLek02N3RGYS01eFNReE5yN1NjWWxTNG1UV3U3RnlkZFp1NldHbnczTmRBSmdudjJ6VU13NVIyVUFJRDVqM1oyVG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 08:49:37 GMT",
+   "summary": "Italy moves to speed oil, gas projects in energy security push &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -328,14 +368,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2FONXhOeTRKZVg5ZU5qa3JVQ2I4S1ZSX1V4YU1zelVDV19IczFXWWlGd1BfRjhfbVVNZ3R5ZW9VelJpT2k2TmVNUWk5UFdIcHJFMjdnMWVQbFdVMm53ckVfZEF5SnZqUjJvb0N3OXVKc19CNFd1Z2otY1Y4cmlBQ0VhaGZMbllrWHIyQUVLRU5JYTIzNm1jdTVTcmhQcHJmdWgzYzdwckp2c2NhcEttLUMycUh5OVA0NEVKZGZwRm04UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 11 Sep 2026 02:33:00 GMT",
    "summary": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 02:20:00 GMT",
-   "summary": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,130 +388,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Musk's tunnel startup The Boring Company raises $3 billion at $23 billion valuation",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFlJZWowcXpXek0tMlhhRGNnWVlEWV9Wc0RubTZLTnRuWm1rVXc2WG5Ua3RaRHp1RUhDZ1lwanBiUDNxVzlZS1p5MTB2NTVMOUt2b2c4NFl5Rm44SGN4b0lzam9PR2d5a2JKdzVyT2ZZczU1cVMtSnVaakZPVWoxQ3lFZVl4c19aaE9YVFdULS15UTFFSS1Hd1RkTkxhQzNqSjlsbS1lQ0VTSGdxbHRyT2I5X3lYRUFjd1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 06:21:00 GMT",
-   "summary": "Musk's tunnel startup The Boring Company raises $3 billion at $23 billion valuation &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Trump administration to sanction unnamed 'large' bank on Monday, Bessent says",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ203a2pwbUU5aVVPVUtBUHB4dWRXa2YtM2pYZzMtVWU3SXJqZUNZTmtrTWt6dmFsMm82YzJzUERqeExQYzVhXzl4REJpRk54SEZIblVEckJ5M0pVWHhUdDNUUTZiNzdyUlc3b0h2SjBhZFFQRk5pOTlCZlYzeTJkeXhkQURpbnB6Z1JfcFB5bl9walRKZUdfekNPaGVETHc0aTFfb3pZdlBZaXB1SkRSSjFLaUp3aTBXeXgybWFR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 22:46:20 GMT",
-   "summary": "Trump administration to sanction unnamed 'large' bank on Monday, Bessent says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "China independent refiners scramble for oil, underpinning spot premiums",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmc2MmtGRzYzWVpYYzdhZ1V0S0NUb0V6Z3FrRUpaRWVfcXhYR1JNUlNhU1NYeW1CVFEzWEkzWTVZSFNVX1VWSWtDRFVQS0xvNEltSlNuY3V3NXl1WWQtUnk1dUE5allrbGVrU0ZsQk95YkhDZHNzczZnaGN0UE5ZNldNWmxabDZjbmZ0NVR3blhtUmY5bTF6cUFEN0pRTE1hckhmZks0OHFib2V0MEZid2NtUEpjUWhGa3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 11:01:58 GMT",
-   "summary": "China independent refiners scramble for oil, underpinning spot premiums &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Iran suspends freight charge on foreign vessels carrying energy products to or from Iran",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXZnOXJwQTRsaF9qbG1MR25Ld3EzOW56Yk95anF6NFJuRlhzc05YZ0V3VFB5endhR1NIUVI0MWVPSUtVbUwtb1lPV1AzZXFBY2hfZERIb1QyYm5yT3JWY3oya09CdFVsVm1yRUpnUDAxOFRpaWVvekRsR205cFZRNFQ2WFFrb3pnaU02Q05yaEFSN2JKYXRhQlBhdDRJVEhicEd0djU3VHVDWElLUUJxcl8wcWVzTldDbHcyM2xVd3ZYUjZuWldEUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 11:18:49 GMT",
-   "summary": "Iran suspends freight charge on foreign vessels carrying energy products to or from Iran &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Apple’s foldable iPhone poses a $1,999 question: Who is it for?",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVhTTkNyYVpzVHVfMlBkSThSRUNEVGstVEZ3WkRISGZ4bUxBZUhIZnhURGVqNmlVenltRDBGYUpQUDI1UXJ0YklPY1JYV0Z5TjdrMTdqd00waVp1QngxUnhsWnVhdDdJcXllUmlGVkQwRE4xNEI2bUtCNmFKYWlJMFRiZGNiZ2Q4cU5zWTNnNXpxaW5hd2d0eWthZFNuMjRkYXBNWFdEWDNXaWI5VGlMNmVoVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 23:40:00 GMT",
-   "summary": "Apple’s foldable iPhone poses a $1,999 question: Who is it for? &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US holiday retail sales growth set to accelerate, Deloitte says",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzNuMDlXejdsV2kwWnVFX2JIVVUydFBOSThoTVRHQnVMaENUMmhUdlZYRV9yWmZLYVR2QWRBX3EzcmZXT3p1dnBKNHJjV20zRVU4QkYyT1kyckExWmxxWEJXQVh1Z1pjdkgySmlZZHJweFluQXN4U3lSWVpMRzhMVW1zbTFHWFRzMm1GbmNpUGZwR2JrVzM2S1VBM0F0UGc3WnhkN2VxVFFMNmRSSFdTaXZnVE9WcE5VQmw5YQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 04:10:00 GMT",
-   "summary": "US holiday retail sales growth set to accelerate, Deloitte says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "VIEW Stocks, bonds rally after August inflation report",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY08xWWcxZWZRWG5WSFJ2ckZFcFk1T0cyNjlfS3F0U0Vyby1EWVJUaUNNaTUwVXRNVnk0Q2NfVVdYT2lPYjUxdjZlVHBXOWVPVnMzWk1DWmE4V1RGNzFrWFhwN3V5alYtbktTcDBST0RORllfc1Nhd0RBNFZ0UTVlbFFaM0FGMEpTLTIxdTVCeEJpcG5YdC1zTUZqMTQwNGhDZVBNbVBxX0Jmbkpsd2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 13:14:22 GMT",
-   "summary": "VIEW Stocks, bonds rally after August inflation report &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Wall St opens higher after August inflation report",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 13:37:43 GMT",
-   "summary": "Wall St opens higher after August inflation report &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "PODCAST: The 5% question",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGdITmt3SXFwWGxaaVN1N29yVGpxd0RJVVFQLTRsSHVDSFZvdUZiZHZlN3g5RW56ZDlMUThyMDlwU2VBZVRQVkF1S21pcDhZcTVScFdMTHAyN00yVHRQNGFKUkNjTWhDb21uZmdGXzR2RU9uUHY1cE1HYmc1V1FRcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 09:51:16 GMT",
-   "summary": "PODCAST: The 5% question &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Global bond selloff keeps 10-year US yield near 5% on oil, rate-hike fears",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXdFU1JwNmpyVFVfRzltQlQwcVJDUmFOWHVzNGdjWlZfZmJSd2FFQ2VpbFdOVTFQRHJtMlhremRVa2JSeWc5Smptc2J4Mmp0QnZoMTQ4NGdLaVBiekNRYlNqdWRtOTV2TUdIbmFkaTdCNmlRams2emVUc2Nsb244bW1hNHIwSHdDRm93M25LZGJlT3p0LTNaTE1kSTk5SHRSVFVkdXNuQjhHQ29UZm4yeHNqeEg2RkVwYVA3clpR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 05:54:00 GMT",
-   "summary": "Global bond selloff keeps 10-year US yield near 5% on oil, rate-hike fears &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: Morning Bid: Take a hike",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSU9CbFZHQ3lERUYxd1YyMmdlY3kzSGZ4bFpDamVkMUhqZVRVdXRHX0thb3FLYWYwX2xhUDhsRjZHSDZTVEJ2SFE0UTg3U3V6eEhzYlZIemZFYUdxNE5wVGo5UktZMWt5WFo2cWdhSGhNa0RPY0twMDZUU09tY004THY1Ri1KQk5NNkJocF9HZWJYLXNPeHZr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 10:45:22 GMT",
-   "summary": "COMMENTARY: Morning Bid: Take a hike &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Morning Bid: Lenders say show me the money as bond carnage spreads",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Dd0VXYm5tMF9IcW9XdERyUlhoMVBWUHZvQzJNZzlQdmlfNldFMHhHWXkyMEtkdWZ4MUFsVGdRLUtNTDMyQnFNMC1xWTRwWEJ5UnlLZWFnbGhPdk5OOU9oTFpZNzQ2TGh4MGJSZEs4X0dvYm9pQjJDRGg3YXd0VzA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 04:46:00 GMT",
-   "summary": "Morning Bid: Lenders say show me the money as bond carnage spreads &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Dollar edges higher against euro after U.S. inflation data",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUI0bHIwbWRHUzNiQmxNam13azJMSHZvUzhkMThQSDJpOGZqOUpfYVMtMG5taXlrRGVBcGViVWpPT20xTm12RnJLT1BIR2luVmZWOEl0TFVyTC1UX25qZU00cTY5UEMyTWpXd3ctZnVCSXVQMEswa21hTl85ZExMMm9xNkNHRDlHQnVTSlZNMFV5U1l3am1BQVprSUJqQ1VONTBOb3dBSnQxTm9YXzU0aldn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 01:08:00 GMT",
-   "summary": "Dollar edges higher against euro after U.S. inflation data &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Bond yields near multi-year peaks after accelerating U.S. inflation, traders add to Fed hike bets",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rQ3pYNkdSYUhxbHl1RjJnc01XMWdUV2NHRFBXaTJhN0FzcUtqV3RFOU5EaUZyTnZYTVJ5ZlduWkJGTzB1Wm8xdmpLdXNBSzdubXRLbmxZRlQtTkh4YkRrbjUwQVFScUVBM3MxLTdITll1ZnZmUGljV1NtRXk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 00:56:00 GMT",
-   "summary": "Bond yields near multi-year peaks after accelerating U.S. inflation, traders add to Fed hike bets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Oil falls but on track for 8% weekly gain on supply concerns; US diesel hits record high",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 01:13:00 GMT",
-   "summary": "Oil falls but on track for 8% weekly gain on supply concerns; US diesel hits record high &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Gold gains on softer oil; US inflation data in focus",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMk9xQnh0dkJvU0VUbjhfa0E5ZHhmb21sU1k4RWktNC0tdERMUlFyb05jamhUa0p0dUEwejVJbHlUaWp6VnZuUEJrc0ZmYzBMM1RwaUp0SUdWWXBiU2pRVUF4ZlRsQk1fVmY2MUlTcTFFV3RjSnQzSE5UUHdKWHJYcV9YaUVmZ01PVnVUWHI0MzU4dnJja25CTmpxc3N4STVOb1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 02:36:00 GMT",
-   "summary": "Gold gains on softer oil; US inflation data in focus &nbsp;&nbsp; Reuters",
+   "title": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 02:20:00 GMT",
+   "summary": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -516,14 +428,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "As Apple prepares to make a splash, a brief history of foldable phones",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXFBSFBWSWRTZlJRS3RSU0p1RFo5MldCdzNVdG9JMjZOT0xFSllKMlRPLTVfZkZSM2xqRDlZYmRkUnEySWwwTmRmRHQyaF82eVNieTlPVjZ5OUkyOWJFVllfSExTd2NNamtSVmtGSWF2SGhoc0U2RzI4TmRhM3VGWGFnX2Y5VXlVb2xHM2NWOFBaaHRRU2ZTdmRSbjZTTldBaHpHRXNLZjJKVWh4aTg3RmFEeHhWcVZt?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 09 Sep 2026 23:00:18 GMT",
-   "summary": "As Apple prepares to make a splash, a brief history of foldable phones &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0hfNmdmb2ZPZlZjVU9TOVduRl8zU0d6c1VDOUVRd2lBX09oWGtLdTBNZ1hjWGJpZkY3UFFBZnlZU0doQWdOTXNMeWQ0RTUzLW5hTUlsbk1ZVmItcXJHY2hyTUF2UnZ0OGE5ZTdOMHF6ZVB5UW1UektuMTc4NlQwV09mNzBVQ3R2anNxb05mNVhHMm9yUkxDQUxjZGV0eTRVYTlSdlBZMTY3bm00bUJLTg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 08 Sep 2026 13:43:58 GMT",
@@ -548,10 +452,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 07 Sep 2026 04:05:00 GMT",
-   "summary": "Bitcoin-based Liquid Network says $320 million withdrawn in hack &nbsp;&nbsp; Reuters",
+   "title": "As Apple prepares to make a splash, a brief history of foldable phones",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXFBSFBWSWRTZlJRS3RSU0p1RFo5MldCdzNVdG9JMjZOT0xFSllKMlRPLTVfZkZSM2xqRDlZYmRkUnEySWwwTmRmRHQyaF82eVNieTlPVjZ5OUkyOWJFVllfSExTd2NNamtSVmtGSWF2SGhoc0U2RzI4TmRhM3VGWGFnX2Y5VXlVb2xHM2NWOFBaaHRRU2ZTdmRSbjZTTldBaHpHRXNLZjJKVWh4aTg3RmFEeHhWcVZt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 23:00:18 GMT",
+   "summary": "As Apple prepares to make a splash, a brief history of foldable phones &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -560,6 +464,14 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaDN5R3NoMmwwSDN4OURmOFNXelBDS3BlOWtsM1dnckpwbTRBcUZ0SXYtNnBBSWRQaEJkVFRISHpIdG5aay1UN3ducXU0c0tvUW1fZEVsXy1TY2l3LWRpZi14cFBHSHFMbE1GanA0YUktUlVVbnpkSGR2V25JTUxtdjc3VUppQ0plMnRpMUtwcGpqWUxpczhiY0ZGYWZ4V1E3cTZDTVhMXzgwek5qWnBaVXFvM09iOFN0V05Denpxbw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 10 Sep 2026 10:09:51 GMT",
    "summary": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Ayar Labs, backed by chip giants, extends funding round by $150 million",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzdmQks1T0tBeGw4RkhWd2JLYXVhQ195VlljYXhMb2lfREtYSWk5VGZmWGF1d3p5aFNQZTZSdWxjRjNkNW1YaGZrZWZ5dDFtQmJad3d1YmZmb1gwWTMtclo2SzYwRDI1Tmw3dzRzQW5vb2o5MnhWUlpvX2NnM3ZSZm1ZbFNNc0RhMU0wNjNvZnI2MFcyZ1J5X0JEUTk2QVFlaFVLLS12MUZYcnBsU3AxUThISVBDWU5xem9mZlhSSm4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 11:01:55 GMT",
+   "summary": "Ayar Labs, backed by chip giants, extends funding round by $150 million &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
