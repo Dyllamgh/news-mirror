@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-12T16:41:37Z",
- "count": 68,
+ "generated_at": "2026-09-12T19:59:42Z",
+ "count": 70,
  "items": [
   {
    "source": "nyt-world",
-   "title": "Iran Finds Escalation Is a Fruitful Path to Leverage in War With U.S.",
+   "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
    "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-   "published": "Sat, 12 Sep 2026 15:23:03 +0000",
+   "published": "Sat, 12 Sep 2026 18:07:10 +0000",
    "summary": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature.",
    "full_text": ""
   },
@@ -14,8 +14,8 @@
    "source": "nyt-world",
    "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
    "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-   "published": "Sat, 12 Sep 2026 16:25:25 +0000",
-   "summary": "The United States is officially neutral on an issue that had been a source of decades of violence in Northern Ireland until a 1998 peace deal.",
+   "published": "Sat, 12 Sep 2026 18:50:02 +0000",
+   "summary": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal.",
    "full_text": ""
   },
   {
@@ -28,9 +28,17 @@
   },
   {
    "source": "nyt-world",
+   "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+   "url": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+   "published": "Sat, 12 Sep 2026 18:02:40 +0000",
+   "summary": "A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
    "title": "Death Toll From Ferry Fire in the Philippines Rises to 76",
-   "url": "https://www.nytimes.com/2026/09/12/world/asia/death-toll-from-ferry-fire-in-the-philippines-rises-to-76.html",
-   "published": "Sat, 12 Sep 2026 16:08:24 +0000",
+   "url": "https://www.nytimes.com/2026/09/12/world/asia/philippines-ferry-fire-death-toll.html",
+   "published": "Sat, 12 Sep 2026 18:52:24 +0000",
    "summary": "Rescuers were still searching for victims days after a fire broke out on the June Aster en route to a popular tourist site. At least 43 people survived.",
    "full_text": ""
   },
@@ -46,7 +54,7 @@
    "source": "nyt-world",
    "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
    "url": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
-   "published": "Sat, 12 Sep 2026 16:22:27 +0000",
+   "published": "Sat, 12 Sep 2026 19:05:52 +0000",
    "summary": "Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink.",
    "full_text": ""
   },
@@ -75,11 +83,19 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War",
-   "url": "https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html",
-   "published": "Sat, 12 Sep 2026 12:47:51 +0000",
-   "summary": "A strategic location on the Red Sea afforded the city centuries of trading dominance — and makes it a coveted target in today’s fighting in the Middle East.",
+   "source": "nyt-business",
+   "title": "How The Times Covers ‘60 Minutes’ and Other Journalists",
+   "url": "https://www.nytimes.com/2026/09/12/insider/60-minutes-former-nyt-colleagues-media.html",
+   "published": "Sat, 12 Sep 2026 18:00:15 +0000",
+   "summary": "Journalists don’t want to become the story. But newsrooms — and the people who run them — are the story for Times media reporters.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Risks for Clicks: Why Online Influencers Push Shock Content",
+   "url": "https://www.nytimes.com/2026/09/12/us/influencers-social-media-algorithm.html",
+   "published": "Sat, 12 Sep 2026 17:19:11 +0000",
+   "summary": "A growing number of social media creators are pushing the boundaries of safety and good taste to feed algorithms and win followers.",
    "full_text": ""
   },
   {
@@ -126,7 +142,7 @@
    "source": "nyt-business",
    "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
    "url": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-   "published": "Sat, 12 Sep 2026 00:50:21 +0000",
+   "published": "Sat, 12 Sep 2026 18:55:20 +0000",
    "summary": "Ship operators already faced severe risks in navigating the region, and now the danger is higher as Houthi militias assert control in the Red Sea.",
    "full_text": ""
   },
@@ -147,27 +163,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "How Minnesota Became the Front Line in the Fight Over Prediction Markets",
-   "url": "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html",
-   "published": "Fri, 11 Sep 2026 14:35:45 +0000",
-   "summary": "The state was the first to pass a law banning Kalshi and Polymarket. A lawsuit filed by a federal agency may set a precedent on who gets to regulate them.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Why Cheap Used Cars Are So Hard to Find",
-   "url": "https://www.nytimes.com/2026/09/11/your-money/buying-used-cars.html",
-   "published": "Fri, 11 Sep 2026 13:57:47 +0000",
-   "summary": "A three-year-old car was the sweet spot for buying used cars, since they have passed the peak of depreciation. But they now average about $33,000.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
    "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-   "published": "Sat, 12 Sep 2026 16:03:00 +0000",
-   "summary": "In a 3,800-word essay, Dario Amodei laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
+   "published": "Sat, 12 Sep 2026 18:50:18 +0000",
+   "summary": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
    "full_text": ""
   },
   {
@@ -184,6 +184,14 @@
    "url": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
    "published": "Sat, 12 Sep 2026 16:18:06 +0000",
    "summary": "Researchers say artificial intelligence is developing faster than the systems put in place to monitor and control it.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "How Minnesota Became the Front Line in the Fight Over Prediction Markets",
+   "url": "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html",
+   "published": "Fri, 11 Sep 2026 14:35:45 +0000",
+   "summary": "The state was the first to pass a law banning Kalshi and Polymarket. A lawsuit filed by a federal agency may set a precedent on who gets to regulate them.",
    "full_text": ""
   },
   {
@@ -244,6 +252,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Iraqi military commander dismissed after drone attacks against Saudi Arabia, prime minister's office says",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2R4RE5oY1k0NjdIODFzRjJQRk9WdC1jazVkWWs4UnMxQWdfaS1JSnVNbXRiUHdDUkxFRjhMZ05GMXdoRVgzYXExUW1kUElyeG5ZaUNaRnF0UUE5ejA1aDZ4MURaRHhpWDZNM1AxN3VXX1FZRjd3WVdXbEFVOHhKeXNaZFNIcDdSaW4zbWtXd2xxSGdrb2dEMURrUWtpd1ZYQWJTQUhzVHNRb3RrQ2otM0tmSDh4dkVYaXNKUkZLMjIyOS1XUlN5ag?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 22:07:39 GMT",
+   "summary": "Iraqi military commander dismissed after drone attacks against Saudi Arabia, prime minister's office says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "9/11, 25 years on: the Reuters reporter who was with George W. Bush that morning",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMzJSRVc3YUVDLWVhbDZSY2VWODd1Xy13TFh0dktTaVBTM2RFNEFaTW1jby1kRnpiNjg0XzI1dkdTN0F4VnRMS1FRcGZmd2hYeDFTSVBXSUUtTEw2cDNsQzRPU05PWURiT0dPWUJjOFZka1ZXT1RnLUk1SW1yTzlvY0hKWlVhUFJhV3pzU3ZhS3hQT1F4N3pUeDZtWmIyME9qM1ZVTmw0d0tXT21aSUpjbk01OGk?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 11 Sep 2026 13:36:00 GMT",
@@ -252,18 +268,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "India gets one of world's steepest iPhone price hikes",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnhfQVE1WmxxZnVYMkpLX0F6RnhGM2Y1RVVMa0EzR1ZaMWNGLWdVT0pHTS1iaEpnUU9uQUxmYkdUM2UtVDVpQlZjV3k0cjdPQkdLaHJUWE9tV0FYVlhtVlFOQXV0YjRvcURvSWpKRXRXb19vd1BTWXZCdnREejdNdm1FbjZ4RHhraHJHNmpDTGcxNXotVTFFRlpoVmZVd2xySXdQam44QWdXWnNPOUhj?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 12:47:45 GMT",
-   "summary": "India gets one of world's steepest iPhone price hikes &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Iraqi military commander dismissed after drone attacks against Saudi Arabia, prime minister's office says",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2R4RE5oY1k0NjdIODFzRjJQRk9WdC1jazVkWWs4UnMxQWdfaS1JSnVNbXRiUHdDUkxFRjhMZ05GMXdoRVgzYXExUW1kUElyeG5ZaUNaRnF0UUE5ejA1aDZ4MURaRHhpWDZNM1AxN3VXX1FZRjd3WVdXbEFVOHhKeXNaZFNIcDdSaW4zbWtXd2xxSGdrb2dEMURrUWtpd1ZYQWJTQUhzVHNRb3RrQ2otM0tmSDh4dkVYaXNKUkZLMjIyOS1XUlN5ag?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 22:07:39 GMT",
-   "summary": "Iraqi military commander dismissed after drone attacks against Saudi Arabia, prime minister's office says &nbsp;&nbsp; Reuters",
+   "title": "King Oyo, once world's youngest monarch, buried in western Uganda",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVURnbTdRTncydXdBbmJmeE84WWRDNkJ6RjhHZnVRY0lsVWNBLWtsNkZsZUdOZkhWQlhrcUQ0SG04Mi1hYV9FUG1FMDgtWHJwY2FuMkFNZUVmaUFQQjRHZk56WklyR1FoaUk3UjBRRFlfaldFRk5LZ1hTLUVLRTNVYnhvWDFKNmZ5ZnVUY1UyY1ByeW9oWXhBRTZBdWNPY3dzWWk5dmZVVXRjQUd1aVNrQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 12 Sep 2026 03:03:00 GMT",
+   "summary": "King Oyo, once world's youngest monarch, buried in western Uganda &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -276,10 +284,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "August was world's joint-hottest month on record, scientists say",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG1VMGJxTjFMWlJ4Ul9YSWlQSUZxNDdWcVBfSDhNRFJWWnBYbGs0c25qSkRWcHBzNU96UzRtRDZicmlXMXRIWS1Nb3dSOXREdkVzRXpJMHpmWEI2R0EzZHgyQm1IZnFSZ0dFLTJERW13aG5wcFlVaXh5NDFFRG5UdnhYRXJEeU9IQ0JyWGtZYzNPa2dWRFJ1SHRYdTJUcHVPV3FCMmliUVhlQzZHSFF3SWVheWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 10 Sep 2026 02:05:00 GMT",
-   "summary": "August was world's joint-hottest month on record, scientists say &nbsp;&nbsp; Reuters",
+   "title": "India gets one of world's steepest iPhone price hikes",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnhfQVE1WmxxZnVYMkpLX0F6RnhGM2Y1RVVMa0EzR1ZaMWNGLWdVT0pHTS1iaEpnUU9uQUxmYkdUM2UtVDVpQlZjV3k0cjdPQkdLaHJUWE9tV0FYVlhtVlFOQXV0YjRvcURvSWpKRXRXb19vd1BTWXZCdnREejdNdm1FbjZ4RHhraHJHNmpDTGcxNXotVTFFRlpoVmZVd2xySXdQam44QWdXWnNPOUhj?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 10 Sep 2026 12:47:45 GMT",
+   "summary": "India gets one of world's steepest iPhone price hikes &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,33 +308,49 @@
   },
   {
    "source": "reuters-world",
-   "title": "Modi and Xi push India-China business links, mobility at Delhi talks",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 12 Sep 2026 06:15:00 GMT",
-   "summary": "Modi and Xi push India-China business links, mobility at Delhi talks &nbsp;&nbsp; Reuters",
+   "title": "Indonesian wildfire emissions surge to world's highest, data shows",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUktTl9pT0cyQVZDTUVYVHlTNHlvN2dMZnFScnZUSDExNEdZcHVNT01OcFNwMU82LUJSZnU1V3hUdTJDUmxrUnpuaGdnRV9LUEFoY0FXQ1pad3h4bjl3WXFKbnVtaDF1RkUwamRGRlBibGxPWlMyRDN1aklNaWpPQXpoZHN2bnlSQzRJYWV4eUtRNmdYTVZyNm1UOFktY2lqc1AzLVF4QjRxdTRvVDhfUGpYZDAxN3J4X1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 09 Sep 2026 11:24:46 GMT",
+   "summary": "Indonesian wildfire emissions surge to world's highest, data shows &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Trump administration to lend $100 million to telecoms firm Africell, countering Huawei in Africa",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTNBR3JCXzhCaGxsR3BBQjlHenFVcnJYTWZHTE0wdG1CTlI0U2Zxcm5LS25Qbm95TXhCTkZabFdEcG90VjBHc1BKUU5zNU8wNGhfTXBSZ0c3SzNLNWFpcXlGR0FXQURKd0VFcF9ZdGZHNEJvUnBxZ3h4OWI3clY1M2dhVlNlYW1NQWI5ZFc0UEFHWjgyNnVSSTRWZ1RndjEzMmRrdzFQQ0VhamNwbkRzOUVYNk9IQUllUTFF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 04:03:00 GMT",
-   "summary": "Trump administration to lend $100 million to telecoms firm Africell, countering Huawei in Africa &nbsp;&nbsp; Reuters",
+   "title": "Gulf oil threatened anew as Houthis reach key island and pipeline is shut down",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 21:28:55 GMT",
+   "summary": "Gulf oil threatened anew as Houthis reach key island and pipeline is shut down &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWtMYlBMQkZoRHN1bzl5cmZvZE1fd1ZIMzZiUFlVYU02SFFlSC05dlNCNDlJc29kOEpZU2gyT2lsWkdxb2R2eXdhWFNqRkg4MU1BZWpCYWlOSTMyTmtsRUdPWDJ6TEpuYUI0RmFRZzlwMGp4V0FYbFZRdGU2QUtaQ0JxcE5rZkVjNllYanEyZEsxZ2hsWFVHTHgyOEVOdWp0U2xuYlc5ZXhSdm80bExTZnByaHBER1JHNnhYS2dvMUtHSDVkYjNiUTVoMi05bUpqU21N?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 12 Sep 2026 16:03:07 GMT",
+   "published": "Sat, 12 Sep 2026 18:09:11 GMT",
    "summary": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "India's Modi and China's Xi push business links, border peace as ties revive",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 12 Sep 2026 06:15:00 GMT",
+   "summary": "India's Modi and China's Xi push business links, border peace as ties revive &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Ford to recall about 223,500 US vehicles over fuel tank issues",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmtmVGN5eUltdWZYNEJjUzdtRDd2SjFQZ2xwOVp3cDJFRnlzWVpHZ2NNY0ZndWxhZ0Y3bGRjcnRXVnc5UWF6V1R4STJqNVNrbEVPU2lwd1FnYmFKQjlabXlPRHh6Vmw5WVlDN1dSTkx5WHJsYjUxWi1kTDdmVGxySHRJaVdVT2ZLRHFDQUpNZURtamJsZHNRaHF4VU9HbjVSdExVVVEzdmF2clRjSi1iXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 12 Sep 2026 07:57:43 GMT",
+   "summary": "Ford to recall about 223,500 US vehicles over fuel tank issues &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "Iran and UAE back joint BRICS statement urging restraint in war",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 12 Sep 2026 15:08:58 GMT",
+   "published": "Sat, 12 Sep 2026 19:11:21 GMT",
    "summary": "Iran and UAE back joint BRICS statement urging restraint in war &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -340,10 +364,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Oracle to spend $700 million more on restructuring costs as it ramps up AI spending",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWJSSTdqOGtkTkZWLU1xNDNtZEtldTd2QnU0Vy1iR0w1dGl1bVJEdXBDbWNxeWVZR1ZnemZRSEFVT1B0UVhqVEF1dEl4cUN1MkQ1U1N2SFFSRUpKeW5FT2pNUXF6ZUgtRmFBTDExR0MzVW85S1k1OWpzYmNhNHM3d2pwREVQOGVMWlAwZXFPcW1HOERNZzIydFhseWEyUFNWUUthSXdHaWlReVMtbU1LMDJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 23:48:03 GMT",
-   "summary": "Oracle to spend $700 million more on restructuring costs as it ramps up AI spending &nbsp;&nbsp; Reuters",
+   "title": "Larry Ellison cancels plan to sell Oracle stock",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSDN2Q1FMZWstUm9pbTEyaFJBcmxMY2FiV0g2RFF2bGNISTEwVGE4RV9nZW1LcHBKU0luVjR2a0FUVGh2OElMdl92d2FjREhPbW1oMUlSRm5Mc19kR2xzclVHRnJaM21lR2N2NkNhSlpwN1ZZS1VPRjVmYThyb1dNV1JxQlIySG52dzJkcEpaTE12M1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 12 Sep 2026 18:38:45 GMT",
+   "summary": "Larry Ellison cancels plan to sell Oracle stock &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,10 +388,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGtZdldMOGgyY3hFdEVnWklzR3dhREVBZTdDeEhPQjlmaUw1QUlGVUZDdUZoaDZWZzBUTXhUb09ieU4zTVZvYkplLVJ1Z1RscUp6TXMtX2RpdFIxY1ctbVo5d1dtMTJpSFVleW8waDhfREEzNGZlUmpuYVlVSEtWeUctYVJpWEVxNjdUNVE5WUpTV2xQYk5ENGRpaXZQZEtrc0NySnNDdzViU1MyampB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 12 Sep 2026 10:19:56 GMT",
-   "summary": "Trump says Iran probably responsible for attack on Saudi pipeline &nbsp;&nbsp; Reuters",
+   "title": "Modi, Putin seek stronger ties as Russia calls for BRICS to counter West",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFAxREMtVW5qaWVJY2JtNVowUjlwSmlkal9XMW1LLW5HYTVXMUNqempxWFZjeWszdEd0UmFzV2NWNjhxczhiRXpjbjlpTUd5VkI2NzNTeVA5X3BfcXZTUFRGOWUtMDZmbDVDYXJQc2hUa0pxUGVzM2ZKMHMxbUs2WGxDcmxlOFN0Q1lBYUJyXzFoNk9MTEplWm9TdFozNFZkUkwxSkQwUVM0dFZs?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 19:14:47 GMT",
+   "summary": "Modi, Putin seek stronger ties as Russia calls for BRICS to counter West &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -376,14 +400,6 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 11 Sep 2026 14:37:33 GMT",
    "summary": "Oil tanker rates hit record highs following Iran, US shipping attacks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Modi, Putin seek stronger ties as Russia calls for BRICS to counter West",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFAxREMtVW5qaWVJY2JtNVowUjlwSmlkal9XMW1LLW5HYTVXMUNqempxWFZjeWszdEd0UmFzV2NWNjhxczhiRXpjbjlpTUd5VkI2NzNTeVA5X3BfcXZTUFRGOWUtMDZmbDVDYXJQc2hUa0pxUGVzM2ZKMHMxbUs2WGxDcmxlOFN0Q1lBYUJyXzFoNk9MTEplWm9TdFozNFZkUkwxSkQwUVM0dFZs?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 19:14:47 GMT",
-   "summary": "Modi, Putin seek stronger ties as Russia calls for BRICS to counter West &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -396,22 +412,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGxBNmhfdWpkb1NxVGxZb2dSOEhrM0hRcjYwakJjdHJSNkVQYjNSWVVIbnlwRDB6Wk1yMFFxNTRYdUppekd1QldEbUZSUkVCWlJzWFlrMVQyS2VTV1hXRFB4Vms3RkNqUG5MTjNGNDhZbG5odFZ6dHdubWZfbXg3Z3ZjOExGOEJZcTdiMmU3eEtiQ1lwQV9zWHk0ODZoaFN4YWZEUUlJZ3B5MTFNRGRNRzlsNmduSjZndUJZMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 21:58:56 GMT",
-   "summary": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "VIEW Stocks, bonds rally after August inflation report",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY08xWWcxZWZRWG5WSFJ2ckZFcFk1T0cyNjlfS3F0U0Vyby1EWVJUaUNNaTUwVXRNVnk0Q2NfVVdYT2lPYjUxdjZlVHBXOWVPVnMzWk1DWmE4V1RGNzFrWFhwN3V5alYtbktTcDBST0RORllfc1Nhd0RBNFZ0UTVlbFFaM0FGMEpTLTIxdTVCeEJpcG5YdC1zTUZqMTQwNGhDZVBNbVBxX0Jmbkpsd2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 13:33:08 GMT",
-   "summary": "VIEW Stocks, bonds rally after August inflation report &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "COMMENTARY: Morning Bid: Take a hike",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSU9CbFZHQ3lERUYxd1YyMmdlY3kzSGZ4bFpDamVkMUhqZVRVdXRHX0thb3FLYWYwX2xhUDhsRjZHSDZTVEJ2SFE0UTg3U3V6eEhzYlZIemZFYUdxNE5wVGo5UktZMWt5WFo2cWdhSGhNa0RPY0twMDZUU09tY004THY1Ri1KQk5NNkJocF9HZWJYLXNPeHZr?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 11 Sep 2026 10:45:22 GMT",
@@ -420,9 +420,17 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGxBNmhfdWpkb1NxVGxZb2dSOEhrM0hRcjYwakJjdHJSNkVQYjNSWVVIbnlwRDB6Wk1yMFFxNTRYdUppekd1QldEbUZSUkVCWlJzWFlrMVQyS2VTV1hXRFB4Vms3RkNqUG5MTjNGNDhZbG5odFZ6dHdubWZfbXg3Z3ZjOExGOEJZcTdiMmU3eEtiQ1lwQV9zWHk0ODZoaFN4YWZEUUlJZ3B5MTFNRGRNRzlsNmduSjZndUJZMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 21:58:56 GMT",
+   "summary": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "US 10-year borrowing costs pull back from 5% in reprieve for Bessent",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXdFU1JwNmpyVFVfRzltQlQwcVJDUmFOWHVzNGdjWlZfZmJSd2FFQ2VpbFdOVTFQRHJtMlhremRVa2JSeWc5Smptc2J4Mmp0QnZoMTQ4NGdLaVBiekNRYlNqdWRtOTV2TUdIbmFkaTdCNmlRams2emVUc2Nsb244bW1hNHIwSHdDRm93M25LZGJlT3p0LTNaTE1kSTk5SHRSVFVkdXNuQjhHQ29UZm4yeHNqeEg2RkVwYVA3clpR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 05:54:00 GMT",
+   "published": "Fri, 11 Sep 2026 15:02:15 GMT",
    "summary": "US 10-year borrowing costs pull back from 5% in reprieve for Bessent &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -452,18 +460,26 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Investors pull money from equity funds as rising oil prices fuel inflation fears",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHpxa1Z6T2xUUTFNS05nT2xPOVZIUWV3NGt1cm44OWZJVzZGZ2FqNXFyNG5IenQ5NFZHbXpqWThqaTZsR2JVZVIxOHJCVFRrMlFEVS11SXNfTVJVNWV0X19mc2FZeWFCZVJMby1PRHVPMVUwaGRFT29tUEdCblE5UGRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 10:22:31 GMT",
-   "summary": "Investors pull money from equity funds as rising oil prices fuel inflation fears &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "India stocks log fifth weekly loss as oil fears grip markets",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEI5a2VhM0MzYVlMTWQwRWRxeWI2TjlIbkVLX0NteDdFbmg0c2JhRjl5dHczYzRySnF0Y0MwNzlhcnJSOFNpaHJORVROU2EtTGUyN21weTJvbzBqV3k2NFlLOHp0MTNuNDdTMjd6RU9OQVc5MXk2RUlWUldVSDZ4VVk1UXRkQTlhTWtNQWNpQnpGQkd5cXpUQU5mejZPTTNnYUVpNWd5RFc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 11 Sep 2026 10:37:17 GMT",
    "summary": "India stocks log fifth weekly loss as oil fears grip markets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "VIEW Stocks, bonds rally after August inflation report",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY08xWWcxZWZRWG5WSFJ2ckZFcFk1T0cyNjlfS3F0U0Vyby1EWVJUaUNNaTUwVXRNVnk0Q2NfVVdYT2lPYjUxdjZlVHBXOWVPVnMzWk1DWmE4V1RGNzFrWFhwN3V5alYtbktTcDBST0RORllfc1Nhd0RBNFZ0UTVlbFFaM0FGMEpTLTIxdTVCeEJpcG5YdC1zTUZqMTQwNGhDZVBNbVBxX0Jmbkpsd2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 13:33:08 GMT",
+   "summary": "VIEW Stocks, bonds rally after August inflation report &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "India's markets regulator proposes revamp of derivatives expiry pricing",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2o2NVZ0dVRlOEU1TWRPWk5aQTljU2dwYVZOaG1IODhQUzB5UG5IZzI4enNJNDBvbzM3ZTBNNUxtWGpXUGNMT1Z3X1R4bVFNdEtwVXRaenBRM0EyTjlVR0dhR25ZczdKc2dxVU03aG1yRS1zbXJFc0xLeFpUd29fS05LV01TaTlydGNLNVFKTHNINU4zVVdiRkNlMFFtV2RzbkFWYTl1b0Q0eGUzVXVyQ19QVDhJLUNRNUxoNVFaVGU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 12 Sep 2026 06:56:00 GMT",
+   "summary": "India's markets regulator proposes revamp of derivatives expiry pricing &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -516,18 +532,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "India needs forum for tech firms to engage foreign regulators, finance minister says",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa21oam11WGRmQmpCckkwWWVINS1ual9hTHA1aHhyTnJxODFhaHA3dVR4bWo4bUk3TTRvQVpDTnJXOEw0WjJPOUZJSXZTUW5IZnlTeUhxeFZwOE5Yd3NhOU5rU1FHLXlpUVJXSTZEVkRSOXkwYUFhZmFEcjJWV1k1UEcwX2FKMzg2T0h5R05OSi1QRWNCcThhMFpSZlprcnk3MEx3bnYyYU1GcVpWYjlZNWY4WEwtRTdRYlh6cXlkUHVzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 11 Sep 2026 11:15:00 GMT",
-   "summary": "India needs forum for tech firms to engage foreign regulators, finance minister says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Italian tech collective to shut down after US terrorist designation",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcEs1RjJIeGp0TTRxMkYtbWZCTEhmT0VVZXRxc1pOa092ODZjLTlaaFN1Nl9yLWdJUzFKRzVoMnJVRmtJZ3QzekI1dUQ1Y3NjenUwYkZraE5jM2xfc3VfbHNybXMtc2lJeVlrNEo1bnRxUmdsVVl3TVNHa3JoU0JPeUZfOVRwTW5Ucnh0VklxZzhpTEtXOGRlOG1GTEdqV2lzRUhDZUpXRHc1Q21RWG5vdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 07 Sep 2026 09:47:20 GMT",
    "summary": "Italian tech collective to shut down after US terrorist designation &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "India needs forum for tech firms to engage foreign regulators, finance minister says",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa21oam11WGRmQmpCckkwWWVINS1ual9hTHA1aHhyTnJxODFhaHA3dVR4bWo4bUk3TTRvQVpDTnJXOEw0WjJPOUZJSXZTUW5IZnlTeUhxeFZwOE5Yd3NhOU5rU1FHLXlpUVJXSTZEVkRSOXkwYUFhZmFEcjJWV1k1UEcwX2FKMzg2T0h5R05OSi1QRWNCcThhMFpSZlprcnk3MEx3bnYyYU1GcVpWYjlZNWY4WEwtRTdRYlh6cXlkUHVzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 11 Sep 2026 11:15:00 GMT",
+   "summary": "India needs forum for tech firms to engage foreign regulators, finance minister says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
