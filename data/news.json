@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15T20:44:48Z",
- "count": 68,
+ "generated_at": "2026-09-15T23:54:21Z",
+ "count": 67,
  "items": [
   {
    "source": "nyt-world",
@@ -54,7 +54,7 @@
    "source": "nyt-world",
    "title": "Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts",
    "url": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html",
-   "published": "Tue, 15 Sep 2026 13:43:11 +0000",
+   "published": "Tue, 15 Sep 2026 21:55:35 +0000",
    "summary": "The two sides traded accusations of attacks as fighting inside Yemen remains fierce. The escalating conflict threatens to further destabilize the Middle East.",
    "full_text": ""
   },
@@ -84,9 +84,17 @@
   },
   {
    "source": "nyt-business",
-   "title": "Steve Bannon and Bernie Sanders Demand Tighter Controls on A.I.",
+   "title": "‘60 Minutes’ Season Premiere Sees Dip in Ratings",
+   "url": "https://www.nytimes.com/2026/09/15/business/media/60-minutes-bari-weiss-ratings.html",
+   "published": "Tue, 15 Sep 2026 20:55:10 +0000",
+   "summary": "Just under 8 million people watched Sunday’s season premiere, down 21 percent from last year. Viewership for the N.F.L. lead-in fell by about the same.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
    "url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-   "published": "Tue, 15 Sep 2026 20:35:39 +0000",
+   "published": "Tue, 15 Sep 2026 22:17:56 +0000",
    "summary": "At an event in Washington, partisanship took a back seat as elected officials, religious leaders, parents and artists called for reining in artificial intelligence.",
    "full_text": ""
   },
@@ -94,7 +102,7 @@
    "source": "nyt-business",
    "title": "Data Center’s Spill of 5,000 Gallons of Diesel Forces N.J. River Cleanup",
    "url": "https://www.nytimes.com/2026/09/15/nyregion/data-center-diesel-fuel-spill-new-jersey.html",
-   "published": "Tue, 15 Sep 2026 20:03:47 +0000",
+   "published": "Tue, 15 Sep 2026 21:40:13 +0000",
    "summary": "The fuel poured from a storage tank at a large data center in Secaucus, N.J., into a tributary of the Hackensack River.",
    "full_text": ""
   },
@@ -110,7 +118,7 @@
    "source": "nyt-business",
    "title": "Poverty Rate Was Stable Before Trump’s Safety Net Cuts Gained Force",
    "url": "https://www.nytimes.com/2026/09/15/business/economy/poverty-rate-trump-safety-net.html",
-   "published": "Tue, 15 Sep 2026 20:17:47 +0000",
+   "published": "Tue, 15 Sep 2026 20:50:19 +0000",
    "summary": "Median household income rose to a record $87,460 in 2025, according to annual Census Bureau data on the financial well-being of Americans.",
    "full_text": ""
   },
@@ -150,48 +158,16 @@
    "source": "nyt-business",
    "title": "Bessent Defends Faltering Bond Market Intervention",
    "url": "https://www.nytimes.com/2026/09/15/business/economy/scott-bessent-congress.html",
-   "published": "Tue, 15 Sep 2026 18:28:17 +0000",
+   "published": "Tue, 15 Sep 2026 21:19:21 +0000",
    "summary": "Testifying before Congress, the Treasury secretary said that he supported giving Americans $5,000 dividends if Republicans win in November.",
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "The Unlikely Political Bedfellows on A.I. Regulation",
-   "url": "https://www.nytimes.com/2026/09/15/business/dealbook/ai-regulation-khan-sacks.html",
-   "published": "Tue, 15 Sep 2026 20:10:17 +0000",
-   "summary": "David Sacks and Lina Khan? Bernie Sanders and Steve Bannon? The debate on artificial intelligence limits is creating unlikely alliances.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
-   "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
-   "url": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
-   "published": "Tue, 15 Sep 2026 13:33:58 +0000",
-   "summary": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
-   "full_text": "Jensen Huang, Nvidia’s chief executive, was talking about artificial intelligence at a conference in Los Angeles on Monday when he was interrupted by a phone call. President Trump was on the line. He wanted to discuss A.I., and wasn’t thrilled about all the recent talk of the dangers of A.I. and how the government needed to step in and do something about it. “It’s a hoax,” Mr. Trump said during the five-minute call, which Mr. Huang put on speaker. “The robots are not going to be taking over the world. That’s not going to happen.” The theatric phone call from Mr. Trump made it clear that in Silicon Valley’s roiling debate over what to do about A.I., the president is very much on the side of executives who argue worries about safety are overblown and the government should avoid regulation. His disinterest in government involvement runs counter to pleas from leading A.I. companies like Anthropic. Mr. Trump’s call was the latest, surprising twist in a tech industry feud that has taken what was an esoteric discussion among tech experts into the mainstream, quickly becoming a key issue in the upcoming midterm elections. Mr. Huang was speaking at the All-In Summit in Los Angeles, a conference organized by a group of venture capitalists who host a popular podcast. (One of the podcast’s hosts, David Sacks, is a technology adviser for Mr. Trump and the White House’s former A.I. and crypto czar.) After Mr. Huang held a microphone next to his phone, Mr. Trump echoed a social media post he shared earlier Monday, which aggressively disagreed with the idea of A.I. regulation. Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times. Thank you for your patience while we verify access. Already a subscriber? Log in . Want all of The Times? Subscribe ."
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown",
-   "url": "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html",
-   "published": "Mon, 14 Sep 2026 03:12:45 +0000",
-   "summary": "The debate over the safety of artificial intelligence grew personal as key tech leaders said calls for government regulation were self-serving and misplaced.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-   "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-   "published": "Mon, 14 Sep 2026 14:43:54 +0000",
-   "summary": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
-   "url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
-   "published": "Mon, 14 Sep 2026 01:04:20 +0000",
-   "summary": "Dario Amodei’s 3,800-word letter laid out a three-step plan to rein in artificial intelligence.",
+   "title": "Is There Anything Google’s Fruit Fly Brain Can’t Do?",
+   "url": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html",
+   "published": "Tue, 15 Sep 2026 23:06:10 +0000",
+   "summary": "Models of the insect’s nervous system have been trained to solve a Rubik’s Cube, play video games and even parallel park a car.",
    "full_text": ""
   },
   {
@@ -212,6 +188,14 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
+   "url": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
+   "published": "Tue, 15 Sep 2026 21:46:04 +0000",
+   "summary": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
    "url": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
    "published": "Mon, 14 Sep 2026 16:42:19 +0000",
@@ -220,10 +204,18 @@
   },
   {
    "source": "nyt-technology",
-   "title": "10-Year-Old Children Predict the Future",
-   "url": "https://www.nytimes.com/2026/09/13/style/10-year-old-children-predict-the-future.html",
-   "published": "Sun, 13 Sep 2026 13:05:14 +0000",
-   "summary": "Robot butlers. Underwater homes. Root beer perfume. Kids across the nation weigh in on what life will be like in the year 2050.",
+   "title": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown",
+   "url": "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html",
+   "published": "Mon, 14 Sep 2026 03:12:45 +0000",
+   "summary": "The debate over the safety of artificial intelligence grew personal as key tech leaders said calls for government regulation were self-serving and misplaced.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
+   "url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+   "published": "Mon, 14 Sep 2026 01:04:20 +0000",
+   "summary": "Dario Amodei’s 3,800-word letter laid out a three-step plan to rein in artificial intelligence.",
    "full_text": ""
   },
   {
@@ -244,14 +236,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "World Food Programme funding for Sudan plummets as more go hungry, head says",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYllnSGVJMkVWVkZYWll6Zktld1d4Xzk4ZUVmUkhtLWNyMnd1NkJKdXRiQ2p4VDRFOGlJUTQ0WTVqclNpWGRDTlR5ZmtWUmF0d0hZQ0lwM2V2ejlwZEM3RURrSDNlOUlOSWYxc0RPY1ZuMllXSG5hel9MR0gxbWh3RjRnVllqekVFWG5jNVJQZmluT2h4QmR3aDVicEdQaVNkUTM1MVc5WHZ5dWJlMkZZU05wVHlkVFVr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 14 Sep 2026 13:45:44 GMT",
-   "summary": "World Food Programme funding for Sudan plummets as more go hungry, head says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "How AI leaders and world governments react to 'AI doom' fears",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3YwSFJtOUpkYk5fVm84RHBKNjNBUm1qOHBlcUU1YTFxQmdiTERjeHJIcUJlTXk5Y2h6Sk1KMnluZllPXzc0ZGtyLVVJMTlEU1p0OGJOVTYxaE9jU1c1NFFaU3ZxeG93NXlucWRaOHY5NzZFWU9SeUJvdDU4cFpKWXVYTjhxNlgwdFl4RDVub2dYRU1jdkxTb3B5N1R0WWY3MVdOM0Z5QXRDdlVsZ21vRlBR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 14 Sep 2026 15:58:00 GMT",
@@ -260,34 +244,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "US Treasury's Bessent says bond yields reflect 'global issues'",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTlaeHpnSkMzSU5ieGJqNEpUTFdaYU8yTzc2OExDcElaWFVFclZyNkVNcThWaFRiM29ZNGhaY3dpWS1RbVh0NUhZczdVLUhLVFNjN3RCRFhZMlVmeU5ibVhCXy14VnItdkpzVHNJZXlxWmhxbzRLX3BjOTFzcE9yRVFteHcwS0Jaa19QaTVPdnh5WDFLcXdvTXBrNldnNVJDd0RvN1NRYllyRWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 18:41:11 GMT",
-   "summary": "US Treasury's Bessent says bond yields reflect 'global issues' &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Bessent says strong dollar based on credibility, policy certainty",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUG5sVHl1UnZreXNERG9PWDFMTENWRFlReVlHdk5EbWpJSDJTY0RWaG8tazhSc2V0UXhkb1R1clpBbFJZZlZxTVZMSS03enk1enNWOF9ISjhIU2RPRGdBeEN0b05JQ2xlalNVd0dqN0dFWnNMUV9xYVZEMklIWm1nT0lKTldiWlR6dXM0emd5WUVIdTBwbFVkNnZCTFBhakVXQzBXVXZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 15:23:53 GMT",
-   "summary": "Bessent says strong dollar based on credibility, policy certainty &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "India's August goods trade deficit narrows as gold imports plunge",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkcwU0xsUjlqM1lxdXhyNnJka3RvNXljQm04eFZfWHpjMUxyOXJHR29xSXU1UklDUFMyQjBtQVVOVkZoS0tnbHpSWnB4T1RLdHBSVnVUUlRUS0hnMEZLUVUwNlA0c20wTF8yZ3Y2eWgxRVprRHVhV2lTRWpyODFrV2NHODNSRWxMRVhzdmVfaW8xMGpIcUNfdGs2dHY5WXVKeVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 14:47:16 GMT",
-   "summary": "India's August goods trade deficit narrows as gold imports plunge &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "JPMorgan to launch long-awaited 'frontier' local currency debt index",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSmZsR19QcW9KZHhncXpxV1VYV2pqN0x2WEFmOHBLa1pzU3NkeUVyQ3NyblduWmlZV3daV0pybHRMMnF6NThoSkpMZ1JCaDhFX0ZYckRLbzFUMTZYWmxIN0NlRVJIOG1IdFhUSENyN0ZjSU9yYzdVdnhobmtVcGJQZzVMdjdfMjYzSWxQeVlOa0dIQUVLRlNsU3AtRnNVOHRkN0NmRUxlUnJWRmlFR015eUdWQnFfcTRHb0FHaGlPcjY4RU1VblB6SEhsZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 14 Sep 2026 13:14:46 GMT",
-   "summary": "JPMorgan to launch long-awaited 'frontier' local currency debt index &nbsp;&nbsp; Reuters",
+   "title": "World Food Programme funding for Sudan plummets as more go hungry, head says",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYllnSGVJMkVWVkZYWll6Zktld1d4Xzk4ZUVmUkhtLWNyMnd1NkJKdXRiQ2p4VDRFOGlJUTQ0WTVqclNpWGRDTlR5ZmtWUmF0d0hZQ0lwM2V2ejlwZEM3RURrSDNlOUlOSWYxc0RPY1ZuMllXSG5hel9MR0gxbWh3RjRnVllqekVFWG5jNVJQZmluT2h4QmR3aDVicEdQaVNkUTM1MVc5WHZ5dWJlMkZZU05wVHlkVFVr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 14 Sep 2026 13:45:44 GMT",
+   "summary": "World Food Programme funding for Sudan plummets as more go hungry, head says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,10 +260,42 @@
   },
   {
    "source": "reuters-world",
-   "title": "Kennedy Center board votes to close for renovations after judge blocks Trump's name from facade",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDJyQ1NEc2ljdldCNFQ2NGlmZ1hKTWRGTG9UcldVaXRYUjR3QkgtQ0xNRUZ3eFJyZndkcDJVTkt2SGNQY2FONDlyRk1rbFBmOGZWSGZhS2RjZkhVSHRmcDJ3YTNidVZ5NmZsZkZna2VabEZDTXBFTFBLZVZkdkFVODI0M2JBbDd1ZFduZGNUdWMtUXAwdjRMTDUtWmNLb2lJMHkwZGlRd3Z1WmRkSjB3aUhvbUN0WG5xTkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 18:49:28 GMT",
-   "summary": "Kennedy Center board votes to close for renovations after judge blocks Trump's name from facade &nbsp;&nbsp; Reuters",
+   "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTlaeHpnSkMzSU5ieGJqNEpUTFdaYU8yTzc2OExDcElaWFVFclZyNkVNcThWaFRiM29ZNGhaY3dpWS1RbVh0NUhZczdVLUhLVFNjN3RCRFhZMlVmeU5ibVhCXy14VnItdkpzVHNJZXlxWmhxbzRLX3BjOTFzcE9yRVFteHcwS0Jaa19QaTVPdnh5WDFLcXdvTXBrNldnNVJDd0RvN1NRYllyRWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 21:52:37 GMT",
+   "summary": "Bessent defends Trump economic policies, reveals plans to meet Chinese official &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "India's August goods trade deficit narrows as gold imports plunge",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkcwU0xsUjlqM1lxdXhyNnJka3RvNXljQm04eFZfWHpjMUxyOXJHR29xSXU1UklDUFMyQjBtQVVOVkZoS0tnbHpSWnB4T1RLdHBSVnVUUlRUS0hnMEZLUVUwNlA0c20wTF8yZ3Y2eWgxRVprRHVhV2lTRWpyODFrV2NHODNSRWxMRVhzdmVfaW8xMGpIcUNfdGs2dHY5WXVKeVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 14:47:16 GMT",
+   "summary": "India's August goods trade deficit narrows as gold imports plunge &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Bessent says strong dollar based on credibility, policy certainty",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUG5sVHl1UnZreXNERG9PWDFMTENWRFlReVlHdk5EbWpJSDJTY0RWaG8tazhSc2V0UXhkb1R1clpBbFJZZlZxTVZMSS03enk1enNWOF9ISjhIU2RPRGdBeEN0b05JQ2xlalNVd0dqN0dFWnNMUV9xYVZEMklIWm1nT0lKTldiWlR6dXM0emd5WUVIdTBwbFVkNnZCTFBhakVXQzBXVXZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 15:23:53 GMT",
+   "summary": "Bessent says strong dollar based on credibility, policy certainty &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "JPMorgan to launch long-awaited 'frontier' local currency debt index",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSmZsR19QcW9KZHhncXpxV1VYV2pqN0x2WEFmOHBLa1pzU3NkeUVyQ3NyblduWmlZV3daV0pybHRMMnF6NThoSkpMZ1JCaDhFX0ZYckRLbzFUMTZYWmxIN0NlRVJIOG1IdFhUSENyN0ZjSU9yYzdVdnhobmtVcGJQZzVMdjdfMjYzSWxQeVlOa0dIQUVLRlNsU3AtRnNVOHRkN0NmRUxlUnJWRmlFR015eUdWQnFfcTRHb0FHaGlPcjY4RU1VblB6SEhsZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 14 Sep 2026 13:14:46 GMT",
+   "summary": "JPMorgan to launch long-awaited 'frontier' local currency debt index &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Pakistan docked 11 points in World Test Championship for slow over-rate in Birmingham",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQalNTMjlUSW9PUjQ2cTR5eXFvdVhnNTZIaGx5OFR3dGRWcmxOQWk0U2taWkRkWk1xR3dxY0xrbDYyMmVOeXQ2Z1hrR3QxUFA0MVlwTG42cjJ2TE5kZEFlQ3dEOENnZWJBdmp6Z1RSN0pyRmI5eWI4VzBScFc0NzJzX19XVmM2Mms0T0ZNUVpTYXllQ3cwTVFvVjZ4NmhnZlVrNVFqZ21qVmY5MVdpTHFZZ0JrZDNoZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 14 Sep 2026 08:43:43 GMT",
+   "summary": "Pakistan docked 11 points in World Test Championship for slow over-rate in Birmingham &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,18 +308,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "European chip startup Axelera wins AI factory supply deals and launches second chip",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWhvb3cyWDU3RGNHSlZJdGdLWlVOQWJ2S1M3bTV6SlZHUFpOX2FjckdPWDdiYVU3NElIX1JjSGdZYXRtTk9XM0hDRVZGaldPOU5LOTJ1OEZsUkFHUDNBU2E1a2VhajdRYm1QdnoxQ21vWEZvbE5ndG5TTW5DbXVkOF9kdkYyZUN2WGdSNGJ3cTZYSVdhYjdZcU95VThQT21xRXM1QUZEX1l3MWFOUlFIWjgxejdEN04xTGp4MUpraFRRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 12:12:26 GMT",
-   "summary": "European chip startup Axelera wins AI factory supply deals and launches second chip &nbsp;&nbsp; Reuters",
+   "title": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXd2QmNxLUwzMURZZkotelUyMGFuU2RtSHluS0ZuV2JyLXNRWF9uMUlVZU1jQW5pZ3hLQ3BiLU5oQzhxTm41cDZvLVFfN2Z4N1B6Yjh4VGxzMUcxSl9WbjBoR2hiZkgxUnFjazlHMUNyVDJaOTJlZ0JKOHN1SER3YzJnbi10emhqWmFJVjEtZEV3Q0ZRcnJkaG1DZFJHNERYa18xWVJJVS1tVGVoOS1HVEd0QzBDdFlNWk9oNWpUc0YyamFqSEtISkc3Mk4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 18:53:43 GMT",
+   "summary": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Canada offers tax incentive on capital investment to lure foreign investors",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaE4wX3hZNjl5X2l1czBGUGQ2NnNERXFhUlI0Y1RHZGNpWGhRTk9YV2lxaDFicGQxamIwS3BpYWRGMHBYYmFzcmh0S1JkeVZHUkkzdmUyRDJreF9ual9fUEJTa2t1X21NWUNVb081a1JsNmVOUmQxbFEwc3cyQnZjNktuUGMta21ITnJMMzVBMVJwTHRpOEE4blVvbElzaEVjZ1k5Zg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 14:07:25 GMT",
-   "summary": "Canada offers tax incentive on capital investment to lure foreign investors &nbsp;&nbsp; Reuters",
+   "title": "Hitachi Energy to invest $528 million in new transformer factory in Mississippi",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGppS1ljd1RacEw4ZkhHRjNxeHc1cGhITkluVXI5ZHFHSG9ud1BRSmpid2Rrb3RGSTBGMXFvaE4yRVNZbDdIOGp5NkdERWEyUDBNQVB2dVRsd0xnYnhwWEJ5UnJ3bHgtV1B6SXc1WEg5WTB3d0hqZkZsVUw2ekNSd1ExZEdaQUFDRFVJSEp3blJxcFppX0hUYi1jVXhPckVGZmkwM0l0bmZlN3hNakgyM1NycWo5dTdfYWk3R3F5TV9Hd0hD?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 16:27:47 GMT",
+   "summary": "Hitachi Energy to invest $528 million in new transformer factory in Mississippi &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "European chip startup Axelera wins AI factory supply deals and launches second chip",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWhvb3cyWDU3RGNHSlZJdGdLWlVOQWJ2S1M3bTV6SlZHUFpOX2FjckdPWDdiYVU3NElIX1JjSGdZYXRtTk9XM0hDRVZGaldPOU5LOTJ1OEZsUkFHUDNBU2E1a2VhajdRYm1QdnoxQ21vWEZvbE5ndG5TTW5DbXVkOF9kdkYyZUN2WGdSNGJ3cTZYSVdhYjdZcU95VThQT21xRXM1QUZEX1l3MWFOUlFIWjgxejdEN04xTGp4MUpraFRRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 12:12:26 GMT",
+   "summary": "European chip startup Axelera wins AI factory supply deals and launches second chip &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,6 +340,22 @@
   },
   {
    "source": "reuters-business",
+   "title": "Canada offers permanent tax incentive on capital investment as Carney lures investors",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaE4wX3hZNjl5X2l1czBGUGQ2NnNERXFhUlI0Y1RHZGNpWGhRTk9YV2lxaDFicGQxamIwS3BpYWRGMHBYYmFzcmh0S1JkeVZHUkkzdmUyRDJreF9ual9fUEJTa2t1X21NWUNVb081a1JsNmVOUmQxbFEwc3cyQnZjNktuUGMta21ITnJMMzVBMVJwTHRpOEE4blVvbElzaEVjZ1k5Zg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 21:26:28 GMT",
+   "summary": "Canada offers permanent tax incentive on capital investment as Carney lures investors &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US invests in critical minerals but China maintains grip",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGtsNFhCU1JCWjQ4RGZOTGlxUnBBWGFPM1lRR0l3X3l5QmswT0xzSzdDcXRwS0VtN3JOdjNIUzlUU3Y0T1ViaVdhZ0UyNU1HT1BKbGlQWkJmVUZsc0d0ZGlKeC1LYWI1RXR4UkdmT2RHU25XU3pVamNJMWVOSmtXRUdSeFN4M1BpRHg2eGhGQ1V2THNqa2NkR1I2XzE3Ml9tTldEa1ZDZE1HdEJv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 14 Sep 2026 16:08:56 GMT",
+   "summary": "US invests in critical minerals but China maintains grip &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Companies left China to dodge tariffs. Now some are heading back",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXZhYnM4LUVqMVptczRMSnVLLUp2YVVfRm9kNGh2MnZmWVlYUEtERkowb0xsb2drVG12aTd1SVlPNUFiRW9HQjJRNEhVR1hBWjZKem4xTjBaaVZ2anhqdTRscDYwcVZZUmp5V0FncDRPXzhhQ3BZWjc1ZlkyWXFaM0pDTFM0eUU2S0FYaUhvVzFVeUhyREZJZm85V0IzWTBnaGFFM2ZRam4wY1lkTlVTMnBYV2xVclBuTHJTSGZR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 14 Sep 2026 12:40:33 GMT",
@@ -348,26 +364,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Temporal's valuation spikes to $12.6 billion in Lightspeed-led funding round",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzd1eUQ5NzFJa21VVk1Sclc5NXctR1JYUWxQcFU1d3I1U0xQYTNwdTNWNWxYWGYxcUZUZW1MYVNLZmlUZjFFdjlFZVJITEVJX0cwdlUyTVJ5VjN1MHAtVWdhRkxvV0ZUWWk2MngtWm81T2ZNS05MSk5vMjhHTEdpanVNVXBDNVZtam1uTjF2SmF6c3pyeHMxMkl2cE1pT1I4NDVhZHgzd05xd3FURUp5VjJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 14 Sep 2026 14:13:37 GMT",
-   "summary": "Temporal's valuation spikes to $12.6 billion in Lightspeed-led funding round &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "SpaceX's first Starfall customer is European mission integrator Space Cargo",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS0piWDJJcEMzSjg0OHh5RFhnRTJSMmMxei00WmJfUXdlZmp4X1Q2M1A0ZW9UVnFoVEZOTU1EcDQ5cm9OMkRzWExuWWFxMTNkM1JxRDFiLXA4TWZ6SW1YdjNIWkludmpWV0laczdlN2hDcGlVanpaYmdhbHh0M0R2YWdCcFNJMFozUGFKLUdISEx0UVpHN1ltTHc0TGt1Sk5mNktGcDZYLXJiM09CTk4yNVpqQndKcVpjcUtmZ2xmZks5VXNyTlhwNHphc19Xdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 05:08:00 GMT",
-   "summary": "SpaceX's first Starfall customer is European mission integrator Space Cargo &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Canadian farmers struggle with rain delayed harvest; quality hurt",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU04NDFrNE1QbkkzVGxrLVIwWEJuenY1bWdkNk9vN1N1N3RxZFVBaVVnUi1QME03U084Wjl0cWgwZERaczlRbV9DcUlfX1VBYUhrOVRCQnRuM2lzWWo1U1kzUFRzNTRaa3cwUFlvTmZBQkxvMER5LU5zWDFrdW1IQ2lGWm1MLWRzaEhIS2tXTmZweHgzMUtiSnZBSmJxMjNOOWFnVW9jWUxKMDhvQVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 10:08:10 GMT",
-   "summary": "Canadian farmers struggle with rain delayed harvest; quality hurt &nbsp;&nbsp; Reuters",
+   "title": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNG85U1M2Y1MtNHBfZmxIS3FNNWZELW5UeVM4dzFvQUI3R1VxZ1hCS1NPMnZZM3pNZXRWNE5HcG9XNXVvbzFXLVJQRG0zYXE0bHRoZy1kVmdsSFloX0ZWa1lDM1owQWs2NTNsTmo2OE1JemRFd3dPSXFGVzZuc1NBdnNNR3BHemVlSk51OVFwcUIyVGxJZGs5clZ2cGVoT1Ruc29OeFMydExnc3cyQWQ0TTRMN3ItM25YbkRkSXFyWkVRRHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 18:23:20 GMT",
+   "summary": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -379,27 +379,27 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "Facts about Nigeria's Dangote oil refinery Initial Public Offering",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkdiZlZGd2FuZ05TaF9qcDQtTkpZNkJWaGZoTXZVcWE3M1FWWU4wUlo5a3FQMHU1REFLWnhSczRZdlJFUGRkRXZ2Q3pBTUI4Uzl2dUR5MTVwV0pmam1NTFhRakxHSjl5QUxxUjE4VDE0ZUhQZHE0aTVseHNFYWJqbzRiMTByeHg2SUFoR0J4Zm5ydG5mQkhVVlVPNnFLQWYxNTAtRmJCaUhrU054QkNZT24xMkdUR2l6?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 14 Sep 2026 07:03:46 GMT",
-   "summary": "Facts about Nigeria's Dangote oil refinery Initial Public Offering &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "COMMENTARY: Trading Day: No hiding place",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjJDU2NhMjQxcG9ZTk0wanh3Qk5CMktRb0U3WTU1VjNLQ3ZhUDVuTGVIU1N4MFBXQi1NdmRKUERSa3R6MTRsa1g1Ql9LQlFxak50ZXliQS1ZUVJGWk1BeGtGcm1SX05IX3M5VEk4cTRIVkk1ZDZlVFZ5ZkdBNVl4bS1NRXprbXpoYjZwbHNPUnZmTktQTVRWM3JUZzRNYmhDVVZSamtn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 21:14:06 GMT",
+   "summary": "COMMENTARY: Trading Day: No hiding place &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "L'Oreal steals French stock market crown from LVMH",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0tMb2QxSEFUNm1ZdGw5UVhUcEZVTmx6TzVKTDNWQnFfbmNraDctaTlxaU5VY1J3VEZjRk9Ra1lld283cFRqTFI5RzNRSmNZODFhaWJZSXJSTUVGUzMwV00tMXhsbDV6Zk5rd3piYWhRc2Q5VTRuMFpCa0dLUXp3b05NZDFuaXk4Y1F0TlhFRDI1a2JBdm1rV0xxRkx6elNwSDVuQ0N5cHk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 16:13:44 GMT",
-   "summary": "L'Oreal steals French stock market crown from LVMH &nbsp;&nbsp; Reuters",
+   "title": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3ljdUI5OWpZMmJxc2NzRjhKVnpuYXdVZWFRU3RlMTlhdXNOaXhfU3BXS093YndRd0pXaHdLV2JfRUJ6c05va2FwemdfODVsVEZoVU9rRTRTNVZtRU9lRnNQbWg5SnZybkkwUThrT1JHZjJXYzRBdWZuR0hrc0Myc1ZQM3V5bWZCdFg2UlA2WnNlcVRwMlpwcHR1U0FDTnhzb3JqQ1lLVmZpQWxaeEt5VWpnTGctWDdHMjBlRmluSFh2QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 19:45:43 GMT",
+   "summary": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall Street dips as oil spikes and benchmark Treasury yields breach 5%",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 18:31:27 GMT",
-   "summary": "Wall Street dips as oil spikes and benchmark Treasury yields breach 5% &nbsp;&nbsp; Reuters",
+   "title": "PODCAST: Bessent's big test",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTEJoWDVXNDE0Rmx5ZnZCeFhtQmhHc3R4Zk5VWGtySmZpc241aENIMlhaNVU2YjdpdUFuUXdDY21KdDZDYTFCZzBkTVQ0MEpBT3A2Q1hXSl9UUWFJNDhoTE1FZkpDVzNVNFdzN2JwUHhwNWEwOVhCNUlqRm1YWklsNmx6SDZ4UEN5OUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 13:34:30 GMT",
+   "summary": "PODCAST: Bessent's big test &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,10 +412,26 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 21:09:06 GMT",
+   "summary": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5% &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Yen rally faces moment of truth as BOJ risks disappointing markets",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMHRDcVNPazNUNW5RQTRlNnVrcjRMekZJb3VBbWJFcFdJcDlrcFNtNFFPaV9VS0s0a3Y3YnpNXzczU0hMTGN6ZkNYU2VxZEVwSUtmZjI5dEw5dUNqSU1GMGZXaEJfbnB6LVEtT242MjVCUDVaaHhOcUhzT2JheHZIckRXclZzaUVBLUhqRW1zN21tY3Y4Z0Nua2FYdDlFWl92SGVQU3NPWElmT0pkZjNJSEl4V2VEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 15 Sep 2026 06:03:00 GMT",
    "summary": "Yen rally faces moment of truth as BOJ risks disappointing markets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "L'Oreal steals French stock market crown from LVMH",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0tMb2QxSEFUNm1ZdGw5UVhUcEZVTmx6TzVKTDNWQnFfbmNraDctaTlxaU5VY1J3VEZjRk9Ra1lld283cFRqTFI5RzNRSmNZODFhaWJZSXJSTUVGUzMwV00tMXhsbDV6Zk5rd3piYWhRc2Q5VTRuMFpCa0dLUXp3b05NZDFuaXk4Y1F0TlhFRDI1a2JBdm1rV0xxRkx6elNwSDVuQ0N5cHk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 16:13:44 GMT",
+   "summary": "L'Oreal steals French stock market crown from LVMH &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -436,34 +452,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Global shares fall as Treasury yields scale fresh peaks",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2swZ0ZXMUlmM25iamJCQWM5NWV1OG1yUHA0MWZwVkVyempxRGlyWGdXeDRuN25IYXdGb1J0a05HazdLSEtsZUNBNzlBWVA3cmtJVElCREdQeWx2amlXZnAxNHBFN1pZdnFVQ3NhYTBrbF9sMVhZM1Z2djlBUWdCcnkxNHJMMFJTOHJRSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 01:44:00 GMT",
-   "summary": "Global shares fall as Treasury yields scale fresh peaks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Dollar gains as oil lifts yields and Fed hike looms",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGtqRlJ4LWF3TVM5VklxS09fMU16eHE3bWRLZ3lRS3NuS18wWGcyY3cwRWg2eEtzS3dFRVZGWHB6Z21NNGpzUUcydm10VXpIU29Ca3RnRDRrRUxsVWlNbE5yV0x6ejVQUTZXR1FHRHgtTUExOC1VazhaaGo0b3p0dTNVcDJ5YWdjeWkyQVZRRlhOUUZYUkpmdWsyeHJjNTF6QjlYdEtRcy1NVUg2RWNmOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 01:58:00 GMT",
-   "summary": "Dollar gains as oil lifts yields and Fed hike looms &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Oil jumps more than $3 as Saudi loadings halt, Libya outages stoke supply fears",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 00:36:00 GMT",
-   "summary": "Oil jumps more than $3 as Saudi loadings halt, Libya outages stoke supply fears &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Indian rupee, bonds eye Fed decision, rate outlook",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOVlScl92S19PTzRxcUZnRjVUcTU2dUJ5a1FZQjY1dVlhRkt0Uk1MOXJjU0ZvblpLX2tqemFDMGhIbEZkMnRHMGtzanNzdjFTSF9CaE9IQkNsb1BXQ0VuT01oOXBoOEtHNmJZamhXb0xnaDBhMW5CaS1lUVU1NXd6YjFaczdpNDRpZmxqUlhiMXhpWm5VbmR3cU9XUUs?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 01:31:00 GMT",
-   "summary": "Indian rupee, bonds eye Fed decision, rate outlook &nbsp;&nbsp; Reuters",
+   "title": "Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFQ1MVJra3B6cl9vekF2dms4dko3bnJUQ0dMcGxrSEVqYkxhZWF4aFlnWUhrVllxUGdsZ09KUFdUakJuVlpMdFpfXy04UFpzd0o2aElUd2FDQzJaLWlxRW95Y1hQSmpnVGYzQmpYRVM1ZDQtV0FScklVOHBlQXJfeHdMa1B2MXhJb0trem4weEl4aF9yREpJRGt5Ukh4ZzBwc3A2TV9sYU1GazI5OFBtdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 07:41:56 GMT",
+   "summary": "Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -472,6 +464,14 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVlcUMzUkQ4NXk1QVkxeFc0NTBCenZSWTExWDJkeS1CaE1hamtXNHZmbmZHc2tKVXZSUGhOSGdCUnVTSGdxMTJPWm1vcmVRazl3Vm1fR2RPSU1heVFtRjBtUm4zWTkxYk1tM1J3ZmpyRW5RRXFIT1BJU1djQzBUeExSeTRZNEhnck84ek1zYTVOb2l5R2JzVmhvU20tMXVROWpuRmFDYjhyWDVkbThtQXlfQW4yZWhGa1lOUkJXV0VlcVNvTXl0Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 15 Sep 2026 08:14:10 GMT",
    "summary": "MediaTek launches new mobile chip using TSMC's most advanced technology &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFU5RG1vWUx4LW5tTnVlWmxVaExUb1JiYks2N01JbTJFWl9NY3ZFRUpxaGc3LURuZ2xST2VkZ1hFNFROcjM4U0RPeGFqczRCamt4Z3FqWFBteC1seWxSdUJLRE9HUDlqeGxlczE4M0JJTEp1WC1VWGJXcmpJUjgzU0g1OGxHN0N6RWZtTjJBNktPTUJqU2Y0N2J2QTR1ZHRjQTNQZVk1UU4weXRvZGJvMDRYZkh0VkNvMXQtVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 05:16:00 GMT",
+   "summary": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,6 +508,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "US Senator Sanders and Trump ally Bannon call for stronger AI oversight",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORmJLNGpYQ3RGZ3dBZS1hbHU1UGIwajJCdzlPSVZVNnhMT0k3b2xOQW9hU0x5OHYzWS1TNzBjTmd5RkFtd3JScmR6ZkxmYnJ5TV81NEpMV2lZRDkweG9jLWtTLUMxX1hVRkxFUm5reVhQZWJLUlN2SnNUUTZoQnZUUTZvQjFDRW03ZG1FdDhKTFJfdmRMcEVkc1BiVHJfY3NZUmNiU3VEOUNfb3JJV0pEcE9aS0VCR3dPRVVWZEdrTnMzYnpx?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 14 Sep 2026 21:31:00 GMT",
+   "summary": "US Senator Sanders and Trump ally Bannon call for stronger AI oversight &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 09 Sep 2026 06:17:33 GMT",
@@ -524,26 +532,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Sanders and Bannon call for AI limits as public unease grows",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORmJLNGpYQ3RGZ3dBZS1hbHU1UGIwajJCdzlPSVZVNnhMT0k3b2xOQW9hU0x5OHYzWS1TNzBjTmd5RkFtd3JScmR6ZkxmYnJ5TV81NEpMV2lZRDkweG9jLWtTLUMxX1hVRkxFUm5reVhQZWJLUlN2SnNUUTZoQnZUUTZvQjFDRW03ZG1FdDhKTFJfdmRMcEVkc1BiVHJfY3NZUmNiU3VEOUNfb3JJV0pEcE9aS0VCR3dPRVVWZEdrTnMzYnpx?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 14 Sep 2026 21:31:00 GMT",
-   "summary": "Sanders and Bannon call for AI limits as public unease grows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "China tightens travel rules over tech security",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU9BOGpkbUk0UVhJRjlsRVNXdUZtNUw4ZGR4RGxqWW94OEF1T184SWh4bmhCX2hMTmJCa2dNZGpsSWlSOEhwaUtrUlVpUm5Nd3g1blU1UkxOZkU3MDhYQ2MyRUVMR1EyMXdPbzVFLW5SQ2pKcktpMmpLcl9PcDIyXzdhMERQcjd5X3gzUjFPcEdvandGSlg2aXFLZnZEcTBOV3ZWNVNZMA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 15 Sep 2026 02:43:00 GMT",
    "summary": "China tightens travel rules over tech security &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "King Charles to host AI executives as threat fears mount",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2RHR1kteU9kT1lsd3NHU0lpTXZyZWJKYTI4cW93ZENtdVFyNkNjWDBLWWF5YXIxQk9JcjFfYk02NFpuTzhBd0VseFl4NFRoV3BPclc0RURUV3V4ZTEwQmNhd2M5UlJyS3pwdUcySkhTZXQyTjdBbHN5RjdKUkhNT3NQcmttVnpJdExTQWVoVExfam5KTVFnQnpoak1KblV0MmdyVXh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 14 Sep 2026 16:10:34 GMT",
-   "summary": "King Charles to host AI executives as threat fears mount &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
