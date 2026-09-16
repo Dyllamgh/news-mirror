@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-09-16T19:17:06Z",
+ "generated_at": "2026-09-16T22:33:13Z",
  "count": 70,
  "items": [
   {
    "source": "nyt-world",
    "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
    "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-   "published": "Wed, 16 Sep 2026 17:18:08 +0000",
-   "summary": "The building was previously damaged by an Israeli strike, the local rescue service said. Its fall underscored the severe risks for many people living among Gaza’s ruins.",
+   "published": "Wed, 16 Sep 2026 20:13:21 +0000",
+   "summary": "The Israeli military said in a statement it “did not strike the building,” but did not say whether any strikes on nearby targets could have caused the damage.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "E.U.-Canada Ambitions Face Reality Check",
    "url": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
-   "published": "Wed, 16 Sep 2026 18:47:03 +0000",
+   "published": "Wed, 16 Sep 2026 19:30:23 +0000",
    "summary": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.",
    "full_text": ""
   },
@@ -38,7 +38,7 @@
    "source": "nyt-world",
    "title": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
    "url": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
-   "published": "Wed, 16 Sep 2026 18:08:25 +0000",
+   "published": "Wed, 16 Sep 2026 19:25:40 +0000",
    "summary": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate.",
    "full_text": ""
   },
@@ -84,9 +84,25 @@
   },
   {
    "source": "nyt-business",
+   "title": "What to know about the Fed’s decision.",
+   "url": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/what-to-know-about-the-feds-decision",
+   "published": "Wed, 16 Sep 2026 21:17:32 +0000",
+   "summary": "",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Takeaways From the Fed’s Decision to Raise Interest Rates",
+   "url": "https://www.nytimes.com/2026/09/16/business/economy/fed-meeting-interest-rates-warsh-takeaways.html",
+   "published": "Wed, 16 Sep 2026 19:29:00 +0000",
+   "summary": "Kevin M. Warsh, the Federal Reserve chairman, said the bank acted to fight inflation that ‘is too high and has been for too long.’",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
    "url": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
-   "published": "Wed, 16 Sep 2026 17:53:30 +0000",
+   "published": "Wed, 16 Sep 2026 20:39:18 +0000",
    "summary": "Mr. Hamm’s company, Continental Resources, has signed a preliminary deal with Venezuela’s state-owned oil company to develop and produce oil.",
    "full_text": ""
   },
@@ -102,7 +118,7 @@
    "source": "nyt-business",
    "title": "Fed Signals Another Rate Increase Could Be Coming",
    "url": "https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html",
-   "published": "Wed, 16 Sep 2026 18:48:22 +0000",
+   "published": "Wed, 16 Sep 2026 19:12:46 +0000",
    "summary": "Here’s how to read the Federal Reserve’s economic projections like a pro.",
    "full_text": ""
   },
@@ -118,8 +134,8 @@
    "source": "nyt-business",
    "title": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
    "url": "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html",
-   "published": "Wed, 16 Sep 2026 15:59:54 +0000",
-   "summary": "This month, the president threatened to halt a broad swath of trade if interest rates were not cut, once again putting pressure on the independent central bank.",
+   "published": "Wed, 16 Sep 2026 21:42:37 +0000",
+   "summary": "This month, the president threatened to halt a broad swath of trade if interest rates were not cut, a possibility he resurfaced on Wednesday.",
    "full_text": ""
   },
   {
@@ -147,22 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "In Silicon Valley, Hardware Is Having a Moment Again",
-   "url": "https://www.nytimes.com/2026/09/16/business/dealbook/in-silicon-valley-hardware-is-having-a-moment-again.html",
-   "published": "Wed, 16 Sep 2026 16:18:01 +0000",
-   "summary": "As A.I. transforms the technology industry, venture capital is flowing into “deep tech” start-ups that build robots and semiconductors.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Global Oil Prices Could Hit Highest Levels in Months After Saudi Pipeline Attacks",
-   "url": "https://www.nytimes.com/2026/09/16/business/saudi-pipeline-houthi-attacks.html",
-   "published": "Wed, 16 Sep 2026 15:15:11 +0000",
-   "summary": "Prolonged restrictions on exports could push oil prices even higher.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
    "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
@@ -184,6 +184,14 @@
    "url": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
    "published": "Tue, 15 Sep 2026 20:06:21 +0000",
    "summary": "The landmark legislation, known as the Clarity Act, stalled in the Senate as Democrats raised concerns about President Trump’s personal investments in crypto.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Merriam-Webster Dictionary Is Wordsmaxxing With 1,400 New Definitions",
+   "url": "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html",
+   "published": "Wed, 16 Sep 2026 20:54:17 +0000",
+   "summary": "Now you have no excuse for not knowing the meaning of “cuffing season,” “shishito” or “glow-up.”",
    "full_text": ""
   },
   {
@@ -235,19 +243,19 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue",
-   "url": "https://www.nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html",
-   "published": "Tue, 15 Sep 2026 09:02:21 +0000",
-   "summary": "Alex Bores, who lost a congressional primary contest that revolved around A.I. regulation, is trying to position himself at the center of the conversation for the next presidential election.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "World Bank names Nobel laureate Michael Kremer as next chief economist",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdThDTW1ZcGpROC13NGNKcXZQUF9ka0JrbXpfeXljYUZ2NWtDMUR1clRIVzF5MW1WamlXMXZ3YWk2d0luZ0pKRG5VYTJ6cFZFZ25kelJOT2dmMGFtbDJRR2ZUNktWTkhqbUlqLXRXNnNLYzJRQS1lTFFtLVNhQ0w0QTFhMHYwdjBvYWpYUW93T0xKRUhqNEVQZWpDb2dFS0h6TkFKaGV0QVB0QXNUZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 16 Sep 2026 11:39:51 GMT",
    "summary": "World Bank names Nobel laureate Michael Kremer as next chief economist &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "US pays $725 million to UN, easing its debt dispute with the world body",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3dPcGZmeXVDUE5FVmdScGhhTW96czRIMk5ZeDh2NVJ3T3Jxa1p1Y1p4dUpIOVE4ZW12WW9hQ09mdnFMMjhRWk5LejVZV1ZpcFFxbndNeUtUcFRfZzlKY0p1R3IzMnczcTExdnVQT29RZ296Q0s0T2xfdFI3VFBUOWJ5V280eWM3M3BaRFgxeFllN3BfdWp3M3NJbnU3bFlLOFpucXY2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 17:27:43 GMT",
+   "summary": "US pays $725 million to UN, easing its debt dispute with the world body &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,18 +300,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "How AI leaders and world governments react to 'AI doom' fears",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3YwSFJtOUpkYk5fVm84RHBKNjNBUm1qOHBlcUU1YTFxQmdiTERjeHJIcUJlTXk5Y2h6Sk1KMnluZllPXzc0ZGtyLVVJMTlEU1p0OGJOVTYxaE9jU1c1NFFaU3ZxeG93NXlucWRaOHY5NzZFWU9SeUJvdDU4cFpKWXVYTjhxNlgwdFl4RDVub2dYRU1jdkxTb3B5N1R0WWY3MVdOM0Z5QXRDdlVsZ21vRlBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 14 Sep 2026 15:58:00 GMT",
-   "summary": "How AI leaders and world governments react to 'AI doom' fears &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Carney visits Europe to seek closer ties amid worsening trade war with Trump",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONzF1T2dwQjhVTWdieGs3bkI0NEY2MjJrdUIxSE5Xc0k4SkJJTXh3MFFLcW13a2hVSEpfY3hfN25XTHFPYUMxQzJ4S2ZfRmdIc3NsNWxqOTR3WFo2LU1ZdHFFVUh6c0JyTFZ5RnhPNTlaODZrUzNZdVV5Qm5mTHdBOF9XZW44R1F1VFNpWkcyaVJGdFprc3ZrbjJxbkxqYldDaHAzOGJYNjJ0dDdxLWllRFBaTmI1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 05:03:00 GMT",
-   "summary": "Carney visits Europe to seek closer ties amid worsening trade war with Trump &nbsp;&nbsp; Reuters",
+   "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTFWNE1wQVNQdkFJRm1zVXZ1bHgzSTlxVTM5OTVPVVF2ZW9Gb3FFSXlwWXdfVUF6U2RZYVpucVBHcGxfaGIySEt5YW5KczRCT1VXdW1YZVFMZDUxR3hPTW9LQ3VIM2pRci02ZzBtTGxHWE9JOVgxd3o5dklha0sydUlRMTc1RGdRcnRUXy1lS1VRUTRKOTlLUGIwQ1p1SUhLeDVRdGF6aVN2R0NQMVBoNlNtLUc1djg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 01:23:14 GMT",
+   "summary": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,10 +316,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "EU's von der Leyen wants Canada to become bloc's first associate member",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 17:54:35 GMT",
-   "summary": "EU's von der Leyen wants Canada to become bloc's first associate member &nbsp;&nbsp; Reuters",
+   "title": "India's August goods trade deficit narrows as gold imports plunge",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkcwU0xsUjlqM1lxdXhyNnJka3RvNXljQm04eFZfWHpjMUxyOXJHR29xSXU1UklDUFMyQjBtQVVOVkZoS0tnbHpSWnB4T1RLdHBSVnVUUlRUS0hnMEZLUVUwNlA0c20wTF8yZ3Y2eWgxRVprRHVhV2lTRWpyODFrV2NHODNSRWxMRVhzdmVfaW8xMGpIcUNfdGs2dHY5WXVKeVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 14:47:16 GMT",
+   "summary": "India's August goods trade deficit narrows as gold imports plunge &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0Q2S2JRT3llcENjREtGM2t4eDlYa0VxdUEwT0Z0TTlSUjdadWdSZnNEUlRYWGI3M3hOZ0xXYU9xZEZqVjV1VFo1amtXVVZnejhnazk0TXpyUlY3QTlaeGFSRmd1Z0dXOVBsc2I2SV85aW9oejlMWjA1OFF5Vk1sbGRLRV92TlVLV3NuaGhWanVlbVBMQTdQUXNGd0RBWU5zRG9tV2RUMlpzb2ZZSG1idWl2ZHlCclVyVTdtYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 18:42:24 GMT",
+   "summary": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,18 +340,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "US energy producer to unveil Venezuela investment, energy secretary says",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0Q2S2JRT3llcENjREtGM2t4eDlYa0VxdUEwT0Z0TTlSUjdadWdSZnNEUlRYWGI3M3hOZ0xXYU9xZEZqVjV1VFo1amtXVVZnejhnazk0TXpyUlY3QTlaeGFSRmd1Z0dXOVBsc2I2SV85aW9oejlMWjA1OFF5Vk1sbGRLRV92TlVLV3NuaGhWanVlbVBMQTdQUXNGd0RBWU5zRG9tV2RUMlpzb2ZZSG1idWl2ZHlCclVyVTdtYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 15:46:50 GMT",
-   "summary": "US energy producer to unveil Venezuela investment, energy secretary says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "South Korea puts critical minerals, energy at forefront of inaugural Central Asia summit",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjVJZ054NjQyOWRnOVpMU21Xd3BPNDZVejEzVjNhVHUtT2JxM0hFVmxkaXNOdXN0OTNhNlNNck5hLUxGZ0R6d1lwSUhBa0JUZzV2QlV0ZXlCeVpocVVSbGk5bThUS3JTeVB4bVlGcGlCOXl4eHBDWmdmbF9RRkVqUHFpbVY5UGsxLXR6OVJvaVF3MC0yeTk0OXo1dHdqWmNZREZ4eDRRQ01FU3FzZ0tvclB4Qk1QRGQxSi1wa2RqTmgyVUtjTWh0RA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 08:37:45 GMT",
-   "summary": "South Korea puts critical minerals, energy at forefront of inaugural Central Asia summit &nbsp;&nbsp; Reuters",
+   "title": "OpenAI tests advertiser-sponsored agents, expands AI tools for ChatGPT ads",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdzBSSTlvNXJRRXplQlhuWUlTV2NDS3pKOHdpV3Q5YnRRZ21XT3RrT0ExVkhmbFlkaWZMM3R1LUJybTVvMm1GOEluTS16ODZRVUl6VVlkbE5OaXFQY3Y5NWw1RVh3cGZ0VVdveDVIVFhNWVhsNDZ0aXVhQzEyeWlpOVVyLVpCMTNiSkhQVVp2R2ExWXlJUVhRamtEV3ZtVkJTR2lvM0R3RW0tVW5vQmhuTm9uMUtyYWlEdWdwNUNQaTIxdkxZeTZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 14:20:27 GMT",
+   "summary": "OpenAI tests advertiser-sponsored agents, expands AI tools for ChatGPT ads &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -352,6 +352,22 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYnRUUTFmUnVOYlVxNXJZUXJyYkwwT2gwZTAzazE5Q1NWUTE4WXlpc2Q5UjNYakdfMU9ndkJJTnNSeGR0a0dBeXRpYnFXY2ZkT2VqVXg4WTFzZnBwNGR6aUlYeWpDdUw0MXRXazdQTHpsU05JSVkxRVI5U0tSbl9ZbkJQci1GWWhLRzVmY3RlRDk4RWgtTGZGQ3Z3VWxmY3IyX05FcHllYUtlMl8zdEdiYm16R2NxaEI3N1g1REY1LWhNbGQxeGVlN2JCQzYyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 16 Sep 2026 16:34:43 GMT",
    "summary": "Calls to slow AI benefit US sector leaders, says French finance minister &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US homebuilder sentiment drops to 12-month low in September",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbG52dVE1QjhVeFNESkthcmVRenE1TG9EVzB1OHYwV0J4Vko1ZjRPTmgzM2c2cTZUbWVXSFlSVzRRYjRIVmQxejZMUVp6eTJlT2tvQnpEY1dDUmtKZlU5YXZMeDJpWjVPYkxnRWpwUEZTVjZ1ZTlKVF80Z1VwMmxzVnJHakF2V3Boakh0eUVwWXI1WUN2QXcxakxBTEVweEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 14:03:45 GMT",
+   "summary": "US homebuilder sentiment drops to 12-month low in September &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: National Fuel Gas explores options for $5 billion natural gas production business, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjMyaVNZRHNmaGhXYV92cHBwZGFMX2g2bXNUMHFPbTdSUTZNVGl5VHVIV2lUWU12UDRDYnVIc0lYN3RSeGV0Vlh2ZEJEMmt5dHkxSEtROGZjRW11RnNYZ1BFaDN3OTdUMEZGcUs3ZlFXV0hwZFlZN1FXWmd2NDBfZnk3czU2NURfdGVGVk55bExndjYyeS10dUpPWXlGaFppeVVwbkFDcHBQT2RiLVJfcWhtaldFZ2FRS1hUNkZPUHd2b0VCZGxGYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 17:08:15 GMT",
+   "summary": "EXCLUSIVE: National Fuel Gas explores options for $5 billion natural gas production business, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,14 +396,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXd2QmNxLUwzMURZZkotelUyMGFuU2RtSHluS0ZuV2JyLXNRWF9uMUlVZU1jQW5pZ3hLQ3BiLU5oQzhxTm41cDZvLVFfN2Z4N1B6Yjh4VGxzMUcxSl9WbjBoR2hiZkgxUnFjazlHMUNyVDJaOTJlZ0JKOHN1SER3YzJnbi10emhqWmFJVjEtZEV3Q0ZRcnJkaG1DZFJHNERYa18xWVJJVS1tVGVoOS1HVEd0QzBDdFlNWk9oNWpUc0YyamFqSEtISkc3Mk4?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 18:53:43 GMT",
-   "summary": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Meta launches subscriptions with enhanced AI features",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkRwZGxpaHF6LXd4endocm1NWHpFTE5EYmVYaFE0OHdaWXdkQVFwRmFzX3d1cmdpanR0Zm8zRU9LN0F2Q1pYZXlVYmFmNGQ1dm5RdC0wLXZtaVc2YzFQOUoyVTZ1eEktSENnajVNNnlZZHNXcUJSOUptOHloWW1yem1ZNkxHODhPWWZIbjF4WFVQc1VjbmkxLXZ1YmRTenM?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 15 Sep 2026 15:04:34 GMT",
@@ -395,27 +403,19 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "New York proposes $1 million per megawatt community investment for data centers",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDgwbUc4c2xiUm9LQW9yRXRvYnRYMzc3MmtIaUxrMkd3UEZSX01OWFZncXdKUVdBNTdnd2htamJadDRYZjlmOHZLRlpWTlNqMTUybTZ6RUlZd1gyRi1tVWRVMjE4QXVVenpxY0NZWEJKS3NhLWlxcG9ZZERubXVMbjdCTGhLSTQ1c2hrOGZTUU5JazdRZDdZNHF2VEFqSGhDbXZRaDdaRF9BUkkxMnBjek5tRWhCSkFQM2RYbXk0ZThYRF9oSk4zY1pJRHVweFpL?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 23:42:59 GMT",
-   "summary": "New York proposes $1 million per megawatt community investment for data centers &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-markets",
    "title": "VIEW Stocks pull back after Fed raises rates, points to another hike this year",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 19:05:51 GMT",
+   "published": "Wed, 16 Sep 2026 20:10:10 GMT",
    "summary": "VIEW Stocks pull back after Fed raises rates, points to another hike this year &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Crypto bill's defeat shows limits of industry's political machine",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHphX25vNHpSYXNOQVlwZDdwc1ZxbW81RkN1V0hTdzRoeGx5MGY2b3k0alhVRkVtYjN0ZHBLWEFZVDdZUGs0NWJ3dkVUUk9qc3hvbFpoY3F1WUdLc0tzd25ySWNCeHlWZFlYd0piek41a3ZBUGtnaFI3bVV4RTM2OEtJREZYN2FJclRvTXViQ0hXOUlwWDJtLVotWXRzSm1KeHB4cjZwbUw2bUwtQ0p4UHlOTTRjbWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 16:29:09 GMT",
-   "summary": "Crypto bill's defeat shows limits of industry's political machine &nbsp;&nbsp; Reuters",
+   "title": "COMMENTARY: TRADING DAY Lift off!",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnVEVW9JZ2tKNmNES3RWYUlXTjJhOVFad0JhMjJXM1JsbHJwTVpUNmltQ3l3Z1dLclFEOTkwNXQwVG1mZjFwRE1lcjZDWl90VF83YkllMElYRU1aNXhWYVQyZWlENERVa2xRNmNLR1pOMmx5ZnZfUVNqSTBXT0VYdm9ocEtESEVPRHpsVFoyVVJaMnVTYlpBMm1RdkdDZ2VkQ2htYmpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 21:07:29 GMT",
+   "summary": "COMMENTARY: TRADING DAY Lift off! &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,10 +428,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall Street gyrates after Fed hikes interest rate to battle inflation",
+   "title": "Wall St ends lower after Fed hikes interest rates, sees more tightening ahead",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 18:45:59 GMT",
-   "summary": "Wall Street gyrates after Fed hikes interest rate to battle inflation &nbsp;&nbsp; Reuters",
+   "published": "Wed, 16 Sep 2026 20:24:51 GMT",
+   "summary": "Wall St ends lower after Fed hikes interest rates, sees more tightening ahead &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -440,6 +440,14 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVRfa0dwdUVMclRKVkdtcWEwUDlkOFFpc3FQMmxoYjRQd3BobHl3bzNVZmY5WXp2MWhJcDBsenI4RDBfQ2d3SGdCX3A0ZThwekJ4dHZPSXNkMDJMVGpkWHVKRWs0VE4tLVBTQmNGa0xhM2x3Q1ZxX09GZnM1S3FUYnNSdzJlcGw0eVBqSmdoZDBOVUpXUGlz?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 16 Sep 2026 10:44:09 GMT",
    "summary": "COMMENTARY: Morning Bid: A time to hike? &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Stocks fall as Fed delivers hawkish rate hike",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EZTFQYXAzY01LTC1UX2J5X2FjVEgta19TLV9QZF9LNXFQYm9CTjNkOV9YOFJ6aXJpQzFqYUc4c2JzVHpzUlFzYjBNbEthX0kxcDJWazgxR3R5TjNUQl9xcXY5ano5Wl9ETEw2VDJZOFpndVBVMFY1VElhZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 01:23:00 GMT",
+   "summary": "Stocks fall as Fed delivers hawkish rate hike &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,18 +476,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Stocks gain as yields retreat ahead of Fed rate decision",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EZTFQYXAzY01LTC1UX2J5X2FjVEgta19TLV9QZF9LNXFQYm9CTjNkOV9YOFJ6aXJpQzFqYUc4c2JzVHpzUlFzYjBNbEthX0kxcDJWazgxR3R5TjNUQl9xcXY5ano5Wl9ETEw2VDJZOFpndVBVMFY1VElhZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 01:23:00 GMT",
-   "summary": "Stocks gain as yields retreat ahead of Fed rate decision &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Oil slips as Saudi Arabia offers more crude via Oman",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUw2WF9wc1NsbDZJRTlsTzlIOFYzZWtQMEJUS0tNT3VPUEhJUnhIZTZBTlJTcG50M0IxOXNLYTFSQVZRb2VIWllBT2ZzNC14RnAwUkhWYW91MlJrVm5TX3BZR3RSeVU3dUtjZmJuWm1hZWNyd29LLUUyY3BIekxROHllS0xoME02UUNDWnJlakRUU3hnOFg2aUV3X0FVVWd3SUpkRkZUTjdoX3VTRm95UE5CTWQxVXk1?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 00:41:00 GMT",
-   "summary": "Oil slips as Saudi Arabia offers more crude via Oman &nbsp;&nbsp; Reuters",
+   "title": "Homebuilders lift FTSE indexes as yields retreat",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZG5ENzhDLXJPbzdJaWxwTVJpVU5RM3BseUZmdjJhSWIwZ29lT1g5a21PZnN3cWtMZEJnUldwQXptLVlucG1tNjNBenF3MjV6QWJqTUNFZGNpeTVjS2NHc2xGUFJyQW5jRnV4X0l2NEstbGF6Y2FjZEowVVFHOXUyRmJSSnVyUDNXX2pFSUItUUtPOHN4djBpTHV2cmdSQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 16:06:02 GMT",
+   "summary": "Homebuilders lift FTSE indexes as yields retreat &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,18 +500,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "China tightens travel rules over tech security",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU9BOGpkbUk0UVhJRjlsRVNXdUZtNUw4ZGR4RGxqWW94OEF1T184SWh4bmhCX2hMTmJCa2dNZGpsSWlSOEhwaUtrUlVpUm5Nd3g1blU1UkxOZkU3MDhYQ2MyRUVMR1EyMXdPbzVFLW5SQ2pKcktpMmpLcl9PcDIyXzdhMERQcjd5X3gzUjFPcEdvandGSlg2aXFLZnZEcTBOV3ZWNVNZMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 02:43:00 GMT",
-   "summary": "China tightens travel rules over tech security &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "COMMENTARY: AI is too big to slow in a geopolitical race",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFVzdmgzOWZDTVQySVJBYl9qVlVReklyWkdWTTBuVHZ1dy1KUnJxUjk3dG1FUnJLdlItOG1ibTQxU3Y2R0ZZMTZYX1JKTFpwaFJlVzhQblZwMS1LS1l1NDRIWlFYN3REVi1PSmhBM0dOQ2lwV0hCcVJtZU9fcVJQWVdVTEpPbW1kbU5UWVg5WkUyelctdDAxcjY2eGpnYmNybEx3cFc0YUw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 15 Sep 2026 06:01:00 GMT",
    "summary": "COMMENTARY: AI is too big to slow in a geopolitical race &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Tech leaders, governments split over 'AI doom' fears",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3YwSFJtOUpkYk5fVm84RHBKNjNBUm1qOHBlcUU1YTFxQmdiTERjeHJIcUJlTXk5Y2h6Sk1KMnluZllPXzc0ZGtyLVVJMTlEU1p0OGJOVTYxaE9jU1c1NFFaU3ZxeG93NXlucWRaOHY5NzZFWU9SeUJvdDU4cFpKWXVYTjhxNlgwdFl4RDVub2dYRU1jdkxTb3B5N1R0WWY3MVdOM0Z5QXRDdlVsZ21vRlBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 14 Sep 2026 15:58:00 GMT",
+   "summary": "Tech leaders, governments split over 'AI doom' fears &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -540,6 +540,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "China tightens travel rules over tech security",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU9BOGpkbUk0UVhJRjlsRVNXdUZtNUw4ZGR4RGxqWW94OEF1T184SWh4bmhCX2hMTmJCa2dNZGpsSWlSOEhwaUtrUlVpUm5Nd3g1blU1UkxOZkU3MDhYQ2MyRUVMR1EyMXdPbzVFLW5SQ2pKcktpMmpLcl9PcDIyXzdhMERQcjd5X3gzUjFPcEdvandGSlg2aXFLZnZEcTBOV3ZWNVNZMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 15 Sep 2026 02:43:00 GMT",
+   "summary": "China tightens travel rules over tech security &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 09 Sep 2026 06:17:33 GMT",
@@ -552,14 +560,6 @@
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRy1LOHV0dHVqVzlSYVdfbEZxVUNvT0NxdzVKaXozU3N3NXdKdHlFeVRPN2h4Q2RCU2xZM2FmTTRIbVIzUlpSZEExanVsclpuckc1ZGZSQ2R3MWMyN0k1di04bnFSNVo1ZERYWUpGcjd4S2VBUWtQc2c3SGxGZjItUDJQdWMyY0RiOURIZE01TXRqdzVxa1daYzlaaE1ReEFPNWszTmtqYzNNdkdiTzFFTkdtb0JZUXQ1UE43VnBUZmRGbWJMMFRpcnBId3o3aXllczVqRmlEaw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 15 Sep 2026 04:44:00 GMT",
    "summary": "Ark's Wood says global AI leaders' pledge is positive for technology development &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaENkNHlJX1lkYlJtRzRtZ0NEaFpfbkxub0F1VkVUVHBvVTdMaHV1NjRDMnY5N09TTnIzRzFQZmFYcnY3ZkplMmxGQ1Y2OFRXT1kyTkNlWnZ0SjFsWHdHMWl6RklJeTFmMjVfYVN0ZTlidzhmR090TVdzRFRQd1ZmSFB2dXIyM1BLYVJDNlZMYy1PYnpTdTR0bHBYR2JwYWpMczAzSm5jU0JqYkJwb2V1SmhmMVJxSzRILXBZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 14:53:18 GMT",
-   "summary": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
