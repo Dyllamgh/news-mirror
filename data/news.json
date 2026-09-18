@@ -1,12 +1,36 @@
 {
- "generated_at": "2026-09-18T02:36:22Z",
- "count": 66,
+ "generated_at": "2026-09-18T08:40:05Z",
+ "count": 67,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
+   "url": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html",
+   "published": "Fri, 18 Sep 2026 07:26:05 +0000",
+   "summary": "Russian elections like the parliamentary vote that begins today are hardly free. But they are critical to the government as a source of legitimacy.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
+   "url": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
+   "published": "Fri, 18 Sep 2026 04:58:13 +0000",
+   "summary": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Scientists Warn of Flood Risks to 8 Himalayan Countries after Nepal Disaster",
+   "url": "https://www.nytimes.com/2026/09/18/climate/nepal-tibet-floods-himalayas-warnings.html",
+   "published": "Fri, 18 Sep 2026 04:01:09 +0000",
+   "summary": "The catastrophe set off alarms in a region with thousands of glaciers spanning eight nations. Better monitoring and cooperation between the countries could save lives, experts say.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
    "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
-   "published": "Thu, 17 Sep 2026 22:44:03 +0000",
+   "published": "Thu, 17 Sep 2026 22:44:04 +0000",
    "summary": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province.",
    "full_text": ""
   },
@@ -52,34 +76,18 @@
   },
   {
    "source": "nyt-world",
-   "title": "Major Iranian Airline Suspends Several Flights Abroad, Adding to Isolation",
+   "title": "Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines",
    "url": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html",
-   "published": "Thu, 17 Sep 2026 18:31:20 +0000",
-   "summary": "The carrier, Mahan Air, said it would stop flying to neighboring countries just over a week after the United States imposed sweeping sanctions on Iran’s aviation industry.",
+   "published": "Fri, 18 Sep 2026 07:51:45 +0000",
+   "summary": "Mahan Air, a major airline, said it would stop flying to Turkey and Oman just over a week after new restrictions were announced, adding to U.S. pressure on the economy.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Locals Call It the World’s Largest Cesspool, and Blame It for Surging Cancer",
-   "url": "https://www.nytimes.com/2026/09/17/world/americas/mexico-city-endho-dam.html",
-   "published": "Thu, 17 Sep 2026 13:27:34 +0000",
-   "summary": "For decades, the Mexican authorities have sacrificed a rural valley to flush away the capital’s waste and power the economy. Now, local communities are paying for that decision — often with peoples’ lives.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Carney Calls for E.U.-Canada Pact Amid ‘Ferocious Storm’",
-   "url": "https://www.nytimes.com/2026/09/17/world/europe/canada-carney-eu.html",
-   "published": "Thu, 17 Sep 2026 15:59:28 +0000",
-   "summary": "Prime Minister Mark Carney told European lawmakers that an alliance would help to secure sovereignty and independence for his country. The moves come amid a historic low for U.S. ties with Canada.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
-   "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-   "published": "Thu, 17 Sep 2026 11:21:24 +0000",
-   "summary": "A one-woman show about the perils of authoritarianism draws on a memoir by the Hungarian-American writer Kati Marton. Under Viktor Orban’s government, it might not have happened.",
+   "source": "nyt-business",
+   "title": "Japan Raises Interest Rates to 31-Year High Under U.S. Pressure",
+   "url": "https://www.nytimes.com/2026/09/17/business/japan-interest-rates.html",
+   "published": "Fri, 18 Sep 2026 03:15:30 +0000",
+   "summary": "The Bank of Japan’s widely expected move followed an unusual campaign by Treasury Secretary Scott Bessent for tighter monetary policy.",
    "full_text": ""
   },
   {
@@ -100,9 +108,9 @@
   },
   {
    "source": "nyt-business",
-   "title": "Why Is It So Difficult To Regulate A.I.?",
+   "title": "Why Is It So Difficult to Regulate A.I.?",
    "url": "https://www.nytimes.com/video/business/100000011155275/why-is-it-so-difficult-to-regulate-ai.html",
-   "published": "Thu, 17 Sep 2026 15:18:33 +0000",
+   "published": "Fri, 18 Sep 2026 07:56:57 +0000",
    "summary": "There has been considerable debate over regulating the artificial intelligence industry, but much of that effort has stalled. Cecilia Kang, a technology reporter for The New York Times, explains why.",
    "full_text": ""
   },
@@ -110,7 +118,7 @@
    "source": "nyt-business",
    "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
    "url": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
-   "published": "Thu, 17 Sep 2026 16:10:19 +0000",
+   "published": "Fri, 18 Sep 2026 03:21:29 +0000",
    "summary": "The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.",
    "full_text": ""
   },
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html",
    "published": "Thu, 17 Sep 2026 13:14:06 +0000",
    "summary": "Many countries blunted the most painful effects of the energy shock from the war in Iran. But prices remain elevated and risks are multiplying.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Trump Seeks ‘Made in U.S.A.’ Labels on Beef as Import Rule Angers Ranchers",
-   "url": "https://www.nytimes.com/2026/09/17/business/trump-administration-beef-import-labels.html",
-   "published": "Thu, 17 Sep 2026 18:23:43 +0000",
-   "summary": "The Agriculture Department hopes Americans will pay more for U.S. beef, in an attempt to appease ranchers upset over increased, cheaper imports.",
    "full_text": ""
   },
   {
@@ -244,6 +244,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFROaUxKT0xTODBaOWZaNkx1anVfanoxaFVwYm5QQnlNY1QwZXEyaEY3QnR6QmNDMHlJX3gwWU5WRWN6VmdjdkxLSmEyX3dZeW9pVmJ2d3lEeVlPWVFQeDNwa2V5bnE0b3h0OGRIWmdMTUw4aDQ5UUZHX192bmcwNTNUeEJIU2YySU8yM3FxX3lCTFlJX1Y3bHRrd3g4MS1nNk5LNkJEZmlWREk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 05:03:00 GMT",
+   "summary": "As Iran war grinds on, Trump to face skeptical world leaders at UN &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Why are world leaders at the UN next week and what will they talk about?",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZWxWOU16ZUF2MDh5UlVqc2pMM0d1WGFVSGJzdUl6aGZCZ09QeGFNX2pwTkdaNkRuaGJmUGtvUWRqZDlmMTdaZlA1V05WanlTQnlhRXJZQXlGTFE2bVhoT1lJYlZER3pkQ0EzcEdDLTNJVHVUd2RYU0VjUUNoWkplNDNrcGhtX1hrMUVpMG5vQkFKVjRJSkZuZHBGZ3NCbFN0YjJYYmN2aWt5Y0pIeXFZY2pQcWpOUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 17 Sep 2026 16:18:42 GMT",
@@ -268,14 +276,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "World Bank names Nobel laureate Michael Kremer as next chief economist",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdThDTW1ZcGpROC13NGNKcXZQUF9ka0JrbXpfeXljYUZ2NWtDMUR1clRIVzF5MW1WamlXMXZ3YWk2d0luZ0pKRG5VYTJ6cFZFZ25kelJOT2dmMGFtbDJRR2ZUNktWTkhqbUlqLXRXNnNLYzJRQS1lTFFtLVNhQ0w0QTFhMHYwdjBvYWpYUW93T0xKRUhqNEVQZWpDb2dFS0h6TkFKaGV0QVB0QXNUZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 11:39:51 GMT",
-   "summary": "World Bank names Nobel laureate Michael Kremer as next chief economist &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "World Bank boosts private capital mobilization to record $112 billion",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGdXc0RkTWlnd0x3a2xnX3M5RHoyZmdLbkZoTUUxZmR0SzJYV1VmRDNkaHJlSUtlTTBvOU5xeTc5cW5yOUVia1cteGhtVjVxcm02djJiVHhNc2hWR3hZLVJMOFRVR1NINDNWS1VqTzRTVEk2RnhYa0pvWVpxaFh3a0FldUcxcDBuVDRMVDcwMzE4Q202b1RkcG8zWElWZjBPUGVKN2VXdkNoVWlzLWI5am9RTVNrcG5uVUU5aTZR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 17 Sep 2026 11:12:09 GMT",
@@ -286,8 +286,16 @@
    "source": "reuters-world",
    "title": "India's Tata reappoints chairman, backs listing in rift with controlling charity",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FUc19DTEt4cXNLYUh4VW8wOXR4cm4wY3VvaVZlOERqQ1hmajFmSlZBQnIxb1Z0anZRSVpvYzJPd2hJd0J1dUFTSWhFclFxeV9mcVU2NzRITjg0VVBwSGg2dEN5TTNuZ2Jsam9kTFVtU2Q4RENtNzlSa2puY2dnRG56d1pwdGdpQjNmcEpRTkp1dW5mdDZpYTRKVmE3WGd4bm1KUDlod0V5V1JhVzV1eUg1Mlh6V0pjSFVZY1kxTmNWdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 15:59:16 GMT",
+   "published": "Thu, 17 Sep 2026 09:19:00 GMT",
    "summary": "India's Tata reappoints chairman, backs listing in rift with controlling charity &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "World Bank names Nobel laureate Michael Kremer as next chief economist",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdThDTW1ZcGpROC13NGNKcXZQUF9ka0JrbXpfeXljYUZ2NWtDMUR1clRIVzF5MW1WamlXMXZ3YWk2d0luZ0pKRG5VYTJ6cFZFZ25kelJOT2dmMGFtbDJRR2ZUNktWTkhqbUlqLXRXNnNLYzJRQS1lTFFtLVNhQ0w0QTFhMHYwdjBvYWpYUW93T0xKRUhqNEVQZWpDb2dFS0h6TkFKaGV0QVB0QXNUZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 11:39:51 GMT",
+   "summary": "World Bank names Nobel laureate Michael Kremer as next chief economist &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,26 +308,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaUE3YTRDUXE4UEcxSGc4VDdtb241MHBPMkhtWHk5a1Qzcm9vOTZuMmlpcUJqX2ZFTF9QU25FSnh2TW5IUWozX1FMSHZ1ck8xUUxEQzlkeUp2aU13VGZidkgxcEgtZlRteEM1OHZMV0V2bHl6b2J6dFJ4bHRfWkMzbjFhMHJvU2NveTNjU1ZaeU5oREtYcE83aC1pQXllekdjUWpzcnZmaDBqQUF0N282Zm10a3VxdVBS?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 12:37:25 GMT",
-   "summary": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei &nbsp;&nbsp; Reuters",
+   "title": "Italy readies navy to protect its shipping amid Bab el-Mandeb tensions",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjd5eUdBb21vZDMxbFF5MVpZMFd1aVp5R1IwTXhjMnNnai05THdVdmplaG02VDk1bDRaYUFtVUxxbFpvUWw2UF9hY2pYa3hINjMtbWFkN1lYbEsweEJLNzh5OExtNzVEaDFNVGdnSHVIWGwwZnY5SFdvZHRqV0VNS1RuSmQ0dDVWUE9GTEsxbWwtbEF2ZGZzNzluSW4tZFhaRkZIOTBuMVFJOTFLYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 17:03:16 GMT",
+   "summary": "Italy readies navy to protect its shipping amid Bab el-Mandeb tensions &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "WTO says global trade system at critical juncture, urges reform",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmg1ZWZveVZUdjBlNWIxZXZ3Ylo2Tm45cVlBelNVQUpwQjhsUDFHQmYyYUhVZFU2c3hIYWxmNjZ0NzZpdHRzcThZOGkwU1lmSFZfZHc5TlNlcms4NUhPRWRKbXpUbjBrSVRHX2dab3ozQTlWUF9Ka0FLSGlnUzZMOXFjR3Z1akRVQ1NUNEZkTVZCbG9lMUtVNXhDMFlmLUo4aWlKTGhtaW1lTUlo?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 15 Sep 2026 09:49:39 GMT",
-   "summary": "WTO says global trade system at critical juncture, urges reform &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnJncHUxLTNvV25NTHFxQzVwcnljdzdsTkJCNFNjSlJybF95bFBhcW9DTWV1dnlYQ0prMkI0SmdnNjBrdXNLV0ZNM1pQNW1FcUxuaWpqd3NnRXJ6U2lkQWFqQlR0UVE2X3lYU0RXNXlBdno3QkRkSzB2SEwxUzdYV2NZWlc3SGhZdGRMbUFCVDJZeXZsTy0zOHF4R013c2xyMl8zNmVkaHlFOXM1MmtuZHJRREI3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 12:02:00 GMT",
+   "summary": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "US drops Venezuela from drug list, may remove Colombia, Trump says",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzBFQjlMc0t3MjVGM1NXVFhVQTNicy1uRVpjTzZNT19aNlRJVU0zbjVjOEtZSl8xQVNVOEhEcGJMUTFSR3JncXdjd050cnc0Z0xyeHg0MGpJdkhIcDd2aFdqemJSMWVNOURxcGFjSFBnS2xSU1NDVVg5eHVjQ3B1UnZiV2RGUG13dzIyWnM3a01HbXVnM1VsVi1FZjM3Z1RlZUo3SzlwZ3V5bDJNeEdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 18:10:11 GMT",
-   "summary": "US drops Venezuela from drug list, may remove Colombia, Trump says &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "Nestle weighing all options after Kremlin moves to seize Russia business",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVlPeFV6MGxJSDN5b2VWcENqbmN1bFhNaDFaUEE4ZjJYa1ZsQW9kRGE3Q2dWc3FfdVVjc0pyUWEtejhyX0tvbE8xWHRGTEo0ZXJmV20zSllEdmpDdlFuMnRCRndzM2tDZXNSanZleG85c252aWk3SW1IRl9maXJZT24zWlNFSTRlX2tyRmpJU0VNdTdZU2hvaTBZOXFzdWxoOTFHUTZScHFLVGxCUE1mdHZwMXhMdFRrMnF2RGJGblExQm5ILXR6cS0tLVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 05:12:00 GMT",
+   "summary": "Nestle weighing all options after Kremlin moves to seize Russia business &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,6 +340,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "EXCLUSIVE: China's Xpeng plans to offer tech solutions to foreign automakers",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUg5aEtYWWF3eEliaUx4WVVhOHg1WVZvYTh0ZUEtOTNGSE9WMjVfdUVMSmNJejN3LW9NWEJUc3FnRWpjZnBEd3F2ZHZQV3MzclA5QnJiaVlzRmNJUmFDRDZrZ0tlWHdMX3F6VTU3NDFXTlBackliMW96QXhyTHBya3VxMXd1TzhPdUE3Znk1bklSUkJpQ3cyeEtlSDkwQnY0bEVsUk9Ia2xfUExRcEJ1LWhLbjFCS3NoR0xhVURzVzBpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 14:04:18 GMT",
+   "summary": "EXCLUSIVE: China's Xpeng plans to offer tech solutions to foreign automakers &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "In Silicon Valley, AI data center boom meets local resistance",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS083TTN6VWhFczdsMTRsUHA4cXFVdXBxaGE4YjJSeXVQbnhVZUxjdUszX29LaWJDS0Yyc3Npc25OMjRHRTlKbWtPNXNLRHAxWWZVLWZzbktOVWp4RDcwcVhLblYtWWVPLWw3SGZqVXVFR3JCRmZPY0pqVTdCaUZNbGkwY2xfSkVqX01rM3RCNElodEFOWWJzUmlCTVFOcDk3RlZIcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 17 Sep 2026 10:05:00 GMT",
@@ -340,26 +356,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "US FCC approves foreign investment in Paramount Warner merger",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQjM3QlBOWXB4QTVENzM0NmNfRV92bHM4Q2UwUlEwbHZTcnVKbEVEcWs5RkVYckcwb2pyT00xUHJQNE5lbVVCVGFNMXU1UVdVUWxFX0M5TVhmcW1PUFdBQ2pvbnd0WnFPTmZCZWNtdHRTSktCSEx1U21TNnpqYTB6QVFva3NkdUNPeXBQcmdaWWtLZnJ0Z0IzVno3U1VGOTEtSFNENmdkYmpTM0syX3dTeHFGYnVPS3ZCTW5hLVFhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 23:49:29 GMT",
-   "summary": "US FCC approves foreign investment in Paramount Warner merger &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Shell-led LNG Canada could approve Phase 2 expansion by early October, sources say",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSE9zbk1KbEYyWkswNThSN3lRd0xZR3pIVEdYTDkzVHpwM1ZXY2J5TldpdmtJMEU3RUhjM3hFd05XU05NLWFOTEY0MHdHSFJkRVF2Y1hTN29lLVRsTjVlb2NFOEVIbDdneXBIb3dzalFVSE0zdXA1NkdrWTVqN2VkSkJndk1MTkxNQTFNcDVzNGZuOWstU00td0gteV8tRk9RRjc3RjB3WmF6LUJNNFpfZW13WFJadFRXN1FRU0VwV1hoSloxZ2p6ag?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 17 Sep 2026 20:08:50 GMT",
    "summary": "Shell-led LNG Canada could approve Phase 2 expansion by early October, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Generac, Amazon strike $2.4 billion long-term generator supply deal",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWVjMEJfNUZjNEtwWVNnNk9GRVNxcnI1RjZETG5OWGJZbkpHbkxlSGpWbWVCMWVhbUtZYTlkSmpIZWZ4ZjV6Zkc1QmNfcVJRejJNQlpxNTgzMm82NUlIZFVKRXk5bVVJMXl5YS0wVDhEdUJPOVR4X2xLV3k2SVFfTzltU2ZPeHhnN0JHU1RkVGpmM0NwYkpBeFl4Q0M2bzd4S21YMHZjb3VMNzExckUtR1dsUzhxaXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 16 Sep 2026 22:34:09 GMT",
-   "summary": "Generac, Amazon strike $2.4 billion long-term generator supply deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -396,26 +396,42 @@
   },
   {
    "source": "reuters-business",
-   "title": "Ocean container shipping rates could test record highs as Iran war fuel spike drives rise, analysts say",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGltbnJEV1l0NXJDNFMxbFBtMUpYQkJWSGFlU2FRaHpNZ0xzNHhDSVJDbWt2Zy13YUNwZEJySUZUWHFEQi1XczZHWlI2dmZNMHZUTHVrR2tJUWpIanZtUFlXVTJEaXFIZTdGWDdQandreldIUm1URGRFZGxuVXhYX1FRcm8teGdSRmpGR1I4QnJ4SGJ6bF9UaGFGdXRadGZlY3o0TDItMm1ac0M4RTZsY2dkY3BQUUgzbzdycktRbmpjTDJy?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 20:49:44 GMT",
-   "summary": "Ocean container shipping rates could test record highs as Iran war fuel spike drives rise, analysts say &nbsp;&nbsp; Reuters",
+   "title": "FAA waives emissions rules to let Boeing sell 35 additional 777F freighters",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeTQ4a2JORTVZMVR1UjdwZXpsc1hvYWZqbk90aWtUc3pVRVNfbHFlbWkxLTRheTNKVkl2REdGalZvLWVVRlhJUHZfWElGT2poY3JjRW41QmwwWHVaT0RsdDNoZTZkdGM1eDJyczlIenNQNk5qSXZxWWVIU2JpX0FKQVNhbXRxWHNVVmJXVUx0U1hfLUUxTUtyRnJoNTViMjRZVXJBSWlZNWc1T0hsTWs2Ul95akxuMEdiS1hjVDlQRFNYNDNzS0Z0MzNjMVpLOEU5Y1lUdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 18:21:00 GMT",
+   "summary": "FAA waives emissions rules to let Boeing sell 35 additional 777F freighters &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Bank of Japan set to raise interest rates to 31-year high",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 22:04:00 GMT",
-   "summary": "Bank of Japan set to raise interest rates to 31-year high &nbsp;&nbsp; Reuters",
+   "title": "Stocks rise, yen weakens as BOJ split-vote hike tempers hawkish wagers",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 01:32:00 GMT",
+   "summary": "Stocks rise, yen weakens as BOJ split-vote hike tempers hawkish wagers &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Turkey steps in to support markets after fund liquidity crunch sparks selloff",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTi0wZUhFaDF1M2xqZ1llb2xMRUdwV1ZzcTFXLWlJenctU2FOTUVNVlZMZmNCejN5VWw3ckFlelFkalYybU1jTUJkNVByUVREZnFxSzhQUE5UUThWbGZTU240bjIzQTdPZGJ0M3ZWNUgxTEgxMjUyM0toMXFtREh2cTUwZVZmeFAxWmd2ek44bTktaDJDX0h3SEJDQ1pkal9WZGxkYXNTeUctMGRIajRydE9tU0FibmxNcmZQdmNZaE5TUlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 15:25:44 GMT",
-   "summary": "Turkey steps in to support markets after fund liquidity crunch sparks selloff &nbsp;&nbsp; Reuters",
+   "title": "Oil prices fall 2% on hopes of limited Saudi supply disruptions",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 01:01:00 GMT",
+   "summary": "Oil prices fall 2% on hopes of limited Saudi supply disruptions &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Yen slumps after BOJ hikes rates as expected",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZWMHVPOWZ5RDBIc2NmX2tmcE5pODNpeGhnaGJhZ0RrVkRtVTVud1FUY2NhNkttREN4QjNtTlZRTGtPNTFZVUIzWm1XNU5xNEdqTnNILXhybG1oMXVJV3N6YmxpRjFIX01sZWVEQ2xiRW1weUpEWjFfU1NCOXZuU0Vjc2xtMGpacjFGZ2ZZLXpnN1R3YWphMDcta0VyYjEyYU40?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 00:59:00 GMT",
+   "summary": "Yen slumps after BOJ hikes rates as expected &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Morning Bid: BOJ struggling to keep pace with hiking partners",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakZLbGZmdjl3dUNLNGhNZGh1djY5SUpOUHMwZnJXQXJlTFBiRGNVdG5VUVhtZU55RmFaNDNSZ3lBZ1hHLWRVZC1Hcjh6M3pJVFIzZmVTYXRwRlM0S08yUFBKeHVIX0NBenpoN0dmb00tR0kwYjFHLWctVlRRNnBvX25xdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 04:31:00 GMT",
+   "summary": "Morning Bid: BOJ struggling to keep pace with hiking partners &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,26 +444,26 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 22:43:46 GMT",
-   "summary": "Tech leads Wall St to higher close as oil eases, Treasury yields dip &nbsp;&nbsp; Reuters",
+   "title": "Turkey steps in to support markets after fund liquidity crunch sparks selloff",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTi0wZUhFaDF1M2xqZ1llb2xMRUdwV1ZzcTFXLWlJenctU2FOTUVNVlZMZmNCejN5VWw3ckFlelFkalYybU1jTUJkNVByUVREZnFxSzhQUE5UUThWbGZTU240bjIzQTdPZGJ0M3ZWNUgxTEgxMjUyM0toMXFtREh2cTUwZVZmeFAxWmd2ek44bTktaDJDX0h3SEJDQ1pkal9WZGxkYXNTeUctMGRIajRydE9tU0FibmxNcmZQdmNZaE5TUlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 15:25:44 GMT",
+   "summary": "Turkey steps in to support markets after fund liquidity crunch sparks selloff &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "US labor market on solid footing; rising mortgages pressuring housing sector",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZl9MV2lRQVlhSGNPcS1Db0RCY05rTnJtS3VENVN2RjNvLUp4eW8yMWxVbFN2T003WUFITzZsVWJMa054RXVNSUxfdnBmRmdOWUg5dF8xWlViQWJGY2pVSjBKNV84RF9rRGRSWXRtZWt2NmJsX0xYek5SaTlBdEFSRk5WQ3l3bGJPTllKM0dlMmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 17:08:47 GMT",
-   "summary": "US labor market on solid footing; rising mortgages pressuring housing sector &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDdHMkRvSFM5SktjY0E1SGZhVk1nMDc3Zm41eTdvT3MxVjRkRVRVc2YtRGV3OGNlVE0yei1rMUs2UGRwOTVtVllQTVlDdXp0akY1cGJfby1XR3lLQnpYRW53Q0NoTWc5UUlySEtJSGhCRlBtZVhERnZudlN1YTBScUZZdmdJSy04UkxvVVozWmFDUlJWUFlWVkIwZ3FkM1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 05:31:00 GMT",
+   "summary": "EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "COMMENTARY: Morning Bid: A timely hike",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjB2N2d5cFYtX1dUM3kxS19zUm1qM3FOX3NOSEpFeXMtODgxT1JIS2RCUk9HTXc2WlFROENiMXlpdGJISzB6NDNaa1pRUzAybmVrQ0dibWVWLVhHclZZVUlpNTZFRDUtemdvN3dqWU44TXdkNXNMLWxrWDQySFNyMUJtZXJFQmU1UjM3VE9veUtwdlBOZEE4?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 12:30:50 GMT",
-   "summary": "COMMENTARY: Morning Bid: A timely hike &nbsp;&nbsp; Reuters",
+   "title": "India's Tata Group firms shed $3.2 billion in market value amid holding company rift",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEttOWpoeVczdXB3dE1nam9wZDFEUVlneXd6SzZ2djFTaGlhVWJVOGVhaVkyTFZveFZ5c2xHNjNmWWV6YzBUaFM1ODBUUUxpdXZiU0NVZTBWN0Q1MzRjNWhlY253aWVWQTd0QWNqVHB3RkFXamI3NU9lM05pRnEzMnZDRlY2RUFVNzNyWlc4R3RtVEhBb3o5UkZINWdvWHlldVNiZXR4ZjJsb0xhS1duQ1JibGJ5UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 04:03:00 GMT",
+   "summary": "India's Tata Group firms shed $3.2 billion in market value amid holding company rift &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -459,11 +475,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQxa3d0cG05Tmpfck4tZm5ZLTRLMUQ1bzRpVUNlbDg0ZDlNemp5d0hPbDVkcjBJdENvbFdldlA3a0h1VkZfOUt2NUE5eVNSaHlMbWZLUTBhNGZoOWEzNDZ6QVFYR095Wmt1dndTak1SaDJHbXBTZzdwWWlmZW16MjBRV3ZTanNaQm00M1VxdXE2OE5JUkdKczBSWTNVNkpJQzl6dTlXaGtHRXNWS21z?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 16:29:04 GMT",
-   "summary": "Bank of England shifts tone toward rate hikes as inflation set to top 4% &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "EXCLUSIVE: China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXhCUnlwalg0dVppb2Y3dDVQNUFsUUlsLTZ2c2NJckZ2UjBxWXE0TC1QdFRSY0Q3VFA4QWctMzZSMHd6NFQ4Q1pDTy1UZTlVNE12ZGlmMGpFdXkzMXMxOWV4UWE0Z1REeHRMNzQ1NkFmd1hmQWc5d3FWdTUzYWM4ejhZc2IwSXprb3gtZzJxWmpTVFA4ZlFTSGhDN3J1ZWl1dWJVNkxVRVVTVkFjTS1LQXg2Y0RJZ1JTSms1VzJ4enppek4xMWFYRUxjMzA3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 05:23:00 GMT",
+   "summary": "EXCLUSIVE: China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -484,18 +500,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "EXCLUSIVE: China's Xpeng plans to offer tech solutions to foreign automakers",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUg5aEtYWWF3eEliaUx4WVVhOHg1WVZvYTh0ZUEtOTNGSE9WMjVfdUVMSmNJejN3LW9NWEJUc3FnRWpjZnBEd3F2ZHZQV3MzclA5QnJiaVlzRmNJUmFDRDZrZ0tlWHdMX3F6VTU3NDFXTlBackliMW96QXhyTHBya3VxMXd1TzhPdUE3Znk1bklSUkJpQ3cyeEtlSDkwQnY0bEVsUk9Ia2xfUExRcEJ1LWhLbjFCS3NoR0xhVURzVzBpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 14:04:18 GMT",
-   "summary": "EXCLUSIVE: China's Xpeng plans to offer tech solutions to foreign automakers &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Amazon, Walmart chatbots attract senator ire over 'made in USA' label snags",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVhVemI2Mk5zY01IWVFSeEk0RXF6b2JfMk1DOFItS1hSRU9wNXZ0SWQzdks4cmlZTUlnMXM0Sk1GcTItWThPZU9PVFRhUHRWQmhPZ29ZajJQaUU0czliNl9RQTExZFNfbTlBMGlsZ3lrbXk0NFdGYklONENZRDl6dmU4NkVrX3R3dHpOSUkyaTRSM2ZNRjJ4WDZZRzhqejNkSXItZDVDSC04N2pEV2o2LXphWTE1UFZ6cmRvSG12VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 18:07:55 GMT",
-   "summary": "Amazon, Walmart chatbots attract senator ire over 'made in USA' label snags &nbsp;&nbsp; Reuters",
+   "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaklBa3l0bXpJRlZHYW5ZUnM4d0tTRWczT1F1MTByOXk5UFBZYmdHaGFhN1d2VUY3OThBLThkTUxpOGJOQTVadzJEazBvSlNzdm0wTURBaFhyUWh1ZVdScmJWZ3p3NUZSVzBCWkt2UEpxUEJjaUxaN2U2dnFpT1E3Njc3MWRsWFpaZTZjekdlN0tUY1pudndlX081Z3k5VlVnLUVvQlVMQXNiS3RCbXVrbVlRWEQ0Q0ltdkduZC1hbGxUR28?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 22:12:00 GMT",
+   "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,26 +516,26 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlc0aEIyZmgxVURSZXZnVWNic05GQW9SVmI1Y1JvbGVtYzR6RmFvMTFKUTBFNWNOaENqckFIdjY3NXh2dWNkZF9UUUY3VXpNbEVPYnZhZnk0N2kwWFNfWS1lNzlEdXNvTlkzRXFmM1dpTHMyOG9GTVdwZ3FkZGt1UXUwUklrWEtaeUdSdVR0WWxCTHdYNi00WFVKbmZRMWJXRFhDblNNM01HQXpGVHVrVFhUUlpHUDRiT1pVbHMyVlc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 14:33:55 GMT",
-   "summary": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards &nbsp;&nbsp; Reuters",
+   "title": "Amazon, Walmart chatbots attract senator ire over 'made in USA' label snags",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVhVemI2Mk5zY01IWVFSeEk0RXF6b2JfMk1DOFItS1hSRU9wNXZ0SWQzdks4cmlZTUlnMXM0Sk1GcTItWThPZU9PVFRhUHRWQmhPZ29ZajJQaUU0czliNl9RQTExZFNfbTlBMGlsZ3lrbXk0NFdGYklONENZRDl6dmU4NkVrX3R3dHpOSUkyaTRSM2ZNRjJ4WDZZRzhqejNkSXItZDVDSC04N2pEV2o2LXphWTE1UFZ6cmRvSG12VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 18:07:55 GMT",
+   "summary": "Amazon, Walmart chatbots attract senator ire over 'made in USA' label snags &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Lucid, Bolt team up to deploy 25,000 robotaxis across Europe",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFZvU25USG1CMktfaF92MmRSX1FTNmRhNnB2UHlzX25zODBaSUdiaURLaG1jWm9DX3JuRjlLQzNnb3A5aWJ0NHdvT3VvVHQ4NFZUc1NHQmk5d2NIYjJZemYxWGZUUzdYRkJEUHVxYndITEItaFQ5WVZrNFVSNmhIbGpWeER3S045WDBDZWlseUxMZW95bElHRlVuZDBtQXRkdjllRg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 12:29:39 GMT",
-   "summary": "Lucid, Bolt team up to deploy 25,000 robotaxis across Europe &nbsp;&nbsp; Reuters",
+   "title": "Nebius hikes AI cloud prices again as demand for computing power soars",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWxwOEZoX3psWkpROUJ4M0d0YW52N1BxdWZId0hsN3hfQ2hWMWJtRmZpWHdHd0dITUZGWGk3YWh3SW5MY2pwdXVTdmh2SXVscndoNkNhME1TMWNhR0VBUlM2ejFkZHktMXJNVFhMWGdGU0JIc1hYbU44WlREbzB3eHR0LW4ySVlnQ0JJbU5iZ1NiVWNMU09IZW1ZTW5JZWkwMTg4TkNVQUVkOTJMWF9Z?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 16:17:01 GMT",
+   "summary": "Nebius hikes AI cloud prices again as demand for computing power soars &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "EU Commission proposes under-13s social media ban",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTVvWFhsNXV6V19jalZ3WkNuSndKa1RSS2xrVVJZM3gwa0JuLVEtNFk2Vk9MbTR0Uk90YnR0ZGFFR2lrMldvUTNuMk5fcnJ1THlnY2RIQTZnVFRodVhOSmloMnBGWERUVDJ2djU3enpFOTBUZ1EtWUxPSFo2Mk03cnFRR0Y0M2hvMGV6T0UwY0ROYUNiWW1NbHpMek9teUot?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 15:39:46 GMT",
-   "summary": "EU Commission proposes under-13s social media ban &nbsp;&nbsp; Reuters",
+   "title": "CoreWeave launches $3 billion convertible debt sale",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUExQ2tjRWZ0eXU4cGlmZndwcmtiTXJvX0RKYzB1c0FUTHVQTlB2ZlNVMWZVMHdFTFZCVFhqQ2ZfUFZlcUQ4WnJFeV9zMWJRYXN1NjkwcWIwWlVsVGgwMklTdWF1c0FKWGxmRGZMbmtBZ1Q0OThYZ1h1ZkM1WW0zOHpfOXdwSDc2cmFTazR4cTZabG9QTUh5TnZaNmtnZTBEcWtaMWZ2eUVtUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 14:58:07 GMT",
+   "summary": "CoreWeave launches $3 billion convertible debt sale &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
