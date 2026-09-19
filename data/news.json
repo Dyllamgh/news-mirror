@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-19T16:59:17Z",
- "count": 67,
+ "generated_at": "2026-09-19T19:52:28Z",
+ "count": 68,
  "items": [
   {
    "source": "nyt-world",
@@ -28,10 +28,10 @@
   },
   {
    "source": "nyt-world",
-   "title": "Reported Explosions Put Saudi Capital on Edge Amid Conflict With Houthis",
+   "title": "In Significant Escalation, Houthis Claim Attacks on Saudi Capital",
    "url": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
-   "published": "Sat, 19 Sep 2026 13:36:13 +0000",
-   "summary": "The Saudi authorities issued emergency alerts as several booms rattled parts of Riyadh, and local flights were disrupted. The cause of the blasts was not immediately clear.",
+   "published": "Sat, 19 Sep 2026 19:20:17 +0000",
+   "summary": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, where residents reported explosions, and on Saudi oil facilities. Saudi Arabia has not commented on the claims.",
    "full_text": ""
   },
   {
@@ -62,7 +62,7 @@
    "source": "nyt-world",
    "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
    "url": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html",
-   "published": "Sat, 19 Sep 2026 09:23:29 +0000",
+   "published": "Sat, 19 Sep 2026 18:35:14 +0000",
    "summary": "President Trump signed the legislation, named for Senator Lindsey Graham, at the White House, but he has broad leeway to waive its requirements.",
    "full_text": ""
   },
@@ -70,7 +70,7 @@
    "source": "nyt-world",
    "title": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
    "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
-   "published": "Sat, 19 Sep 2026 04:01:11 +0000",
+   "published": "Sat, 19 Sep 2026 04:01:12 +0000",
    "summary": "The young government of Nepal, a nation with a tiny carbon footprint, is seeking reparations from the world’s major economies as it bears the brunt of collapsing Himalayan glaciers.",
    "full_text": ""
   },
@@ -78,16 +78,40 @@
    "source": "nyt-world",
    "title": "Millionaire Activist James Chambers Seeks Asylum in Spain",
    "url": "https://www.nytimes.com/2026/09/19/world/europe/spain-chambers-asylum-us-extradition.html",
-   "published": "Sat, 19 Sep 2026 09:03:11 +0000",
+   "published": "Sat, 19 Sep 2026 09:03:12 +0000",
    "summary": "Jailed in Madrid on an extradition request from the United States that his lawyer says is tied to pro-Palestinian activism, James Chambers fears persecution if returned.",
    "full_text": ""
   },
   {
    "source": "nyt-business",
-   "title": "CNN, MS NOW and Politico Barred From White House After Trump Announces Ban",
+   "title": "Converse Removes Ad That Drew Comparisons to K.K.K. Imagery",
+   "url": "https://www.nytimes.com/2026/09/19/business/converse-sneaker-ad-kkk.html",
+   "published": "Sat, 19 Sep 2026 19:41:21 +0000",
+   "summary": "“This should not have happened and we will do better,” said Converse, which apologized for the ad. Critics said it depicted a Ku Klux Klan robe and a lynching.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Here’s the latest.",
+   "url": "https://www.nytimes.com/live/2026/09/19/business/trump-white-house-press-ban/heres-the-latest",
+   "published": "Sat, 19 Sep 2026 19:26:42 +0000",
+   "summary": "The prohibition on certain journalists was a major escalation in President Trump’s war on the media, and will probably face a legal challenge.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
+   "url": "https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html",
+   "published": "Sat, 19 Sep 2026 18:58:53 +0000",
+   "summary": "India is trying to secure affordable energy while preserving a crucial relationship with Washington, a balancing act made harder by turmoil in global energy markets.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "CNN, MS NOW and Politico Barred From White House After Trump’s Ban",
    "url": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
-   "published": "Sat, 19 Sep 2026 15:06:33 +0000",
-   "summary": "The prohibition on certain journalists was a stark escalation in President Trump’s war on the media, and will probably face a legal challenge.",
+   "published": "Sat, 19 Sep 2026 19:43:56 +0000",
+   "summary": "The prohibition on certain journalists was a major escalation in President Trump’s war on the media, and will probably face a legal challenge.",
    "full_text": ""
   },
   {
@@ -134,32 +158,8 @@
    "source": "nyt-business",
    "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
    "url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-   "published": "Sat, 19 Sep 2026 00:23:01 +0000",
+   "published": "Sat, 19 Sep 2026 00:23:02 +0000",
    "summary": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
-   "url": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
-   "published": "Sat, 19 Sep 2026 00:31:59 +0000",
-   "summary": "The president cited reporting from the outlets that he deemed “fake news.” It was unclear how such a ban would be enforced or defended in court.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Uber to Pay $40 Million to Parents of Woman Fatally Hit by Car",
-   "url": "https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html",
-   "published": "Fri, 18 Sep 2026 18:47:54 +0000",
-   "summary": "Emily Normandin-Parker, 23, was struck and killed on a California freeway after an Uber driver ordered her and a friend out of his car in August 2023.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "S.E.C. Seeks to End Shareholder Proposals Process Commonly Used by Activists",
-   "url": "https://www.nytimes.com/2026/09/18/business/sec-shareholder-proposals-activists.html",
-   "published": "Fri, 18 Sep 2026 17:58:48 +0000",
-   "summary": "Activists have often used the rule to push for changes in companies’ governance and environmental and social policies.",
    "full_text": ""
   },
   {
@@ -190,8 +190,16 @@
    "source": "nyt-technology",
    "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
    "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
-   "published": "Sat, 19 Sep 2026 00:31:38 +0000",
+   "published": "Sat, 19 Sep 2026 00:31:39 +0000",
    "summary": "A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Uber to Pay $40 Million to Parents of Woman Fatally Hit by Car",
+   "url": "https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html",
+   "published": "Fri, 18 Sep 2026 18:47:54 +0000",
+   "summary": "Emily Normandin-Parker, 23, was struck and killed on a California freeway after an Uber driver ordered her and a friend out of his car in August 2023.",
    "full_text": ""
   },
   {
@@ -230,7 +238,7 @@
    "source": "reuters-world",
    "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFROaUxKT0xTODBaOWZaNkx1anVfanoxaFVwYm5QQnlNY1QwZXEyaEY3QnR6QmNDMHlJX3gwWU5WRWN6VmdjdkxLSmEyX3dZeW9pVmJ2d3lEeVlPWVFQeDNwa2V5bnE0b3h0OGRIWmdMTUw4aDQ5UUZHX192bmcwNTNUeEJIU2YySU8yM3FxX3lCTFlJX1Y3bHRrd3g4MS1nNk5LNkJEZmlWREk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 05:03:00 GMT",
+   "published": "Fri, 18 Sep 2026 05:11:40 GMT",
    "summary": "As Iran war grinds on, Trump to face skeptical world leaders at UN &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -254,7 +262,7 @@
    "source": "reuters-world",
    "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnJncHUxLTNvV25NTHFxQzVwcnljdzdsTkJCNFNjSlJybF95bFBhcW9DTWV1dnlYQ0prMkI0SmdnNjBrdXNLV0ZNM1pQNW1FcUxuaWpqd3NnRXJ6U2lkQWFqQlR0UVE2X3lYU0RXNXlBdno3QkRkSzB2SEwxUzdYV2NZWlc3SGhZdGRMbUFCVDJZeXZsTy0zOHF4R013c2xyMl8zNmVkaHlFOXM1MmtuZHJRREI3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 12:02:00 GMT",
+   "published": "Fri, 18 Sep 2026 03:53:17 GMT",
    "summary": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -324,18 +332,26 @@
   },
   {
    "source": "reuters-business",
+   "title": "Porsche could face another 4,000 job cuts, Handelsblatt reports",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY3k3ZTJIT1kwS0JvVlM4eGc5QVV3TmhlNDFSMW85TlhDYTFqSTdYWFhPTl84QjUwVTNQaEgtNExRWnVtRklmeUdDLVlmc2JacTlWSGpseDAxbVo1VWU3MkpZd0UzWkJmdE9KQkhkQjFZWC1YbGlRMC1zTkQ3REtNOUVva092RFZUc2RWdERpRVVLOURZcFpsbXVDZEJCMDFtTTJNbzBOYWExZXpQU3lmMlREOTJlMUVFd090NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 19 Sep 2026 11:46:24 GMT",
+   "summary": "Porsche could face another 4,000 job cuts, Handelsblatt reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 19 Sep 2026 00:05:00 GMT",
+   "published": "Sat, 19 Sep 2026 11:37:05 GMT",
    "summary": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVORmo3eC1SRjlfVnVWMWw5aXlPb01wMk5vSlI2NU1ZenFHdHRRXzhQQTJ2T2RhQkV4QlZQOGc0ajRhLXctMDNaRWZfaEk4bmhzSG9kdXpKcmR2NGI5M2Z1Wnl5alNjUnA0Ym1ZSlhxMU51alhzcGdaUS1fV3FZT1FDb1MxYlJtUWU5VnZ2S0FNU25WRzRlLWtlMlBCaEZVRHhZN0NqdzNGUUxKdTJIOVNmUFhMNlg0SC1sOW12eFNfakFl?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 11:40:42 GMT",
-   "summary": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say &nbsp;&nbsp; Reuters",
+   "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1ltbFppd1NjUUhaSTZ4TUs2bzFNY0lfaTd5bG5mVmw1X3NiV2lsWTNJQ0pyUWJ0SHhOZjBmd0x4b0pMOWlpSDd2VGEweDFTTnU4YW1QTFJhNG00ZXFUSHN1OENaeVFaWXZwbTlsTEI4RGphekZtRTIzclZ1ak5wcXhDU05TX1VHVFBJUnBUQVZmZjhjTHFqNXNqREhGajRFZ3lsaW5tWmxrSWNzNWNhR1ZVbkZ2S2ppRkFlWXlKOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 22:38:11 GMT",
+   "summary": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,18 +364,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "US factory production falls in August; outlook clouded by rising costs",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekwzelo0S3RpaVZiQXFlQmZPSDVVSXNUMXo2N1JjTW1oTHUzbU1FZVljOHlZZ0R1WlRUdUVnWkFaTUJlTFZUQ3FaYVlxbHR0UEVQTXVlUk8wU05MSEtQbDFKbEVxY1lXUGZxR3VoVFkyTFNqZU93MUViajNyZm5sbDNUQVlBRHVMdzFncWJzcUI2Tkg4RFdHVUZsTlBwaXlQd0MtRHlvNy1PTkR0YmtBLTdCOUxIUmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 16:05:12 GMT",
-   "summary": "US factory production falls in August; outlook clouded by rising costs &nbsp;&nbsp; Reuters",
+   "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMl9oZE1jdTY1X182U1NIUDkxdEVqa3k5TUM0UGw2M0VRQnpURWlSRzRkakpzTUFQSFZKNF9iOWZZNkZUTFBsazlYSVBMZ1VGemM3SV9fRk9lMXpDbVljaF9tQy1hLWJVVXF6THktLS1hZjV3SFA3VTh3bEdGR2FxS013a1lKUWo1dlVab0lOczNYU0ZGV0RQdHZhdG1BRW5zX2ZWQkw4T285SDhjOUlocnVncDFHdkJnNlFjSEZhbnY2U0dkc3I4dzJ5cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 19 Sep 2026 17:24:05 GMT",
+   "summary": "Canada optimistic about concluding trade talks with India by year-end, minister says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2dvaUVUUnduTlNRc0hqNUdBaTRDMEkwa1pGdzFWdTZsOFQxU2tjS2pSVnlxdXNUcjhFS2RFQUVpX2tRdnJKUU1vd1ZISkZGX3Y4OWhIUk9Lb0RmNTdHeC1vZnpGT1lWeWFfV2NTeFFWbFI4UGRFMW96S3AxSmxVWDB1NEE5bUNJUXQyWFBKTmU0LUozbXkzZnNoODhaYlZDYUs4Z0dxR3ltX1VE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 16:06:12 GMT",
-   "summary": "France's EDF plans 10 small nuclear plants in Europe by 2035 &nbsp;&nbsp; Reuters",
+   "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVORmo3eC1SRjlfVnVWMWw5aXlPb01wMk5vSlI2NU1ZenFHdHRRXzhQQTJ2T2RhQkV4QlZQOGc0ajRhLXctMDNaRWZfaEk4bmhzSG9kdXpKcmR2NGI5M2Z1Wnl5alNjUnA0Ym1ZSlhxMU51alhzcGdaUS1fV3FZT1FDb1MxYlJtUWU5VnZ2S0FNU25WRzRlLWtlMlBCaEZVRHhZN0NqdzNGUUxKdTJIOVNmUFhMNlg0SC1sOW12eFNfakFl?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 11:40:42 GMT",
+   "summary": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -368,14 +384,6 @@
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVlPeFV6MGxJSDN5b2VWcENqbmN1bFhNaDFaUEE4ZjJYa1ZsQW9kRGE3Q2dWc3FfdVVjc0pyUWEtejhyX0tvbE8xWHRGTEo0ZXJmV20zSllEdmpDdlFuMnRCRndzM2tDZXNSanZleG85c252aWk3SW1IRl9maXJZT24zWlNFSTRlX2tyRmpJU0VNdTdZU2hvaTBZOXFzdWxoOTFHUTZScHFLVGxCUE1mdHZwMXhMdFRrMnF2RGJGblExQm5ILXR6cS0tLVk?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 18 Sep 2026 05:12:00 GMT",
    "summary": "Russia says Nestle, Auchan asset seizures are payback for hostile actions by Europe &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnVndzQ3SmZYYlFqRkN3QnJteXljZTAzdW9uckxBSDZpRGtPTTFtSGhDZ2J4SWstN2NEd3pQYkxSNUpfSFpJQkgtUjhZRlhNZzFHbHZtQUREaGdqUnFURkxXLXRiWHh6Z3ppaGh0UlRFSmkwR0wzQ2taLW94bnNPM2pLdEQzWnk0NzR1R2FRc29JSnlEU2pZQ0hZVkFMMm1VR3ZHRy1scHN3Yy1SSjVxZHhfY2NsOHAxb0JDWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 11:26:09 GMT",
-   "summary": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,10 +420,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Global equity fund outflows hit nine-month high on inflation fears",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkF4ekljMmF4bDRiM09NaTQySFROSi05T1QzemVVcTZad0dQWVBxb05RVFdNUnREbC04dG9IZVczWkEtNm5vdEdHOWhwZ1ZQQ1RSdmJ2SFhMeHlZRDFqd0RkWHNRLVBYaUIyTWhZZVVkQzl4b1BnSndNMExneUdJcDRkU21qX0k?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 10:29:08 GMT",
-   "summary": "Global equity fund outflows hit nine-month high on inflation fears &nbsp;&nbsp; Reuters",
+   "title": "Global shares edge higher as central banks double down on inflation fight",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 01:32:00 GMT",
+   "summary": "Global shares edge higher as central banks double down on inflation fight &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,10 +436,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Global shares edge higher as central banks double down on inflation fight",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 01:32:00 GMT",
-   "summary": "Global shares edge higher as central banks double down on inflation fight &nbsp;&nbsp; Reuters",
+   "title": "Global equity fund outflows hit nine-month high on inflation fears",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkF4ekljMmF4bDRiM09NaTQySFROSi05T1QzemVVcTZad0dQWVBxb05RVFdNUnREbC04dG9IZVczWkEtNm5vdEdHOWhwZ1ZQQ1RSdmJ2SFhMeHlZRDFqd0RkWHNRLVBYaUIyTWhZZVVkQzl4b1BnSndNMExneUdJcDRkU21qX0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 10:29:08 GMT",
+   "summary": "Global equity fund outflows hit nine-month high on inflation fears &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,14 +476,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "AI startup Mantic raises $25 million for superhuman forecasting",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEZvcUNwMGMybUpVdVRTQlZFU2FQajB4dWY4NGFDQV9scDN5bUU4U01iQUh2UnVCeEw2dWk4bkowc0hVMWh6X3BCX2JieW45a19fNUgwTERxTEFZUmpwc3lhREp3UlRvdm1aY3AwalQ4blJaeXZsSTF1RlZwdUlsSXo2RUJ5Qm5GY3BnMW9Kc3J1RHdFMmpPa2FvU3otU2ZJb1laazFpUkg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 10:15:18 GMT",
-   "summary": "AI startup Mantic raises $25 million for superhuman forecasting &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "France probes misuse of smart glasses in sexual harassment cases",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNektBQWp6ZnpTQ25yWXRMV0ktaXQ1YzBnUktZX0xtSFJzQkZxMVp5QUszNXpvZHRPMlZuN29vUmYzd0JrMHpjbzNFaEI3MjdfbVhSTnV6OU5peFNsZ3pJSjVOQllYTUNSOURWM3pFOURpX0t0NDZRbTN3b0MtcnRMNC1BMEdleGt6RWRUa1Bqb19CS00yOW9GMHQxYlpjYnVrVmo2cThoalpYWUk?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 18 Sep 2026 06:03:00 GMT",
@@ -488,6 +488,14 @@
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaHNHeG8yc0JoWS1sajBFbEl0bENKODdBRzVHMWdKdmZVQXRyZHZMdFZnQjN0bE83U2tZNHJ6TG11VTJuOTdjRnFJMFVURVJ4cDc1OHAzT25xa0FQNF9LX0RSQWFlUUJpMXZudVNhMkNUOHpjZ3Z6Wm9KSkxySTdzMDg4Vk9tZGUza0FEQUpGNlhXWXdQdllNNm9fUWUzSUV0aGxSc1J2ZjY2M1NsT250QVpyeUpmT2xrSC1mV0czMGVqOGpwYXBaREVudy1lbFNzTngyM3RXbjRBeXBVeFhTb2FfQnVDV1k?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 18 Sep 2026 07:55:54 GMT",
    "summary": "US pharmacy chain Walgreens plans tech centre in India's Chennai, expected to create 250 jobs &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "AI startup Mantic raises $25 million for superhuman forecasting",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEZvcUNwMGMybUpVdVRTQlZFU2FQajB4dWY4NGFDQV9scDN5bUU4U01iQUh2UnVCeEw2dWk4bkowc0hVMWh6X3BCX2JieW45a19fNUgwTERxTEFZUmpwc3lhREp3UlRvdm1aY3AwalQ4blJaeXZsSTF1RlZwdUlsSXo2RUJ5Qm5GY3BnMW9Kc3J1RHdFMmpPa2FvU3otU2ZJb1laazFpUkg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 10:15:18 GMT",
+   "summary": "AI startup Mantic raises $25 million for superhuman forecasting &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
