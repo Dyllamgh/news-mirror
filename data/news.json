@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-18T22:09:58Z",
- "count": 66,
+ "generated_at": "2026-09-19T02:35:19Z",
+ "count": 67,
  "items": [
   {
    "source": "nyt-world",
@@ -14,7 +14,7 @@
    "source": "nyt-world",
    "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
    "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
-   "published": "Fri, 18 Sep 2026 19:06:40 +0000",
+   "published": "Fri, 18 Sep 2026 23:38:22 +0000",
    "summary": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
    "full_text": ""
   },
@@ -38,7 +38,7 @@
    "source": "nyt-world",
    "title": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
    "url": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
-   "published": "Fri, 18 Sep 2026 19:45:51 +0000",
+   "published": "Fri, 18 Sep 2026 19:45:52 +0000",
    "summary": "Thirty-seven people died in the authorities’ custody, officials said. Survivors said the cell had barely any ventilation, food, or water and people began “collapsing and dying.”",
    "full_text": ""
   },
@@ -86,7 +86,7 @@
    "source": "nyt-business",
    "title": "Trump Promotes Program to Reduce Medicaid Drug Prices",
    "url": "https://www.nytimes.com/2026/09/18/business/trump-drug-prices-medicaid.html",
-   "published": "Fri, 18 Sep 2026 21:00:30 +0000",
+   "published": "Sat, 19 Sep 2026 00:22:20 +0000",
    "summary": "Ahead of the midterm elections, the president said that all states had opted in to an effort to align Medicaid’s prices for medicines with those in other wealthy countries.",
    "full_text": ""
   },
@@ -94,15 +94,15 @@
    "source": "nyt-business",
    "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
    "url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-   "published": "Fri, 18 Sep 2026 20:06:31 +0000",
-   "summary": "The company is expected to generate $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
+   "published": "Sat, 19 Sep 2026 00:23:01 +0000",
+   "summary": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
    "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
    "url": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
-   "published": "Fri, 18 Sep 2026 21:03:27 +0000",
+   "published": "Sat, 19 Sep 2026 00:31:59 +0000",
    "summary": "The president cited reporting from the outlets that he deemed “fake news.” It was unclear how such a ban would be enforced or defended in court.",
    "full_text": ""
   },
@@ -134,7 +134,7 @@
    "source": "nyt-business",
    "title": "Who Is Howard Buffett, the New Berkshire Hathaway Chairman?",
    "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-son-howard-berkshire-hathaway.html",
-   "published": "Fri, 18 Sep 2026 19:28:06 +0000",
+   "published": "Fri, 18 Sep 2026 22:25:54 +0000",
    "summary": "Mr. Buffett, 71, is succeeding his father, Warren, but will not be running the company’s day-to-day operations.",
    "full_text": ""
   },
@@ -144,7 +144,7 @@
    "url": "https://www.nytimes.com/2026/09/18/business/bonds-interest-rates-fed-iran-war.html",
    "published": "Fri, 18 Sep 2026 16:41:23 +0000",
    "summary": "The Federal Reserve is trying to catch up with the leap in bond rates as the Middle East conflict unnerves world markets.",
-   "full_text": ""
+   "full_text": "The Iran war hasn’t merely driven up the prices of oil, diesel fuel and gasoline. It also bears major responsibility for the painful increase in interest rates the world has been experiencing since the end of February. Much attention in the United States has been focused on the Federal Reserve, which on Wednesday raised the key short-term interest rate it controls by a quarter of a percentage point to a range of 3.75 to 4 percent. But when you look at what’s happened to interest rates this year, it’s evident that the Fed is trying to catch up to a surge in bond rates that has been underway for months. The Fed has just signaled that it is likely to raise rates by another quarter-point this year. But the bond market is saying that if current conditions persist, it expects the Fed’s short-term interest rates to go much higher. Collectively, the thousands of bond traders who set longer-term rates have acted with blinding speed this year. The Iran war began on Saturday, Feb. 28. When the bond market reopened two days later, traders began pushing longer-term rates higher. In hindsight, that weekend marked the start of an unmistakable trend in the global economy and in financial markets. Energy prices, which had adjusted to the supply shock of the war in Ukraine, began to levitate again. The pace of inflation, which had been ebbing, began to accelerate — and global interest rates began moving upward as perceptions of global risk spiraled. The yield on the benchmark 10-year Treasury note on Thursday hovered close to 5 percent. For 30-year Treasuries, the yield was almost 5.3 percent. And for two-year Treasury bills — a measure that suggests where the market believes the Fed’s short-term rate will stand in two years — the yield approached 4.7 percent."
   },
   {
    "source": "nyt-business",
@@ -188,6 +188,14 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+   "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+   "published": "Sat, 19 Sep 2026 00:31:38 +0000",
+   "summary": "A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "California Governor Gavin Newsom Issues A.I. Safety Executive Order",
    "url": "https://www.nytimes.com/2026/09/18/technology/ai-safety-california-gavin-newsom.html",
    "published": "Fri, 18 Sep 2026 17:27:15 +0000",
@@ -219,14 +227,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "On ‘Cupertino,’ Creators of the ‘The Good Wife’ Go to Silicon Valley",
-   "url": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
-   "published": "Thu, 17 Sep 2026 15:34:59 +0000",
-   "summary": "The prolific producers Michelle and Robert King target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFROaUxKT0xTODBaOWZaNkx1anVfanoxaFVwYm5QQnlNY1QwZXEyaEY3QnR6QmNDMHlJX3gwWU5WRWN6VmdjdkxLSmEyX3dZeW9pVmJ2d3lEeVlPWVFQeDNwa2V5bnE0b3h0OGRIWmdMTUw4aDQ5UUZHX192bmcwNTNUeEJIU2YySU8yM3FxX3lCTFlJX1Y3bHRrd3g4MS1nNk5LNkJEZmlWREk?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -254,7 +254,7 @@
    "source": "reuters-world",
    "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 17:18:30 GMT",
+   "published": "Fri, 18 Sep 2026 10:02:00 GMT",
    "summary": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -272,6 +272,14 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdThDTW1ZcGpROC13NGNKcXZQUF9ka0JrbXpfeXljYUZ2NWtDMUR1clRIVzF5MW1WamlXMXZ3YWk2d0luZ0pKRG5VYTJ6cFZFZ25kelJOT2dmMGFtbDJRR2ZUNktWTkhqbUlqLXRXNnNLYzJRQS1lTFFtLVNhQ0w0QTFhMHYwdjBvYWpYUW93T0xKRUhqNEVQZWpDb2dFS0h6TkFKaGV0QVB0QXNUZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 16 Sep 2026 11:39:51 GMT",
    "summary": "World Bank names Nobel laureate Michael Kremer as next chief economist &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "WHO flags growing health workforce gap as workers and patients age",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT3ZFbkVVZmpfTFhzVm1QQ21Vd1VzREh4eHdPc1VjMkVkamppYThtUjR0Y3RLTTlEY0pmNTkwdDNnNDhjS1R4cnBZWklibkpPNWhSbDkydUx3bnNCc25RTjBDclB4OEVFVTdaM1ZSMnFTNEFZdVNsY3VSWVljRWt3eU5RZG5ON3N0cTNLbzhBZjVBWDlTWWRuNzA4OE41c19EUUVqeGpqd24zeDlib1VDTTFBaFBCb1cxcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 16:42:28 GMT",
+   "summary": "WHO flags growing health workforce gap as workers and patients age &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -299,11 +307,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaUE3YTRDUXE4UEcxSGc4VDdtb241MHBPMkhtWHk5a1Qzcm9vOTZuMmlpcUJqX2ZFTF9QU25FSnh2TW5IUWozX1FMSHZ1ck8xUUxEQzlkeUp2aU13VGZidkgxcEgtZlRteEM1OHZMV0V2bHl6b2J6dFJ4bHRfWkMzbjFhMHJvU2NveTNjU1ZaeU5oREtYcE83aC1pQXllekdjUWpzcnZmaDBqQUF0N282Zm10a3VxdVBS?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 12:37:25 GMT",
-   "summary": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "Oracle's $18 billion data center debt under pressure, FT reports",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1FuODB2SVFrUlY3bzVTYnl0c2pyYjJWWURqTzU4UmZ4VjZBSHFiWjVOMjhwV0xXNEt0eFJmVHB1VGRBV2QyQUUzblZkYnJHWWswcE0xZ1B1TDFHZFFhanB4bXNRQ3A1NEE3ZVJTUEVjaHAxMGp2N2t1WW9HMVR5cUN5WjhxTjd3WlZWdXVfSC1UOHdvLXltU3Y3Q2NNWUZsTWo3LVpYWDYtV1pWTHhuQWE1LUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 22:32:07 GMT",
+   "summary": "Oracle's $18 billion data center debt under pressure, FT reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -324,10 +332,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Russia says Nestle, Auchan asset seizures are payback for hostile actions by Europe",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVlPeFV6MGxJSDN5b2VWcENqbmN1bFhNaDFaUEE4ZjJYa1ZsQW9kRGE3Q2dWc3FfdVVjc0pyUWEtejhyX0tvbE8xWHRGTEo0ZXJmV20zSllEdmpDdlFuMnRCRndzM2tDZXNSanZleG85c252aWk3SW1IRl9maXJZT24zWlNFSTRlX2tyRmpJU0VNdTdZU2hvaTBZOXFzdWxoOTFHUTZScHFLVGxCUE1mdHZwMXhMdFRrMnF2RGJGblExQm5ILXR6cS0tLVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 05:12:00 GMT",
-   "summary": "Russia says Nestle, Auchan asset seizures are payback for hostile actions by Europe &nbsp;&nbsp; Reuters",
+   "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVORmo3eC1SRjlfVnVWMWw5aXlPb01wMk5vSlI2NU1ZenFHdHRRXzhQQTJ2T2RhQkV4QlZQOGc0ajRhLXctMDNaRWZfaEk4bmhzSG9kdXpKcmR2NGI5M2Z1Wnl5alNjUnA0Ym1ZSlhxMU51alhzcGdaUS1fV3FZT1FDb1MxYlJtUWU5VnZ2S0FNU25WRzRlLWtlMlBCaEZVRHhZN0NqdzNGUUxKdTJIOVNmUFhMNlg0SC1sOW12eFNfakFl?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 11:40:42 GMT",
+   "summary": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "What we know about Russia's move to take control of Nestle, Auchan assets",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3dMRjFnaENKQVpUa0QzSWF0Z090LTdKZ1ZqMnpINTVxazFWaW9jZXVUaVlUeHBvcTFHUHdPTHYwTmxvcTNyR2ZLUG1fM0JlNktBZ0ZGN29UM1hlbUU3V01VQUJ1R0M1RENXckxnSWNyc3V1c2ZndkF2XzVoMmZ2VW9vUlNZNVhlTWd2RFc2UUZYVF8zYVR3UEtYbWZLbFl0eWJ6b2xtOTZ3WjVOYlRXckFkQmtId1VfN2wxQlk2Q3E0RXpS?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 23:24:47 GMT",
+   "summary": "What we know about Russia's move to take control of Nestle, Auchan assets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,18 +356,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc0Y2aEI5NHpNZ2pXUTl4VmhvZUVoekVCUW5lNFR2RW90RXFLWGRPTTRGdUtBZFFTQTFreWgycll1MFBCTTA3UWliMHVJNGVVZ0xRRmlGLTJILWl6dk92cUMwUnJ1cU5YSE5lMmdJanFxVlVYVlplT3ZBVzEzR2tNLVVOSUFwcXA3YjdqWXZhcWN0NmluUERISko0ZEJnNzdkdHg1LXdJT2lRQi1lZXlGY2p3SXBZM21ZLXNvMk9idzlBYUFUa3RBN0VYd3VtRTZjampF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 08:03:31 GMT",
-   "summary": "Toyota estimates factory automation could cost $6.4 billion per year from 2028 &nbsp;&nbsp; Reuters",
+   "title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2dvaUVUUnduTlNRc0hqNUdBaTRDMEkwa1pGdzFWdTZsOFQxU2tjS2pSVnlxdXNUcjhFS2RFQUVpX2tRdnJKUU1vd1ZISkZGX3Y4OWhIUk9Lb0RmNTdHeC1vZnpGT1lWeWFfV2NTeFFWbFI4UGRFMW96S3AxSmxVWDB1NEE5bUNJUXQyWFBKTmU0LUozbXkzZnNoODhaYlZDYUs4Z0dxR3ltX1VE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 16:06:12 GMT",
+   "summary": "France's EDF plans 10 small nuclear plants in Europe by 2035 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Explainer: What we know about Russia's move to take control of Nestle, Auchan assets",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3dMRjFnaENKQVpUa0QzSWF0Z090LTdKZ1ZqMnpINTVxazFWaW9jZXVUaVlUeHBvcTFHUHdPTHYwTmxvcTNyR2ZLUG1fM0JlNktBZ0ZGN29UM1hlbUU3V01VQUJ1R0M1RENXckxnSWNyc3V1c2ZndkF2XzVoMmZ2VW9vUlNZNVhlTWd2RFc2UUZYVF8zYVR3UEtYbWZLbFl0eWJ6b2xtOTZ3WjVOYlRXckFkQmtId1VfN2wxQlk2Q3E0RXpS?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 13:47:51 GMT",
-   "summary": "Explainer: What we know about Russia's move to take control of Nestle, Auchan assets &nbsp;&nbsp; Reuters",
+   "title": "Russia says Nestle, Auchan asset seizures are payback for hostile actions by Europe",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVlPeFV6MGxJSDN5b2VWcENqbmN1bFhNaDFaUEE4ZjJYa1ZsQW9kRGE3Q2dWc3FfdVVjc0pyUWEtejhyX0tvbE8xWHRGTEo0ZXJmV20zSllEdmpDdlFuMnRCRndzM2tDZXNSanZleG85c252aWk3SW1IRl9maXJZT24zWlNFSTRlX2tyRmpJU0VNdTdZU2hvaTBZOXFzdWxoOTFHUTZScHFLVGxCUE1mdHZwMXhMdFRrMnF2RGJGblExQm5ILXR6cS0tLVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 05:12:00 GMT",
+   "summary": "Russia says Nestle, Auchan asset seizures are payback for hostile actions by Europe &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc0Y2aEI5NHpNZ2pXUTl4VmhvZUVoekVCUW5lNFR2RW90RXFLWGRPTTRGdUtBZFFTQTFreWgycll1MFBCTTA3UWliMHVJNGVVZ0xRRmlGLTJILWl6dk92cUMwUnJ1cU5YSE5lMmdJanFxVlVYVlplT3ZBVzEzR2tNLVVOSUFwcXA3YjdqWXZhcWN0NmluUERISko0ZEJnNzdkdHg1LXdJT2lRQi1lZXlGY2p3SXBZM21ZLXNvMk9idzlBYUFUa3RBN0VYd3VtRTZjampF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 08:03:31 GMT",
+   "summary": "Toyota estimates factory automation could cost $6.4 billion per year from 2028 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -363,34 +387,10 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2dvaUVUUnduTlNRc0hqNUdBaTRDMEkwa1pGdzFWdTZsOFQxU2tjS2pSVnlxdXNUcjhFS2RFQUVpX2tRdnJKUU1vd1ZISkZGX3Y4OWhIUk9Lb0RmNTdHeC1vZnpGT1lWeWFfV2NTeFFWbFI4UGRFMW96S3AxSmxVWDB1NEE5bUNJUXQyWFBKTmU0LUozbXkzZnNoODhaYlZDYUs4Z0dxR3ltX1VE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 16:06:12 GMT",
-   "summary": "France's EDF plans 10 small nuclear plants in Europe by 2035 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 23:59:43 GMT",
-   "summary": "Anthropic says Claude now leads a quarter of work building its next AI models &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Fed's Bowman says overhaul of bank stress test will make process more transparent",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVhMeF8xaElKaXVlUmExRzVBU244d3pfR3k5V25FdlZJel9nOElkbTlXb1lILXhremYwQV9kTTZ2SGZBdjlMVWR2QU9JM3o4Q0E5OHpjSGlidkFUdG5vdkhkajZ0Q2hKUl9yZ2xfaXBMQU5vbHBjVHRhbk83ZVB0T2pRYlZzYUI3R2dCQkozekRHT0V4UFBRZUJYa3Nqa2c5R1Z0eUhCNXltdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 15:36:24 GMT",
-   "summary": "Fed's Bowman says overhaul of bank stress test will make process more transparent &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-markets",
    "title": "Warren Buffett steps down as Berkshire chairman, replaced by his son Howard",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 19:52:18 GMT",
+   "published": "Fri, 18 Sep 2026 10:13:00 GMT",
    "summary": "Warren Buffett steps down as Berkshire chairman, replaced by his son Howard &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -398,7 +398,7 @@
    "source": "reuters-markets",
    "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 20:21:11 GMT",
+   "published": "Fri, 18 Sep 2026 23:10:24 GMT",
    "summary": "S&amp;P 500, Nasdaq advance, turning the page on a tumultuous week &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -412,10 +412,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+   "title": "Engineers India expects gains from Middle East plans to bypass Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHdFazZ6TG9ZSnhnYWttUFdtTWNTY00wM1lac1R0d2FvdC04cWRTcU81X3ZMSnFHd3hiQ1d1T2VETFIyVTVFOWVvS3l5ckJROEM2RnFSMTFRbnJQcE15dUIxMEkxUXpDWV9OV1dKNEhsOG85Z1B2ZkN1Um5GSUswTVRBU2hZNHd2dnFmR0VVcmhuQTRlQ2hGdHNNMl9tck5nZjc5OHhBTzRqdGliSVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 12:35:44 GMT",
+   "summary": "Engineers India expects gains from Middle East plans to bypass Hormuz &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Global shares edge higher as central banks double down on inflation fight",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 18 Sep 2026 01:32:00 GMT",
-   "summary": "Global shares fall, Treasury yields rise as central banks double down on inflation fight &nbsp;&nbsp; Reuters",
+   "summary": "Global shares edge higher as central banks double down on inflation fight &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,10 +436,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Dollar jumps against yen as BOJ dissent clouds rate-hike outlook",
+   "title": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZWMHVPOWZ5RDBIc2NmX2tmcE5pODNpeGhnaGJhZ0RrVkRtVTVud1FUY2NhNkttREN4QjNtTlZRTGtPNTFZVUIzWm1XNU5xNEdqTnNILXhybG1oMXVJV3N6YmxpRjFIX01sZWVEQ2xiRW1weUpEWjFfU1NCOXZuU0Vjc2xtMGpacjFGZ2ZZLXpnN1R3YWphMDcta0VyYjEyYU40?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 18 Sep 2026 00:59:00 GMT",
-   "summary": "Dollar jumps against yen as BOJ dissent clouds rate-hike outlook &nbsp;&nbsp; Reuters",
+   "summary": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -451,51 +459,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 22:04:00 GMT",
-   "summary": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-tech",
    "title": "Disney names Character.AI's Karandeep Anand its first tech chief",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3dVVjdKajM2eG9NSWR6aTBVR0RXU2RpdjNhR3dWMXBRcHd6OTNLMkc5UG9GUHVjRVhKRmMzeGdnZC1BVVRVTXJKU0NSSUZwcjJlRFlFNldST2MxUF9XTzZSX1NZN3k0elJsSldBTkRmS0VVbzl4TU5uTWFmQ0FlcS1uTUxaLUhjcEtvMTNUYWkzUlU4aTlFWDliZXkxNGh0WG44M2s4Sy01dXVlX0E?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 18 Sep 2026 15:18:01 GMT",
    "summary": "Disney names Character.AI's Karandeep Anand its first tech chief &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "AI startup Mantic raises $25 million for superhuman forecasting",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEZvcUNwMGMybUpVdVRTQlZFU2FQajB4dWY4NGFDQV9scDN5bUU4U01iQUh2UnVCeEw2dWk4bkowc0hVMWh6X3BCX2JieW45a19fNUgwTERxTEFZUmpwc3lhREp3UlRvdm1aY3AwalQ4blJaeXZsSTF1RlZwdUlsSXo2RUJ5Qm5GY3BnMW9Kc3J1RHdFMmpPa2FvU3otU2ZJb1laazFpUkg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 10:15:18 GMT",
-   "summary": "AI startup Mantic raises $25 million for superhuman forecasting &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUV3UzJ5MVVnR0c2b0hlQ0s4OGZEWS01alZ1TldLbmR1ZFMtZFE1S0V6WFVTOEFnSXVfMlNmSWpYRl9LVDhha2dydmkyaGlUckpYVUxEdWgzWUNjMkx3ZmxQdGRFQ2ZDdHNUZzFkNWNQZU82RHRiSjYwUmlscjdVQmhxbktkdU94SEJub1hYUDBqNUtIY1M4bjl0a2lUV3U5Q09jbmpTRVNVQlAtNUlGY2RPMTFDdExuSzlWYU5vbkJZdGhwbmtV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 12:09:42 GMT",
-   "summary": "Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVORmo3eC1SRjlfVnVWMWw5aXlPb01wMk5vSlI2NU1ZenFHdHRRXzhQQTJ2T2RhQkV4QlZQOGc0ajRhLXctMDNaRWZfaEk4bmhzSG9kdXpKcmR2NGI5M2Z1Wnl5alNjUnA0Ym1ZSlhxMU51alhzcGdaUS1fV3FZT1FDb1MxYlJtUWU5VnZ2S0FNU25WRzRlLWtlMlBCaEZVRHhZN0NqdzNGUUxKdTJIOVNmUFhMNlg0SC1sOW12eFNfakFl?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 11:40:42 GMT",
-   "summary": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Italian Apple store employees strike on iPhone 18 Pro launch day",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjllekJOQzJrY0hSblh0TUJ5ZFJXM0hLMUZlUFRUUkRqalNlSlN4dENERVB5b2hrRHlZU2paRWNPTXdEYUFEcVkySGN0SlQtaExEYnpsdlR1ellOTGQ4d1MyR1Y2b3M5cVRMTHZaOHFSZjVVWW1NMVV4SG43LVg1b1ZhbTZrLTZJSzVCOHNqMTN0TzBzRU1xNmdDUTA5VE1nUHlHSUthcEh6Tjh3WHJSY0JHdndPSFl6M0NZMXBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 12:49:18 GMT",
-   "summary": "Italian Apple store employees strike on iPhone 18 Pro launch day &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,26 +476,66 @@
   },
   {
    "source": "reuters-tech",
-   "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNVVtN2pfeEs4R2NCcG9sdEpkTHB3MUMyNHdXdkZCQThtbm16WHNoQWhUUmZEN3ZFM2RFU0QzS2Z6WXB3VVNkdmNJbV9EdnA5ZlQteUpseWhuRzlOMnlFNmR1cE9oVWM4Zjl3OGpRMjdVVV9pYUxKRXZ1dlZIaXVCZ2dYWTliQWxWNHNoWTRiMm9PTGQ3TGtsTGtIZ1B0NzZJaldGcHZhUF8tXzRpU2FvWWJhZnBONk56QnFzVExnYmx0Z1UyU0xjeWlR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 05:59:00 GMT",
-   "summary": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say &nbsp;&nbsp; Reuters",
+   "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 23:59:43 GMT",
+   "summary": "Anthropic says Claude now leads a quarter of work building its next AI models &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "EXCLUSIVE: China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXhCUnlwalg0dVppb2Y3dDVQNUFsUUlsLTZ2c2NJckZ2UjBxWXE0TC1QdFRSY0Q3VFA4QWctMzZSMHd6NFQ4Q1pDTy1UZTlVNE12ZGlmMGpFdXkzMXMxOWV4UWE0Z1REeHRMNzQ1NkFmd1hmQWc5d3FWdTUzYWM4ejhZc2IwSXprb3gtZzJxWmpTVFA4ZlFTSGhDN3J1ZWl1dWJVNkxVRVVTVkFjTS1LQXg2Y0RJZ1JTSms1VzJ4enppek4xMWFYRUxjMzA3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 05:23:00 GMT",
-   "summary": "EXCLUSIVE: China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: China's Xpeng plans to offer tech solutions to foreign automakers",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUg5aEtYWWF3eEliaUx4WVVhOHg1WVZvYTh0ZUEtOTNGSE9WMjVfdUVMSmNJejN3LW9NWEJUc3FnRWpjZnBEd3F2ZHZQV3MzclA5QnJiaVlzRmNJUmFDRDZrZ0tlWHdMX3F6VTU3NDFXTlBackliMW96QXhyTHBya3VxMXd1TzhPdUE3Znk1bklSUkJpQ3cyeEtlSDkwQnY0bEVsUk9Ia2xfUExRcEJ1LWhLbjFCS3NoR0xhVURzVzBpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 14:04:18 GMT",
+   "summary": "EXCLUSIVE: China's Xpeng plans to offer tech solutions to foreign automakers &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Apple Pay eyes India rollout with Axis Bank, sources say",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlZNZXA2ZWxuTURFQS1OV0hSWkNnM2JSUmw4d1pnOTQ5OS1wUU85dVZ1MFgtbkhUeFN5eEdXNk96Rkh4NDNMZ2c3aFBZdlQ2Z054NGlvNUl3QnRkLW00a0psdEJBbnIxQnN4VGZOeTB6MEZPbFVyRHNaeEFnMm4wLVhCLVU1TElwaWcwOGpCN2V4X08yVUJBdWVTbU4wMnQ2M1VQRHZB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 04:58:00 GMT",
-   "summary": "Apple Pay eyes India rollout with Axis Bank, sources say &nbsp;&nbsp; Reuters",
+   "title": "US Treasury's Bessent to discuss AI, rare earths with China's He, source says",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXgxcUNDSEx5a2VvaTV1MTNfVXZsOTBWaGZleGUtNE81bjhUVWhRUHZKOTFBZHNhYW5OWmlGV1llT0NFc3BpZUIwY0d6aHdVZUVFMU5kMUJTOEMwLVBKTWhkU3dQN1Fsdk1TaVR3WmVKWjFkLWZKOTlRLS1wVTZHUDJERUpyajZabGxrQ01iRDYzdzB1ME5SV1BUS1B1Um5Ea1VkTEVaV0NGUkFndTZsOGt1Um1oX1lWM3RmWEN4d1VEZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 18:53:00 GMT",
+   "summary": "US Treasury's Bessent to discuss AI, rare earths with China's He, source says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "King Charles warns tech leaders of 'existential dangers' from AI",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 17:40:59 GMT",
+   "summary": "King Charles warns tech leaders of 'existential dangers' from AI &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ09uWFd0WmUtWloyeENhUWp5NFJiNVF6REhDTUE2ZHZETW5DLUkyRG5QNDhfb0pvVWd5TkVLUEh0WnVja3dxMWJuU2ItSmRQLWM1bFJwN3RmdG03OWRhTXhzejQ2RHpBOTZ4d3hzQXdXOVNycjliMmlRSWhvOUF4NkpkVXVLcnZ2MThmTXpXMlJhQzVZQ0ZkWVAwX1Uwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 22:13:00 GMT",
+   "summary": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "NEWSLETTER: Everyone wants safer AI. But who will rein it in?",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHZQd1U3OURxVVlCcHdqdlRlVEFHWUZTSXV2d19US3BkTzZNZVFoVVhYS3RHc1p1b2FTd3ZTME95TU16SXo2SVdaSmxnTDU2RkpnekJzenR4SWE2ZzZ0YXJiMUwweVZnTXQ2Wlp0aWRqZnZsbnEtTEtZQ0RlNGVqVnRtbWZIT1c1SlVQOWVKXzNnNkJzS3VIdWNKNWd6WVNTcjR2T3ppX1RDcjQ2LVJpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 16 Sep 2026 20:28:36 GMT",
+   "summary": "NEWSLETTER: Everyone wants safer AI. But who will rein it in? &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFnSGpyQWtoZEdZY3IzTTEzZ2Npd2JTc0MtVUxfMW1LeWgwX0xBWXdXVmNHQ1p0NjF6Y1pPdFl6RnNtZTZjZEZfcW5FX2tWSE1ETHZxTmQyNWFIYzJGWHNoLVJxSFZ5SFFZdklHYWZvd0RMWk4tc3FuelVyck9LWDRzMUFmY2tpNDFlVmhIbVBGV2thR2N5UjlUM2pnMFlYT0FEOWhIVzRTaDRlZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 22:40:06 GMT",
+   "summary": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "France's Thales urges international framework on AI development",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0hnb21ucXhBbHptQTJrUndURG9pQVZuLXBGZnJkTmpOTEJxR2lBa1Vqc01Qa2QzQlJaMnM3YllrcGtpYkJTYnhZczc0VEZIc3hSRjFOLTFYTk9hMzNwWFAyYVB4VzNuYlZhekZ6aEttN0hpX18wODVfdlBvZWZKeXFMeUJPWWZWc1l2T1FYMjFyNEhDTEg5R2IzYlFQVENweG5XX0xBWXhYR2dmV2cxZy1nZGpsT1AwenlfaUcyTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 13:44:00 GMT",
+   "summary": "France's Thales urges international framework on AI development &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
