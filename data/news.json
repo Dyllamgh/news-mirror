@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T19:52:28Z",
+ "generated_at": "2026-09-19T22:01:28Z",
  "count": 68,
  "items": [
   {
@@ -8,6 +8,14 @@
    "url": "https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html",
    "published": "Sat, 19 Sep 2026 12:29:43 +0000",
    "summary": "In the eastern city of Xalapa, what started as a joke among friends over two decades ago has become a vibrant annual tradition that highlights creativity and absurdity with melons.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Israeli President Pardons Ex-Soldier Over Killing of Incapacitated Palestinian",
+   "url": "https://www.nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html",
+   "published": "Sat, 19 Sep 2026 21:38:40 +0000",
+   "summary": "In 2016 Elor Azaria killed a Palestinian attacker who had been injured, fueling a public debate both at home and abroad over Israeli military actions.",
    "full_text": ""
   },
   {
@@ -22,16 +30,24 @@
    "source": "nyt-world",
    "title": "‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump",
    "url": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
-   "published": "Sat, 19 Sep 2026 12:56:45 +0000",
+   "published": "Sat, 19 Sep 2026 20:35:27 +0000",
    "summary": "The U.S. president’s threats to seize Greenland left its people on edge, and with details scarce, the news of an agreement didn’t seem to be putting minds at ease.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "In Significant Escalation, Houthis Claim Attacks on Saudi Capital",
+   "title": "In Significant Escalation, Houthis Attack Saudi Capital",
    "url": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
-   "published": "Sat, 19 Sep 2026 19:20:17 +0000",
-   "summary": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, where residents reported explosions, and on Saudi oil facilities. Saudi Arabia has not commented on the claims.",
+   "published": "Sat, 19 Sep 2026 20:43:46 +0000",
+   "summary": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, and on Saudi oil facilities.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Group With Al Qaeda Links Claims Responsibility for Attack in Pakistan",
+   "url": "https://www.nytimes.com/2026/09/19/world/asia/pakistan-mosque-attack-bahadur.html",
+   "published": "Sat, 19 Sep 2026 20:16:22 +0000",
+   "summary": "The attack on a mosque inside a police compound, killing at least two dozen people, is the latest example of the worsening violence near the Afghan border.",
    "full_text": ""
   },
   {
@@ -52,14 +68,6 @@
   },
   {
    "source": "nyt-world",
-   "title": "Trump’s Security Deal With Greenland: What to Know",
-   "url": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html",
-   "published": "Sat, 19 Sep 2026 11:56:48 +0000",
-   "summary": "President Trump insisted for months that the Danish territory should be part of the United States. Now, a security deal — not a takeover — seems to be on the table.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
    "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
    "url": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html",
    "published": "Sat, 19 Sep 2026 18:35:14 +0000",
@@ -72,14 +80,6 @@
    "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
    "published": "Sat, 19 Sep 2026 04:01:12 +0000",
    "summary": "The young government of Nepal, a nation with a tiny carbon footprint, is seeking reparations from the world’s major economies as it bears the brunt of collapsing Himalayan glaciers.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Millionaire Activist James Chambers Seeks Asylum in Spain",
-   "url": "https://www.nytimes.com/2026/09/19/world/europe/spain-chambers-asylum-us-extradition.html",
-   "published": "Sat, 19 Sep 2026 09:03:12 +0000",
-   "summary": "Jailed in Madrid on an extradition request from the United States that his lawyer says is tied to pro-Palestinian activism, James Chambers fears persecution if returned.",
    "full_text": ""
   },
   {
@@ -110,7 +110,7 @@
    "source": "nyt-business",
    "title": "CNN, MS NOW and Politico Barred From White House After Trump’s Ban",
    "url": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
-   "published": "Sat, 19 Sep 2026 19:43:56 +0000",
+   "published": "Sat, 19 Sep 2026 20:09:58 +0000",
    "summary": "The prohibition on certain journalists was a major escalation in President Trump’s war on the media, and will probably face a legal challenge.",
    "full_text": ""
   },
@@ -262,7 +262,7 @@
    "source": "reuters-world",
    "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnJncHUxLTNvV25NTHFxQzVwcnljdzdsTkJCNFNjSlJybF95bFBhcW9DTWV1dnlYQ0prMkI0SmdnNjBrdXNLV0ZNM1pQNW1FcUxuaWpqd3NnRXJ6U2lkQWFqQlR0UVE2X3lYU0RXNXlBdno3QkRkSzB2SEwxUzdYV2NZWlc3SGhZdGRMbUFCVDJZeXZsTy0zOHF4R013c2xyMl8zNmVkaHlFOXM1MmtuZHJRREI3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 03:53:17 GMT",
+   "published": "Thu, 17 Sep 2026 12:02:00 GMT",
    "summary": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -326,7 +326,7 @@
    "source": "reuters-business",
    "title": "Ten days that changed the course of AI",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 19 Sep 2026 11:31:21 GMT",
+   "published": "Sat, 19 Sep 2026 20:14:42 GMT",
    "summary": "Ten days that changed the course of AI &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -342,7 +342,7 @@
    "source": "reuters-business",
    "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 19 Sep 2026 11:37:05 GMT",
+   "published": "Sat, 19 Sep 2026 00:05:00 GMT",
    "summary": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -364,10 +364,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMl9oZE1jdTY1X182U1NIUDkxdEVqa3k5TUM0UGw2M0VRQnpURWlSRzRkakpzTUFQSFZKNF9iOWZZNkZUTFBsazlYSVBMZ1VGemM3SV9fRk9lMXpDbVljaF9tQy1hLWJVVXF6THktLS1hZjV3SFA3VTh3bEdGR2FxS013a1lKUWo1dlVab0lOczNYU0ZGV0RQdHZhdG1BRW5zX2ZWQkw4T285SDhjOUlocnVncDFHdkJnNlFjSEZhbnY2U0dkc3I4dzJ5cw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 19 Sep 2026 17:24:05 GMT",
-   "summary": "Canada optimistic about concluding trade talks with India by year-end, minister says &nbsp;&nbsp; Reuters",
+   "title": "Gemini hacked three companies in first known breakout by Google's AI",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 22:25:00 GMT",
+   "summary": "Gemini hacked three companies in first known breakout by Google's AI &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Gold rises to one-week high, heads for weekly gain on easing oil prices",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEtrczJxeXh5VlUxY1VWWF9xVVdYX0xwZjU4UGlCU19tTV91TzlFdzVyeXJWS0JmNjBVVHo2VVVSa1FwN1RWODJXbko1MkxmQnlwVEZ6eHV5cV9RRno1VHl3Si1OZU51bEgtSV9SeUNOaERzMjdmQ0wwelFVR3lPTWhXV3VlamQwU09XZkFsTlRTb0cyQ0VaaThBWWxIRUwtOFAw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 18:30:12 GMT",
+   "summary": "Gold rises to one-week high, heads for weekly gain on easing oil prices &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,34 +388,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Russia says Nestle, Auchan asset seizures are payback for hostile actions by Europe",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVlPeFV6MGxJSDN5b2VWcENqbmN1bFhNaDFaUEE4ZjJYa1ZsQW9kRGE3Q2dWc3FfdVVjc0pyUWEtejhyX0tvbE8xWHRGTEo0ZXJmV20zSllEdmpDdlFuMnRCRndzM2tDZXNSanZleG85c252aWk3SW1IRl9maXJZT24zWlNFSTRlX2tyRmpJU0VNdTdZU2hvaTBZOXFzdWxoOTFHUTZScHFLVGxCUE1mdHZwMXhMdFRrMnF2RGJGblExQm5ILXR6cS0tLVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 05:12:00 GMT",
-   "summary": "Russia says Nestle, Auchan asset seizures are payback for hostile actions by Europe &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Exxon raises 2050 global emissions forecast, sees slower coal decline",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlRDR3luU3FFOHprTUE0VkdCMmJjZXM4NGQxOWowb1hDLVRWb3Q0VVZiNWt0Y25lb3E5elE5RUZPdVRRVW9hM05udDFtRy05YnZlVWV3dGdkSmpDOElGTWRZSGF1dDJKODQ2RUhYNlNUSGFLXzBLS21GLUZYSnVlWW90X0Rudm9KMkgtb1VnRlcxazU5OWhUelpGN1R4dGdIVng4UW04aGJwY3VwaWM3MTZLTzlmTHJLRzhxcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 17 Sep 2026 15:44:52 GMT",
-   "summary": "Exxon raises 2050 global emissions forecast, sees slower coal decline &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1dTamJ1aHFmSUJtU3ZXV1diZDd3RGROdl9lTEY4UEEzQmFicF85MzdFWXpoT01Xckp6MlZ5eU5RcEpsVWl6Qmw3Y0NoMXJtdzViV21DZ0h6aXhFRkRWWjNjYmk1ZTRCSnY0X052TWIxMEg3a05NMnh5MGtaMEpzYXNla1ZMeEU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 21:41:08 GMT",
-   "summary": "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Warren Buffett steps down as Berkshire chairman, replaced by his son Howard",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 10:13:00 GMT",
-   "summary": "Warren Buffett steps down as Berkshire chairman, replaced by his son Howard &nbsp;&nbsp; Reuters",
+   "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMl9oZE1jdTY1X182U1NIUDkxdEVqa3k5TUM0UGw2M0VRQnpURWlSRzRkakpzTUFQSFZKNF9iOWZZNkZUTFBsazlYSVBMZ1VGemM3SV9fRk9lMXpDbVljaF9tQy1hLWJVVXF6THktLS1hZjV3SFA3VTh3bEdGR2FxS013a1lKUWo1dlVab0lOczNYU0ZGV0RQdHZhdG1BRW5zX2ZWQkw4T285SDhjOUlocnVncDFHdkJnNlFjSEZhbnY2U0dkc3I4dzJ5cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 19 Sep 2026 17:24:05 GMT",
+   "summary": "Canada optimistic about concluding trade talks with India by year-end, minister says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -420,9 +404,17 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1dTamJ1aHFmSUJtU3ZXV1diZDd3RGROdl9lTEY4UEEzQmFicF85MzdFWXpoT01Xckp6MlZ5eU5RcEpsVWl6Qmw3Y0NoMXJtdzViV21DZ0h6aXhFRkRWWjNjYmk1ZTRCSnY0X052TWIxMEg3a05NMnh5MGtaMEpzYXNla1ZMeEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 21:41:08 GMT",
+   "summary": "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Global shares edge higher as central banks double down on inflation fight",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 01:32:00 GMT",
+   "published": "Fri, 18 Sep 2026 21:02:29 GMT",
    "summary": "Global shares edge higher as central banks double down on inflation fight &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -436,6 +428,14 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Engineers India expects gains from Middle East plans to bypass Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHdFazZ6TG9ZSnhnYWttUFdtTWNTY00wM1lac1R0d2FvdC04cWRTcU81X3ZMSnFHd3hiQ1d1T2VETFIyVTVFOWVvS3l5ckJROEM2RnFSMTFRbnJQcE15dUIxMEkxUXpDWV9OV1dKNEhsOG85Z1B2ZkN1Um5GSUswTVRBU2hZNHd2dnFmR0VVcmhuQTRlQ2hGdHNNMl9tck5nZjc5OHhBTzRqdGliSVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 12:35:44 GMT",
+   "summary": "Engineers India expects gains from Middle East plans to bypass Hormuz &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Global equity fund outflows hit nine-month high on inflation fears",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkF4ekljMmF4bDRiM09NaTQySFROSi05T1QzemVVcTZad0dQWVBxb05RVFdNUnREbC04dG9IZVczWkEtNm5vdEdHOWhwZ1ZQQ1RSdmJ2SFhMeHlZRDFqd0RkWHNRLVBYaUIyTWhZZVVkQzl4b1BnSndNMExneUdJcDRkU21qX0k?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 18 Sep 2026 10:29:08 GMT",
@@ -444,10 +444,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Engineers India expects gains from Middle East plans to bypass Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHdFazZ6TG9ZSnhnYWttUFdtTWNTY00wM1lac1R0d2FvdC04cWRTcU81X3ZMSnFHd3hiQ1d1T2VETFIyVTVFOWVvS3l5ckJROEM2RnFSMTFRbnJQcE15dUIxMEkxUXpDWV9OV1dKNEhsOG85Z1B2ZkN1Um5GSUswTVRBU2hZNHd2dnFmR0VVcmhuQTRlQ2hGdHNNMl9tck5nZjc5OHhBTzRqdGliSVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 12:35:44 GMT",
-   "summary": "Engineers India expects gains from Middle East plans to bypass Hormuz &nbsp;&nbsp; Reuters",
+   "title": "US securities regulator rolls out five-year exemption for tokenized stock trading",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMGJTTHZsX1M4S3BWWjZkQXZZOWs4aU13T0VXRVB4QTVYdGF3QWRYMUh2LVJzYjhObm9YV3pkdFZnRmRya05xQ09VWm9od1U5OTBTRXZJTjZsc0tEV2hfUUVJSS1xMWF0STluTGZuTVdVQ3IxaTRuXzNMS3FOT216bFduaGVGQnlleG1XNkQxTU14aTNsTHlHWHlEbVlVTkFacTJtLTFJUnJQNXJyOTdZcWxLTFlIWlJBRzZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 17 Sep 2026 16:59:52 GMT",
+   "summary": "US securities regulator rolls out five-year exemption for tokenized stock trading &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -492,14 +492,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "AI startup Mantic raises $25 million for superhuman forecasting",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEZvcUNwMGMybUpVdVRTQlZFU2FQajB4dWY4NGFDQV9scDN5bUU4U01iQUh2UnVCeEw2dWk4bkowc0hVMWh6X3BCX2JieW45a19fNUgwTERxTEFZUmpwc3lhREp3UlRvdm1aY3AwalQ4blJaeXZsSTF1RlZwdUlsSXo2RUJ5Qm5GY3BnMW9Kc3J1RHdFMmpPa2FvU3otU2ZJb1laazFpUkg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 18 Sep 2026 10:15:18 GMT",
-   "summary": "AI startup Mantic raises $25 million for superhuman forecasting &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 17 Sep 2026 23:59:43 GMT",
@@ -512,6 +504,14 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXgxcUNDSEx5a2VvaTV1MTNfVXZsOTBWaGZleGUtNE81bjhUVWhRUHZKOTFBZHNhYW5OWmlGV1llT0NFc3BpZUIwY0d6aHdVZUVFMU5kMUJTOEMwLVBKTWhkU3dQN1Fsdk1TaVR3WmVKWjFkLWZKOTlRLS1wVTZHUDJERUpyajZabGxrQ01iRDYzdzB1ME5SV1BUS1B1Um5Ea1VkTEVaV0NGUkFndTZsOGt1Um1oX1lWM3RmWEN4d1VEZw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 18 Sep 2026 18:53:00 GMT",
    "summary": "US Treasury's Bessent to discuss AI, rare earths with China's He, source says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "AI startup Mantic raises $25 million for superhuman forecasting",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEZvcUNwMGMybUpVdVRTQlZFU2FQajB4dWY4NGFDQV9scDN5bUU4U01iQUh2UnVCeEw2dWk4bkowc0hVMWh6X3BCX2JieW45a19fNUgwTERxTEFZUmpwc3lhREp3UlRvdm1aY3AwalQ4blJaeXZsSTF1RlZwdUlsSXo2RUJ5Qm5GY3BnMW9Kc3J1RHdFMmpPa2FvU3otU2ZJb1laazFpUkg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 18 Sep 2026 10:15:18 GMT",
+   "summary": "AI startup Mantic raises $25 million for superhuman forecasting &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
