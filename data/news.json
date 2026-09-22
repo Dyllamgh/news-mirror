@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-22T20:44:48Z",
+ "generated_at": "2026-09-22T23:58:07Z",
  "count": 68,
  "items": [
   {
    "source": "nyt-world",
-   "title": "U.N. Live Updates: Trump Says He Faces Choice to Make a Deal or ‘Annihilate’ Iran",
+   "title": "U.N. Live Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
    "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
-   "published": "Tue, 22 Sep 2026 20:28:28 +0000",
-   "summary": "President Trump delivered the remark before a gathering where world leaders typically present themselves as champions of global harmony. Earlier, António Guterres, the U.N. secretary general, called on leaders to end conflicts.",
+   "published": "Tue, 22 Sep 2026 23:42:35 +0000",
+   "summary": "President Trump said he must decide whether to make a deal or “annihilate” Iran, in a gathering where world leaders typically focus on declarations of global harmony.",
    "full_text": ""
   },
   {
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "Trump Praises Burnham as ‘Natural Business Person’ After First Meeting",
    "url": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html",
-   "published": "Tue, 22 Sep 2026 19:47:03 +0000",
+   "published": "Tue, 22 Sep 2026 19:47:04 +0000",
    "summary": "Prime Minister Andy Burnham of Britain met with President Trump for the first time on the sidelines of the U.N. General Assembly on Tuesday.",
    "full_text": ""
   },
@@ -76,10 +76,34 @@
   },
   {
    "source": "nyt-world",
-   "title": "Trump Set to Meet With Persian Gulf Allies as Middle East Wars Widen",
+   "title": "Trump Meets Middle East Leaders as Regional Wars Widen",
    "url": "https://www.nytimes.com/2026/09/22/world/middleeast/trump-persian-gulf-leaders-meeting.html",
-   "published": "Tue, 22 Sep 2026 15:17:21 +0000",
+   "published": "Tue, 22 Sep 2026 21:27:23 +0000",
    "summary": "The Iran war and the fight between the Houthis and Saudi Arabia in Yemen have forced Gulf Arab states to reckon with spiraling conflicts and to reassess U.S. security guarantees.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Qantas’s New York-to-Sydney ‘Project Sunrise’ Flights to Take Off in 2028",
+   "url": "https://www.nytimes.com/2026/09/22/travel/qantas-project-sunrise-flights.html",
+   "published": "Tue, 22 Sep 2026 23:00:07 +0000",
+   "summary": "Qantas Airways said the 18-hour flights, part of its Project Sunrise program, would come months after its 22-hour direct flights from Sydney to London begin.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Billy Bush Joins Fox News a Decade After ‘Access Hollywood’ Tape Scandal",
+   "url": "https://www.nytimes.com/2026/09/22/business/billy-bush-fox-news-trump-access-hollywood.html",
+   "published": "Tue, 22 Sep 2026 21:56:44 +0000",
+   "summary": "He lost his job as a “Today” show anchor in 2016 after footage surfaced of Donald J. Trump joking with him about sexual assault. He will be a Fox contributor.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Trump Says He Supports Banning Diesel Exports to Bring Down Prices",
+   "url": "https://www.nytimes.com/2026/09/22/business/energy-environment/trump-diesel-exports-iran-war.html",
+   "published": "Tue, 22 Sep 2026 21:12:26 +0000",
+   "summary": "Diesel prices have been setting records because of the war in Iran, but the oil industry say banning U.S. exports would not make the fuel cheaper.",
    "full_text": ""
   },
   {
@@ -109,8 +133,8 @@
   {
    "source": "nyt-business",
    "title": "Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud",
-   "url": "https://www.nytimes.com/2026/09/22/health/aca-obamacare-vance-fraud.html",
-   "published": "Tue, 22 Sep 2026 17:28:17 +0000",
+   "url": "https://www.nytimes.com/2026/09/22/us/politics/aca-obamacare-vance-fraud.html",
+   "published": "Tue, 22 Sep 2026 23:33:24 +0000",
    "summary": "Vice President JD Vance said the measure would save the government $2.2 billion.",
    "full_text": ""
   },
@@ -136,30 +160,6 @@
    "url": "https://www.nytimes.com/2026/09/22/business/economy/unions-ai-negotiations.html",
    "published": "Tue, 22 Sep 2026 15:18:36 +0000",
    "summary": "The machinists union shows how workers are negotiating for a say in the ways artificial intelligence is used in their workplaces.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit",
-   "url": "https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html",
-   "published": "Tue, 22 Sep 2026 17:48:08 +0000",
-   "summary": "Artificial intelligence is on the agenda when leaders from the United States and China meet this week. But with little consensus on a path forward, expectations are limited.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Patagonia Offers $100 to Customers Who Help Others Plan to Vote",
-   "url": "https://www.nytimes.com/2026/09/22/business/patagonia-midterms-voting-incentive.html",
-   "published": "Tue, 22 Sep 2026 17:49:34 +0000",
-   "summary": "The outdoor apparel brand, which sued the Trump administration this month, is ramping up its environmental activism before the midterm elections.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "What’s Next for Paramount",
-   "url": "https://www.nytimes.com/2026/09/22/business/dealbook/paramount-warner-deal-settlement.html",
-   "published": "Tue, 22 Sep 2026 14:33:00 +0000",
-   "summary": "Hollywood watchers believe the studio prevailed over states seeking to block its deal for Warner Bros. Discovery. It’s now free to reshape the media industry.",
    "full_text": ""
   },
   {
@@ -238,7 +238,7 @@
    "source": "reuters-world",
    "title": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 18:50:37 GMT",
+   "published": "Tue, 22 Sep 2026 21:23:58 GMT",
    "summary": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -246,16 +246,8 @@
    "source": "reuters-world",
    "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 18:05:13 GMT",
+   "published": "Tue, 22 Sep 2026 21:07:29 GMT",
    "summary": "Trump warns in UN speech he could 'annihilate' Iran without peace deal &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Trump says US will keep buying Canadian potash, Belarus would sell at lower price",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc2lRM2RhSTdiZUFFVXExVkx0WWVFOUlBY0pDOHRkS0tvU3FtQ2FteGwteGNfQjd6YmxIMFdkNU9jUWQzVzhveHd0bmtiMEk2M1VvOWhPVVJGZUFpSkptRDh3XzBzRVI2UW95UXd1YTV6d0hXd1RvR3ByZnNaLXhCbHVHSUNfRDN2dEVCbEViakdxdmRUSDQ2cEZ1RlhibDNzbUxTTlR5YVpDclItLUw3Rk54ZFJMdmFNeE0tU1pJNDRoeGJMaXdV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 18:15:44 GMT",
-   "summary": "Trump says US will keep buying Canadian potash, Belarus would sell at lower price &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,10 +260,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: Trump approval falls to record low of 32% as high costs bite, Reuters/Ipsos poll finds",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2xXN3ZZR05LSzJLYVpOTFZTVlJkLWhnZUxnRDVlckVJT0pDN3RDRFJoTnJObVJGY0RYMGJLYUpGT0pNVUlrUFlBTVlzS0hNbUhWNk1lYzBNUEdRYmQwNy04X3ZHQzAzY1NGZDZxVEhsOTl3LWFrcjFDMEJhaUxPS2hlbnlUMkRsYml0bnBkSVBUR3F0YUtXbWxDdnVScmE4dGw1LUhXelhOVVNyVm9YbWRJMXI1R2wybnNz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 21 Sep 2026 18:13:00 GMT",
-   "summary": "EXCLUSIVE: Trump approval falls to record low of 32% as high costs bite, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
+   "title": "India's PM Modi expected to visit Canada in December to sign trade deal, Globe and Mail reports",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFFqczh1Z0k2Y203YnY1RzZSUy1jbHdqLTluTS0wZG1GYjVmdXppQVZybUZfUkpBRHJqaTJFWW00U2RzT1BhRG00R2NaNE95cjFFSDJBbUdPZ0RRdHhHNUhqTmFqd2xIWmVlWXBQcndKLTNjTGEyQTF2MTA2OU1ub3YtQjNnTzVnaUZDVDg4bXY2VC1lcDEtbXQ5SFBJWXBoT0cwM1FlXzByYll3TWtPcnVxRHY4a2lCeFE4MmZERzlBRmFtSzZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 18:25:36 GMT",
+   "summary": "India's PM Modi expected to visit Canada in December to sign trade deal, Globe and Mail reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,18 +276,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "China's Xi to visit the US from September 23-25",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSW81X1E4S21pcC1MMDllZDVDNWp4bnd5SlBwVEZqQWtsVFNFRWhpX2FOR2U3aGxDSDYtQnZYdVVDS3BnY0xKOU43MW1sYldjaHNINjVVX3ItT2xYdlh4TG8xSE8zNlhEdW83M2VWbURDei1DNGVMckJEbkpuUWlENFZiUmRwNlM0c2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 21 Sep 2026 07:42:25 GMT",
-   "summary": "China's Xi to visit the US from September 23-25 &nbsp;&nbsp; Reuters",
+   "title": "Trump says US will keep buying Canadian potash, Belarus would sell at lower price",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc2lRM2RhSTdiZUFFVXExVkx0WWVFOUlBY0pDOHRkS0tvU3FtQ2FteGwteGNfQjd6YmxIMFdkNU9jUWQzVzhveHd0bmtiMEk2M1VvOWhPVVJGZUFpSkptRDh3XzBzRVI2UW95UXd1YTV6d0hXd1RvR3ByZnNaLXhCbHVHSUNfRDN2dEVCbEViakdxdmRUSDQ2cEZ1RlhibDNzbUxTTlR5YVpDclItLUw3Rk54ZFJMdmFNeE0tU1pJNDRoeGJMaXdV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 18:15:44 GMT",
+   "summary": "Trump says US will keep buying Canadian potash, Belarus would sell at lower price &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "India's aviation regulator places SpiceJet under operational, financial scrutiny",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkg5OGNDOFdHb3RydVRDdk9yQ0tpWkQ2TnZxUkx6R3N0NDN0ZC1ma3ljQ0RFWGRCNkU5VTNSZVoyd05EQV9TYkF4TEp2TW9CQXM1bnlfSHJZVDhKTzNWU2l2UThCX3F6V3dTWW1rLUFwUmRwQUtBZkhtZkhUd2phYU5MM21oSldzNnRKT3N3eXcwV0RubEpvUE1xOF9zZmNPXzlkaUUtTElZaFBCRGNVakowcXM4YTNremRoaDJpX1dsZmdy?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 09:54:41 GMT",
-   "summary": "India's aviation regulator places SpiceJet under operational, financial scrutiny &nbsp;&nbsp; Reuters",
+   "title": "China's Xi to visit the US from September 23-25",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSW81X1E4S21pcC1MMDllZDVDNWp4bnd5SlBwVEZqQWtsVFNFRWhpX2FOR2U3aGxDSDYtQnZYdVVDS3BnY0xKOU43MW1sYldjaHNINjVVX3ItT2xYdlh4TG8xSE8zNlhEdW83M2VWbURDei1DNGVMckJEbkpuUWlENFZiUmRwNlM0c2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 21 Sep 2026 07:42:25 GMT",
+   "summary": "China's Xi to visit the US from September 23-25 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -308,18 +300,18 @@
   },
   {
    "source": "reuters-world",
+   "title": "EXCLUSIVE: Trump approval falls to record low of 32% as high costs bite, Reuters/Ipsos poll finds",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2xXN3ZZR05LSzJLYVpOTFZTVlJkLWhnZUxnRDVlckVJT0pDN3RDRFJoTnJObVJGY0RYMGJLYUpGT0pNVUlrUFlBTVlzS0hNbUhWNk1lYzBNUEdRYmQwNy04X3ZHQzAzY1NGZDZxVEhsOTl3LWFrcjFDMEJhaUxPS2hlbnlUMkRsYml0bnBkSVBUR3F0YUtXbWxDdnVScmE4dGw1LUhXelhOVVNyVm9YbWRJMXI1R2wybnNz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 21 Sep 2026 18:13:00 GMT",
+   "summary": "EXCLUSIVE: Trump approval falls to record low of 32% as high costs bite, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Trump says US is working on deal to purchase potash from Belarus",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdnRicjFqSjZQb05wc0hHTUFFZXRxTk03VlRXMll4bnpJSXJXQ3ZXaHNEZlAtYWZvdDZ1RjVWT2M2RTNRX0VmZ3RSMW94VmNMbVllcVJCSmdYeXB4TWFZallWZV9yTHpBWE5lRW9uc3J3QmY1WDg4aF95NU1CNGNpWXZDYV9nWWtYTXdwZmdGQnVVbEtza1lwSVR6clVlaUp6ZTB4alk2WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 21 Sep 2026 19:15:27 GMT",
    "summary": "Trump says US is working on deal to purchase potash from Belarus &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Republican senator calls for probe of Trump family business dealings",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1VINWFaTnNHOU1IY3ZueVY0UjMwWXFVTmx1bnA3RjlxT0t4Q0tUcEtpVFRqWVZpUF9JZk1kWkNPNmk0TV9UVVlfMW1sMnBHVzFLRGhpOXBlMU1EYzBrbE1jZzB4dzgtNDFUemg3ZnVpT1B1a1VJWXkwZ0tGMmtCRk80cWFoRVJVdUxPc190dGFkUzk3aUtNT1U5U2lpOW9rVXloYlA5WUhMQWd6OG9tVXhvUXM3VjZSZ0lkRA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 20:30:31 GMT",
-   "summary": "Republican senator calls for probe of Trump family business dealings &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,10 +324,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Global biofuel output to jump nearly 70% by 2030 due to Gulf energy crisis, study finds",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3h6S0hQdGMwNVRQaDNROUhRQkNQamszQ1IyRGRGdkhPeUFrTm9icnhRQlZicTdZZ01EdEpWTmFiOTk0UllMN2hQbUJkaElUWjZOWWROZk96eGZPVVQxOHV0U3VOU0YzbXZTVmNQVHRlUkFySURHeXJSdlZMUFpwWXdMa2tWRVp3dkRsWkhhb2NZbWRGa3pMejQ1QUNNMXFMTlVkc01IMTR2TzJiaU44QWNfVTNhUVBsdXd0WlVHcl8xUGo4NUV5ZVpsMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 16:12:26 GMT",
-   "summary": "Global biofuel output to jump nearly 70% by 2030 due to Gulf energy crisis, study finds &nbsp;&nbsp; Reuters",
+   "title": "Republican senator calls for probe of Trump family business dealings",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1VINWFaTnNHOU1IY3ZueVY0UjMwWXFVTmx1bnA3RjlxT0t4Q0tUcEtpVFRqWVZpUF9JZk1kWkNPNmk0TV9UVVlfMW1sMnBHVzFLRGhpOXBlMU1EYzBrbE1jZzB4dzgtNDFUemg3ZnVpT1B1a1VJWXkwZ0tGMmtCRk80cWFoRVJVdUxPc190dGFkUzk3aUtNT1U5U2lpOW9rVXloYlA5WUhMQWd6OG9tVXhvUXM3VjZSZ0lkRA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 22:51:48 GMT",
+   "summary": "Republican senator calls for probe of Trump family business dealings &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Trump hails Burnham as 'natural business person' after first meeting",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakxzMjBKTVRJSzN2ZXZOQU9ralRZd2lVb2RwLUdjZnBsaC1IWFQtUEt2R1p4cmxIQ1hwbmxscThkUExXdHdUSUo1NmpXWEFSTV9EUGl2VmZTR0RJcmpaZ3dRZktYanlKblNmLUlTaUc5Y08tX0VqaVIweTJsQ25hRUZ3YmZic0hFVGpXX2RqcGV4ZE92TFUxd09RRlc1VFh0bU81QTRRTmhEeHR1OWFqRE5paGpSOEFsUVFZUG5UZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 21:41:43 GMT",
+   "summary": "Trump hails Burnham as 'natural business person' after first meeting &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,10 +348,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 15:21:51 GMT",
-   "summary": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
+   "title": "Global biofuel output to jump nearly 70% by 2030 due to Gulf energy crisis, study finds",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3h6S0hQdGMwNVRQaDNROUhRQkNQamszQ1IyRGRGdkhPeUFrTm9icnhRQlZicTdZZ01EdEpWTmFiOTk0UllMN2hQbUJkaElUWjZOWWROZk96eGZPVVQxOHV0U3VOU0YzbXZTVmNQVHRlUkFySURHeXJSdlZMUFpwWXdMa2tWRVp3dkRsWkhhb2NZbWRGa3pMejQ1QUNNMXFMTlVkc01IMTR2TzJiaU44QWNfVTNhUVBsdXd0WlVHcl8xUGo4NUV5ZVpsMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 16:12:26 GMT",
+   "summary": "Global biofuel output to jump nearly 70% by 2030 due to Gulf energy crisis, study finds &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EU parcel duty boosts Sinsay online sales, LPP finance chief says",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWRjV3lSUnowUWhYU3J1NDVaLW9PQkZNZjlZWm5mQnJELV91dUpaVExuZ0ZGQ0tLUUZzck9ES0dhaW9NNDJ4Q0JjeU9iWEhWdE9jdzZpUVBHRXJqdWZNbWdXYlVXazZSTTdVNEV2Q0lCZ25nY0Y3M0s2MXlaVFpkcjg4RjM5bnVHakpZRFJIMDNnZlF4SlcwN3FuSFRXWGI1TFFVRUFoSDMyZmd2MDJSelM4LXFrZERBU3JSamV3Rm0yb3M?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 10:32:38 GMT",
+   "summary": "EU parcel duty boosts Sinsay online sales, LPP finance chief says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Microsoft to give DARPA hands-on access to quantum system at new Maryland site",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOTVRMXpJeWMzYnQzYnFEQ2JRdEI5X1RHaDVTRDNrYlhkbXRNNThYZDhiZWhpalA5dUEweGthNy1EdEVOTk45MXJxbG5mcXNSbjZHeHc1aUFmaDJVbFNFU290RlFwOGlXdkVvcENHVk0yNmUtRlFpS01DeWJuN1JPdU9fOXlyN2J6THJtRkxBWG5aSDRCcTR4d1o1ZXNfamh5VzlQM0k3ZHh4RDRHc05Cbk81bzNQX2xY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 20:07:45 GMT",
+   "summary": "Microsoft to give DARPA hands-on access to quantum system at new Maryland site &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,34 +380,18 @@
   },
   {
    "source": "reuters-business",
+   "title": "Canadian dollar hits nearly seven-week low on wider yield spreads",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3dyRHAxY2RkNGtMMXJsc2lBb0tPUlo5SXNRdEVLalItVXAtUlk0bDZ6dHpfcFZhOFJHRm1XUVNMc0tNY0dkQ19sUThFUUFWTmxBb2plSVpoU1Y3eGlldTNzVC1CT2gyVl9sdFliSS0ydEp3QkQ2eVppY0hwLV9xS3R5VmRLVlFmMkNrUkVQUzlJQ0tTRXJCWHB4c0tkVk0tMTFlQ2RRaFVXM1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 17:02:48 GMT",
+   "summary": "Canadian dollar hits nearly seven-week low on wider yield spreads &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Canada sees scope for France LNG partnership, minister says",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFIxci14cDBaVHNsWl9PMWR6WUVUakpNb084aU1EZHNkY1FiVDRIMXp2bWRsY2ExMjRUT3NTVnFfd3lWWHp3MlEwb2d4NkxmRndJSmFKYURDU05NS0hzbWl1djRXMXhpUDYydmhqSnRUY2p0NGNDM1ZTTFktVkVjejM0UjhKalJpOVZzaFhmR05DYU10YUZPZjJXWXZfeEdsVGdFXzF1aFJ5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 21 Sep 2026 20:26:57 GMT",
    "summary": "Canada sees scope for France LNG partnership, minister says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Converse pulls ad, apologizes after backlash over alleged KKK imagery, ABC News reports",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa18wWnRxRmowSGlQSUtxX0FMYVFZSVQzUzBLaVlRZUEtMHBoaGZITndna200eTFDMUNBVUV4YWRieFlMRlY4amdNdEVaUHVuWUwwaWZ3S0FPQ2xMTGpMcU10SUZsMURiQkhid2toZll3RHo2TWx2RXF5N2ZTeWhGYWhSTzFNWDlUaERYMmU1azRVSWVXQ1Z4NzZUSUgzNGh4UzZpVVdmdF9tRE4yUG82NXJGTUJJZlIwd2NnM1hKYnMwX1BnVHhWLThvRW93bGxMSkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 03:09:00 GMT",
-   "summary": "Converse pulls ad, apologizes after backlash over alleged KKK imagery, ABC News reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Drug developer ADARx seeks $1.74 billion valuation in US IPO",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDdGZzVQcUgxaHgwWVV5Z1h2Z3NrdFZYYjVNdnhxX0tzb0NKUEs0RXZVeEdCMHEybkJvRWNpWllYWEtzcmhlQXVwQzB5MzJfUGppNkR3Snd6cXF6MXk4aUEwQ3JHWlBQY1NTRm9YVmVHeFdQdVF0RmdQNG5tbWZyb1J2cUVFVklrNVVTUmxKWjQxcncxalQyR0ExX0FwQW45S1dZX2FSazhXbnBxaWVHRVlqd3FLYzVWSVYxRHFnZGpWcXBOb1pHYnRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 21 Sep 2026 17:01:17 GMT",
-   "summary": "Drug developer ADARx seeks $1.74 billion valuation in US IPO &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Aerospace suppliers test rare-earth alternatives to ease reliance on China",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmtCaDgySDB0TTRLU2tuRzhJT3VZZEEtZVFkU1BjQVlCTlJJV2M1QzFuc0lCa3BHRGd2bi1DWjAzSU5yc3lSOU9uMkNPbnNZMDJYTW9pZ0c5SjNhUHRHeDNZOFdGYzgxTGRrdndyUjlqUnlyOFpxdkxLeWJFbW5wQ1YtaXpqS1RpTmdLRkJja0lWLUxYNUszNkZ1dXdjWDJXck5xNjNQWVNRYkxUQWhpcG9pR2FQNzFHVVdWcE5zVWlsdkhKQzZhTWgzbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 21 Sep 2026 10:14:18 GMT",
-   "summary": "Aerospace suppliers test rare-earth alternatives to ease reliance on China &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,10 +412,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Novo CEO says pills could capture 50% of weight-loss market by 2030",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzJXZTFqR3VERG9NRmU1X0hxSnZxaHU0bzFTUG1BRVFjcjNYWEZTcmVndHJiTFUtMjVrUnVQSW1GMHIzV3FrMVc5REJFVjV3UWU0a0diTzVqQzZzUWtVaFdjUlVlXzVrNGpJNGxPdDlNcnpVRi1palVneTZwWGtWTWR5enBNN2hORG1HSnVlcnh2SUMxek9PaHlzWUJfVkpiSDdXM3JfaVoxN0ZiajhoSGhWZUxSalk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 15:16:22 GMT",
-   "summary": "Novo CEO says pills could capture 50% of weight-loss market by 2030 &nbsp;&nbsp; Reuters",
+   "title": "Nasdaq reaches record high close, AI stocks rally",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 22:25:27 GMT",
+   "summary": "Nasdaq reaches record high close, AI stocks rally &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "SNAPSHOT Nasdaq hits intraday record high as tech stocks regain footing",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlc5U2haVjdCOXFmcjZtdUJGOGtOaThkenVQS3piZGpYa0xqbHFuRU5fRHZ2TkdwVC1oZkpRSzVJNXRqU0g2M3BlakJnaVR1NUx1RG90aGRjdjJQYXo1MGg5R2w4ejJ4aXVhY3V1Qk5tX3Y5ZE5sY0dEYzlKY0c5Mmh4WDRleHFCdTM0UjVLT2dFTEVVMXFmVk00bHhhSDlFYXA5cEpGX0tvOU9YRjVraVBKaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 13:54:11 GMT",
+   "summary": "SNAPSHOT Nasdaq hits intraday record high as tech stocks regain footing &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,18 +436,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Fed's discount window supports market liquidity, Jefferson says",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjYybDFyWWptTVNObC1pLXFtVXBDdTdPcWdQbjVURUduYlJnS3ZVZUVybnRMcUdoYU8zOHNCZkpsOE1FRGFrN0ltbkM3WTd0NGpnX0xBQ2RFM24zcG1KWnFWeXNqYXNSR0pkOS1NRXhkYVkxWWFqeF9PT0J5VzFER3V2YnJCSEQ2bkh1Ylg0TjBZTGY5N2dJWWFjN3k2TFJsYjFmUzRVQS1WQWtjeFA0SERoWF9UQVEz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 14:28:29 GMT",
-   "summary": "Fed's discount window supports market liquidity, Jefferson says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "China's industrial rise hits German manufacturers hard, ECB finds",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVkY2a3hKZkdQTS15OFBlTFlFUTJKcWJuTldQeVBOc2ltLTZ3WkN1MTRrWUhLMEtoMWt3ZnROQk50MW9xczVUTVFXTEdPZGNZM2VsX01Pc2xmeXVKb1FzbTJIQmI0RFM5MHh4dlRKT1NTSXpiejR0MTR3WVVJRUo3RFFRX1lsRmNCeU5pVFFITEFZcXliNTFYVFU5WUhac29aNFptOUQ3dmZONXdzZXZ2ag?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 12:10:47 GMT",
-   "summary": "China's industrial rise hits German manufacturers hard, ECB finds &nbsp;&nbsp; Reuters",
+   "title": "Gold eases as traders cement bets for higher for longer interest rates",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVA2UjFJM3dkZnhldzYxTHFKc3JKUndzZmw3LUZhR1dUOUQxYWRQanA0bHVPOEhuMk9XWk1uSXFyQXdvWnVXU2Q0ZUtjUktnb2tnLWhCa1ZRS3Vqemt3cFNEMXRqbTU3TnFUM0loWUJxUTc3Z0NOb0tHc09zOVZMOUFEOElkVUVrS3lzdHRib1g2YTJOdjZqYTVWWFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 02:19:00 GMT",
+   "summary": "Gold eases as traders cement bets for higher for longer interest rates &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -452,14 +452,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Gold eases as traders cement bets for higher for longer interest rates",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVA2UjFJM3dkZnhldzYxTHFKc3JKUndzZmw3LUZhR1dUOUQxYWRQanA0bHVPOEhuMk9XWk1uSXFyQXdvWnVXU2Q0ZUtjUktnb2tnLWhCa1ZRS3Vqemt3cFNEMXRqbTU3TnFUM0loWUJxUTc3Z0NOb0tHc09zOVZMOUFEOElkVUVrS3lzdHRib1g2YTJOdjZqYTVWWFk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 02:19:00 GMT",
-   "summary": "Gold eases as traders cement bets for higher for longer interest rates &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Dollar rises in choppy trading as investors weigh inflation prospects",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFUzRjA0NWVBcXQ2Z1Z3WGVOdGQ0XzNQbll4OGRTbnd4T1dxRnFXSzB1d19zNDM1dWFKdE9JTHRDZzlVYlpWT3FpUFFqNUVWVlFmMDM5eXE0UGZXUnpmWjh3SnpWMzJaSTEtUmJMNmZzTGpMODNYNUFlQm5pMXR1VU9fVlZNUEZQOUpMUEVzc2pVcXA0bEQ5amdQUUEzT2VLWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 22 Sep 2026 00:53:00 GMT",
@@ -467,10 +459,18 @@
    "full_text": ""
   },
   {
+   "source": "reuters-markets",
+   "title": "Indian shares fall as IT drags; oil slides ahead of potential US-Iran talks",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXlPVWFzejJKbzBBSVA5ZFhMbUdTZ0VVS1RZVXBpMlJRZC1Lak9aNmdldDEwdVZ1RGlPMjlUUFdFSGdocFlTbVpjLTFLcXJsN2VqTFhVZ1d0YmYwLTBUNG9tUHVmWEs2Q1E3em4za29OcHo3MFk2Q0twV3M5WFB4Q2ppeW9LVnd3SzJ2SHhLN1N6MTI4YVU0dDBuS0htU3R5SW9maHVnR2NDUFlManVqYTRidGZiYzVv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 02:27:00 GMT",
+   "summary": "Indian shares fall as IT drags; oil slides ahead of potential US-Iran talks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-tech",
    "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUgyOXZwdDA0cWZ2dk1tOU0tcHBBZG95TXFOLUwydXpqem4xZDRfYVJvMkhocFVldVp1cXNOX01zd1Z4YnJGZmxQYWFjY044VlQ2Z1V0UlNhUkU1bEVycUlMX3ZOVGhfMEh3SHRkNlVCTzkyc0w1MXR6RXF3bmJaak1tbXRTMEVNejBTWXFPeDVNQXNPWm1TdW5TTkhGakxMUHJWZURrdVoyanhQRENfc1pTdE5YMll4YjRqNzBNWG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 18:18:57 GMT",
+   "published": "Tue, 22 Sep 2026 21:35:29 GMT",
    "summary": "From smart glasses to AI pins, privacy fears challenge tech's next big bet &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -494,7 +494,7 @@
    "source": "reuters-tech",
    "title": "Ten days that changed the course of AI",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+   "published": "Sat, 19 Sep 2026 10:05:00 GMT",
    "summary": "Ten days that changed the course of AI &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -524,6 +524,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "China's CXMT says new memory-chip platform enters mass production",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXQwT0R1TTBfLVJQNVRFbHdPV0hVRk9XTy1QVXRLZDhMbkFBazRWVzE0NXYzUVdJX0J3YTdCSzU1Q3FMVjVZTjJuUGIwT3lRTldsVTRfNi00eDVNU1JDTFNLaks0Z0M0dTlYb010S0I5RkVoc1prLXFnQkoxeEUwcmd2WWdZR2otbVBybEhKVlRjbkkzRF9mWFdZTUlUYjBMZW1BYXpxa3JXRS1WUHBQNUw3VDR0YjJvRkNv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 20 Sep 2026 03:54:00 GMT",
+   "summary": "China's CXMT says new memory-chip platform enters mass production &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Pope Leo calls for AI systems that don't foster divisions",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQko2S2pCaHVfSGdyZHFfQ3pJWDAzMmJVdmxRTlhpOVh2RzVQN1hQMlhYS1QzX3pyOFNtN3ZoVWZIcVJpcmZNZWFpTmZHa0VVcm0tTGcxc2VxNmFuQXA2dmFmT2ZUbW5RVDhtUmF2TWNwTDVORm1VUlRLWUtLSnpFSFVSTVQ5elQ1bzNmaGl2RlI5R1BuQVRjeDVPcTQ2Rzk5?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 21 Sep 2026 10:09:36 GMT",
@@ -536,14 +544,6 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEs2VnQ4bjhtNHRpdkZxOHA0Tl96czE2cEFqbEx1REtOX0daNi0xMl8xdEUtOWtyMkExemExQjAtN0dyd09lLU5SZHNuQ2JlV3lPZHR5RzZKRUh1dUZsVi1NR1lzbVo2UEpacENtNUl2V0pJV2NQYzJYUVlBTkZFaXZJRjBRR2FfME5fZGZOSzhIUlk0UVlIaHphM0kzUV9VeTJRcFQwQXhwV2RGaU1j?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 21 Sep 2026 16:55:55 GMT",
    "summary": "Priority Technology to go private in $1.6 billion CEO-led deal &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "China's CXMT says new memory-chip platform enters mass production",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXQwT0R1TTBfLVJQNVRFbHdPV0hVRk9XTy1QVXRLZDhMbkFBazRWVzE0NXYzUVdJX0J3YTdCSzU1Q3FMVjVZTjJuUGIwT3lRTldsVTRfNi00eDVNU1JDTFNLaks0Z0M0dTlYb010S0I5RkVoc1prLXFnQkoxeEUwcmd2WWdZR2otbVBybEhKVlRjbkkzRF9mWFdZTUlUYjBMZW1BYXpxa3JXRS1WUHBQNUw3VDR0YjJvRkNv?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 20 Sep 2026 03:54:00 GMT",
-   "summary": "China's CXMT says new memory-chip platform enters mass production &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
