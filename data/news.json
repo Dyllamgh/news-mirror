@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-23T03:10:58Z",
- "count": 67,
+ "generated_at": "2026-09-23T09:00:10Z",
+ "count": 66,
  "items": [
   {
    "source": "nyt-world",
    "title": "U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
    "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
-   "published": "Wed, 23 Sep 2026 02:49:28 +0000",
+   "published": "Wed, 23 Sep 2026 07:05:01 +0000",
    "summary": "President Trump said he must decide whether to make a deal or “annihilate” Iran, in a gathering where world leaders typically focus on declarations of global harmony.",
    "full_text": ""
   },
@@ -84,6 +84,14 @@
   },
   {
    "source": "nyt-business",
+   "title": "White House Defends Trump’s Ban on CNN, MS NOW and Politico in Court Filing",
+   "url": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html",
+   "published": "Wed, 23 Sep 2026 05:06:39 +0000",
+   "summary": "President Trump determined that CNN, MS NOW and Politico were in ‘violation of the standards of professionalism and decorum’ expected at the White House.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "Qantas’s New York-to-Sydney ‘Project Sunrise’ Flights to Take Off in 2028",
    "url": "https://www.nytimes.com/2026/09/22/travel/qantas-project-sunrise-flights.html",
    "published": "Tue, 22 Sep 2026 23:00:07 +0000",
@@ -155,14 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "How Unions Are Confronting A.I. Threats in the Workplace",
-   "url": "https://www.nytimes.com/2026/09/22/business/economy/unions-ai-negotiations.html",
-   "published": "Wed, 23 Sep 2026 01:52:29 +0000",
-   "summary": "The machinists union shows how workers are negotiating for a say in the ways artificial intelligence is used in their workplaces.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
    "url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
@@ -190,7 +190,7 @@
    "source": "nyt-technology",
    "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
    "url": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
-   "published": "Tue, 22 Sep 2026 18:47:52 +0000",
+   "published": "Wed, 23 Sep 2026 03:16:08 +0000",
    "summary": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversation.",
    "full_text": ""
   },
@@ -236,18 +236,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 23:46:32 GMT",
-   "summary": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 22 Sep 2026 21:07:29 GMT",
    "summary": "Trump warns in UN speech he could 'annihilate' Iran without peace deal &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 14:18:00 GMT",
+   "summary": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,42 +260,26 @@
   },
   {
    "source": "reuters-world",
+   "title": "Moroccans vote in election set to shape government before World Cup",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2JmV3AzeXJIWWlwbHVTRFJSR3Q2ekEtZ0xndXFCVlQ2M1E1aGw1T29jLWFjdFNhNnlEbzl1M3lQN0ZUWXphcHZ6dllZNFRERGhNUTY4SGF1bEo4Q1QwYVdCSkdreWlqdklyb0xRNmpHQVpmOG5GaHdFandLSzBMSzhSSkVnVFdHa3YxLVRhUHExVTY3bTZ0TkpqdjVjbmRMZXV5UGliUDRsdmh2bDgw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 01:01:00 GMT",
+   "summary": "Moroccans vote in election set to shape government before World Cup &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Iran submits conditions for reopening of Hormuz to U.S. representative, state media says",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVI5Zk1aX3RhYUR3djFoUE4wTGo1cEJscDJwelUwamFLQV9WVEh3OU1BcFhkOGJKWWtCVXFPSndFUUpFV2xvWWctLTQxVWFlWmE0d3ctNmJuYzVDLXJSdjdwaktKWFREMVBQeUlZakZvalZOQTAtSlQ5UzZFQkFlUVZPblc2bEE5dzNVRV9pTzM2ZkxURHlFMzVlamZCWG50RUlkaVd5MDc4MzZTbWp1N1J1Y3NnQnUwMnFNRjhWMnd6Y0Z1LWp5NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 19:46:20 GMT",
+   "summary": "Iran submits conditions for reopening of Hormuz to U.S. representative, state media says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "World leaders return to UN amid wars in Middle East and Ukraine",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3lDRHRlTWN1YnNJaGtha3IwWGxCV0w1QlVNNWpGQ2habE9mTUJpN2tqT2RvRkJqai15TGVhTTRnbmNCX1o5a2NGaXRVWXpnYXF6SlFodGJLYmZDUjNrVmR3ZXgxQ1hua1c3ZnFfeGE3S1ZGb0REWV9DWWRQNFFEazBWSjVPb1VzMExOYWVKOTJ3SlZaRlRyZWkwVHNOQVpxY3J3?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 20 Sep 2026 16:51:07 GMT",
    "summary": "World leaders return to UN amid wars in Middle East and Ukraine &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "India's PM Modi expected to visit Canada in December to sign trade deal, Globe and Mail reports",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFFqczh1Z0k2Y203YnY1RzZSUy1jbHdqLTluTS0wZG1GYjVmdXppQVZybUZfUkpBRHJqaTJFWW00U2RzT1BhRG00R2NaNE95cjFFSDJBbUdPZ0RRdHhHNUhqTmFqd2xIWmVlWXBQcndKLTNjTGEyQTF2MTA2OU1ub3YtQjNnTzVnaUZDVDg4bXY2VC1lcDEtbXQ5SFBJWXBoT0cwM1FlXzByYll3TWtPcnVxRHY4a2lCeFE4MmZERzlBRmFtSzZv?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 18:25:36 GMT",
-   "summary": "India's PM Modi expected to visit Canada in December to sign trade deal, Globe and Mail reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "China's Xi to visit the US from September 23-25",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSW81X1E4S21pcC1MMDllZDVDNWp4bnd5SlBwVEZqQWtsVFNFRWhpX2FOR2U3aGxDSDYtQnZYdVVDS3BnY0xKOU43MW1sYldjaHNINjVVX3ItT2xYdlh4TG8xSE8zNlhEdW83M2VWbURDei1DNGVMckJEbkpuUWlENFZiUmRwNlM0c2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 21 Sep 2026 07:42:25 GMT",
-   "summary": "China's Xi to visit the US from September 23-25 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Trump says US will keep buying Canadian potash, Belarus would sell at lower price",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc2lRM2RhSTdiZUFFVXExVkx0WWVFOUlBY0pDOHRkS0tvU3FtQ2FteGwteGNfQjd6YmxIMFdkNU9jUWQzVzhveHd0bmtiMEk2M1VvOWhPVVJGZUFpSkptRDh3XzBzRVI2UW95UXd1YTV6d0hXd1RvR3ByZnNaLXhCbHVHSUNfRDN2dEVCbEViakdxdmRUSDQ2cEZ1RlhibDNzbUxTTlR5YVpDclItLUw3Rk54ZFJMdmFNeE0tU1pJNDRoeGJMaXdV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 18:15:44 GMT",
-   "summary": "Trump says US will keep buying Canadian potash, Belarus would sell at lower price &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "EXCLUSIVE: Trump approval falls to record low of 32% as high costs bite, Reuters/Ipsos poll finds",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2xXN3ZZR05LSzJLYVpOTFZTVlJkLWhnZUxnRDVlckVJT0pDN3RDRFJoTnJObVJGY0RYMGJLYUpGT0pNVUlrUFlBTVlzS0hNbUhWNk1lYzBNUEdRYmQwNy04X3ZHQzAzY1NGZDZxVEhsOTl3LWFrcjFDMEJhaUxPS2hlbnlUMkRsYml0bnBkSVBUR3F0YUtXbWxDdnVScmE4dGw1LUhXelhOVVNyVm9YbWRJMXI1R2wybnNz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 21 Sep 2026 18:13:00 GMT",
-   "summary": "EXCLUSIVE: Trump approval falls to record low of 32% as high costs bite, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -308,18 +292,34 @@
   },
   {
    "source": "reuters-world",
-   "title": "Dollar holds near 2-month high as markets weigh rate hikes, Iran diplomacy",
+   "title": "Dollar at 2-month highs as markets weigh rate hikes, Iran diplomacy",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ09vVklTVy1TeFR1N3AzZE9MUHJnb0dWeTVVUXJOS1N1dE1lT0ZSX1BSZ3RnMzVoVTdXTHhldmxGZkhCYkVTaHRMLWFrU2FUQVJhbzZHWld6TnZ5OFdXTGNDWXNUbTl1NE9qSmV5a3ZiQ0FUa3laZUdZVjRZZmNwazFoNDlKVHlkdEVQdzVLM01pb3M0S0x2VkFqN0dJRzhOLVZkenlmQzNxTVRVVm9reFRUN1psM1ZkbW1ycUhYU0VMM28?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 23 Sep 2026 01:43:00 GMT",
-   "summary": "Dollar holds near 2-month high as markets weigh rate hikes, Iran diplomacy &nbsp;&nbsp; Reuters",
+   "summary": "Dollar at 2-month highs as markets weigh rate hikes, Iran diplomacy &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "China's Xi to visit the US from September 23-25",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSW81X1E4S21pcC1MMDllZDVDNWp4bnd5SlBwVEZqQWtsVFNFRWhpX2FOR2U3aGxDSDYtQnZYdVVDS3BnY0xKOU43MW1sYldjaHNINjVVX3ItT2xYdlh4TG8xSE8zNlhEdW83M2VWbURDei1DNGVMckJEbkpuUWlENFZiUmRwNlM0c2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 21 Sep 2026 07:42:25 GMT",
+   "summary": "China's Xi to visit the US from September 23-25 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Ineos to mothball three chemical plants as high energy costs hit production",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHk4VnpzNFkyZWFVV01mWEV6aEhXcklsLXVKVHF1Y2xQajRJOG5QNmdfeHk5dHV5bnZmV242clVvLXk2Ym1YdjNnQ2h1MTdHXzlKbjlxVXVxSW1sR2Z3aUFpN2xpWGJJY1VWXy1TSDJQazNuX3U2aUlKem83eGo1YTFGd24zX0VCTEcxRXlwSERVRXV3d1JHTDRwZWV2OUlsMS1JQmVDUUxCTWpNTkp5QTJJRTE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 09:12:19 GMT",
+   "summary": "Ineos to mothball three chemical plants as high energy costs hit production &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "EXCLUSIVE: Saudi Aramco plans reorganisation to create gas division, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWpkb3RQV3p1VmpBdlAwTHlnTVI2bkJRSW9hWDNHV1JqRFloLXNkV0pOVDR4aXRmNkpIMzFwS0xBMU9zMFRqVUF0VThLWndEeFlSc1NMVGVYc2NiSDVkb05mZVozNGp5RWRkcjNhY2N5amZwX19QT1NGemF4djVKSU51SjRDaWg5dTUwMFpkd243bWlyejFCQWNmY29EbTF1WG9QNGNoTVJBODRHakgwMW1fX2JfaHZI?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 16:41:23 GMT",
-   "summary": "EXCLUSIVE: Saudi Aramco plans reorganisation to create gas division, sources say &nbsp;&nbsp; Reuters",
+   "title": "Oil falls on better supply outlook, hopes for US-Iran talks",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 01:44:00 GMT",
+   "summary": "Oil falls on better supply outlook, hopes for US-Iran talks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,6 +332,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Trump hails Burnham as 'natural business person' after first meeting",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakxzMjBKTVRJSzN2ZXZOQU9ralRZd2lVb2RwLUdjZnBsaC1IWFQtUEt2R1p4cmxIQ1hwbmxscThkUExXdHdUSUo1NmpXWEFSTV9EUGl2VmZTR0RJcmpaZ3dRZktYanlKblNmLUlTaUc5Y08tX0VqaVIweTJsQ25hRUZ3YmZic0hFVGpXX2RqcGV4ZE92TFUxd09RRlc1VFh0bU81QTRRTmhEeHR1OWFqRE5paGpSOEFsUVFZUG5UZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 16:55:00 GMT",
+   "summary": "Trump hails Burnham as 'natural business person' after first meeting &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Wall Street expects Meta's AI agent to shape into a new revenue engine",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHZ3dUF2a3BDZVdNNW00Rm5jekRCZUlNeTdabXRaQUdNaHpqZG95QnlISWVGQTJYR3F0bWJ5MmkxUUZkYndqUkZsSG1EdXU4MFcwdE5taHp4UU1DTk16OWV0bWJDU0drdEVVb0FmMnJWUVdLbm5SRFdMdWtRMzd4NnRlUDB4bnVQd3d1Q1VmSmdVOFJQdlJtVTBQUExDeFVFdXRWbTRvVE9yTDFZdVE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 22 Sep 2026 18:25:41 GMT",
@@ -340,34 +348,42 @@
   },
   {
    "source": "reuters-business",
-   "title": "Trump hails Burnham as 'natural business person' after first meeting",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakxzMjBKTVRJSzN2ZXZOQU9ralRZd2lVb2RwLUdjZnBsaC1IWFQtUEt2R1p4cmxIQ1hwbmxscThkUExXdHdUSUo1NmpXWEFSTV9EUGl2VmZTR0RJcmpaZ3dRZktYanlKblNmLUlTaUc5Y08tX0VqaVIweTJsQ25hRUZ3YmZic0hFVGpXX2RqcGV4ZE92TFUxd09RRlc1VFh0bU81QTRRTmhEeHR1OWFqRE5paGpSOEFsUVFZUG5UZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 21:41:43 GMT",
-   "summary": "Trump hails Burnham as 'natural business person' after first meeting &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Saudi Aramco plans reorganisation to create gas division, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWpkb3RQV3p1VmpBdlAwTHlnTVI2bkJRSW9hWDNHV1JqRFloLXNkV0pOVDR4aXRmNkpIMzFwS0xBMU9zMFRqVUF0VThLWndEeFlSc1NMVGVYc2NiSDVkb05mZVozNGp5RWRkcjNhY2N5amZwX19QT1NGemF4djVKSU51SjRDaWg5dTUwMFpkd243bWlyejFCQWNmY29EbTF1WG9QNGNoTVJBODRHakgwMW1fX2JfaHZI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 15:41:00 GMT",
+   "summary": "EXCLUSIVE: Saudi Aramco plans reorganisation to create gas division, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "US Treasury secretary could take on AI czar role, source says",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUpGX2hDdFZBMW45ZFVIelJSUll4TnpWR3NYWExINUxaX2planJ6dU9JNkNCcmM1U216U0VNcDd2TjZfNlluVHUyd1NtZkk2MjZlRTZRRWtLUGJBckpEQk91cUl5QnpvQWc2SC11cTRZczZPa2xBMTBjeVRVMWhRLURoazZZR0E1ZHY4OGNzY0wwTFFCXzRUNFlnbFVmcFFxVjRNRw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 21:55:00 GMT",
-   "summary": "US Treasury secretary could take on AI czar role, source says &nbsp;&nbsp; Reuters",
+   "title": "Wheat buyers brace for higher costs as Russia-Ukraine war drags on",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUswVEozejNqc18tLUlqcnBVXzNDVDNkZHQyN25BdDhqYTVBN2NTNnVoODNxLTI0bXg3d00wWXY1NW1yUVpuM1FDLWFsZVYzVFVwbkNqbzdBd0JHaDk1UGg5NXVFQ2g2MFZwalBpYW9GRURiMVB4cnd5RWd3cXpmcktIalFsNFBxTU1YNTRBakx1NXRBaEJJWlo0Q280X1FIcFR3cWxfTTVsV2ZIUlBmX25na0E2U0JhdTF6M2dQMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 04:09:00 GMT",
+   "summary": "Wheat buyers brace for higher costs as Russia-Ukraine war drags on &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "South Korea plans to cut its reliance on Middle East crude oil imports to 50% by 2035",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeE55dDdROVIwdjhlcVFjWnRFQmx0T3pxNldiUkE1eklicGwtRlFGMEljOFoxT01rMVdURzhrTlhCV3NxNnFpSGdSQUROSUROUjVRX3d1R0ZPSDh3RHFBNE1FV21oR0ZpU0pYbXNCRmotM2hna09KT24wX0ljWl8yS2dEU05wUVJSbjNQck04MzR5blJmamxSSVlzZFdWNUZNeVRxODBsbldaaVE4cFItSDY0eFFKYkJYbmRoUFQxX0dxaVlpSUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 00:42:00 GMT",
+   "summary": "South Korea plans to cut its reliance on Middle East crude oil imports to 50% by 2035 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Smaller packs, more protein: AB InBev to adapt drinks to shifting tastes",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMWxLSHRUVi1Ua1A5X29YNk1keENNX0tDcnB2V1BZeFlwYWE3YURrZzdWUFg0c0wwa0FZc1NQZElPMTRENW1DbVNJRzRheGV6Xy1JQU5jNzRSeXNzQUc4S19Melg2Y0F1S0FXTms5UmVUQnpkdVBSaVVMNEtTUkhSNElRb2cxYzJTb0lHQ2NaNWJDS3VCdF9FT2tJVFlhSW50d3ViOVVZRWNwQnM4aFNHXzljWWtTT0U5VlEzSjM1UWlQU09vc3hWSV9WT085aEpyM2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 21:27:13 GMT",
+   "summary": "Smaller packs, more protein: AB InBev to adapt drinks to shifting tastes &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "Global biofuel output to jump nearly 70% by 2030 due to Gulf energy crisis, study finds",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3h6S0hQdGMwNVRQaDNROUhRQkNQamszQ1IyRGRGdkhPeUFrTm9icnhRQlZicTdZZ01EdEpWTmFiOTk0UllMN2hQbUJkaElUWjZOWWROZk96eGZPVVQxOHV0U3VOU0YzbXZTVmNQVHRlUkFySURHeXJSdlZMUFpwWXdMa2tWRVp3dkRsWkhhb2NZbWRGa3pMejQ1QUNNMXFMTlVkc01IMTR2TzJiaU44QWNfVTNhUVBsdXd0WlVHcl8xUGo4NUV5ZVpsMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 16:12:26 GMT",
+   "published": "Tue, 22 Sep 2026 11:24:00 GMT",
    "summary": "Global biofuel output to jump nearly 70% by 2030 due to Gulf energy crisis, study finds &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Zelenskiy says Russia planning new mass attack on Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV045LXNpMHZzM3o3R1h1N3ZtNmJNaTN0V3lHNkwxYmpfNU9NeFMzVG9tQmdDeDY1enVzY1FXTV9LLWtyWFBNUWlGcUFLZ1MtZkxSd2xsNW96SDhmS2taZ0c1MWo3Z2NiOEtJQUVHRXhOTU00X0Rha3JMc1BBOFVKVUpnRzA1a3Q2U3MzcXJwQW1YMTVxYnhhUXpOaWRNV0N6X0laTUxLMTUyV1E4V2pHOWNWa3VLZEpG?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 23:36:59 GMT",
-   "summary": "Zelenskiy says Russia planning new mass attack on Ukraine &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -379,19 +395,27 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 15:21:51 GMT",
-   "summary": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "Asia stocks ride tech wave higher, oil slips again",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 01:51:00 GMT",
+   "summary": "Asia stocks ride tech wave higher, oil slips again &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "The show must go on: struggling luxury brands seek catwalk boost in Milan and Paris",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY3BGTE9jNG8tMzc5RGN4RDRUQUQzTW1sMk5jcWg5UFVIa2IwdkJkNFBhcDJITXFrekNiT2pfS0dZXzRiQWxrZjhLVzBjU0Z6cDFSeWNEZGFmRnRQVHNDR0dpTGY1eFZmLVRZc2ZhNFd6UGg1YUUyWXplSEpvRUdwSHllV0Z3bHdfRWNsdkF5dklkYXNESE5LZk1RYjNiMDJ6X2dIU0FfYkJnSEFUQ2lsWEh5UkRkbEFxTFhmT3pMTzA3SXE5WWZkcg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 05:09:00 GMT",
-   "summary": "The show must go on: struggling luxury brands seek catwalk boost in Milan and Paris &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "Ban on US diesel exports would hurt, not help fuel markets, analysts say",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFVnODdXSGNuNWJSMGVVTjMySl9oT2l0enUxVmFDaVc2S3RYMG1mMndUTWF3U0RaYXdNNGZ0aWN0WlpjYjc5NGU4alB2MTk2eFBtWktwZFFvUG15NlpicEwyd0hLb181cVh2Z09kRmNjLWoteHQ4ZDQtRjJ4LThRQS0xSlE5VGxpNGJHNEljMXlXcXlWdFoya1c0YW9ZWkxya3BsVTJvTERZYTU3dHBrXzln?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 22:54:00 GMT",
+   "summary": "Ban on US diesel exports would hurt, not help fuel markets, analysts say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Gold lacklustre as higher-for-longer rate outlook weighs on sentiment",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGROaTNUbzBNRWdvU1J1SVRKaURrN0FDVHMteG50VExEUUhKN3UyQ0pMZ3F0ZUtXRHoyc2c2aDgzRkFrTFhHR01OdVROSVBWVnRLWmhqSjNDdW5FVjdHeEptYW5fUFg1VFVnX0xXZURtemZqOVNqNmRqc19yVjdYX3BwM1I1T0M4VUIwdDNqdmxFcnlXX2pKS3VCNllNbEJTQkZxZTJkd1NpNDZwOGpBSw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 04:53:00 GMT",
+   "summary": "Gold lacklustre as higher-for-longer rate outlook weighs on sentiment &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,10 +428,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "COMMENTARY: Trading Day: Oil slips, Nasdaq rips",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmQyVGpCeXVDQWRkR3E1WVlHeXB0Q3FEVkRXR0stbUx4ZVREU3BsdnQ4aG9yZVhvSklIR1RBOTM4NkFsQVM1emhhdTMzQUVpbnFFbGNvYzdpbWp1N2JtbmtBTWFPSVE1Y296NUlFOFlHNWZGLWhtQ3J1d1pHOXp1T2hyanRPaUpLUFR3Rk5XeGI4clJ6NVBzbVNMRnRlTEpjbXgtR21n?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 21:13:02 GMT",
-   "summary": "COMMENTARY: Trading Day: Oil slips, Nasdaq rips &nbsp;&nbsp; Reuters",
+   "title": "Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGR3T2ZLcVk2ZkdRdDBJLWZkVlRlUXBONm9UVmoyX1lmVU1CcE1KM2ViNDhrWllDVTdJdnYtYVlsQnBDMzRGU0JoczNhSlV3UGdnMTl4M3o2NDBVcVhDZDZZQUhHUlFZN0tDVWNGUDFMQkJmSWhtNjhKM2E4LTVtZThna01tSTdGekdrQVVmUGthTEpRLXBVTEtqRDBkNmVJbnQ4MURybndmMkwtMmVVU01CWkxIZG9ISUoycg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 16:56:55 GMT",
+   "summary": "Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -420,58 +444,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "As Trump and Xi meet, investors play both sides of AI divide",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQW45WkNOV0lEcDRQOFUxcGJRanlYNURFV2ZuNVg1MUk2dk4wMEhmMUp4VVd3NjBWN1RuOHY4c0QtQ3hxcWVITnpOblZJWl9KSTBWUUVDQUgycjdlRk9lMUhvVDAxN25hVHZXM09HOGZYdE1qdDRUX19DeVpwWXlwV2JNcmdpRDROMGVlNm95NFEyaEpTN1FDYk1CazdaOXNXWkZIekRMN2lCOUN5ZXFZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 08:56:00 GMT",
-   "summary": "As Trump and Xi meet, investors play both sides of AI divide &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Nasdaq reaches record high close, AI stocks rally",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 22 Sep 2026 22:25:27 GMT",
    "summary": "Nasdaq reaches record high close, AI stocks rally &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Asia stocks ride tech wave higher, oil stays subdued",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 23 Sep 2026 01:51:00 GMT",
-   "summary": "Asia stocks ride tech wave higher, oil stays subdued &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: Morning Bid: As oil swoons, AI recharges",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDg3N3o3aUpOS0JUNnBBVjZhOF9hendQRFd4aXNzV0ZIa1Q5Z3piVkc5NUt0ZWItMHdHeEk2ZGRaR240dFVOaHBKMVhUdXZKX3JlSFdxSktEenNrRkV1R3BWdWRINkJfVDZ1Z0lwMGtoSG9PWG9mM0xTamcyY2l3c0d4Yjg5cjBfNzFQS18ydlplWmdlcXdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 11:13:54 GMT",
-   "summary": "COMMENTARY: Morning Bid: As oil swoons, AI recharges &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Morning Bid: AI trade gets its Muse",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWVmTk9ISjY1anlUUGF3V2E1MkpMcFZYZndPT21sdkRPZGxPTE1GNVZ6ZldRUU5KZlBkWndZNjFjUnNaNEIxNS00UVBRaTNENzRFQ0tJOVBqSk50aldlMGRFUktYOGlJaUk2RUlreWlvQUwxT2laRF8zOUVJWDRkZjZaNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 04:34:00 GMT",
-   "summary": "Morning Bid: AI trade gets its Muse &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "SNAPSHOT Nasdaq hits intraday record high as tech stocks regain footing",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlc5U2haVjdCOXFmcjZtdUJGOGtOaThkenVQS3piZGpYa0xqbHFuRU5fRHZ2TkdwVC1oZkpRSzVJNXRqU0g2M3BlakJnaVR1NUx1RG90aGRjdjJQYXo1MGg5R2w4ejJ4aXVhY3V1Qk5tX3Y5ZE5sY0dEYzlKY0c5Mmh4WDRleHFCdTM0UjVLT2dFTEVVMXFmVk00bHhhSDlFYXA5cEpGX0tvOU9YRjVraVBKaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 13:54:11 GMT",
-   "summary": "SNAPSHOT Nasdaq hits intraday record high as tech stocks regain footing &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Dassault Aviation tests AI algorithms on Rafale fighter jet",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUxwak1sd0hYUGdPdW16RUxHRkR0eXg1MmVmUzBLSkJVRWptcUUxUHRmX0Z6d3BFUmNTM3c0TmNKNXp2eWVYNmlvZlNsVkpQektGcG15cExLOHhibmNkVldkODhNWmdOQ0lsUHdNRXM0WWsyTUl0dFVqbUx4YXhKNWhteDNTVU9lUEMzeUR3ZDBCVWR6cG1RYkRZV2FXRkVBN2ZzX1d5MGo1aVdrcnc0VTFCVmdwQlZBcEEw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 12:11:59 GMT",
-   "summary": "Dassault Aviation tests AI algorithms on Rafale fighter jet &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -484,9 +460,25 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Turkey launches AI initiative ahead of COP31 climate summit",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0xSMUdUcld5cDRtc3BONVJrLW1neXVaRDVxcE50UjFKcDFsTE5aUUo3VmdDalJyd2dHMF90bFRxcFlqZVJoT3Z0aGZxb25yejJHN3ZkZmw4Mm9DcGx5V3QxSHVYSE1IdUFsSlFoLVZTNzJCaXRwX1JsaEw5RDhPNzJSUXRaeTJscVdoaWZBc0kxNmJsWUY5Z044MkdsaGwwUllaWlF0TmpQWlItZk5IXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 21 Sep 2026 13:31:30 GMT",
+   "summary": "Turkey launches AI initiative ahead of COP31 climate summit &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Dassault Aviation tests AI algorithms on Rafale fighter jet",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUxwak1sd0hYUGdPdW16RUxHRkR0eXg1MmVmUzBLSkJVRWptcUUxUHRmX0Z6d3BFUmNTM3c0TmNKNXp2eWVYNmlvZlNsVkpQektGcG15cExLOHhibmNkVldkODhNWmdOQ0lsUHdNRXM0WWsyTUl0dFVqbUx4YXhKNWhteDNTVU9lUEMzeUR3ZDBCVWR6cG1RYkRZV2FXRkVBN2ZzX1d5MGo1aVdrcnc0VTFCVmdwQlZBcEEw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 12:11:59 GMT",
+   "summary": "Dassault Aviation tests AI algorithms on Rafale fighter jet &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Ten days that changed the course of AI",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 19 Sep 2026 10:05:00 GMT",
+   "published": "Mon, 21 Sep 2026 07:00:00 GMT",
    "summary": "Ten days that changed the course of AI &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -502,8 +494,16 @@
    "source": "reuters-tech",
    "title": "France probes misuse of smart glasses in sexual harassment cases",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNektBQWp6ZnpTQ25yWXRMV0ktaXQ1YzBnUktZX0xtSFJzQkZxMVp5QUszNXpvZHRPMlZuN29vUmYzd0JrMHpjbzNFaEI3MjdfbVhSTnV6OU5peFNsZ3pJSjVOQllYTUNSOURWM3pFOURpX0t0NDZRbTN3b0MtcnRMNC1BMEdleGt6RWRUa1Bqb19CS00yOW9GMHQxYlpjYnVrVmo2cThoalpYWUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 19 Sep 2026 00:46:16 GMT",
+   "published": "Fri, 18 Sep 2026 19:00:42 GMT",
    "summary": "France probes misuse of smart glasses in sexual harassment cases &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Tech leaders, governments split over 'AI doom' fears",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOci00d2VnNkNITS1oUkJ4U0ptbWdrdmh1LXJmMGd3RzE0dnlKMGpSRWM4MExrTENURHF1UWU5VTJqak5xellza0FNb2VGZXNzMllrS3kyZHFjS3R0QXoyLVRlRjVHYXNac2dMbUdRQm0xWTFqUFYza05OZDNyTjNzRGZiQUVnZEhuYXVqWktNbEF2c093YVpzN09vUDQ3a3duSmR3M0J0M293M0JCOHpKdlNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+   "summary": "Tech leaders, governments split over 'AI doom' fears &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -524,18 +524,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Priority Technology to go private in $1.6 billion CEO-led deal",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEs2VnQ4bjhtNHRpdkZxOHA0Tl96czE2cEFqbEx1REtOX0daNi0xMl8xdEUtOWtyMkExemExQjAtN0dyd09lLU5SZHNuQ2JlV3lPZHR5RzZKRUh1dUZsVi1NR1lzbVo2UEpacENtNUl2V0pJV2NQYzJYUVlBTkZFaXZJRjBRR2FfME5fZGZOSzhIUlk0UVlIaHphM0kzUV9VeTJRcFQwQXhwV2RGaU1j?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 21 Sep 2026 16:55:55 GMT",
-   "summary": "Priority Technology to go private in $1.6 billion CEO-led deal &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Pope Leo calls for AI systems that don't foster divisions",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQko2S2pCaHVfSGdyZHFfQ3pJWDAzMmJVdmxRTlhpOVh2RzVQN1hQMlhYS1QzX3pyOFNtN3ZoVWZIcVJpcmZNZWFpTmZHa0VVcm0tTGcxc2VxNmFuQXA2dmFmT2ZUbW5RVDhtUmF2TWNwTDVORm1VUlRLWUtLSnpFSFVSTVQ5elQ1bzNmaGl2RlI5R1BuQVRjeDVPcTQ2Rzk5?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 21 Sep 2026 10:09:36 GMT",
-   "summary": "Pope Leo calls for AI systems that don't foster divisions &nbsp;&nbsp; Reuters",
+   "title": "US Treasury secretary could take on AI czar role, source says",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUpGX2hDdFZBMW45ZFVIelJSUll4TnpWR3NYWExINUxaX2planJ6dU9JNkNCcmM1U216U0VNcDd2TjZfNlluVHUyd1NtZkk2MjZlRTZRRWtLUGJBckpEQk91cUl5QnpvQWc2SC11cTRZczZPa2xBMTBjeVRVMWhRLURoazZZR0E1ZHY4OGNzY0wwTFFCXzRUNFlnbFVmcFFxVjRNRw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 21:55:00 GMT",
+   "summary": "US Treasury secretary could take on AI czar role, source says &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
