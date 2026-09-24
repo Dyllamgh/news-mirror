@@ -1,20 +1,60 @@
 {
- "generated_at": "2026-09-24T02:34:47Z",
- "count": 30,
+ "generated_at": "2026-09-24T08:55:57Z",
+ "count": 62,
  "items": [
   {
    "source": "nyt-world",
-   "title": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
-   "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
-   "published": "Thu, 24 Sep 2026 02:26:44 +0000",
-   "summary": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that the fighting have spilled beyond his country’s borders. He called for steps to end to the war before winter.",
+   "title": "Beleaguered at Home, a Bellicose Netanyahu Heads to the U.N.",
+   "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html",
+   "published": "Thu, 24 Sep 2026 08:46:49 +0000",
+   "summary": "Prime Minister Benjamin Netanyahu of Israel will take to the world stage while fighting for his political future in a critical national election.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Inside France’s Push to Stop Migrant Boats to the U.K.",
+   "url": "https://www.nytimes.com/2026/09/24/world/europe/france-britain-migrant-boats-police.html",
+   "published": "Thu, 24 Sep 2026 04:01:10 +0000",
+   "summary": "Thousands of migrants cross the sea between France and England each year, though numbers have fallen amid increased policing.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "​Ukraine Sent Two North Korean P.O.W.s to South Korea, Zelensky Says",
+   "url": "https://www.nytimes.com/2026/09/23/world/asia/ukraine-north-south-korea-pow-zelensky.html",
+   "published": "Thu, 24 Sep 2026 03:48:40 +0000",
+   "summary": "President Volodymyr Zelensky of Ukraine said one soldier tried to kill himself when he was captured. “This is how they raise people in the North,” he said.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
+   "url": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html",
+   "published": "Thu, 24 Sep 2026 04:01:05 +0000",
+   "summary": "Balendra Shah, 36, comes to the U.N. as a sun-glassed symbol of Gen Z political power. But concerns about his style are growing at home after devastating floods left thousands dead or missing.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Families Urge Trump to Press Xi to Free Americans Detained in China",
+   "url": "https://www.nytimes.com/2026/09/24/world/asia/china-xi-trump-detained-americans.html",
+   "published": "Thu, 24 Sep 2026 06:47:40 +0000",
+   "summary": "The Americans being held in China are U Min Zin, a scholar who studied Myanmar, and Youlin Chen, a seismologist who researched North Korean nuclear tests.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Australia Investigates OpenAI Hack on Public Health Care Site",
+   "url": "https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html",
+   "published": "Thu, 24 Sep 2026 05:32:47 +0000",
+   "summary": "Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
    "url": "https://www.nytimes.com/2026/09/23/world/africa/ethiopia-tigray-airport.html",
-   "published": "Wed, 23 Sep 2026 17:31:43 +0000",
+   "published": "Thu, 24 Sep 2026 07:30:03 +0000",
    "summary": "Tigray People’s Liberation Front seized a key airport in the city of Mekelle, as fears grow of a possible return to a full-scale war.",
    "full_text": ""
   },
@@ -43,43 +83,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "How China’s Leader Plans to Win the Future With A.I.",
-   "url": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
-   "published": "Wed, 23 Sep 2026 09:00:09 +0000",
-   "summary": "A decade ago, Xi Jinping asked if China could master A.I. His push is remaking the economy, challenging the United States and keeping society under control.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Why Germany’s Leader Merz Is Struggling to Sway Voters",
-   "url": "https://www.nytimes.com/2026/09/23/world/europe/germany-merz-afd-economy.html",
-   "published": "Wed, 23 Sep 2026 17:46:26 +0000",
-   "summary": "As the far right surges, Chancellor Friedrich Merz’s unpopular economic policies and gruff manner have failed to sway voters turned by rivals’ promises of easy fixes.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "The Winner of This Rivalry Gets Ice Cream. But So Does the Loser.",
-   "url": "https://www.nytimes.com/2026/09/23/world/middleeast/ice-cream-ramallah-baladna-rukab.html",
-   "published": "Wed, 23 Sep 2026 10:12:08 +0000",
-   "summary": "The competition between two popular ice cream shops in Ramallah inspires fierce loyalties, and a running joke, for lovers of cones piled high with flavors.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "U.S. Rebukes Australia Over Proposed Limits on Social Media Algorithms",
-   "url": "https://www.nytimes.com/2026/09/23/world/australia/social-media-law-algorithms-us-embassy.html",
-   "published": "Wed, 23 Sep 2026 08:20:08 +0000",
-   "summary": "The U.S. Embassy said a draft law allowing users to opt out of systems that choose what they can see in their feeds could amount to censorship.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Youth Frustration and Migration Shadow Morocco’s Election",
-   "url": "https://www.nytimes.com/2026/09/23/world/africa/morocco-election-youth-frustration.html",
-   "published": "Wed, 23 Sep 2026 10:08:37 +0000",
-   "summary": "Unemployment and poor public services fueled the border crisis at Ceuta and Gen Z protests, but frustrated young people may stay away from the polls.",
+   "source": "nyt-business",
+   "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
+   "url": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
+   "published": "Thu, 24 Sep 2026 03:53:54 +0000",
+   "summary": "The founder of the blood-testing start-up Theranos was sentenced to 11 years in prison for fraud and had been serving time at a minimum-security federal prison in Texas.",
    "full_text": ""
   },
   {
@@ -100,10 +108,10 @@
   },
   {
    "source": "nyt-business",
-   "title": "Judge Holds Off on Immediate Ruling on White House’s Media Ban",
-   "url": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-ban-ruling.html",
-   "published": "Thu, 24 Sep 2026 00:27:47 +0000",
-   "summary": "Judge Timothy J. Kelly heard arguments about President Trump’s recent decision to bar CNN, MS NOW and Politico from the White House grounds. He said he would issue a decision about it “as soon as possible.”",
+   "title": "Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico",
+   "url": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
+   "published": "Thu, 24 Sep 2026 08:13:36 +0000",
+   "summary": "Judge Timothy J. Kelly issued a temporary restraining order and told the White House to immediately restore the press credentials for the employees of the three news outlets.",
    "full_text": ""
   },
   {
@@ -155,11 +163,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Trump faced the sting of cancellation this week.",
-   "url": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/trump-faced-the-sting-of-cancellation-this-week",
-   "published": "Wed, 23 Sep 2026 18:44:02 +0000",
-   "summary": "",
+   "source": "nyt-technology",
+   "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
+   "url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
+   "published": "Thu, 24 Sep 2026 02:50:25 +0000",
+   "summary": "In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.",
    "full_text": ""
   },
   {
@@ -188,22 +196,6 @@
   },
   {
    "source": "nyt-technology",
-   "title": "An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.",
-   "url": "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
-   "published": "Tue, 22 Sep 2026 18:37:12 +0000",
-   "summary": "Advances in artificial intelligence and the myriad ways content is shared online have made establishing authenticity even more difficult for users of social media.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
-   "url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
-   "published": "Thu, 24 Sep 2026 02:28:52 +0000",
-   "summary": "In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
    "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators",
    "url": "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html",
    "published": "Thu, 24 Sep 2026 01:17:17 +0000",
@@ -214,7 +206,7 @@
    "source": "nyt-technology",
    "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
    "url": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
-   "published": "Wed, 23 Sep 2026 20:05:46 +0000",
+   "published": "Wed, 23 Sep 2026 20:05:47 +0000",
    "summary": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.",
    "full_text": ""
   },
@@ -240,6 +232,270 @@
    "url": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
    "published": "Wed, 23 Sep 2026 23:38:55 +0000",
    "summary": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversation.",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "World's largest copper mine halts operations after worker death",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzZxbW8tVVUwZUp4SDI3elhNeEJWUGNvV09EaldxRDl0VzRFRFFNUk5JVWdCZkpraW50QmNlRTFEbDl2VGY4MGszZXdRM2UxcFNiekNycHB2WEMzYzAxc3JCZG1KUk5MRF9SSnZwRzZ5ZW1Icm5hbzZKdW45MF9Xcmk3VWNrNXhWb3NKY0wxb0haaE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 19:55:45 GMT",
+   "summary": "World's largest copper mine halts operations after worker death &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "SoftBank raising $11.1 billion in world's biggest high-yield corporate bond sale",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeldGcjFrNndNWHBkZ3ppV1hNSklkU3BNWGw5ZWFZQ1VyMWptRmJTN2pEMVBfUVFoLU0xOUhaUVN4VVR3RTNKeXNySkFGZ2tsRWVLRkY0SnhTdDUwcTZwWS1PYVBPdklXN0NLd1phMEt6Uzc3blZleGxGYUh0ZmhLY1RVREJxcE5VNFBsenVhcXpnV0R2WGVXWk9uUGdvT3BRSVRDVFFZSk1aZl92ZGxwSG1sbWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 00:13:00 GMT",
+   "summary": "SoftBank raising $11.1 billion in world's biggest high-yield corporate bond sale &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "A diplomatic split screen as Trump and Xi meet",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjdDUU9HODhTcWdINGxKSE03VHRiTllZWWZRQ0pXdjFIQ3ZFTW83SFJHNF9ERmZJQVM1R0dsWFNYeTlyMWpKN0VOVnl6Z0tGbUJUTHJfMFBzaUFtSmJaYVR2RW9uYTNCbWx5bXBjU3Fia2tPdzdXbHM3UmtQUk9vekdkVk1OMXg4YVY5TEJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 05:03:00 GMT",
+   "summary": "A diplomatic split screen as Trump and Xi meet &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Qantas workers begin 24-hour strike at four Australian airports, union says",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVThLVHk0ZmpDa3lIUUR6SHdmNTI3UXNNVUMzTTZOWHNMWkV4VmN6UWpZLUVYd2dBeGZFY3ZxaUpUb0FmcjJLbVJ3UV9Vc3dSRHdoMDl1cDd1eUR0V0dSc2N1U2pvYTBNZFlxb2RsckloT2NvRlVITTNfSGxnckpNN1NwQUpQZkpvTWxZalhBVXpCN3dxU2Q1YzlNRVV2aHYtS3JKOUx4Nkp6S1R1bjlkQUxNWGtha3dab091QS1TQU8zVGpCS2M5RGhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 05:18:39 GMT",
+   "summary": "Qantas workers begin 24-hour strike at four Australian airports, union says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Iran threatens to paralyse airports in neighbouring countries if they stop Iranian flights",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUlgwSXVrdWFYTVkxcldmZ09MajFXRHZzZ210YWlMSWZtZDc2RHEyb2I0VlljWWlpMkhtRm95OHdiZE5pU29qajhva3Z6N2lyVWR5ekFZclQ4UzBGdUhxZ0VnUFZJZFdIWTIxZ3J0WkJqUlZDeVBad0loM016eGFSWEpGZGxzMkJaZU10UHI1MjByS3hLNnNGRGxzOTV4ZXFYTmFTUXdTOU9IaEVGN25qaXN3U0piMEpFT1ItV0dhdUM0VG9QdWJfeXVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 14:11:36 GMT",
+   "summary": "Iran threatens to paralyse airports in neighbouring countries if they stop Iranian flights &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Gold slips on Fed policy tightening bets",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenM1U09oVWJmVW8zbUtuN1ZLcWU1dGRKa1Rqdk1FU0k5QmVDSGRwcG9hR1NVVFVYOGhkSWpMdVF0aWFZMWx6TlNSWHZiajl5UWdzbWFZNmpGUW53MEhhbGgteHgtOGZGTzdlVGdWVjhWR2pMSzdJSWdCSmVTRHA4RVlCWS1tNU1NQU9QanFEQTRnNjhSSlhFQ052dEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 02:23:00 GMT",
+   "summary": "Gold slips on Fed policy tightening bets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 21:07:29 GMT",
+   "summary": "Trump warns in UN speech he could 'annihilate' Iran without peace deal &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Indian court rejects Adani plea that duty-free shops are beyond domestic laws",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEhvRnhrdzVjSXdBUmZRb3k1V05SbGdXaHRXUTNGNi1UQVlBaXpxb1ZPOTl2bnVUTTA2Sml3OENCS2NMTEFab3ktNVZOVWZlMUgwSlRpUHRvTko2a1VyQ2JjZ3pwblhydk13NnhZNWNmUXh3N2hiaDRwZ1BRX3ZRQ3J5NVdPQVNuWGhQdXhER2o3NUxmRjB6X0twWGpZWW93SjdNMFpVSXMyQVZfOEkxVkpoU2tyZ0ZMak1uUXBCWHRBM2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 05:38:00 GMT",
+   "summary": "Indian court rejects Adani plea that duty-free shops are beyond domestic laws &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Thousands of US flights snarled before FAA resolves telecom problem",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVk3MmpJODlBb0YxWTRJZ3I1V3BjOUpSOVd3ZWQwUVVHS3pmM1k0aEp5Znd0a21uRUVheW9PZHpOMzQweGd3djJTQVBLWGhFNEp1TnZCbGs0bHZzYzJrNVVIWUVOSDZwSDNKTWJWcjhfbHR5N0NWREgzb2NWX1VQYjhBY2kzVy1Ec3hSVXl3MWdrM1BIWkZKNzVXWEVKdFRveVE3R2hiMmZnZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 21 Sep 2026 22:41:56 GMT",
+   "summary": "Thousands of US flights snarled before FAA resolves telecom problem &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "EXCLUSIVE: Hacked FBI data has sensitive information about employees’ intelligence roles",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTTNTQi1jcmhUUmtUYXNiUFhMaFBGNG5kMjF3TDUyRmJWUDRIREdFOW1YaTR1Y2J5Z1dMNUxCQWdrQkhWMm1pcTJEbU5jeHBwbGM4MjgxaTZVZ0QwcWswQW4zYjJJejFLZjN5dXRscUx6REE1V055clBrMF90LXVER19hZzBhUDRqZzRPTF9tUFBKT05HQUdIV2Yydzloc3hKTm4zUVNtNDlIdW9ISkg1VUZ6cDc3YXk0WHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 21:27:47 GMT",
+   "summary": "EXCLUSIVE: Hacked FBI data has sensitive information about employees’ intelligence roles &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US business activity at more than five-year high; inflation pressures building",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc19nQ3NuN0drQVpfdkdyMmt3UjJSQ0xHODV5UFdYSjlvUXpNdFI0eHo5MEpMemJuUHBCaU9yQ09qVXlka0RxeEF5WW05MmhNYzVZTmM4ZXVrTVJTTmJ2Z3gxZE9BcWcwM2cyWXlZMVNtTlM3YzBTWTJzMGJZcjgwbWJ3bzlZVFktSnNGeEdGNGxETDVZVUgwVml0S2M3M3QtSHp4UTJYV1dnOXd0ZkNWRTV2bnY4YklOM2FJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 20:57:35 GMT",
+   "summary": "US business activity at more than five-year high; inflation pressures building &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Microsoft plans $10 billion-plus Gulf investment with focus on resilience",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVDduQm82eUNQdm9ILVhIRlg5T2tSU1dVSHRYNk0wTm44X0twWmpNYWc4V0pWLUk0UmpQWDdtMEFLRlBCbjNNRmpXVmRJTlJORFRmYlp0Rm9qckFDOVRpalZlMzVoUTN6cEtRZ0UwS1cwdmg3XzdFd2UtNEtUdXJNUGpva3ZfRXFybmFzYThwX2JtUzFZOURvWWM3VGlOUWhScE5jdFlsSWpneURKZmZoY0ZPcDk1Tnd2eGZZMEFrUkNfSXZGS3hydDB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 20:08:20 GMT",
+   "summary": "Microsoft plans $10 billion-plus Gulf investment with focus on resilience &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Hope fading for new Boeing deal during US-China summit, sources say",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbjNsVlBmUHA5c2wzcnZVNnJ1b2x5bEF5cGhuUzR0RGtKQkpWeDgtcE5YLXpJbFRVZTg3RHN3WllHb0xWWTQxOENKbHJnWGs2TWEzWWtUV3NFOEJ6S29VM2xPSGh4Ny1oUUFvSXNmdXpJd1B3d2ozdEtRQXl1QVB5c0syY1dCY3BkOVpYYWJmaTNiaEZFd1JWN2diNFF2NGRoV1hMRFA2SlYwek0xT1FDVFhIVWRsaVlFb3pZck1ONGpKcnZRTDNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 02:52:34 GMT",
+   "summary": "Hope fading for new Boeing deal during US-China summit, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Dollar near 2-month peak as investors pause after rally, geopolitics eyed",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmQ0RTlyNTJnNVVWaUx1Uk1pbTl0UWVTOXFORWhmM3dqdHJXZDdWZFlHRmNQdS1zSHhYWG1RTDVBeFlWdFhxT0N5WTBnNFQ4VFBQdFNvUk01YUFRUmZGQUZUa0h1ZUJqdkNnaWRXXzl2cWRlRE5vM1FuR1hfdnFNcnFRaVJYdGtPX081cXN5dTFSR0JwbzhYYnhHclN4UEVmU3g4X2lNWlJGMkd5S1lSZFlhUFdWMVpYUlc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 02:02:00 GMT",
+   "summary": "Dollar near 2-month peak as investors pause after rally, geopolitics eyed &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Britain's JD Sports says Nike turnaround is only a matter of time",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdk5mdHpYU1FCWk5Rdkh4TWxGY2I4QUpVT2lRUlQ0cEppeXVXVXllV3I5Y0h1XzJTR0p3ejVQOWF2SVAtY1hscDJ4dE9jR0t5RXVocndtRUZjTFBqWkxROEE2VHN2SExpMVNEemVyaURCalltc0ZRbnpXWkV1NEZuSVR3akdnN2FYYWVmRXU5T0UwTV8wNU9IOENCN3pfTk9NMU5fNnBfWVF0OVhkQWNUNTBnMEFGOTBPd3RtTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 08:21:44 GMT",
+   "summary": "Britain's JD Sports says Nike turnaround is only a matter of time &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Europe's economy surprisingly resilient amid war-driven energy shock, surveys show",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjhMRFNMVWI2VzNSa2lZSEtxWXlLajBkRWhUMGlQM2xiall6TmJnMDNDTmdlbmVYa2l5UFdQRlZIYVFoSXNVZnNSelNWV0Nza2tPcnR0X2t0d0VYLWVrNUk5d1c4V08zSjlRT1ZtMzJwRW8xNllSeVJzODlRSlk5Q2FoM3pBQXRkblhkUTQ1Z1pUV0hDOUJTbEpZcTZ4TVk3TjNEUWxNbHFFb1FxQkVReUdoejY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 09:50:37 GMT",
+   "summary": "Europe's economy surprisingly resilient amid war-driven energy shock, surveys show &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "China's Xi to visit Washington without CEO delegation, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkhzenNiZ2IydzlmSHA5dHc3SE8tWHZRUUIxczNoMkNFZ19PLUhNc2w2VlVJbzgwRjFGc3cwMDJ1YTI3SU5uWVMxUVd2andsNjJPd05hQmhMejZ0R09wemU3QlNEbE9PNHZadkJVVFhXZkFJR21Ddlo3MHVOck1jSTJoYloxeDZYdFNteWdiek9vTXRoN2RuWFlLWVpTSTBDZWp6SnZSUlVDZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 14:34:08 GMT",
+   "summary": "China's Xi to visit Washington without CEO delegation, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Israeli bulldozers smash Palestinian olive trees ahead of annual harvest",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWF6b0oyTm9VbjlMVERkVEhEaVgwbGoybno0bW1LcEZFQkpWRXlVaU5QV0ZRMWFTNkFEY0JRRjBvRjlUOThXMkQ4a0djaENib1Yyb0Vvc2YxYmhlY3VhemwtV3lEaThtQ3VmaFI1TGlCNUJpV1dVTUlORTNWMmpxaW1NZl9IV3JONVp6cTFMbHVCT2pVNHR5NFRkUDdISWZzbGlKMk1oVzVYN0hka0l4bFoxMk9PYk5RblNnUzNvN1NBMkpO?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 17:42:00 GMT",
+   "summary": "Israeli bulldozers smash Palestinian olive trees ahead of annual harvest &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Morning Bid: Diplomacy takes a back seat",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU01WX1JfTzIwdUo1SzFaM0cxdFJxeEhZakFPazkteXR6Y2l6cUNMekJFNHdiN2ZsX1hEUUZnM2hQaTRMZy1BY1F2bzBlc0pwZ2p1OXFhSVluVFVCbjY2RUZVRDJZNF95cVNlOGNJZlpVQWZQUVJWaUlfT0JmMFVqNUhkaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 04:46:54 GMT",
+   "summary": "Morning Bid: Diplomacy takes a back seat &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Fed rate hike cycles have a history of denting US stock prices",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 05:03:00 GMT",
+   "summary": "Fed rate hike cycles have a history of denting US stock prices &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Oil extends gains on little sign of progress in US-Iran talks",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FxSEFPZkVpeHV0LS1WTURzc3lOWWM3d0dfTG1mQ0hBWmZiLWhia1FPbnUzdm5yMVhuZE1RenYyOTNqYmFqT2d5MzVtNE1IcHJCNGJ4aXU0US1Tc09OWnJINzRpQkFTWXdsczlhcE50N25wT052OUZhS21QOG9haGV4XzFTZnQ4NzNTWFlVbU1QcDRyZC0yejVxX1dabVZmWHMyMVM0dWE5RGpNWXZNVHBn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 08:23:58 GMT",
+   "summary": "Oil extends gains on little sign of progress in US-Iran talks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Bonds shaky, oil eases off highs amid trade, peace talks",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 05:55:34 GMT",
+   "summary": "Bonds shaky, oil eases off highs amid trade, peace talks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "As 5% Treasury yields lose shock value, investors start worrying about 6%",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGNNand1cUh2bEZfdjZSUEI0TTRsbTRmc3kyRk9ZdGNMZ1VWdEMwWDVFTVpmUjFnUFNwRlhXQklrUWR6UEc2QUhaWFBKQUQ0M04xRjBjck5tWTA1cS0yRmNNN1BJV2JvYTBnLVpsczZzazN5alR0OW5hdDVNMW1majRMcFdCcXpYQzFWVjlsbGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 17:25:00 GMT",
+   "summary": "As 5% Treasury yields lose shock value, investors start worrying about 6% &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0ZXSlEta0N4WGxzcHJBNUM1cUI0d0U4TGFwa2NMbDM4U0Q3MWt0YXY5TGpQQ2xxdmJWNm0yeGl0ckJNanVPOU5HOUd5R0hNc19pZXcyd3FwWkFkY1hyUEpOdTZyMVZoN3R0eHZLdkxUYzRXV1hoRDctTXhUa3pvckNvLUktNDBmWm1OV3lhOTluQVRDQzUyQTN3Q0V0YmN2Q1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 20:24:49 GMT",
+   "summary": "Inflation pressures raise prospect of Fed rate hike on eve of elections &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "COMMENTARY: Trading Day: US yields cross 5% threshold​",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjMwNHgtV29pdXRzWVdEVEQ1cjY5VktYS1RyUWZBcFhRMUkxNnREakZ6dUxBMVdWUUgwN0FTNGIzeEhLU21pUlJyVDB4c2lXcm94d0pqSW13NG9BVWM5LUw3YWtVRFFiNHNnLUJOZFNSd0VhOVZFT3U3b0ZPWXprTFR6UENiSTEzcFo0ZG5kN2VJQmd5WGV0YnBLVWZrMmVEb2hmdnZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 21:11:43 GMT",
+   "summary": "COMMENTARY: Trading Day: US yields cross 5% threshold​ &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "There's a reason Trump is the only one talking about 1% interest rates",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjQ0bXJDcnFwd3RhY2JmdnRjTVJvT3g4WEc3UGNDZ05mLUN6eGMtSjdSdzdkaFJPYjdKX3BZQWoyM2hVbUJfRjJaWERxNHZaSTNOQnJiblVRd1dKOFBUWXZHSnh5RzBCOUJYR0U3LXBGaTVvQ2RRcUNSMkhVU1o3Q1ZUYURqcFlwQ0R3bVNYTTlSZWdoOWl1SkVsbkUyTm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 11:05:00 GMT",
+   "summary": "There's a reason Trump is the only one talking about 1% interest rates &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "AI firms should not get regulatory waivers, Nvidia CEO says on podcast",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkRfdGVvZzNROGxZeEd5dFQ5RV94YktETmZzRmNkekFLdkluYkVFNTVXSEI5RGtzOXNDa2FTWGN1RE5ZTEIta18tSWNWSUFCT0JNeXMyREZuNFFidlpPOEoyYjhMUUZlMC1odGpNcEdnR2tCdmZBRldqSnljTjNPLUVQOFBSWVkyS3Rsdzh2LWNvWGVoSkpTbUp6YUlLWFVRU1RkQ1hDMGtwUGVjN2ctUm9xWW9iNHNVSjE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 21:06:13 GMT",
+   "summary": "AI firms should not get regulatory waivers, Nvidia CEO says on podcast &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Australia says OpenAI agent hacked government website, checks for more breaches",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWZud0ZEMW9uYlUwVlpoRlBIbW82Tjc4Rjl3WW5jcWxVR25wSmZCTXlOdHkwR2VrQzdzZkUwX3lNMXBGUkZMZU1sYS13dzRRb1RMRzFOVjc5RmJIbXFfNy1ob1VZY1ItYS0tQW9XVHNLc3p3UEJwNy1QRWVSYVFjQnh0ellEX2JSZkpSdXlMYVI4UkV2VE05enVnZFJuV3BaS1pVczF5VE9vaTdZOGZyU2tjTk9oVVE5RVBjTnVWNGNUZzVEZDM0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 20:44:00 GMT",
+   "summary": "Australia says OpenAI agent hacked government website, checks for more breaches &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Anthropic says Claude AI helped discover novel enzyme system",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSy1hZUZTdFRxVmt6XzZubm9GeGFET0hMaVBkaUh1aEpJVWRnbVgzdGlPZE5KQXFHOFdiRHZEQ2JZTmtaeTgzY25rY3Z6VFpMYVdkekp5SG81bEJ6Q2RRaF9VMUcwem1NS2N5dE5wcmI5ZkNoeE9TaGdNWFVtekFPVUN6eWRUeXluUFQwNVp0N18xanFEU0xwNVhiNUxnMF9xZHVMLVRwYU9LSWJmWERKSlBtdktoZ2RXbm8yY3BuRk1sSmYtX0xTSEY1M00?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 21:12:38 GMT",
+   "summary": "Anthropic says Claude AI helped discover novel enzyme system &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Meta's Muse rekindles fears over winners and losers as personal AI agent emerges",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlVtTVRPc0JSamlpVlpnNHFRZ1FQWDE0OFpRN2JoTzhQZ2lXaDVJV2FkMjBGa0psQ2ZUWVpzbXIxbFVDS3M0eHVWWGI4aGxxZVotZGJXTHRocVhXZU9fbl9rX2xvbGFkSGIxazlPOXlVRlNISEVLTEFZNXlpRVI5V1JRS3k5N3JTLXZ3UEFnMXA5cktvaDEwa3V6dUhvTkZRTnotSnhKV2xRbDJjRTF4NW5Bd0VWcXVIZHJWbDgtLTM2M3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 17:13:00 GMT",
+   "summary": "Meta's Muse rekindles fears over winners and losers as personal AI agent emerges &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "AI leaders warn UN of security risks as systems grow more powerful",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 10:05:00 GMT",
+   "summary": "AI leaders warn UN of security risks as systems grow more powerful &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Geely turns to 4-minute EV charging, AI in battle with BYD",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUY1bFM0SUViWjFuZmJsbFMyeDJTOWdnMEg1dTMzMWg4TjEzOHJlRUZHWUtHY2RTTHRoT2g2ajBoaHA2VE5JSDBELU4wYkNtYXRMeFB6M2RiYTRGUTk1QzBVNzFSYjVISE5xSW1rX3hQSXBCaFNnS21kSHJYUkNiZ2MxdC1LX1U5Y3lrWE5McmstbERpem5qTkRRQno1VkNjMmRDTE1RVjVhQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 12:52:09 GMT",
+   "summary": "Geely turns to 4-minute EV charging, AI in battle with BYD &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 10:02:00 GMT",
+   "summary": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
