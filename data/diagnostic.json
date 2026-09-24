@@ -19,13 +19,13 @@
  },
  "reuters_via_jina": {
   "status": 403,
-  "size": 755,
+  "size": 655,
   "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Thu Sep 24 2"
  },
  "nyt_svc_api": {
-  "status": 403,
-  "size": 771,
-  "sample": "<html lang=\"en\"><head><title>nytimes.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></h"
+  "status": 404,
+  "size": 68667,
+  "sample": "<!DOCTYPE html>\n<html lang=\"en\"  xmlns:og=\"http://opengraphprotocol.org/schema/\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <title data-rh=\"true\">Not "
  },
  "reuters_pf_api": {
   "status": 401,
