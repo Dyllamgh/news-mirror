@@ -19,8 +19,8 @@
  },
  "reuters_via_jina": {
   "status": 403,
-  "size": 721,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Fri Sep 25 2"
+  "size": 759,
+  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Sat Sep 26 2"
  },
  "nyt_svc_api": {
   "status": 404,
