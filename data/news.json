@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T13:28:43Z",
+ "generated_at": "2026-09-27T18:01:46Z",
  "count": 67,
  "items": [
   {
@@ -12,25 +12,33 @@
   },
   {
    "source": "nyt-world",
-   "title": "UK Deploys Bomb Squad Near R.A.F. Fairford, Air Base Used by US",
+   "title": "5 Men Arrested on Suspicion of Terrorism Near RAF Fairford, Air Base Used by U.S. in Iran War",
    "url": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-   "published": "Sun, 27 Sep 2026 12:30:24 +0000",
-   "summary": "British police said they had arrested several men on suspicion of offenses under the Explosives Act and had evacuated local residents near the R.A.F. Fairford base.",
+   "published": "Sun, 27 Sep 2026 15:19:19 +0000",
+   "summary": "British counterterrorism police said the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer",
+   "url": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
+   "published": "Sun, 27 Sep 2026 16:57:34 +0000",
+   "summary": "Abbas Araghchi, Iran’s foreign minister, said a history of contradictory messaging meant that President Trump’s rejection might not be a final position.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
    "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
-   "published": "Sun, 27 Sep 2026 04:01:24 +0000",
+   "published": "Sun, 27 Sep 2026 16:07:26 +0000",
    "summary": "In China, A.I. doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I. companies from trying to overtake their U.S. rivals.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "27 killed in mass shootings in South Africa overnight",
+   "title": "At Least 27 Killed in 2 Overnight Mass Shootings in South Africa",
    "url": "https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html",
-   "published": "Sun, 27 Sep 2026 11:37:19 +0000",
+   "published": "Sun, 27 Sep 2026 11:37:20 +0000",
    "summary": "These were the latest deadly incidents at bars or taverns in a nation with one of the world’s highest murder rates.",
    "full_text": ""
   },
@@ -75,11 +83,19 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
-   "url": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html",
-   "published": "Fri, 25 Sep 2026 19:55:36 +0000",
-   "summary": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”",
+   "source": "nyt-business",
+   "title": "Dee Brock, Who Created the Dallas Cowboys Cheerleaders, Dies at 96",
+   "url": "https://www.nytimes.com/2026/09/27/us/dee-brock-dead.html",
+   "published": "Sun, 27 Sep 2026 17:41:18 +0000",
+   "summary": "As the first director of the troupe, she helped transform it from a high school squad into a global phenomenon.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Morris Ballen, Who Helped Spread Indie Artists’ Music, Dies at 88",
+   "url": "https://www.nytimes.com/2026/09/27/obituaries/morris-ballen-dead.html",
+   "published": "Sun, 27 Sep 2026 17:23:18 +0000",
+   "summary": "Countless independent acts in every genre — punk, hip-hop, church choir — relied on him to create small runs of high-quality records and CDs.",
    "full_text": ""
   },
   {
@@ -118,7 +134,7 @@
    "source": "nyt-business",
    "title": "Women Sluggers Are No Longer in a League of Their Own",
    "url": "https://www.nytimes.com/2026/09/27/business/women-baseball-league.html",
-   "published": "Sun, 27 Sep 2026 10:57:00 +0000",
+   "published": "Sun, 27 Sep 2026 15:06:20 +0000",
    "summary": "As a group of players from an all-women’s baseball league in the 1940s and ’50s gathered at a recent reunion, the future of women’s baseball looks bright again.",
    "full_text": ""
   },
@@ -142,24 +158,8 @@
    "source": "nyt-business",
    "title": "A 7-Day Standoff That Said So Much About Trump and the Media",
    "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html",
-   "published": "Sat, 26 Sep 2026 09:03:11 +0000",
+   "published": "Sun, 27 Sep 2026 15:41:27 +0000",
    "summary": "An abrupt decree, a network boycott, a legal intervention and an uneasy détente: This was no typical battle between a president and his press corps.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "High Gas and Rising Mortgage Rates Trouble Trump as Midterms Near",
-   "url": "https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html",
-   "published": "Sat, 26 Sep 2026 09:02:06 +0000",
-   "summary": "As the president extolled the strength of the economy on the global stage, Americans continued to feel the sting of rising prices stemming from the war in Iran.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "This Screw Is Needed for Missiles and Planes. Buying One Can Take Years.",
-   "url": "https://www.nytimes.com/2026/09/26/business/ball-screws-military-production.html",
-   "published": "Sat, 26 Sep 2026 13:19:26 +0000",
-   "summary": "As the Trump administration scrambles to increase the production of munitions, these special screws are expensive and hard to source.",
    "full_text": ""
   },
   {
@@ -236,6 +236,22 @@
   },
   {
    "source": "reuters-world",
+   "title": "Venezuela president returns from US visit with no deals, no firm election date",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUxEZXdacXd6UjBYZ2luNzdKaGQzNXVXcm0yRXdfU095UmN2MXY4NEhoZ3B0Um9XUWI5RkZMYUdYajJrS1Etc1hjNi1oVUxoQU9mVlAzbnlYcWVKMnRBOTg4SWR4YXkyRVhfVUtoTzI4ZVUxWTkzNXVsZklSY3gzZnBSVXU1RjhsU1JJbDVhTURxZ3AtTWRGNk5CeVV2WEh6UXdfQVlfOWZpSWVXSzBwbTVGeUwySWlDWW9OaWhtY2I?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 26 Sep 2026 14:16:34 GMT",
+   "summary": "Venezuela president returns from US visit with no deals, no firm election date &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "US to finalize sharply lower vehicle fuel economy standards",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVBRNVl3X3FfSjZmOTlqUEZsS0RlN2ZkQnU3cF9oSVA3SVhaUFVKdC1saW1UQ3hKQk5FUHpfUjE2MERFLXVyQU8zRktURUxjVnVzMHk4a3RlV2FKaUNITWxBWmsxdUxTd2VyNngtZzZHeWpfNGd1OXVldFhwMlRRbkFOOEJFSnBYbkZpV1BJUk05N0ZRUzdVYzMtVHBTbUxtbnNrYWJxcXBqY1h1QmgzWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 26 Sep 2026 21:25:15 GMT",
+   "summary": "US to finalize sharply lower vehicle fuel economy standards &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "World champions Spain punish England errors to win Nations League thriller at Wembley",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSUJRbzVBN3hTQ0hpZW5wdU9hUjZXWmlzaFJnQ0tMRGlCOTRQRS1TUmVrSUZoUzZPSlhTUFBZYlEzQnMtRkdjRElYYXFERW4tWlVOMWZXdC1pX2l0SHU1QUMyeUdHLWJQd0lZdGdUal9QSnN4ZWZSR3ZoQ2stckhzU19iWGt6MURZM1ZZZXVxWUxKNy1iYlBVdTlKdTZKOEdITG96RHBwTEpGY2RXazVRcmhRcEVlZ3RuN3Q1MGJQelIyYUZOVllGWg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 26 Sep 2026 22:17:39 GMT",
@@ -252,17 +268,9 @@
   },
   {
    "source": "reuters-world",
-   "title": "Venezuela president returns from US visit with no deals, no firm election date",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUxEZXdacXd6UjBYZ2luNzdKaGQzNXVXcm0yRXdfU095UmN2MXY4NEhoZ3B0Um9XUWI5RkZMYUdYajJrS1Etc1hjNi1oVUxoQU9mVlAzbnlYcWVKMnRBOTg4SWR4YXkyRVhfVUtoTzI4ZVUxWTkzNXVsZklSY3gzZnBSVXU1RjhsU1JJbDVhTURxZ3AtTWRGNk5CeVV2WEh6UXdfQVlfOWZpSWVXSzBwbTVGeUwySWlDWW9OaWhtY2I?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 26 Sep 2026 14:16:34 GMT",
-   "summary": "Venezuela president returns from US visit with no deals, no firm election date &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Pope Leo urges Church to face failings before meeting French abuse survivors",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGNfb19vNE0wR0lybVdvaHJncHRrRUZsLVpzbzdGWkhBeVNRanRfOEl4T2RmWXVSc3NlMFl6S2hzaER2c0dmZzNLcGlrTGdyMXRhOXQ3NzZfMU1hZkZNeUxReG93aWhIY0U1WUI3TGc2bEhBY2w1Z2V6OXZEN2Z5dWVNN1hFU0R2WlNZUl9sN0tuOVlkdDdnT2NaU29kOV96R1dFR0w5QkRKSko1RlYtTktmSW1ZNi1EeUtSdnpxSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 27 Sep 2026 09:37:43 GMT",
+   "published": "Sun, 27 Sep 2026 14:03:16 GMT",
    "summary": "Pope Leo urges Church to face failings before meeting French abuse survivors &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -307,22 +315,6 @@
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "Battered bonds draw support from falling oil prices",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 20:41:28 GMT",
-   "summary": "Battered bonds draw support from falling oil prices &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "South African police probe mining feud, business rivalry after shootings kill 27",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2EyakRfYnN4VnV2MFRsWmF1MXRHQXBObVl0c29NMEJoRUFoS0JCUVlWaEF5T1dqb3VHRHNLOWsyVXFoa2ZfcGpSdE8xRWVZNmJoWGhWVUVsbWEzRF9Tb01sQmgzaHVfTFAwLWtXMWRRWGtvdUlFYlFET2Y0eHJJT2c3cUJJcU1VYnZmMEpKc2dJYlVuaEk0UnFhYzA0dDg5WTY5bFJBNVhhOEttNThlTE93Y0VLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 27 Sep 2026 05:50:00 GMT",
-   "summary": "South African police probe mining feud, business rivalry after shootings kill 27 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-business",
    "title": "US consulate builder in Milan to pay $35 million over labour probe",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzNpd051YmVtWG1CajVjZ1NPTzhzNVJ6aG5uc3p4SXBIZFBDdlhPZmMySXlNWVNaY21wUXNFZnJ0aVA5bklra0E2SVJxT0k1QkZtQ1N6bVZXdEtwblFES2xWNGhpU0ZUU3JhZkRXM2xkc3YzUmMtRFJLV1lWNFZyWFdJcndhMm4zVE9XeGdTMG9oR0tqNGwxOXloQzhNRjE3dXBDQ0h2a1RPN09RNmJUak0xbnQ1ME1nTjBR?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -332,18 +324,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0NHdkNjeHVId0Z1MThydkhrVktZMWtKM1FRYmQ2dlRFb2tqR1pXT3FGMkFBLXF5QkJCRzd1RGtLNENtT2k4bkxFclJ3elNzWVkzaXBTam55UlJGQ2FTLVFYd1AyNmRCNzhOYXJtVENXTzVSbzV3U04wbk5lTDFVSkZONEY0TzdyaG1kS1NGaHV6ZE5GSk1xZE9WY1pTU0JtV1E0Vk9lRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 22:07:32 GMT",
-   "summary": "FTC chair suggests AI developers should be liable for conduct of agents &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "PepsiCo to raise some chip prices as input costs bite",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFZJN0d4XzBRaUNTeXNUdkhRQVg1Qm9YbW9PRWdqUmoyT1FKOFM5bGszWDgtVDRMV3ZBa2lLUUYySzNhMnVlZmNZZVVwUk56enhuVjhNVjFnTFBQNHNpVmNkN2M1YUQwNmZfaDRaQ0RFWkJiMUV1dmdDc0hSZ29OZ1FqSFpHTXRvTjRGR1VfX2hvc0dRRXpDejdCUlloclJmSDhUWk41N3o?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 24 Sep 2026 17:35:53 GMT",
-   "summary": "PepsiCo to raise some chip prices as input costs bite &nbsp;&nbsp; Reuters",
+   "title": "South Africa reels from two shootings that kill 27 in one night",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2EyakRfYnN4VnV2MFRsWmF1MXRHQXBObVl0c29NMEJoRUFoS0JCUVlWaEF5T1dqb3VHRHNLOWsyVXFoa2ZfcGpSdE8xRWVZNmJoWGhWVUVsbWEzRF9Tb01sQmgzaHVfTFAwLWtXMWRRWGtvdUlFYlFET2Y0eHJJT2c3cUJJcU1VYnZmMEpKc2dJYlVuaEk0UnFhYzA0dDg5WTY5bFJBNVhhOEttNThlTE93Y0VLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 27 Sep 2026 05:50:00 GMT",
+   "summary": "South Africa reels from two shootings that kill 27 in one night &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,22 +348,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "Mercedes aims to cut €800 million in labour costs in Germany, WiWo reports",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUtuY2FnV1JYVG9qX1ZEUTJPYlFfaG9fX1V0V3VZYWROd0dmSVMzQVRaOVVYVHdqMklSWkdQVTl3SXY5aHBCOGtaZjJFWkRVV2VKbGJwOHBvdkEtTkV5R2psZS1CS0wzQUR1ME90VTloNXdyMjZCcjVWbl9NS3pjSm9FMzJ1eThwWEttSThMNXJ2cGdqNDNHelhFOGJiblJrZnlWWDl2N1QwaTVZRmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 24 Sep 2026 09:01:37 GMT",
-   "summary": "Mercedes aims to cut €800 million in labour costs in Germany, WiWo reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Saudi Aramco is working with Evercore on gas unit plans, Bloomberg News reports",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZC11YWhLc0hmeG1xeFdGQmx5Y3REbmQzSzE4SHNmMURDbzd6Uk1WX0xlWEtlamw5dVJuT0N6c21ZTFZOZndkSGpPcWE4bGdVd0gxejBVRFRvR1RpUzR5b3NNdmZuTk43d2hOdzV4QW5tT2xqLWdkalJWTVhuVEswTFROYUlsbGNVeTE1YzA4c09MUE9oVlF5OWw4S2E2VWZBNF9BM2pueUx4VHY1R194SGdSbURXSFBvbmNJR0JfcVVPcFRwcHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 26 Sep 2026 16:05:45 GMT",
-   "summary": "Saudi Aramco is working with Evercore on gas unit plans, Bloomberg News reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "White House reinstates access to CNN, MS NOW and Politico following judge's order",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGZDelJBRHdvcFBwNGNlTGwxdVNHNnk1UmhJeDZUZWd2Y3o4ZGw4QTVaM2VrT21MQWt2eUUyR2c5cnR3ckdadDZNS0RSdUpLX1FVMHpqU1B3aWVyeGs3aGp0RE44R2JoRG55QlhiUWRQOWRhUGtoZ1ZoMlhydDJOQlRPU2JkbldsaDB4UUc3TVJxU2xwMFVvbHlMNG1UOHNPWUUzSmVaVHFCR1Y0SmJvRmFSNFVDU3JyNHdhTkp0a1RuQmEzWjNrcw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 25 Sep 2026 09:08:48 GMT",
@@ -395,10 +363,42 @@
    "full_text": ""
   },
   {
+   "source": "reuters-business",
+   "title": "Saudi Aramco is working with Evercore on gas unit plans, Bloomberg News reports",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZC11YWhLc0hmeG1xeFdGQmx5Y3REbmQzSzE4SHNmMURDbzd6Uk1WX0xlWEtlamw5dVJuT0N6c21ZTFZOZndkSGpPcWE4bGdVd0gxejBVRFRvR1RpUzR5b3NNdmZuTk43d2hOdzV4QW5tT2xqLWdkalJWTVhuVEswTFROYUlsbGNVeTE1YzA4c09MUE9oVlF5OWw4S2E2VWZBNF9BM2pueUx4VHY1R194SGdSbURXSFBvbmNJR0JfcVVPcFRwcHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 26 Sep 2026 16:05:45 GMT",
+   "summary": "Saudi Aramco is working with Evercore on gas unit plans, Bloomberg News reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 25 Sep 2026 09:48:00 GMT",
+   "summary": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Europe's economy surprisingly resilient amid war-driven energy shock, surveys show",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjhMRFNMVWI2VzNSa2lZSEtxWXlLajBkRWhUMGlQM2xiall6TmJnMDNDTmdlbmVYa2l5UFdQRlZIYVFoSXNVZnNSelNWV0Nza2tPcnR0X2t0d0VYLWVrNUk5d1c4V08zSjlRT1ZtMzJwRW8xNllSeVJzODlRSlk5Q2FoM3pBQXRkblhkUTQ1Z1pUV0hDOUJTbEpZcTZ4TVk3TjNEUWxNbHFFb1FxQkVReUdoejY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 09:50:37 GMT",
+   "summary": "Europe's economy surprisingly resilient amid war-driven energy shock, surveys show &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Rising sea destroys homes, erases beaches in California. Is worse to come?",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanR3eFlBWnNhTzlfZTBBNXVlcldkbEpKbzRuUU1lVmJYRnZCdldkemxvVS1FV1I3ei13UWtrNFpvb0xzU0dfeTh6eHRhVV9DNXFjYXlnTm52Q0ZzWXVLdjNRcW9MYWJ5R2VQUjFRU05rMGNpb2I0ZktwZ2FpR2FEMU4teG1uMkxwemVRa2lVRnZLeXU2RTNEakJMNnMtZkpMY05CTUlScE13b2JDNDVKanVhVkpXcjRwSTJ4MGFkdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 25 Sep 2026 10:19:00 GMT",
+   "summary": "Rising sea destroys homes, erases beaches in California. Is worse to come? &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-markets",
    "title": "US appeals court rules against Kalshi, says states can regulate prediction markets",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWZXVWk2TzhjZzVySHppeGZuYlJOd3FjeHc0dnZ3Zk1NcnZYc3JZSTRiNTlRazZyR1FrWlh2UmI4VmFhaXhVS2RrcDlTNW05enVRbmNMaDRLSy1UWjc1b2Jkc0Fud2UxY2JleVRYWld1cjN1VU1yY0UtSVN6TjBBaTRvRkpFY3BkaU9ERjFHN3BfWWRNNC1ReFI2bFR6bXFxRzJxWi15RjRLVFNrMjI5M2t2VS1qOTBxT0J6R1d0LWxZOERK?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 19:55:00 GMT",
+   "published": "Sat, 26 Sep 2026 00:24:48 GMT",
    "summary": "US appeals court rules against Kalshi, says states can regulate prediction markets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -412,26 +412,26 @@
   },
   {
    "source": "reuters-markets",
+   "title": "East German espionage raised GDP by 7.4% in late 1980s, study finds",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3RiR0VIbnB1eGJVdTR2bU5hdDM5X21GLTNQYTVURnIyeVNrTjhGaVM4bmxiWDBJS0FtckJEMy1CZUo5OWlwZTVSQ25HbURPY0hMaldBY2hEVE9iYTc5dUNqTE1FaE9Zd3NGaEZ0QTZnTndJNE5kT1JMdTZiWkNwNkthZFhZN3IzWmZfQ3R0SjZoX3M0by1vV1NMUlF0UlZsbWJ3YW5RenE5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 27 Sep 2026 06:34:00 GMT",
+   "summary": "East German espionage raised GDP by 7.4% in late 1980s, study finds &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Battered bonds draw support from falling oil prices",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 26 Sep 2026 01:09:47 GMT",
+   "summary": "Battered bonds draw support from falling oil prices &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Oil prices slide about 2% as US, Iran explore path out of war",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 25 Sep 2026 20:13:04 GMT",
    "summary": "Oil prices slide about 2% as US, Iran explore path out of war &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 09:48:00 GMT",
-   "summary": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "PODCAST: Yields hit home",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQzFvUnBPWUxGTFFURElXU2xUd0c1OGFTc2drR21NWUFENUlVVE5aT2hVb1pJVVlfWUtsZEFveHBrLVVrdWRXd0QwWll5QkNCSnZEOUI2bTJZcHh1QVZLa1JmbXpwXy1NVTJGRzJPY3NIWHRKWjBxcFBkZGRLdThXeUNWR0k5dmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 10:21:24 GMT",
-   "summary": "PODCAST: Yields hit home &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,18 +468,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 22 Sep 2026 15:21:51 GMT",
-   "summary": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0pITmhQTFBGY3ZXalk4UWRpNWp4ejNIMTBNZlNFd1hOSDgyMFNxeGl3ZEFjOGxHX0k3RVdscS1VNzF2elA5bW9BZGd2UDZhc3BFNkJpRTFTd3BBVVdfM2ZIQi1IeWs2Nk5PYWNKRHpFOUhEa3JkRGMzNWlUaS1KTFRuMzRxeTdVZGNlYnFiSUN1V0Z6NDJPVkY2Z0JOaXhIRXYzTVNiVGxNUzRrcklpZU1qcE5jWjFMbFl1Y1B5UEJoaHc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 25 Sep 2026 18:55:20 GMT",
    "summary": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 22 Sep 2026 15:21:51 GMT",
+   "summary": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,14 +508,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Nanexa shares soar on €1.17 billion Novo Nordisk deal for injection technology",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYjdmc2U3RUlBUTA2U0dJRTJPZUdHeEhnLW0wekM5b2xqamJzS2dTbzV1ZlFVNzJ6THlXdzdMVVlKMXRRWXJ6cWJIcG94OVQzY0ZRTFlfWWlKdG5GMVZkbGZEcURpamxrdklBNjdDdDYwdmp0QWx0YTRHcmhMYmdlcjJmU0IyUFlvdmRZNjlvQVFXaGUwLWc3Z0o4NlVGU0dQRjFudFF0Wkduekw2MW15STljb1RrZ2ZwQkhiVUZjckZJQ2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 14:14:43 GMT",
-   "summary": "Nanexa shares soar on €1.17 billion Novo Nordisk deal for injection technology &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Perplexity AI sued by startup for allegedly stealing 'wake word' technology",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRy1RVlJsY0c5TXRRZGdvTjBvdUN0NTh6RGFicnZnQTJNd1h0ZjEyQzJIWm1CdjlSVXp6eS1fb3BvVnZmS2pUM1o4eUFHN05iZ1hDc1pLZG9IYjlPZjNrRGRVUHRENVhjZlFPSjF0clE5b3NmU0MtTWxfaWxHeHU5UWtEaHJwUEpEZmUzQzdkS3g4SVBraVNKb3N5UV9hQktPQk5QbUY4bTliQ2k2V3JMMDM5VjNVZXgtLXZYNmNveUVCWEU?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 25 Sep 2026 18:21:31 GMT",
@@ -524,10 +516,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Trump, US House speaker and tech CEOs to meet on AI on September 29, source says",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUNPVzNoNDJiWUNfY2hyZTNBT3pJS2kwUWk0Nk9UT0dTenZkTE5acXJaX0V4QXVMWXdwRVZEeVY3Y09HUTZqN2VPYUI0elhjY0RwRHFLTnFsSlNhdGgxUXJ2OE5pVHcyWUFBaWljNThLdUtqOFUzeHU2NjIyS3czT0hsVDdyQVFtemZIX0o2cTR5WGlTVXNnMUdOUUp0bm5PeFZQLXg5Uk81T3FJMmxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 24 Sep 2026 23:23:55 GMT",
-   "summary": "Trump, US House speaker and tech CEOs to meet on AI on September 29, source says &nbsp;&nbsp; Reuters",
+   "title": "Nanexa shares soar on €1.17 billion Novo Nordisk deal for injection technology",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYjdmc2U3RUlBUTA2U0dJRTJPZUdHeEhnLW0wekM5b2xqamJzS2dTbzV1ZlFVNzJ6THlXdzdMVVlKMXRRWXJ6cWJIcG94OVQzY0ZRTFlfWWlKdG5GMVZkbGZEcURpamxrdklBNjdDdDYwdmp0QWx0YTRHcmhMYmdlcjJmU0IyUFlvdmRZNjlvQVFXaGUwLWc3Z0o4NlVGU0dQRjFudFF0Wkduekw2MW15STljb1RrZ2ZwQkhiVUZjckZJQ2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 25 Sep 2026 14:14:43 GMT",
+   "summary": "Nanexa shares soar on €1.17 billion Novo Nordisk deal for injection technology &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -536,6 +528,14 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1puRmlKdUNRcnUzb2hocUxkZmdland2NVEzY0V3T0g3akFuM2M0dzF4T3dxWEZVYlBMN1NxSTQ4cUR3VndWRV94eThxV3dzRjhzNzNIdnpKeUZJQ2JmZjBFSXZuU0E0LVh6cVp3dGc4RE9RVF9JWXVhbXZTQXJWREtrVkIzbzh2akFkUVJwNE8wcVlWLXd4UzFqWmM2c0p0bkk4dDZR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 24 Sep 2026 11:38:17 GMT",
    "summary": "Cybersecurity startup Island valued at $6.4 billion amid AI agent security risks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "AI leaders warn UN of security risks as systems grow more powerful",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 21:44:57 GMT",
+   "summary": "AI leaders warn UN of security risks as systems grow more powerful &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
