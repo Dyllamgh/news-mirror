@@ -1,13 +1,45 @@
 {
- "generated_at": "2026-09-28T02:57:19Z",
- "count": 67,
+ "generated_at": "2026-09-28T10:23:25Z",
+ "count": 65,
  "items": [
   {
    "source": "nyt-world",
-   "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
-   "url": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-   "published": "Sun, 27 Sep 2026 20:20:19 +0000",
-   "summary": "The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
+   "title": "Possible Foiled Terror Attack at U.S. Air Base in U.K. Raises Questions Over Security",
+   "url": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
+   "published": "Mon, 28 Sep 2026 10:19:19 +0000",
+   "summary": "Conflicting accounts from a bystander who called the police and from President Trump have led to questions about whether security services knew about the possible plot in advance.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Trump Sparked a Gold Rush, and Venezuelan Gangs Take a Cut of Profit",
+   "url": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
+   "published": "Mon, 28 Sep 2026 09:00:51 +0000",
+   "summary": "The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia’s War.",
+   "url": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html",
+   "published": "Mon, 28 Sep 2026 09:00:20 +0000",
+   "summary": "The Russian region of North Ossetia has suffered a heavy toll, yet many accept the Kremlin’s line that the fighting must continue until victory is secured.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Brazil’s Biggest Election Question?: Donald Trump’s Next Move",
+   "url": "https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html",
+   "published": "Mon, 28 Sep 2026 09:02:51 +0000",
+   "summary": "As Brazil prepares to hold elections next month, Latin America’s biggest nation is taking steps to shield its democracy from potential American meddling.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Possible Terror Plot at RAF Fairford Air Base in UK: What We Know",
+   "url": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
+   "published": "Mon, 28 Sep 2026 07:20:28 +0000",
+   "summary": "Five men were arrested Sunday as they approached R.A.F. Fairford, a British installation used by the U.S. in its war against Iran. The men are being held on suspicion of terrorism.",
    "full_text": ""
   },
   {
@@ -28,10 +60,10 @@
   },
   {
    "source": "nyt-world",
-   "title": "Recreational Aerial Craft Become Weapons in Myanmar’s War",
-   "url": "https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html",
-   "published": "Sun, 27 Sep 2026 04:01:20 +0000",
-   "summary": "Years after a coup, the military is increasingly using motorized paragliders and gyrocopters to bomb towns and villages in rebel-held territory.",
+   "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
+   "url": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+   "published": "Sun, 27 Sep 2026 20:20:20 +0000",
+   "summary": "The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
    "full_text": ""
   },
   {
@@ -51,35 +83,59 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "At Least 27 Killed in 2 Overnight Mass Shootings in South Africa",
-   "url": "https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html",
-   "published": "Sun, 27 Sep 2026 11:37:20 +0000",
-   "summary": "These were the latest deadly incidents at bars or taverns in a nation with one of the world’s highest murder rates.",
+   "source": "nyt-business",
+   "title": "Oil Prices Climb on Continued Impasse in U.S.-Iran Talks",
+   "url": "https://www.nytimes.com/2026/09/28/business/oil-stocks-gas-prices.html",
+   "published": "Mon, 28 Sep 2026 10:13:14 +0000",
+   "summary": "President Trump rejected Iran’s proposal over the weekend, calling it “unacceptable,” but Iran said it was still waiting for “definitive news” from Washington.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
-   "url": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
-   "published": "Sun, 27 Sep 2026 09:11:54 +0000",
-   "summary": "You can still buy a Singapore Sling in the colonial-era hotel where it’s said to have been invented more than a century ago. Custom versions have arisen nearby.",
+   "source": "nyt-business",
+   "title": "How Scientists Can Shape Public Opinion Over A.I. Risks",
+   "url": "https://www.nytimes.com/2026/09/28/business/ai-scientists-protests.html",
+   "published": "Mon, 28 Sep 2026 09:05:12 +0000",
+   "summary": "Artificial intelligence workers may have leverage to make the world safer.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
-   "url": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
-   "published": "Sun, 27 Sep 2026 00:49:11 +0000",
-   "summary": "Russia’s foreign minister met with his German counterpart during the U.N. General Assembly but spent part of his address defending his country’s war on Ukraine.",
+   "source": "nyt-business",
+   "title": "Juniper Lattes? Pine Sodas? Food Is Taking Us Back to the Forest.",
+   "url": "https://www.nytimes.com/2026/09/28/dining/forest-flavors-alpine-foraging.html",
+   "published": "Mon, 28 Sep 2026 09:03:57 +0000",
+   "summary": "Drinks and snacks are being tweaked to evoke woods and meadows, on the theory that frazzled consumers want to reconnect with nature.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu’s Agenda.",
-   "url": "https://www.nytimes.com/2026/09/26/world/middleeast/israel-netanyahu-gali-baharav-miara-attorney-general.html",
-   "published": "Sat, 26 Sep 2026 09:00:10 +0000",
-   "summary": "Gali Baharav-Miara, Israel’s first female attorney general, has stopped many of the government’s efforts to remove constraints on its power.",
+   "source": "nyt-business",
+   "title": "Trump’s Tariffs Push Canadian Companies to Look Past American Links",
+   "url": "https://www.nytimes.com/2026/09/28/business/trump-tariffs-canada-diversify.html",
+   "published": "Mon, 28 Sep 2026 09:03:13 +0000",
+   "summary": "Shaken by tariffs and threats from the Trump administration, Canadian businesses are seeking markets and suppliers beyond the United States.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Under Trump, Commodity Futures Trading Commission Scales Back Enforcement, Worrying Farmers",
+   "url": "https://www.nytimes.com/2026/09/28/us/politics/cotton-trump-commodity-markets-cftc.html",
+   "published": "Mon, 28 Sep 2026 09:02:22 +0000",
+   "summary": "The fate of two cotton brokers highlights how the Commodity Futures Trading Commission has scaled back its regulatory actions not just for crypto cases but also for the kinds of cases it has long policed.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Here’s What Fans Paid for Harry Styles Tickets at M.S.G.",
+   "url": "https://www.nytimes.com/2026/09/28/arts/music/harry-styles-msg-ticket-prices-affordability.html",
+   "published": "Mon, 28 Sep 2026 09:02:10 +0000",
+   "summary": "What is a concert really worth? We asked 34 fans about the time, money and effort they spent getting tickets for the star’s New York City residency.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Smart Headlights Finally Trickle Down to Cars in the U.S.",
+   "url": "https://www.nytimes.com/2026/09/28/business/smart-headlights-adaptive.html",
+   "published": "Mon, 28 Sep 2026 09:00:41 +0000",
+   "summary": "Federal data shows that half of all traffic fatalities happen after dark, but only one-quarter of driving happens at night. So any help is welcome.",
    "full_text": ""
   },
   {
@@ -104,62 +160,6 @@
    "url": "https://www.nytimes.com/2026/09/27/business/workplace-.html",
    "published": "Sun, 27 Sep 2026 09:01:43 +0000",
    "summary": "Plus: What to do when your boss is nit-picking your work.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
-   "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
-   "published": "Sun, 27 Sep 2026 11:22:48 +0000",
-   "summary": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Job Titles Are Out. Now We’re All ‘Members of the Technical Staff.’",
-   "url": "https://www.nytimes.com/2026/09/27/business/members-of-technical-staff-artificial-intelligence.html",
-   "published": "Sun, 27 Sep 2026 09:01:00 +0000",
-   "summary": "Use of the generic title has risen by 50 percent in the last year among employees at Anthropic, OpenAI and other A.I. companies, an analysis found.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Here’s Your New House. It Comes With Friends.",
-   "url": "https://www.nytimes.com/2026/09/27/business/heres-your-new-house-it-comes-with-friends.html",
-   "published": "Sun, 27 Sep 2026 09:00:34 +0000",
-   "summary": "Fresh pies. Book groups. Puzzle challenges. Developers of master-planned communities see fear of social isolation and desire for friends as a business opportunity. Welcome to Amity Lane.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Women Sluggers Are No Longer in a League of Their Own",
-   "url": "https://www.nytimes.com/2026/09/27/business/women-baseball-league.html",
-   "published": "Sun, 27 Sep 2026 15:06:20 +0000",
-   "summary": "As a group of players from an all-women’s baseball league in the 1940s and ’50s gathered at a recent reunion, the future of women’s baseball looks bright again.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
-   "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
-   "published": "Sun, 27 Sep 2026 20:23:35 +0000",
-   "summary": "The White House TV pool went dark this past week amid a standoff between CNN and the president. Network leaders, however, believe an indefinite suspension may be untenable.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "As A.I. Makes Law Firms More Efficient, Clients Ask: ‘Where’s My Discount?’",
-   "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-   "published": "Sat, 26 Sep 2026 21:35:53 +0000",
-   "summary": "There’s growing pressure to move beyond the billable hour. But big firms aren’t ready to blow up their trusted business model.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "A 7-Day Standoff That Said So Much About Trump and the Media",
-   "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html",
-   "published": "Sun, 27 Sep 2026 15:41:27 +0000",
-   "summary": "An abrupt decree, a network boycott, a legal intervention and an uneasy détente: This was no typical battle between a president and his press corps.",
    "full_text": ""
   },
   {
@@ -204,6 +204,14 @@
   },
   {
    "source": "nyt-technology",
+   "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+   "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+   "published": "Sun, 27 Sep 2026 11:22:48 +0000",
+   "summary": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims",
    "url": "https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html",
    "published": "Sat, 26 Sep 2026 14:48:22 +0000",
@@ -236,10 +244,34 @@
   },
   {
    "source": "reuters-world",
+   "title": "Taiwan pushes back after Xi seeks to win over Trump on World War Two narrative",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZC1qWXhYU2tyZk40LW5jakFmMmwyM28zNnZHNXBCd2wyVHdkci1EdkRzMzMwcGstZUloaFpRT0xhTGFWdm14elhORFp5OHZQa212TzB6YVp1NGdlZ1luNVNGdFpEb1NKWVluM004QVUwUjZNX0VwYUQ5dkxvVVRoZ0JiZmxudXlvV3FXNktvd0R3bmNRSXZ5TDJpMjhuZVJLbjVWbFRXU21ZcXV3NWZIZERqREVQTTRmbHc1Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 03:24:00 GMT",
+   "summary": "Taiwan pushes back after Xi seeks to win over Trump on World War Two narrative &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Northern Star rejects Gold Fields' $27 billion bid to create world's No.2 gold miner",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemZ4LWt4bll1Q1B6OUc5VjdrMklzeFZfd0dOVW4yZGd3ZGpoTzV3S2YtVGd2LWFHcE1JamNOWUpBeHJlNTFsWXQ1US14OWp2dHpkTFZwX1NZN1pNRGV5bWtieWdONXpyUFhLaVE5d3VlRnpuYmRaeTduV3RiUG5SOE1NSVpsN000R3hVTXhLMlFpei1xODZKTGhCYzVaVy1hSGZ1S1pMYVdULUQwdU9WZHlMTGJxTkx6NjFMSjkwaTZnZGJ3cjRv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 03:15:00 GMT",
+   "summary": "Northern Star rejects Gold Fields' $27 billion bid to create world's No.2 gold miner &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Trump says men arrested at UK air base used by US were looking to do 'big damage'",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 27 Sep 2026 07:11:00 GMT",
    "summary": "Trump says men arrested at UK air base used by US were looking to do 'big damage' &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Gold hits 7-week low as oil-driven inflation fears boost rate-hike bets",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 01:41:00 GMT",
+   "summary": "Gold hits 7-week low as oil-driven inflation fears boost rate-hike bets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,10 +292,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "McNulty wins road world title to end US men's 33-year drought",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1hpNFQ2aWMwUU1PZ3VDQ1poUngtVUZPTGdGNlZxVDc4VUl4d1Rla2Q1VlZ5OXpHQjhkRVkxRTB5eDExMHQ1NFJsRV9mOG0tWkhnMXJ6TGQxbHdwQnZta243YURnSTlvcm1MTXUxQjRndlpnaFJiXzQzWHAwZUgyVlJ2MktLR19qMV9JYlVkRGkwUDhqQWlsa2hRcE9uM1NWN2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 27 Sep 2026 20:22:34 GMT",
-   "summary": "McNulty wins road world title to end US men's 33-year drought &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzFRTndpRkJHX2FfcTFFdHFvNVVrQU5MZVAxM0Z1T1p3TjRyaUtyNFRaNjRQQjQwYjJaVW5ocTlGYU1iU0w4WGNISjhWb0ZsWHpTYkZ5aEhPX1B1blRyak40X0FHMDdWdnUzSGFYczRrXzd1bXBPODRNbDdnN2NPcTZLZFpIaWhTRkQ0bVZIMGxGcFo0S1B1M3RrV0pWU1h6d0d6NC1SMkhwdl9ESGJiZFVXLWl4Mll4bUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 09:10:27 GMT",
+   "summary": "EXCLUSIVE: Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Dollar steadies near two-month high as US-Iran stalemate lifts oil, Fed rate hike bets build",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGN6Yy1FQUFsN3Z3US1YZWg2amxMczRubW9XaV9vWHJTc0JYbGN6YjhiX1hlWG5CZUdJbEVpcmwwTmdMT3EtTTNqRENIM25PSWY2RUhFVnBkTFBhY3d5VnlJY3NqWHhTSm8xN1FXY0lsVjBjN0JfQXI2Zml5WTNEcW9wMExxT21BbDVETDJZOFFrY0RXMGkwTUJHaTgzS2k1SHBQTVNhTlN5VVJVTllz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 01:35:00 GMT",
+   "summary": "Dollar steadies near two-month high as US-Iran stalemate lifts oil, Fed rate hike bets build &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -276,42 +316,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "Team Europe cruise past Team World to win sixth Laver Cup title",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOW5qeHZFenJVYThGNzNvc0pqUEMzempGTkktM3hxSElDZ1ZlNnJIa29KOG1VTTlTMmJka0xMVEdsQ0psY1Y2TkhjVEJ6WmdEVDBLRUo5cUpzM2lSZ1ZENUdMb3p6Q2FIQVJuT0R0R3pkTHhBTHlldlEtTFRPU3E4NUdOWmdGRkRUOEIxZ2xoTkJEcVRYT3VfdS12TF9JcTBmRnNqd19EcUs3SWRwNzVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 27 Sep 2026 16:50:54 GMT",
-   "summary": "Team Europe cruise past Team World to win sixth Laver Cup title &nbsp;&nbsp; Reuters",
+   "title": "Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzByVUtHMHlIWGhiUzl5Vzd0YXhiWnZ6R25pMzVUTjlLSW1SaDFnRy1fSnAwd1BlUWwzb0dBa3ljWnZLRWlKNmdIYXpXUTM3QUg3MjByLVZSd042VkZZT2F1LXVaM2xaZzN1X01WWWE1LS1wVG9hNlY4TjE1MmtKb1YzR1NoTTBhRHNwSzMzYW9LSDhTMlFjQ3g2NWtNYWdfSmFpX3c5bHlBSkxPUnFnbDBpb1ppS2ZQNHM3NQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 01:09:04 GMT",
+   "summary": "Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "Japan's corporate services inflation hits 2-year high",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckhuSjBSeXYxT0JkaDJPZmF2cThESzJvaEE5dHBWWEpZVFVvbGdkTlhfa0NKOGllU1AxWTBHRzdDdFhTN2VWM1h6TUVEeTNWdmt6Z0FEajR4V1JMckFZZm9wbG1Hckh6d2NuTHhGTGRLbDlSeGhoQ21JNURHcjFkbVZROU9FMVVvNVBqYWprbGk2ci1vaHA0YmU0emluY09xRHNOd3ZTdG15Vlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 28 Sep 2026 00:29:00 GMT",
-   "summary": "Japan's corporate services inflation hits 2-year high &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "China, US agree tariff cuts on $60 billion of goods including agriculture, household items",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaTBqVzRGcGNNZ2M5YWVLbUQxanlOVWhxYU5lWjNuYzJSWmtHV2lQTWdSUXlpTGM3M1UzU2JUckNLUGxIc3dFVWx5WlExNnotSmtQblE4UnM0Sk1OVnQycjVkR0ozUlpzMW5MMExHNll4NDR2dXpfWTNCMVpQT0docjI1SHFDeFdwYnZGVlVocXhzTy10WWViRk54VklyNzNiRFczXy04aURCdVdmSEdNbjNrRHpXNXM5LWRCZzJQajZVMVBx?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 03:07:00 GMT",
+   "summary": "China, US agree tariff cuts on $60 billion of goods including agriculture, household items &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "World champions Spain punish England errors to win Nations League thriller at Wembley",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSUJRbzVBN3hTQ0hpZW5wdU9hUjZXWmlzaFJnQ0tMRGlCOTRQRS1TUmVrSUZoUzZPSlhTUFBZYlEzQnMtRkdjRElYYXFERW4tWlVOMWZXdC1pX2l0SHU1QUMyeUdHLWJQd0lZdGdUal9QSnN4ZWZSR3ZoQ2stckhzU19iWGt6MURZM1ZZZXVxWUxKNy1iYlBVdTlKdTZKOEdITG96RHBwTEpGY2RXazVRcmhRcEVlZ3RuN3Q1MGJQelIyYUZOVllGWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 26 Sep 2026 22:17:39 GMT",
-   "summary": "World champions Spain punish England errors to win Nations League thriller at Wembley &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Brazil's Lula bans online betting, unveils debt relief plan as reelection race tightens",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnNWTkRFTmhMWF9BQTl3aTFRaDRuR2hqZF9YcHdRSlpHdUFoanQ1NmJTV0RHa1g0SUxtdHJpSV9ubTdLSk1MLVl2cXNHaHJGRGtKOVJGcXJFUGZxU3J0WFhEOVFkanU4dVdKNWhZS0o4OTFINjlrMHd5UnNnWHlTcm5vTkU1NGxkbzZ5bUtTMmxTSGxRTmlpaXRfdi15X0JSclZqeGdRZENTSnh0YTc3dXVZRVVjclhUbm9r?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 23:31:19 GMT",
-   "summary": "Brazil's Lula bans online betting, unveils debt relief plan as reelection race tightens &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Six big takeaways from a turbulent week of UN diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFZoZDdKM2NZd3RrRFBLRGQ3VWoteUxkRFFtemw1RGVqbXdBWEdDR3FNazZ6MERQMWdCMThtVnJ5dnpmYjU0WWgzZW03OU5vWVZKLXRmS0s2c3BKV2lKbTlGLTJDRThYRW96eGJNVEhDZ3VEVVhPNGxpSkszTFc5WXNNQWh4dVRYWEJIZkhPTGN3ZDJXeW5FV2dYT3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 26 Sep 2026 05:09:00 GMT",
-   "summary": "Six big takeaways from a turbulent week of UN diplomacy &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "Tullow Oil swings to positive free cash flow as Ghana output, higher oil prices drive growth",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVhQbFJWa3BzeDliUGZGQ1ZVY19mbmY1bmNleGw0ODF6RjV2a0ljSkp3a29lLTBpd1A5M2hxWTg0UmZoSWUzRHFPTEhMQ0t0bUVWWmdIbXJJVW5qVHpfSnZxTzlWdTczY0RZamlVVldsZVZKS185Q21LcG82bkYwZEV0UkdET1AzVUozeWgwekpYSXhJZHo5NVZxV0k2aTBpT2pwUjRreS10dlRNMDBxM2NzYWRkcmFqZkdDMDFNWm1BTkpQcFdGdzN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 06:44:00 GMT",
+   "summary": "Tullow Oil swings to positive free cash flow as Ghana output, higher oil prices drive growth &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -324,10 +348,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHV0WUlQdWJ2UVdjY2FzaFliQU1TaEEtYmJQUzVUbjUwcWJkNkhZSXYwV1BwbkFqY3Z6MVRkT21jbWhCUEg0eGY0TnFnY25XVjFiQzBMbE5yOXJlbzZVYVZ3UTJMc1BjLUFtb0FVaDRWVW9jRVFUZDQ0N2hGX19NREk0MHhZZVNSekNVb01JLWVPR0gzdm9fQ1ZTbFlHa2hYSDFBY2JpdkpmeDRFM0dpU0VmdHluNzZGbkpZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 28 Sep 2026 00:17:00 GMT",
-   "summary": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments &nbsp;&nbsp; Reuters",
+   "title": "From pickups to idle plants: automakers seek lifeline from defence boom",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQW9jYVdEZ19vYkRWVC04bnJLU241NWtCby11TnJGMkEyX0RiT2JicGI2ZnZfM04yLWV2aW5vVjlUUTFzbmtnZnVKdk42VHkwLWZRUDlveC1LUWRqcERlX1BTUkNtT3BhUVNRUW1VMVN0a3pUb0czb0FWX1NxYk1zU19PWC12cjVub1IyVnJlTWNmQi1mcUNxVEh6OEpBMVhyUFhwb0FNeXZYTTdmdzFDa2ROc0Z2YjlVYW8xdTRaQlA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 07:40:29 GMT",
+   "summary": "From pickups to idle plants: automakers seek lifeline from defence boom &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,6 +372,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Nor'easter brings flooding, power outages across US Northeast, over 400 flights canceled",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhmWmpFYkY5RG1sM1JjN0ZPcUVCc3gyaVRpUVNXRnJUcEc5eGlfX2F6NVFwczZlR1MwU1ZaRnVIbUtUME9xRVlBU21mWllMdi1tQ0ptTHFLakl3bEs4U0w0aDhram5RYjRhemxaSl9iSkk5SjJxVEUzMjczX2g2c1FfS2plQ083WV9GOVRPandhbHZPSm5yR1l4QmtUeXJFcnktWjE3amF4SGczNzVzX05Pa2pLOUt2MVBVYm94UnRHMlowNkhnTVNyTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 26 Sep 2026 17:49:00 GMT",
+   "summary": "Nor'easter brings flooding, power outages across US Northeast, over 400 flights canceled &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "US consulate builder in Milan to pay $35 million over labour probe",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzNpd051YmVtWG1CajVjZ1NPTzhzNVJ6aG5uc3p4SXBIZFBDdlhPZmMySXlNWVNaY21wUXNFZnJ0aVA5bklra0E2SVJxT0k1QkZtQ1N6bVZXdEtwblFES2xWNGhpU0ZUU3JhZkRXM2xkc3YzUmMtRFJLV1lWNFZyWFdJcndhMm4zVE9XeGdTMG9oR0tqNGwxOXloQzhNRjE3dXBDQ0h2a1RPN09RNmJUak0xbnQ1ME1nTjBR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 27 Sep 2026 05:02:00 GMT",
@@ -356,18 +388,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "East German espionage raised GDP by 7.4% in late 1980s, study finds",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3RiR0VIbnB1eGJVdTR2bU5hdDM5X21GLTNQYTVURnIyeVNrTjhGaVM4bmxiWDBJS0FtckJEMy1CZUo5OWlwZTVSQ25HbURPY0hMaldBY2hEVE9iYTc5dUNqTE1FaE9Zd3NGaEZ0QTZnTndJNE5kT1JMdTZiWkNwNkthZFhZN3IzWmZfQ3R0SjZoX3M0by1vV1NMUlF0UlZsbWJ3YW5RenE5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 27 Sep 2026 06:34:00 GMT",
-   "summary": "East German espionage raised GDP by 7.4% in late 1980s, study finds &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Airbus shares dip over quality flaw in best-selling A321neo jet",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVldySnN6ZnE5bFFtYXdodUlVX3hKLUI4emJjcEc0YmZVMUsyaTZPMjB5aWFjQkFoZmNLOEtwWldFclJfclFmT3B1YkRJZzBYd0NfN2xWUjJJQ2N6aDQ2aE1sd2ZJQTV1LTZMYW5ITWVrMzFWTlU5YklCaE9hR1FCQ183d0cxTDFXWXlhNUEwOG1ZNGpMWUZ6c3V1ZjY0bnM3S3FDbHZrU2RxTlVoMDV6ZFpCYzJVd1k5N1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 15:25:02 GMT",
-   "summary": "Airbus shares dip over quality flaw in best-selling A321neo jet &nbsp;&nbsp; Reuters",
+   "title": "US core capital goods orders point to robust growth in business spending on equipment",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUU5FWExWQVZRSzBfQ0hxNlBlZVdZWFc2elo1aTdPQXpwVDU4a0ZxZlRjeHF1WWdUSUlfWHpxSzZJZHJOWVgwZTVZaUJ1Q3dSRjhMMGVpMWdoMzUwN3ZfOG1QNE5ZQlM2NkM5U3JTbU1kUWE3UEx2M0FXS2xKcUhOUkxQaTZ3azJiRktERlNWaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 25 Sep 2026 16:49:33 GMT",
+   "summary": "US core capital goods orders point to robust growth in business spending on equipment &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -379,83 +403,51 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "White House reinstates access to CNN, MS NOW and Politico following judge's order",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGZDelJBRHdvcFBwNGNlTGwxdVNHNnk1UmhJeDZUZWd2Y3o4ZGw4QTVaM2VrT21MQWt2eUUyR2c5cnR3ckdadDZNS0RSdUpLX1FVMHpqU1B3aWVyeGs3aGp0RE44R2JoRG55QlhiUWRQOWRhUGtoZ1ZoMlhydDJOQlRPU2JkbldsaDB4UUc3TVJxU2xwMFVvbHlMNG1UOHNPWUUzSmVaVHFCR1Y0SmJvRmFSNFVDU3JyNHdhTkp0a1RuQmEzWjNrcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 09:08:48 GMT",
-   "summary": "White House reinstates access to CNN, MS NOW and Politico following judge's order &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "HSBC plans India equity broking return after 13 years amid IPO boom, sources say",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNndJWFQyTDNfdUQ5R1dEWWVaenhhWC0xU2NXOV9BVVZqWVFyV1dudUFLWmREQ2ZZR3BYSFBZS05MelpfeDU0TmdmUzYwV0ZSQ29qWjhZOGxYckQ3bS1xNlJRb080WFhXaElWbTc5TW55Vk04SkhIby1QWWpSM1VaU2w1ZXNZcWJUVnZURHJ5SjJmd0VKUmdQWHRjS1JfYnBpc18yMVNlT1U3enZPU1ZQQzRsXzc1S0tCczJNZUVyUVVRRUtzUlBHdDNIc2Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 24 Sep 2026 07:00:37 GMT",
-   "summary": "HSBC plans India equity broking return after 13 years amid IPO boom, sources say &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "Morning Bid: A new neutral rate, much like a decades-old one",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWxFSDhMT05mek9pUVAtTGpNTExJVmQ3MHYxWlE2R3h6VU9rX3JKSFJGcnRwSmJiQ2h5WDBadVNOWmYzVmtRWlYxQ2pWcGlZaFlvVTBRNTZHOXZTaTVkaTZmNW5NMXpOaW9ISHNzb0x4N3puWEZUX0RVQzJRdGFERm91dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 04:34:00 GMT",
+   "summary": "Morning Bid: A new neutral rate, much like a decades-old one &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Stocks cautious in Asia as oil gains, yields rise",
+   "title": "Indian shares hit near six-month low as US-Iran deadlock lifts oil prices",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmUtcnhXbVNOQ0lacFk2Z1JXa0JON1VtZTRsYnZVMDlKdjh0dXhobk9tajVtRVdUbE5RV2MxUy1MbUpkNkc4UXNvalZoZXltbUNScGEyanBReERmbTRuQnB2d2M2dkU3NkJ0anMybXdHWV9QWElRVG9WcDhNSzE4eTV4VWs4WWluaGpYR1NZZTNuYVFPNWZwUk1YcXNOR0NrN0REb2V5eENFRjFaTVNpeWtJdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 02:19:00 GMT",
+   "summary": "Indian shares hit near six-month low as US-Iran deadlock lifts oil prices &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Stocks fall as Middle East stalemate boosts oil",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjVwRkxEMEdFMlBlSmpIbDZEZ3dDclNNLVVBLTBya2k1VlpyT00xM1VBeFZ2cmNheUplNXJDYy1Vam9FYWdibUxrWmFLd1ZIUU9LRGhhX09yQkQ0OXF6dW5MZ0Qwc0dXNF9fU3ZBR2NwU3R5eGNWdnpPMW1heVpsUkpGNA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 28 Sep 2026 00:50:00 GMT",
-   "summary": "Stocks cautious in Asia as oil gains, yields rise &nbsp;&nbsp; Reuters",
+   "summary": "Stocks fall as Middle East stalemate boosts oil &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Gold drops more than 1% on US rate-hike bets",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 28 Sep 2026 01:41:00 GMT",
-   "summary": "Gold drops more than 1% on US rate-hike bets &nbsp;&nbsp; Reuters",
+   "title": "Japan's corporate services inflation hits 2-year high",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckhuSjBSeXYxT0JkaDJPZmF2cThESzJvaEE5dHBWWEpZVFVvbGdkTlhfa0NKOGllU1AxWTBHRzdDdFhTN2VWM1h6TUVEeTNWdmt6Z0FEajR4V1JMckFZZm9wbG1Hckh6d2NuTHhGTGRLbDlSeGhoQ21JNURHcjFkbVZROU9FMVVvNVBqYWprbGk2ci1vaHA0YmU0emluY09xRHNOd3ZTdG15Vlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 00:29:00 GMT",
+   "summary": "Japan's corporate services inflation hits 2-year high &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Corporate debt maturities set to test US borrowers as rates rise",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHVIMEQ3dmJLZTdRVXVQblJxSzBCMjJlVmVVYkJsR0hvX0NoY3draFFYRkNTS19HRGJwUE4zT3RGS1JCc1hkU2Yza0tDTjRLSWxpVC1qbmtCaUgzYU5JLUFON1F4M0NhZ3RJak1qT1VqS1d1TTg1U3o1WWhwel8zWTMyZkJwVHg3d3RLQUp5T2FDM0V1SzNrNWt0MTA1Y1AwZ2J1X04yRVE2N2hYQU9CR0RQMmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 20:57:03 GMT",
-   "summary": "Corporate debt maturities set to test US borrowers as rates rise &nbsp;&nbsp; Reuters",
+   "title": "PepsiCo will invest $1 billion in Colombia over next five years, president says",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT19YeXZLQ01JQVNXZzh4WXNjN3R0RlVaZHlvMXRzSVZCX1FKRndDY0t0c1VLbmNHdXB4REZPcWFQR0RaY3N1YS1mUlAwMTFjWmY1UU9PTjY2UjJaSWE5R3o5a1lJVnZoWFFTOVdJejYyLTBBb1Nydk43MmxCX0tzS3NZOEJRRHBQVUhCSlczX1RxRlNXTDlQdEdwT2JwMWZ3RjhqRWlNSTRKQmpFS1Y2TUlUdld5Z3RSZGgzZXJtbzNZWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 27 Sep 2026 23:35:43 GMT",
+   "summary": "PepsiCo will invest $1 billion in Colombia over next five years, president says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Oil prices slide about 2% as US, Iran explore path out of war",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 20:13:04 GMT",
-   "summary": "Oil prices slide about 2% as US, Iran explore path out of war &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 09:48:00 GMT",
-   "summary": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Five French market hot spots on investors' radars amid debt jitters",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWJ4cEhyclNPMEhMX0RhYlFDV0JWUHI2S1NzakVwRGZ4WlktLUhJWmMwbjlmcDdTVzl0MkhVeHRsN21IWDdOVnhBTG5Ba1ROM0JIXzF6dERHZDRKbC14ZkpIZHpjcEx0RS0zOENBZTczMFhUVHh1T1JCUlllejc1TWFPOFhSQTRvX0YwTDlFN0RqTVZ1a1pDZlZiTjB0VG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 11:57:56 GMT",
-   "summary": "Five French market hot spots on investors' radars amid debt jitters &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "US appeals court rules against Kalshi, says states can regulate prediction markets",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWZXVWk2TzhjZzVySHppeGZuYlJOd3FjeHc0dnZ3Zk1NcnZYc3JZSTRiNTlRazZyR1FrWlh2UmI4VmFhaXhVS2RrcDlTNW05enVRbmNMaDRLSy1UWjc1b2Jkc0Fud2UxY2JleVRYWld1cjN1VU1yY0UtSVN6TjBBaTRvRkpFY3BkaU9ERjFHN3BfWWRNNC1ReFI2bFR6bXFxRzJxWi15RjRLVFNrMjI5M2t2VS1qOTBxT0J6R1d0LWxZOERK?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 26 Sep 2026 00:24:48 GMT",
-   "summary": "US appeals court rules against Kalshi, says states can regulate prediction markets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Nasdaq sets record high, oil dips on improved crude flows",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYNkdDWExac0tiSmtsc3Exd0ZHOTVDZFJCbTRtZW9jM3hTLU84b3JWbHQ1WmZsUE5pSmUzTHBFUXQzaHBnb01UQXV5ZUljTFl2cS1fbHhFMUtDblA3NHRjeXRzbEpYMjNZempPSmRPbEpIajV0T1BuRDl1SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 23 Sep 2026 03:29:04 GMT",
-   "summary": "Nasdaq sets record high, oil dips on improved crude flows &nbsp;&nbsp; Reuters",
+   "title": "Hong Kong lists eight ETFs to tap Chinese insurer demand for overseas assets",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYTZJZzg2WmRHcjhsY0hVOFV6elgzVHNYVHhwS3Q2c0RlYWVfbTZXTVNHT0tSQ3hrVHVoeVVQWURPeGxOSWdpQ085OFpEVUFEQ1p6RmNMa1pqcEV0OUxCOFgxSDQtSkxlY2NYZjdtdW5oRi1oOXRoNjFLQUEtLWlmYWFUZ0tZTjlORUlMeUFvanVzbGF1SngxSE9XT2VjMDlfTVZtbTQ3Q0RueW5pZTd2RTkwcE16UjA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 28 Sep 2026 02:18:00 GMT",
+   "summary": "Hong Kong lists eight ETFs to tap Chinese insurer demand for overseas assets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,34 +460,18 @@
   },
   {
    "source": "reuters-tech",
+   "title": "AI leaders warn UN of security risks as systems grow more powerful",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 23 Sep 2026 21:44:57 GMT",
+   "summary": "AI leaders warn UN of security risks as systems grow more powerful &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0pITmhQTFBGY3ZXalk4UWRpNWp4ejNIMTBNZlNFd1hOSDgyMFNxeGl3ZEFjOGxHX0k3RVdscS1VNzF2elA5bW9BZGd2UDZhc3BFNkJpRTFTd3BBVVdfM2ZIQi1IeWs2Nk5PYWNKRHpFOUhEa3JkRGMzNWlUaS1KTFRuMzRxeTdVZGNlYnFiSUN1V0Z6NDJPVkY2Z0JOaXhIRXYzTVNiVGxNUzRrcklpZU1qcE5jWjFMbFl1Y1B5UEJoaHc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 25 Sep 2026 18:55:20 GMT",
    "summary": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Lumen Technologies to move stock listing to Nasdaq",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjNSQ1NIb0NaNDV4azBzVDB0VUNUMzl4Q1c5Mmp2U1o1M3Y4b21nMTRNR0hzRTZOM2VQT2pVLW1PYnB5Wmo2TXlkdmVvMFp5d3N2M1VCQk5ScmhaLXFTTUIwaXB2VlBQREJwdmdpM1RubjhTZEVweVJsZFQyMTRXWmU5YmdBWE5mNkhKMy1KeU1Xc0RLb25MTHBOekh2d2pxZnhKWG93?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 25 Sep 2026 13:25:43 GMT",
-   "summary": "Lumen Technologies to move stock listing to Nasdaq &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Akamai signs $11.6 billion cloud deal with Anthropic, grants warrant for up to 5% stake",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 24 Sep 2026 22:55:43 GMT",
-   "summary": "Akamai signs $11.6 billion cloud deal with Anthropic, grants warrant for up to 5% stake &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "OpenAI to preview GPT-6 Cyber within days, Fortune reports",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW1NWU1LbHpzMTdIQUQ4R1ZabjVjYURuMVd5Rnd4S0RNNVNKMXpIVUJ4NnlTWnpOWG92TkVoUzhOZDNodW1kQVg1X2kwamF0MFFUSl9JQnJzeWMyQ0l2M1JRSy12SWxSMldLYUVqTzhkaDVxWHFCeVpzZzZnNjIzbFpkcHJtRHNBS3lhenFOZXFESmRsWHduai1nYWcwcWJUVC1n?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 24 Sep 2026 23:51:48 GMT",
-   "summary": "OpenAI to preview GPT-6 Cyber within days, Fortune reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,6 +484,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Lumen Technologies to move stock listing to Nasdaq",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjNSQ1NIb0NaNDV4azBzVDB0VUNUMzl4Q1c5Mmp2U1o1M3Y4b21nMTRNR0hzRTZOM2VQT2pVLW1PYnB5Wmo2TXlkdmVvMFp5d3N2M1VCQk5ScmhaLXFTTUIwaXB2VlBQREJwdmdpM1RubjhTZEVweVJsZFQyMTRXWmU5YmdBWE5mNkhKMy1KeU1Xc0RLb25MTHBOekh2d2pxZnhKWG93?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 25 Sep 2026 13:25:43 GMT",
+   "summary": "Lumen Technologies to move stock listing to Nasdaq &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Nanexa shares soar on €1.17 billion Novo Nordisk deal for injection technology",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYjdmc2U3RUlBUTA2U0dJRTJPZUdHeEhnLW0wekM5b2xqamJzS2dTbzV1ZlFVNzJ6THlXdzdMVVlKMXRRWXJ6cWJIcG94OVQzY0ZRTFlfWWlKdG5GMVZkbGZEcURpamxrdklBNjdDdDYwdmp0QWx0YTRHcmhMYmdlcjJmU0IyUFlvdmRZNjlvQVFXaGUwLWc3Z0o4NlVGU0dQRjFudFF0Wkduekw2MW15STljb1RrZ2ZwQkhiVUZjckZJQ2c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 25 Sep 2026 14:14:43 GMT",
@@ -516,26 +500,26 @@
   },
   {
    "source": "reuters-tech",
+   "title": "OpenAI to preview GPT-6 Cyber within days, Fortune reports",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW1NWU1LbHpzMTdIQUQ4R1ZabjVjYURuMVd5Rnd4S0RNNVNKMXpIVUJ4NnlTWnpOWG92TkVoUzhOZDNodW1kQVg1X2kwamF0MFFUSl9JQnJzeWMyQ0l2M1JRSy12SWxSMldLYUVqTzhkaDVxWHFCeVpzZzZnNjIzbFpkcHJtRHNBS3lhenFOZXFESmRsWHduai1nYWcwcWJUVC1n?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 23:51:48 GMT",
+   "summary": "OpenAI to preview GPT-6 Cyber within days, Fortune reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Akamai signs $11.6 billion cloud deal with Anthropic, grants warrant for up to 5% stake",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 24 Sep 2026 22:55:43 GMT",
+   "summary": "Akamai signs $11.6 billion cloud deal with Anthropic, grants warrant for up to 5% stake &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 22 Sep 2026 15:21:51 GMT",
    "summary": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "OpenAI's models accessed public US Census, SEC data, Bloomberg News reports",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3ZERzdwNHhFVVVqTDBCVF82eHRrdXpSZDNuQl92TWdZRzVKUHZsQm82dUI4MFhaN1BLRHlzTml2ODNrTEdnaWxkY0VKLUY0M3J0VGVWeDZ2RU1TZmdPV2VzTk80VGRrckdybk5za2xuZU9UUEV1dUE5dUUyYTBtVnRmOEk4NFNkaTJhVFFyb1BJOVRSeW55cTZfSWN5Q1FoWDRWTUE0b2h6ZXJTYXU1TDVmRkxrZXNH?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 26 Sep 2026 00:29:00 GMT",
-   "summary": "OpenAI's models accessed public US Census, SEC data, Bloomberg News reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "AI leaders warn UN of security risks as systems grow more powerful",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 23 Sep 2026 21:44:57 GMT",
-   "summary": "AI leaders warn UN of security risks as systems grow more powerful &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
