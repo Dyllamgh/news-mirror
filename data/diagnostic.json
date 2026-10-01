@@ -1,12 +1,12 @@
 {
  "reuters_sitemap": {
   "status": 401,
-  "size": 774,
+  "size": 771,
   "sample": "<html lang=\"en\"><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please ena"
  },
  "reuters_world_page": {
   "status": 401,
-  "size": 774
+  "size": 771
  },
  "gn_link_decode": {
   "decoded_urls": [],
@@ -18,9 +18,9 @@
   "sample": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html\n\nWarning: This page maybe requ"
  },
  "reuters_via_jina": {
-  "status": 403,
-  "size": 735,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Thu Oct 01 2"
+  "status": 200,
+  "size": 185,
+  "sample": "Title: reuters.com\n\nURL Source: https://www.reuters.com/world/\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to acc"
  },
  "nyt_svc_api": {
   "status": 404,
@@ -29,7 +29,7 @@
  },
  "reuters_pf_api": {
   "status": 401,
-  "size": 774,
+  "size": 771,
   "sample": "<html lang=\"en\"><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please ena"
  }
 }
