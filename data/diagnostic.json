@@ -13,14 +13,14 @@
   "token_len": 224
  },
  "nyt_via_jina": {
-  "status": 403,
-  "size": 689,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Wed Sep 30 2"
+  "status": 200,
+  "size": 242,
+  "sample": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html\n\nWarning: This page maybe requ"
  },
  "reuters_via_jina": {
   "status": 403,
-  "size": 737,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Wed Sep 30 2"
+  "size": 735,
+  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.reuters.com blocked until Thu Oct 01 2"
  },
  "nyt_svc_api": {
   "status": 404,
