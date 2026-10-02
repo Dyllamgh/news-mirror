@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-02T17:12:58Z",
- "count": 68,
+ "generated_at": "2026-10-02T21:41:38Z",
+ "count": 69,
  "items": [
   {
    "source": "nyt-world",
@@ -12,10 +12,34 @@
   },
   {
    "source": "nyt-world",
-   "title": "Fighting Intensifies in Yemen, Raising Fears Further of All-Out War",
+   "title": "Argentina’s ‘Golden Passport’ Program Offers Citizenship in Exchange for Foreign Cash",
+   "url": "https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html",
+   "published": "Fri, 02 Oct 2026 20:17:54 +0000",
+   "summary": "The program would grant citizenship to people who make major investments in Argentina. Similar efforts have yielded significant income for small economies, but have also led to risks.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Mass Shootings Surge in South Africa as Illegal Guns Flood Streets",
+   "url": "https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html",
+   "published": "Fri, 02 Oct 2026 18:52:40 +0000",
+   "summary": "The country was shaken after nearly 30 people were killed in two separate mass shootings. South Africans are demanding greater government intervention.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Fighting Intensifies in Yemen, Raising Fresh Fears of All-Out War",
    "url": "https://www.nytimes.com/2026/10/02/world/middleeast/yemen-houthis-saudi-arabia-sanaa-taiz.html",
-   "published": "Fri, 02 Oct 2026 14:28:33 +0000",
+   "published": "Fri, 02 Oct 2026 18:06:53 +0000",
    "summary": "Yemen’s capital, Sanaa, was bombarded overnight, after government forces reported some of the most intense clashes in years around Taiz, the country’s third largest city.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage",
+   "url": "https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html",
+   "published": "Fri, 02 Oct 2026 21:15:50 +0000",
+   "summary": "Joshua Kerry, a 28-year-old British man accused of killing the former lawmaker Ann Widdecombe, was charged on Friday.",
    "full_text": ""
   },
   {
@@ -30,7 +54,7 @@
    "source": "nyt-world",
    "title": "Coast Guard Says It Stopped Ships Carrying Fuel to Cuba",
    "url": "https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html",
-   "published": "Fri, 02 Oct 2026 13:00:08 +0000",
+   "published": "Fri, 02 Oct 2026 20:32:05 +0000",
    "summary": "The Coast Guard has intercepted two small boats it says was carrying illegal fuel to Cuba as the United States enforces an fuel blockade aimed at Cuba’s Communist government.",
    "full_text": ""
   },
@@ -38,7 +62,7 @@
    "source": "nyt-world",
    "title": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
    "url": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
-   "published": "Fri, 02 Oct 2026 14:22:42 +0000",
+   "published": "Fri, 02 Oct 2026 20:49:59 +0000",
    "summary": "Days of unrest have affected more than 1,000 schools across France as high school students push for better standards.",
    "full_text": ""
   },
@@ -59,27 +83,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "India Faces Fresh Protests, This Time Over Voter Rolls",
-   "url": "https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html",
-   "published": "Fri, 02 Oct 2026 16:47:00 +0000",
-   "summary": "Hundreds were detained in New Delhi as demonstrators expressed anger over the removal of 130 million people from the rolls. The government denies accusations of “vote theft.”",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "China’s Push Into A.I. Has Led to a Problem: Too Much Usage",
-   "url": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
-   "published": "Fri, 02 Oct 2026 13:15:29 +0000",
-   "summary": "As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Spanish Lawmakers Reject Eviction Freeze, Spurring Calls for Early Elections",
-   "url": "https://www.nytimes.com/2026/10/02/world/europe/spain-housing-vote-elections.html",
-   "published": "Fri, 02 Oct 2026 13:34:19 +0000",
-   "summary": "The government had proposed more protections for tenants after outrage at the eviction of an 87-year-old woman in Madrid.",
+   "source": "nyt-business",
+   "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+   "url": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+   "published": "Fri, 02 Oct 2026 21:11:37 +0000",
+   "summary": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in the company’s fields or processing facility in northeastern Mexico.",
    "full_text": ""
   },
   {
@@ -102,7 +110,7 @@
    "source": "nyt-business",
    "title": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase",
    "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html",
-   "published": "Fri, 02 Oct 2026 15:50:13 +0000",
+   "published": "Fri, 02 Oct 2026 15:50:14 +0000",
    "summary": "The odds of an interest rate change at the Federal Reserve’s meeting in late October have dropped following a softer jobs report and strong signaling from bank officials.",
    "full_text": ""
   },
@@ -110,7 +118,7 @@
    "source": "nyt-business",
    "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
    "url": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
-   "published": "Fri, 02 Oct 2026 15:25:05 +0000",
+   "published": "Fri, 02 Oct 2026 18:28:16 +0000",
    "summary": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately.",
    "full_text": ""
   },
@@ -118,8 +126,8 @@
    "source": "nyt-business",
    "title": "Mash-Up of Paramount and Warner Bros. Will Be Called Skydance",
    "url": "https://www.nytimes.com/2026/10/02/business/media/skydance-paramount-warner-bros.html",
-   "published": "Fri, 02 Oct 2026 16:15:32 +0000",
-   "summary": "David Ellison, the tech scion who will run the combined company, borrowed the name of his original entertainment company that reflects his love of aviation.",
+   "published": "Fri, 02 Oct 2026 19:56:28 +0000",
+   "summary": "David Ellison, the tech scion who will run the combined company, borrowed the name of his original entertainment company that reflects his love of aviation. On Friday, the C.E.O.s of Warner Bros. were told they would not stay on once the companies merged.",
    "full_text": ""
   },
   {
@@ -134,7 +142,7 @@
    "source": "nyt-business",
    "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
    "url": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
-   "published": "Fri, 02 Oct 2026 16:17:19 +0000",
+   "published": "Fri, 02 Oct 2026 18:07:44 +0000",
    "summary": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.",
    "full_text": ""
   },
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/10/02/business/dealbook/data-center-ai-bonds.html",
    "published": "Fri, 02 Oct 2026 11:48:10 +0000",
    "summary": "Rising government bond yields are beginning to upend the economics around the artificial intelligence build-out.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets",
-   "url": "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html",
-   "published": "Fri, 02 Oct 2026 14:06:17 +0000",
-   "summary": "China has started limiting exports of refined products again as its own inventories of crude oil and refined products have dwindled.",
    "full_text": ""
   },
   {
@@ -260,14 +260,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Russia's Putin says continuation of international conflicts is highly likely as world changes",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDZIT3NtQlVkSnhucjBhVTFCSVZqTGFFd2F0U1IwUFdmV1VIUmNCbWJaTnR5Szc3anJ5dzdXaTY4cjBSbVY2d1AxV0kwd05kM3FETDVyY1Vjci1uRi1FdmpBVzBvc0dZTFAySnRvdkVYSkpZblVES004MUh6MVlERkJKaUE4Y08wN1lxa3A2NGNZLWEtWmROY3RGdzFsbllrUE5mc0QwRzJWV2JQekE0UFgyV3F1OWptMktyWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 16:08:10 GMT",
-   "summary": "Russia's Putin says continuation of international conflicts is highly likely as world changes &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 30 Sep 2026 13:34:00 GMT",
@@ -284,10 +276,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Pentagon creates 'Autowarcom' to expand AI and drone capabilities",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3l3OWJYclNEU1AwZWwwTGF4TU5SMXV1Sl91ekc0TE8xcDdPSFpqanc5QjRwZ2FoWkpVLURBZGhVbXFiYUJuam1kTGhtRFRUYkljZ2NCYy1GWmZZQXpva05lX1RGVFBKcHhTNEJyUXZfc0ZySHljQzQ1RWZvS1V3cGFnWVJnX1ZVem5rLURJdnFhMl96dWVRc0oyODEzeUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 30 Sep 2026 22:20:00 GMT",
-   "summary": "Pentagon creates 'Autowarcom' to expand AI and drone capabilities &nbsp;&nbsp; Reuters",
+   "title": "Indian border forces kill two Pakistani civilians, wound one, Pakistani security sources say",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXNKbTZJNmdRWUVFcHpiWWVYWVdNQXhTc2VUd0lyZElUS1dDWGVzcmdmVlpkRU9EaDNETFdqZ3J6Y2pmZXZtVEoyTmV5dUxRdm44UUZ3UDFKemIxUEZkR0FFcC1fSl9IRWd5V3JlRFhkejEyMTVPOE82elNydUc1SDVlc0oxV0hMdkFGOGdmeHZJT0lfWkxiTDJfRTdGVXl1RlkySVdCQmpXNWluODVHLTZ1WEgtNW1VSGNHVDhlTEphZ2FhLWo2V0tQbEppZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 16:19:46 GMT",
+   "summary": "Indian border forces kill two Pakistani civilians, wound one, Pakistani security sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,18 +292,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "China says Taiwan is 'desecrating the martyrs' with its World War Two history criticism",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV3cwUmIyN3NGS3A4Tm1CQWRzb3R0VVhfR3hHbllmMTREdXBLM3hqeXU0amdESlVvczFmRTM4dk1JNDFsX0M4RXVDZEs2SjcyVkFKb3JhU1prM3NpNkhCMEloR3F1RmVJX1BiU1JfUVlRaHNReVM4TlJydVZaZGU2ZXFJZUtKVTJmYWZzVnEyeG5HWDQ2bWdkUXlXY0tObWxPMFlFdGxPdGk4Z1EtN2tkUktKY2ZNUWRhZHBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 30 Sep 2026 03:59:00 GMT",
-   "summary": "China says Taiwan is 'desecrating the martyrs' with its World War Two history criticism &nbsp;&nbsp; Reuters",
+   "title": "US forces exit Iraq after two decades, leaving opening for Iran",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalJlU2twR3RkNzhyVlFwZmJkZmg3RXQ3VEpxTFowU2dhY1pEeG8wZWlLQ2NVb0lNUERZQXRSdThEbWdxdGx6aExDVkFGNHdUVkZwRFlSclVvYWxEVk5wTFlYQVZmblBJUlcxZ180Sm9YdWtXNDZoZkVfYVQ5aDR1VTZIMGFRWnNsVEs5LVJWMkVXWmpaVnIzd2hBTzl5M1pIenM3c09RaW41aEVoOWRSRkNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 30 Sep 2026 12:23:45 GMT",
+   "summary": "US forces exit Iraq after two decades, leaving opening for Iran &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "India's HDFC Bank appoints outsider Anup Bagchi as CEO",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkxTZWNtQXFucmJXdmRxR01taG5SOEVfT1RYSm9JelhiWWNqRl9BLTRDa0p0R0hqbXRkTm41bGhzT0hiSkdoTVppVkZzSlp6aDNBdXZ5a2NlWG80M21yWFNheHF0MjZqQlNWempyNG5qRHhlbmoxQ3ltVFBXLVVxYkw3UkQ4eVdfejdYNDJkLW1Famc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 16:58:10 GMT",
-   "summary": "India's HDFC Bank appoints outsider Anup Bagchi as CEO &nbsp;&nbsp; Reuters",
+   "title": "Iraq says 40 daily Iranian flights cleared to fly to and from Najaf",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkJSVEI3TWpXNlBROHk2RmowaVBxM0RhTlBEcmF0aVdwbnI5blc4R3hvV0J6QUo1UGxTMExXT0xtMnNqcXJrZEtjUG5fZGtnc1hSZjEtNWdSYTg4dGFxMlBneG5yMDhxTzdVVEdWenhsZmdnZl9WdFhqMEZVOEdiN0pINUp4djFQa0Y2SUV2R1MxRkdJbEwxTnVHN1JmTWVTb3B6RUMwMjVBZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 16:37:43 GMT",
+   "summary": "Iraq says 40 daily Iranian flights cleared to fly to and from Najaf &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "China says Taiwan is 'desecrating the martyrs' with its World War Two history criticism",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV3cwUmIyN3NGS3A4Tm1CQWRzb3R0VVhfR3hHbllmMTREdXBLM3hqeXU0amdESlVvczFmRTM4dk1JNDFsX0M4RXVDZEs2SjcyVkFKb3JhU1prM3NpNkhCMEloR3F1RmVJX1BiU1JfUVlRaHNReVM4TlJydVZaZGU2ZXFJZUtKVTJmYWZzVnEyeG5HWDQ2bWdkUXlXY0tObWxPMFlFdGxPdGk4Z1EtN2tkUktKY2ZNUWRhZHBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 30 Sep 2026 03:59:00 GMT",
+   "summary": "China says Taiwan is 'desecrating the martyrs' with its World War Two history criticism &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,18 +332,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "JD.com set to win EU approval for Ceconomy deal, source says",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDdiVzduWlpSTUNVR2VORGp4b093TWNzYjB3Y2I3eW9vR1g3WmZrdmFNNlppQ0F3YkI5X2FrSWYzVjRNR1U1em9tVGUzeUpwNkNJU3dpVmt5eDVKOGtCZTNUcFdFcDQ5VTV3Y0ZHOG5QeVFXa1ZhcS16UUpjTVQ3Nkt5NHd0alRrZEZYOFNJU1N2TnZ3alBoUDdCNlprMUp4Z2VyTFczS01CRGwzeXgwR2Jn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 14:56:56 GMT",
-   "summary": "JD.com set to win EU approval for Ceconomy deal, source says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "China fuel export suspension to choke supplies in Asia",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUhwdVdmMXBLa0luaVJZbnBYaC1EZk82SUhhbFVYbFpUM3p4c3lOM2VxZWlJUmlNc2RtVTZnTmM0TmktVVBsN1B4UGNJaEM3bnc2OWYxVk9jVHBCSjlycEgzdF9rZDZ5SjNsV0F0QXc3QjltVVdyMmNEQmw5N3JOaGNya1VIRkJUcFRGdy1ibEhsaDdTeWxyS1hNUDJFbG9wMXc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 02 Oct 2026 08:59:19 GMT",
    "summary": "China fuel export suspension to choke supplies in Asia &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDhLZ21halBzVzJicDJqTDNXYUFNVTVyZnU2OEtxNmJ5dHpHRnUyUWdoYnIxMGV2M3BkcHZ6QVAyQzdOQ05rU2V4dFdreTRFMmo2TUxwNlNvLU5lX1VleW5ybjNySVJmVjB1NFRWT1dGSy1NNGMtRlQ0NXlseHMwUllYTER3eElJbjdFZkRJOGpJMTRWUG5XblVrb2JsVkxwcV83aklGQ21LRUQ4Y00xTUFvcmRwUFJ5SFo1eDNxZlJqQ1hUYWMxaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 01 Oct 2026 20:17:00 GMT",
+   "summary": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,10 +356,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Airbus narrows delivery gap but faces new A330 quality checks",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3dDX0hWUmhLR3lVQTloUUxKSnlqQWtxNGlxMndLYUh0dHZjRWxtcS1tOVBVd2JSNlNXNGEyUktZWEFIbEM5aGpobDZ0ZmlkZGhUdGdsaUhaTjdzR3FQcmRuWm5pU0oyYlEwcERBVG5wSE1FN2NRTWVtNEN2UWxNZlpRY3pBTUd4OVY4UGRFTXkzdkFBNmFvWmxEbVZiYTM4UlFEdi1qcFkzVlB3M1F2bi13Skx6Q3FCVUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 06:52:00 GMT",
-   "summary": "Airbus narrows delivery gap but faces new A330 quality checks &nbsp;&nbsp; Reuters",
+   "title": "Germany's Schroeder, long criticised for Putin ties, joins board of Russian retailer",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmkyMjEzOFlqLTZvRXFzYVlvc3lURzVCdW4zTWpiNThVZkdtOUM0R0xOUmFoSU9haWhTelJZeF9rUS1oejFlbklqZ1phMTNvd2NlSHZYR3ZySVpPWks2WEVJdVItb2tmY2dkcFR4ell0eDRyWEE1b3F3Y3dteDFqdDRNX2ptdURtTndkWmhYdVBod2pDLXJ6bFRDSEtqT3daUWNzelNHZGhIekpGYlUteERadUl2ZTdMbjlScnQtNnhEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 13:21:11 GMT",
+   "summary": "Germany's Schroeder, long criticised for Putin ties, joins board of Russian retailer &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,10 +372,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Germany's Schroeder, long criticised for Putin ties, joins board of Russian retailer",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmkyMjEzOFlqLTZvRXFzYVlvc3lURzVCdW4zTWpiNThVZkdtOUM0R0xOUmFoSU9haWhTelJZeF9rUS1oejFlbklqZ1phMTNvd2NlSHZYR3ZySVpPWks2WEVJdVItb2tmY2dkcFR4ell0eDRyWEE1b3F3Y3dteDFqdDRNX2ptdURtTndkWmhYdVBod2pDLXJ6bFRDSEtqT3daUWNzelNHZGhIekpGYlUteERadUl2ZTdMbjlScnQtNnhEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 13:21:11 GMT",
-   "summary": "Germany's Schroeder, long criticised for Putin ties, joins board of Russian retailer &nbsp;&nbsp; Reuters",
+   "title": "Airbus narrows delivery gap but faces new A330 quality checks",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3dDX0hWUmhLR3lVQTloUUxKSnlqQWtxNGlxMndLYUh0dHZjRWxtcS1tOVBVd2JSNlNXNGEyUktZWEFIbEM5aGpobDZ0ZmlkZGhUdGdsaUhaTjdzR3FQcmRuWm5pU0oyYlEwcERBVG5wSE1FN2NRTWVtNEN2UWxNZlpRY3pBTUd4OVY4UGRFTXkzdkFBNmFvWmxEbVZiYTM4UlFEdi1qcFkzVlB3M1F2bi13Skx6Q3FCVUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 06:52:00 GMT",
+   "summary": "Airbus narrows delivery gap but faces new A330 quality checks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,10 +388,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "ECB focuses on inflation, not bond spreads, Nagel says",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHZQZHNWRjJnT0JEQ0pvTE5pR0hzdDNyZlNfLUJ3cV90ekxuTzVJdWZ4NjJjSXMxUlF0N0JlSTV2aGRIX0RYZ2NpVHJnWkg1S0x0N2xpZnhrUjYxUFVPUlE1Z1g4MGowQ21ZcGxaV0VmUmtqSEMtVkR6MEtuVVBMRjhqY3RmT25hdXRINE42UXdCdFd5N1dVUzJvV3FjOUtiazBnUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 13:51:59 GMT",
-   "summary": "ECB focuses on inflation, not bond spreads, Nagel says &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGxXWEZnTW1hNUtCOXY4NTJTWHQ0ZkZoUEZsYkt3c3lQTVU1NDFVbHJnSkNJbXRTdzZCSlBWY2tsc0stTk5CSGk1Ymhpb0NwaG1WUEg5Ni1pVlFxQnRMc093VGllN0c5ektIdWYyN191ZW5ZX1lrUjhVODk2TUpsRXFQT3hQdGhVUzdjdklkSENrWm8yWmgwVkE1bEd6TTB2RHBsUHpZVExmTUhkbjhINTVrZ3ZpQnNsQW9wc0FBMWk4XzF0WEI1aXZBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 01 Oct 2026 07:51:00 GMT",
+   "summary": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,26 +404,26 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Fed seen skipping October rate hike as job market cools",
+   "title": "Fed may skip October but pull rate hike trigger in December",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 14:21:19 GMT",
-   "summary": "Fed seen skipping October rate hike as job market cools &nbsp;&nbsp; Reuters",
+   "published": "Fri, 02 Oct 2026 18:26:38 GMT",
+   "summary": "Fed may skip October but pull rate hike trigger in December &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "US job growth slows sharply in September; unemployment rate rises to 4.2%",
+   "title": "US job growth undershoots expectations in September, but labor market remains stable",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 14:32:52 GMT",
-   "summary": "US job growth slows sharply in September; unemployment rate rises to 4.2% &nbsp;&nbsp; Reuters",
+   "published": "Fri, 02 Oct 2026 18:41:57 GMT",
+   "summary": "US job growth undershoots expectations in September, but labor market remains stable &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Nasdaq hits record high after softer jobs data tempers rate-hike bets",
+   "title": "Equities close higher as softer jobs data quiets rate-hike expectations",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 16:09:56 GMT",
-   "summary": "Nasdaq hits record high after softer jobs data tempers rate-hike bets &nbsp;&nbsp; Reuters",
+   "published": "Fri, 02 Oct 2026 20:01:21 GMT",
+   "summary": "Equities close higher as softer jobs data quiets rate-hike expectations &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -436,18 +436,26 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Global shares gain, bonds supported as oil drops, jobs data misses expectations",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xaEpXc3pMdGRXalZlcHdvWThBeklWRlpfRDd4cUZLbXNGS2s0YVF4Sm42YUpqaFNTbVkyWmIyanN6WmxtSG5yME8zTml3Z1N3a0NabmktSy1YYWp0SFlOM2NQZEN6WmFnX096dUREY1pHTFJ0NzlrUW54cw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 02:10:00 GMT",
-   "summary": "Global shares gain, bonds supported as oil drops, jobs data misses expectations &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "US job growth expected to slow in September; unemployment rate likely steady",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmpBVFdqekt5WEJQeF8zZkEzQ0prUUdiY3lzNVM3TUVXSndIazJYSmNOajZNWGViZ1ZGaUszb1JEaF92cjlDdUN3aGVyQXQ5d1VseFFINzZxMTJYbURVOFJFYmlfN29kbFItakZhczNLc3dJZks1Q1hqZ3ZwNUhucEc3ZmxCd0kxbEJFZWlHRkZVdFM1M09iUnZ4bHRLYnJBUllhOTZYNnhhVXdRM1lGbTgtc2M?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 02 Oct 2026 04:01:00 GMT",
    "summary": "US job growth expected to slow in September; unemployment rate likely steady &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Stocks climb after weak US jobs data, but bonds resume selling",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xaEpXc3pMdGRXalZlcHdvWThBeklWRlpfRDd4cUZLbXNGS2s0YVF4Sm42YUpqaFNTbVkyWmIyanN6WmxtSG5yME8zTml3Z1N3a0NabmktSy1YYWp0SFlOM2NQZEN6WmFnX096dUREY1pHTFJ0NzlrUW54cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 02:10:00 GMT",
+   "summary": "Stocks climb after weak US jobs data, but bonds resume selling &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Oil settles lower after Europe agrees to tap diesel reserves",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTERINTZjYjV0dGhsWUtmMjRmNXVHN2tjaG5ZVkpldGxTRHJxOWc5N0Jtd0dhTEZLdUVpM2Z4T1J5SFYxZ2NTMm83Q1ZSXzgxUDA2Z2hXbFRKRTY1cWRWajR2SldNQ2xqTktJNDAxamcyb3V0YVZyZnh6aktvcHpUNzRobzNocWQ1ZFREbVN5OUR2MHJ3MHVQU1RveHYzYkhZZnAzc3YtNTk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 01:10:00 GMT",
+   "summary": "Oil settles lower after Europe agrees to tap diesel reserves &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -460,10 +468,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "COMMENTARY: Morning Bid: Yield to worst",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGx4Q3hRanBxbVJxRnh4Z0dma2tHRWR4T2Y4bm5Db0JtQ2o5NDJZdGZFR2x0VHhmTkVXVDF1bDBIdk96ZC15dEdyRzV4a0lpZU5IdUdKcU96Wm9aYU9GUzVnVDVCWl91YVZWZ2R4SXJuZG9BcGFSQlZGWnd4OVYtLVA3SDAwcENNZDNPUThNTmhZYlpVRkow?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 11:20:04 GMT",
-   "summary": "COMMENTARY: Morning Bid: Yield to worst &nbsp;&nbsp; Reuters",
+   "title": "Putin says Russia won't supply diesel to global markets until sanctions are lifted",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERSQ3BpdEdRdW9yS05wbDZGOVBaY1hNZ3RNclV0U0NzYlFlVkhiQUU0MXhXc2MzQjFNWFlaLUlYbHdtSTBnaHN2NGFNY2pxOUFJN3RQdjBCMHhMRkNZYTY4emE2ZXBDNm01Q2NwQWxvOHBwWE9iNW1acVMwZzFyY0dEUFVhMG84S3MyaUlUcC05bGRicmtaNExkbk45bWoxdTdvdnpBaTc5cW0tOVJuX2FfbWlUTlB0M2hVSm9KX2E3aWE2M2NpeHB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 01 Oct 2026 17:43:29 GMT",
+   "summary": "Putin says Russia won't supply diesel to global markets until sanctions are lifted &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Dutch eyewear chain Hans Anders halts sale of Meta glasses, citing privacy concerns",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOTZJbGZnVk93R1htYkJ4QkpMX2NzaU0xT1ZyWDFxcDFQN180MDZSaGZPRXhHUkdPN3UwMDFlZjhZaHhENEtGVGIzd20xTy1jVUNhMExEc2lTcGZVMGNrWXRyMFczVGNMOHg4QnRWR3FQVlFNVklJSnVUQUtHTWJvRlVFQjRqbWRUbk1iUHpSbUF3STBWYzlwN2hRb3c3OVVldEJJUFdnUHBfMlRSeXdVRkpidW5xckF1LVJJLURJQ1hsY1dXcGdnUnN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 18:49:42 GMT",
+   "summary": "Dutch eyewear chain Hans Anders halts sale of Meta glasses, citing privacy concerns &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -524,14 +540,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Chinese hackers impersonated ex-US official to steal emails from AI experts",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHRqRS1jN2w4cEJmeUFHYkZ1N2RFVTJiRUtJYnZWSTRvMWVHNWVNU2IyYUh4Qjd1aG1pT21SSVRPbEpYVlBRUXRtZTFjS3dzMlF5SThULW1NaXRZTXlHNXdodTNfdGE1QmpMTHdGS1NSbmUxdkh2RXFubWs2eFRPSFF3MkMxVGx3cmd6U0xsSWthamd3YVdFaE8wU183SktHU3ZhNE5NVDNURFpHMU81N25YMG5jbDhQTXZjSg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 13:09:30 GMT",
-   "summary": "Chinese hackers impersonated ex-US official to steal emails from AI experts &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1Kd2RTeEwzSTRhV20ybDh2VEs5b2pXWVgzWkNsRGV0aDJ6SkRrMUp4SDVESXBHaVBwTEVzZEpzd0ZCM25IM3pRQlp4UVpEaFp3OTAzZTNhWDRCUWJKQUppVTJMRGEzcmgza2pzdjJ4ak8xVjExWU1XUEhDZmhmNjN5TkNEVmdENmY0ZXVuWDVlMzVzY01SeUd6RERia25aTHdzRmFJMC1iSWNrR291X0UxWHdFN01w?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 01 Oct 2026 21:49:01 GMT",
@@ -540,10 +548,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3F1ZTMtVFZsOVNXOEU4X09jTTI0RDVYNUJmQUNVVUhJQkV6YlRmdldFaWwyVzU1UnZLQl9Ia0tqTHlBZ09SUXZ6VC1kcEx6bjQyQlgxXzI1YVpwYldSV3NwNXZRRkFPSWQzclhFbE04anBtbnRZV2FwRUlIMmU2eVV3M0VscEE1Znd5bU5rNEhwWVVXdlR0c2tIbnlnald3VVBJdVFiTDZMUmhqV0x1bE1jVVR2STZ5bHdF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 03:12:00 GMT",
-   "summary": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports &nbsp;&nbsp; Reuters",
+   "title": "Pentagon creates 'Autowarcom' to expand AI and drone capabilities",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3l3OWJYclNEU1AwZWwwTGF4TU5SMXV1Sl91ekc0TE8xcDdPSFpqanc5QjRwZ2FoWkpVLURBZGhVbXFiYUJuam1kTGhtRFRUYkljZ2NCYy1GWmZZQXpva05lX1RGVFBKcHhTNEJyUXZfc0ZySHljQzQ1RWZvS1V3cGFnWVJnX1ZVem5rLURJdnFhMl96dWVRc0oyODEzeUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 30 Sep 2026 22:20:00 GMT",
+   "summary": "Pentagon creates 'Autowarcom' to expand AI and drone capabilities &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
