@@ -14,8 +14,8 @@
  },
  "nyt_via_jina": {
   "status": 403,
-  "size": 807,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Fri Oct 02 2"
+  "size": 659,
+  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Sat Oct 03 2"
  },
  "reuters_via_jina": {
   "status": 200,
