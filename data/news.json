@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-03T00:53:15Z",
- "count": 69,
+ "generated_at": "2026-10-03T07:25:14Z",
+ "count": 65,
  "items": [
   {
    "source": "nyt-world",
@@ -62,7 +62,7 @@
    "source": "nyt-world",
    "title": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
    "url": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
-   "published": "Fri, 02 Oct 2026 20:49:59 +0000",
+   "published": "Sat, 03 Oct 2026 07:00:40 +0000",
    "summary": "Days of unrest have affected more than 1,000 schools across France as high school students push for better standards.",
    "full_text": ""
   },
@@ -80,6 +80,14 @@
    "url": "https://www.nytimes.com/2026/10/02/world/americas/us-diesel-ban-trump-mexico-europe-brazil.html",
    "published": "Fri, 02 Oct 2026 15:39:08 +0000",
    "summary": "Economies in Latin America and Europe rely on American diesel. Stopping exports could tip some countries into recession, hurting trade with the United States.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "White House Filing Claims President Has Authority to Bar News Outlets",
+   "url": "https://www.nytimes.com/2026/10/02/business/trump-white-house-ban-cnn-politico-ms-now.html",
+   "published": "Sat, 03 Oct 2026 02:29:40 +0000",
+   "summary": "The Trump administration again defended the decision to bar CNN, MS NOW and Politico from the White House and to exclude journalists from the pool that covers the president in small spaces.",
    "full_text": ""
   },
   {
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/10/02/your-money/pay-advance-apps-fees.html",
    "published": "Fri, 02 Oct 2026 13:00:08 +0000",
    "summary": "The loans tide borrowers over until their next paycheck. The apps offer no-cost options, but most users end up paying high fees, a report finds.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "The Latest Challenge to Data Centers? Restive Investors.",
-   "url": "https://www.nytimes.com/2026/10/02/business/dealbook/data-center-ai-bonds.html",
-   "published": "Fri, 02 Oct 2026 11:48:10 +0000",
-   "summary": "Rising government bond yields are beginning to upend the economics around the artificial intelligence build-out.",
    "full_text": ""
   },
   {
@@ -236,6 +236,22 @@
   },
   {
    "source": "reuters-world",
+   "title": "AI's race to transform the world before the money runs out",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 03 Oct 2026 05:06:00 GMT",
+   "summary": "AI's race to transform the world before the money runs out &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "World food prices near four-year high in September, UN says",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONEhfR0lrWDQySjhaQkpLXzJJMVpfcDhScWxHbGNRRkhwa00xcndrQmw4OXQwZzVlX2F6ZVBsTHZ6cUFUbHJyN2ZzTHNka3htMWphZE1sNVRNdXBfMHBXbHF0T0NfTS02OTJnQkR0dmRLRWRXandsdktobVdacDhmQjBKbVJ5czM5U1FoaTFrTUwxVktmSGd3UUhRVWpKQlY5Q253Yg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 10:02:27 GMT",
+   "summary": "World food prices near four-year high in September, UN says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Putin says the world is living through a dangerous moment, warns West not to escalate",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmRoRDA2R19zaDc4RVpPclJ2UkNVS0hqZGdfbkJobzJHR015RmhJMDh1UFhIcXdaN3gyLXpEN05xN1Q0N0tlTFZvTk1WcWM4ZHJVak10d0hFQ3oyZG50OHNPLThHR2JXWExldEVRVzVYclJYN3VpeDVXaW1ENVByNjhwYi15M3lMNnU4Ull0ZDlJUWJkMVhXSVk0dEw2ZkxKTFJFeEVtSVV5b2l2YkZOXzJLaFo2Q3FzUHhlcXFQanhhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 01 Oct 2026 23:59:07 GMT",
@@ -248,22 +264,6 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUJ4TXFqX3MxYnVxcDNXUXhic1BubnFDLVFlX2t5aWFVbTVSMXhNNUhWUWpyMHN2c1hINVVOaEhnUnk5NkFKM2U3bkJSOWZNcDltc1YxRXZkdHo3VkpXTzU1UF9yT21lVXlRUGZnUTZTd1k3TGlXXzhBX3hJWVpsS21YX1F2NHI1eUFwcTZFSEszT3Q4am04dVlMU05Fdnkx?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 02 Oct 2026 16:20:04 GMT",
    "summary": "EXCLUSIVE: Carney plans to visit Turkey this month, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Why are world bond markets selling off again?",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHlJS0dDUGUxQWFaeWpJX21IdEZqSmw1UFRBcmcxajlsZW1yNlVVRm1ZQUVHQ0huUGdIdnBRTU1id0k3dVl1SlJ0UkxmNFUwNy1nWTNDcWtZdVpqOHp3czVja1hNWnZfQ2RxZnNUNDJYdXlSdVluME5vTjlhNVlYOEhUVVZRNVd1RzU3NWJyb0Q5R1hxZ2NOVGdZSFBnQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 11:17:00 GMT",
-   "summary": "Why are world bond markets selling off again? &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "World food prices near four-year high in September, UN says",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONEhfR0lrWDQySjhaQkpLXzJJMVpfcDhScWxHbGNRRkhwa00xcndrQmw4OXQwZzVlX2F6ZVBsTHZ6cUFUbHJyN2ZzTHNka3htMWphZE1sNVRNdXBfMHBXbHF0T0NfTS02OTJnQkR0dmRLRWRXandsdktobVdacDhmQjBKbVJ5czM5U1FoaTFrTUwxVktmSGd3UUhRVWpKQlY5Q253Yg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 10:02:27 GMT",
-   "summary": "World food prices near four-year high in September, UN says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,18 +292,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "IMF looking to set up Venezuela office, says no programme requested",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN182Yy1vb1hpa2xUcFR3a2NoZ0w0WWRwMmFwWi1xRVhjTUsyV2VvcDJpUTc1X0dmWUhSU2xmZWhxRU53R3N4TGw4WVMtcXdxNjNyR2haaExzcm5VY0NncU9pTXg2aG1vdjdnUlZlZGVVYkdya0w3M01KR1lab0NMMGpLUVdTTG1BTEZfMkZFazB2czZNUDA0UG1ZT19iN2ljMW1uMnBud0gzNW43c09mLUxaZlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 15:05:20 GMT",
-   "summary": "IMF looking to set up Venezuela office, says no programme requested &nbsp;&nbsp; Reuters",
+   "title": "Foiled flydubai attack clouds regional airline revival",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckx3VkNRTklaT01xMTdlQW5sXzBSZ0lPNWNBcWpZZmJCWnNCOWxnRWRjLVhnbmZEU28zZ2hNVkExbzNpeUpyazBtT1FQNWswRGRiYUxqY3BEQzVuX2RSZ3pIa1ZyTFQ1NjJaNFlQdnpTMDJVUjNKOUdxVkdHcTVpSm5tVVp6THRWOV80bEt2ZzMtY0hFeTA5Y0xNR2k0eElNT3Z6cVlJRmsxbmZt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 05:01:00 GMT",
+   "summary": "Foiled flydubai attack clouds regional airline revival &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: Trump visa policies weigh on Columbia journalism program as admissions pause",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzlIVmhvVUZ0aG1rRENIVUd4TEpFZTVQZkVrRkRpNEtQUVBJbUJWOHdyQ1VRcjkxUGtTb2prWC1JX1A5OFhWZU90XzJKd3VEM2RFc0dkM3ZwcVAtZ0RYN1BFenF4LTNLYTNtSG45b1J6S283R1pIS3ZpSGlwa1pOeVVKejd0U3FCZmZWUzBDaEhhOVQ0QU1QNnc1SUFwQnlscFZVck5JVml0aHhqTk53amFGWUwxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 21:41:10 GMT",
-   "summary": "EXCLUSIVE: Trump visa policies weigh on Columbia journalism program as admissions pause &nbsp;&nbsp; Reuters",
+   "title": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmpYQ0Y2U28xREktZWI5cXZqVU1oV1dUeVgtRHRqb0FISGdKc01JMHc0VXVhbEcyZUNPWDliRDljWEwwblVkSkpqMmFSaVNsWGpTSExpWUJwd3huaDN4QlVPX05VM012UmNvYUZxRm5IZnk5QnhMMzVRMUZYTF9BNnJMaUlkVzkyUUlmTTRMdXdSdkg2Y1Y2ekJIaUpld3lCdWp6SS1Bc1N2QWVhNFNVRGxOMy1XNWItcUdwTWdrMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 21:01:00 GMT",
+   "summary": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -312,6 +312,14 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV3cwUmIyN3NGS3A4Tm1CQWRzb3R0VVhfR3hHbllmMTREdXBLM3hqeXU0amdESlVvczFmRTM4dk1JNDFsX0M4RXVDZEs2SjcyVkFKb3JhU1prM3NpNkhCMEloR3F1RmVJX1BiU1JfUVlRaHNReVM4TlJydVZaZGU2ZXFJZUtKVTJmYWZzVnEyeG5HWDQ2bWdkUXlXY0tObWxPMFlFdGxPdGk4Z1EtN2tkUktKY2ZNUWRhZHBR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 30 Sep 2026 03:59:00 GMT",
    "summary": "China says Taiwan is 'desecrating the martyrs' with its World War Two history criticism &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 23:31:28 GMT",
+   "summary": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,30 +340,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "China fuel export suspension to choke supplies in Asia",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUhwdVdmMXBLa0luaVJZbnBYaC1EZk82SUhhbFVYbFpUM3p4c3lOM2VxZWlJUmlNc2RtVTZnTmM0TmktVVBsN1B4UGNJaEM3bnc2OWYxVk9jVHBCSjlycEgzdF9rZDZ5SjNsV0F0QXc3QjltVVdyMmNEQmw5N3JOaGNya1VIRkJUcFRGdy1ibEhsaDdTeWxyS1hNUDJFbG9wMXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 08:59:19 GMT",
-   "summary": "China fuel export suspension to choke supplies in Asia &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Dangote's planned Kenya refinery faces legal challenge by consumer-rights group",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjFoeE14UXo1UVZVQ3BoTmlmQ0FmODgzMFdHNFR5d25OVHhpS2M0SGxPOFNzLW92TDkzMDhNSm9fdnhkM2taZlFQUjVIbWZCN0dFU3JqVHVyeF9Ib1dPTmhQWWVFUW9walRLUDd3VVdFVXFnN3NMTDBIb3RZaFhVcjA1TlVxQl9lYlJNY2dSU29wZzNCQThHRXhudWZzZFhNRjJqaEU3ck0zNDdwZlhsblprR3N5NENnTEtMcFFaa2NBSlA4T3lnTHNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 14:38:48 GMT",
-   "summary": "Dangote's planned Kenya refinery faces legal challenge by consumer-rights group &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "PepsiCo, Monster challenge India 'energy drink' label ban citing business impact",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU03Q3M4M0NNaWtkMzdIdE1tMENDTjR0eUU5LTNqNU5uN0dBTEZ3MUxmdXVEZ1lja1FZVGFEX2lUdkxQUXlYZlJSanpnTk9VRGp3ZVZoczl1TXFUQkVISWZJQktORXN1ZUpmMnBzVmdueVJXYkloUW1ZY0xQeXBFNk5DVnFxdkdQR0JxcUZqWEVvM28xVkJIX25SMkx5eDRReHdTX19VWE1CN1JTSTNCVzl5a0s0b0RscVI0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 15:09:57 GMT",
-   "summary": "PepsiCo, Monster challenge India 'energy drink' label ban citing business impact &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Germany's Schroeder, long criticised for Putin ties, joins board of Russian retailer",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmkyMjEzOFlqLTZvRXFzYVlvc3lURzVCdW4zTWpiNThVZkdtOUM0R0xOUmFoSU9haWhTelJZeF9rUS1oejFlbklqZ1phMTNvd2NlSHZYR3ZySVpPWks2WEVJdVItb2tmY2dkcFR4ell0eDRyWEE1b3F3Y3dteDFqdDRNX2ptdURtTndkWmhYdVBod2pDLXJ6bFRDSEtqT3daUWNzelNHZGhIekpGYlUteERadUl2ZTdMbjlScnQtNnhEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 02 Oct 2026 13:21:11 GMT",
@@ -372,18 +356,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Airbus narrows delivery gap but faces new A330 quality checks",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3dDX0hWUmhLR3lVQTloUUxKSnlqQWtxNGlxMndLYUh0dHZjRWxtcS1tOVBVd2JSNlNXNGEyUktZWEFIbEM5aGpobDZ0ZmlkZGhUdGdsaUhaTjdzR3FQcmRuWm5pU0oyYlEwcERBVG5wSE1FN2NRTWVtNEN2UWxNZlpRY3pBTUd4OVY4UGRFTXkzdkFBNmFvWmxEbVZiYTM4UlFEdi1qcFkzVlB3M1F2bi13Skx6Q3FCVUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 06:52:00 GMT",
-   "summary": "Airbus narrows delivery gap but faces new A330 quality checks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Accenture's forecast eases AI disruption fears, lifts battered IT services stocks",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0x6VDZBVTl0dW1JZjJlQk9XRTBwU2pGVVkzckl0Z2I0WmJxX0c4MkExeUpyamw5VVRERkl2V2tCSm4yQ3Y5SlhWbGhISWVNN3N2RTY0QTNtRk5wdkI0UEFMSjE1cGJLYjNYMTdLSTIyMk5vZlE3R181TmlPYkFoLWNaR1p5dG1SQnFqWF8xSDA1N1JhQlkxT0dLeXcwYnJ4LWpMQw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 16:32:13 GMT",
-   "summary": "Accenture's forecast eases AI disruption fears, lifts battered IT services stocks &nbsp;&nbsp; Reuters",
+   "title": "Community banks sue US regulator over crypto firm charters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3M1NUpPd3A1WnBjS3FSeDhuQ3d6aC1BdUZNNml4U1JLX1RaWkJ3Y0xhRHhwb01TNUhOTjlxZlhWWXN2MG5EbkpZbXNZR2haU0F1MVJXR0o4cnhHNnpiOUNnY296aXRUOHI5a3l5MXIyYXMxb2RZOENNdTdveVJTRldXYUw3Um5kTGswMl9XNFFMTzNRMGZzaDE3dDlvdkNuYnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 21:28:22 GMT",
+   "summary": "Community banks sue US regulator over crypto firm charters &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -395,11 +371,27 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "VIEW Soft September jobs report sends markets higher",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 13:33:10 GMT",
-   "summary": "VIEW Soft September jobs report sends markets higher &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "PepsiCo, Monster challenge India 'energy drink' label ban citing business impact",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU03Q3M4M0NNaWtkMzdIdE1tMENDTjR0eUU5LTNqNU5uN0dBTEZ3MUxmdXVEZ1lja1FZVGFEX2lUdkxQUXlYZlJSanpnTk9VRGp3ZVZoczl1TXFUQkVISWZJQktORXN1ZUpmMnBzVmdueVJXYkloUW1ZY0xQeXBFNk5DVnFxdkdQR0JxcUZqWEVvM28xVkJIX25SMkx5eDRReHdTX19VWE1CN1JTSTNCVzl5a0s0b0RscVI0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 01 Oct 2026 15:09:57 GMT",
+   "summary": "PepsiCo, Monster challenge India 'energy drink' label ban citing business impact &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Trump says US deal with South Korea has $8.4 billion for oil recovery",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHpSdDRDc2MzeVQ0R28ycC03cXdDVTBvUGN0WTh3eGJSQ0I4UEN1Sk1PSzQ4NjF2QjVRTVhXbnMtN2JFSWxrUGtlTDhoNTRMVUZpTS1KT2xVcGh3czdZN0loQnNDb1d4UXVJMllkTk00cXhrUHNRbHpnakhJSGJ3OVRCRjA2QloydDZILUQyTl9UaFc5aHlmVjVYZWRBbUE4dXp4Q0ZfWEdGdEp1cTRLeXkxNVdvNFBObDVWd3hmWUtfZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 16:16:00 GMT",
+   "summary": "Trump says US deal with South Korea has $8.4 billion for oil recovery &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 22:43:45 GMT",
+   "summary": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -408,6 +400,14 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 02 Oct 2026 21:22:37 GMT",
    "summary": "Fed may skip October but pull rate hike trigger in December &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "VIEW Soft September jobs report sends markets higher",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 13:33:10 GMT",
+   "summary": "VIEW Soft September jobs report sends markets higher &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -436,6 +436,14 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Vietnam's quarterly GDP grows fastest in 4 years as exports boom",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV281NTFQQnVVTlNsaWtzRjlvTVhIZkZMYV9wLUp5RzQxdUliRmlJQlpIWG1Da2x2OXpmRUJrVjVJSnhqQUlCWWhudEVrOEVIZUJuYWZ3SDZhYlRId21HTFg0YWZVYTk4SGl0czZLU3dmTWY1SWNES2pwRWVILWdZNEJ4RDl6bDB6dnhXZklHSEI1cFdScFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 03 Oct 2026 01:11:00 GMT",
+   "summary": "Vietnam's quarterly GDP grows fastest in 4 years as exports boom &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "US job growth expected to slow in September; unemployment rate likely steady",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmpBVFdqekt5WEJQeF8zZkEzQ0prUUdiY3lzNVM3TUVXSndIazJYSmNOajZNWGViZ1ZGaUszb1JEaF92cjlDdUN3aGVyQXQ5d1VseFFINzZxMTJYbURVOFJFYmlfN29kbFItakZhczNLc3dJZks1Q1hqZ3ZwNUhucEc3ZmxCd0kxbEJFZWlHRkZVdFM1M09iUnZ4bHRLYnJBUllhOTZYNnhhVXdRM1lGbTgtc2M?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 02 Oct 2026 04:01:00 GMT",
@@ -459,22 +467,6 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Putin says Russia won't supply diesel to global markets until sanctions are lifted",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERSQ3BpdEdRdW9yS05wbDZGOVBaY1hNZ3RNclV0U0NzYlFlVkhiQUU0MXhXc2MzQjFNWFlaLUlYbHdtSTBnaHN2NGFNY2pxOUFJN3RQdjBCMHhMRkNZYTY4emE2ZXBDNm01Q2NwQWxvOHBwWE9iNW1acVMwZzFyY0dEUFVhMG84S3MyaUlUcC05bGRicmtaNExkbk45bWoxdTdvdnpBaTc5cW0tOVJuX2FfbWlUTlB0M2hVSm9KX2E3aWE2M2NpeHB3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 17:43:29 GMT",
-   "summary": "Putin says Russia won't supply diesel to global markets until sanctions are lifted &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Morning Bid: Can Treasuries rally for a second day?",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGFqSGhCVjh3VzBqLVBOUEp5X1FJamRkVVdIbUdITXBDNjJ6eWtGVWJYVTVTckE1b2pJLVkzX3dYcWNlVEVTcTQtZWtqU0dRYjNxWG5WWEZVaTZ3T0JiZlhJZGNMbUIwdGk4N0xkN01JUGVVT2pVbWs5NnZWd2hkenZXWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 04:33:00 GMT",
-   "summary": "Morning Bid: Can Treasuries rally for a second day? &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-tech",
    "title": "Dutch eyewear chain Hans Anders halts sale of Meta glasses, citing privacy concerns",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOTZJbGZnVk93R1htYkJ4QkpMX2NzaU0xT1ZyWDFxcDFQN180MDZSaGZPRXhHUkdPN3UwMDFlZjhZaHhENEtGVGIzd20xTy1jVUNhMExEc2lTcGZVMGNrWXRyMFczVGNMOHg4QnRWR3FQVlFNVklJSnVUQUtHTWJvRlVFQjRqbWRUbk1iUHpSbUF3STBWYzlwN2hRb3c3OVVldEJJUFdnUHBfMlRSeXdVRkpidW5xckF1LVJJLURJQ1hsY1dXcGdnUnN3?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -488,14 +480,6 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenJEMWNZMUk5S2w0dUZiNzdpeTVhdXhCNWpjeWFWR1ZQUDJkTTlBczF5SWw2dk9TQ05kMVF3b3V2czEzYnJOa0JhX0V3WHRMbE8xVlUzR0lJa3RjS3JrWjlHY2o5cktzdWJQa05GZkdlZ3dTZVpsRHlBRDh6ZUczcmhza1JZUXVncDhNaHVtUnc3aEVOWnF6QmItMVJJREQ4MWpfOERMcW1WVkZsZW5GZEJTYWhyQmhSNUx6bDNaa3lUNlhHdWc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 02 Oct 2026 09:05:01 GMT",
    "summary": "Amazon to invest $1 billion over five years in US data center communities &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Swedish ball-bearing ad revives Greta Garbo with US, Chinese AI",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0h4dGNpV1NFa21mdnRuVmVWaHZfSXh2RFlOMmNoUFN2M05DMFc3ZzhTWTQybTQzRXBQRTItUzBjM1RVckgzMXpDY3dXMHlzaWJrTVMwU1IxaG9FOUpobzg2YkFDOTloZkl6RXp1c2duRzl2LW1vTEJDQ01icjh6SFllREZ3c0VkVkpLT3Z1Wm5tSDh3T1N0ZVczelBuS2JMRXJiTUJQdl8yU2NDd0hVWDNRTkNxNWN4dVlmVUFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 12:51:39 GMT",
-   "summary": "Swedish ball-bearing ad revives Greta Garbo with US, Chinese AI &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -524,10 +508,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Social media harms democracy by spreading rumors, survey shows",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdGFqS0JkYkZNcjBrM2laak83dkpJWXpuUk1OVEhFNFR5U2xMMTRmQkdZMmtQLXM1Q1BKOTlYR2ZIbGJJeG9HZ2lNVDR3OEZOcm1QS1BuQjlPYXc5UTFDRkMxNGkwajFBaHlnWkxtRURfRG9QOW1wQnlScTdEcU43aTkzOTV1QXNiX2hFajJwdU4wODFvQVU2R1hQSW4xRTVkSG9wTGtzWWZxRE85QVpQZFZRVEw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 14:09:29 GMT",
-   "summary": "Social media harms democracy by spreading rumors, survey shows &nbsp;&nbsp; Reuters",
+   "title": "Swedish ball-bearing ad revives Greta Garbo with US, Chinese AI",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0h4dGNpV1NFa21mdnRuVmVWaHZfSXh2RFlOMmNoUFN2M05DMFc3ZzhTWTQybTQzRXBQRTItUzBjM1RVckgzMXpDY3dXMHlzaWJrTVMwU1IxaG9FOUpobzg2YkFDOTloZkl6RXp1c2duRzl2LW1vTEJDQ01icjh6SFllREZ3c0VkVkpLT3Z1Wm5tSDh3T1N0ZVczelBuS2JMRXJiTUJQdl8yU2NDd0hVWDNRTkNxNWN4dVlmVUFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 12:51:39 GMT",
+   "summary": "Swedish ball-bearing ad revives Greta Garbo with US, Chinese AI &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -536,22 +520,6 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 01 Oct 2026 10:06:00 GMT",
    "summary": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1Kd2RTeEwzSTRhV20ybDh2VEs5b2pXWVgzWkNsRGV0aDJ6SkRrMUp4SDVESXBHaVBwTEVzZEpzd0ZCM25IM3pRQlp4UVpEaFp3OTAzZTNhWDRCUWJKQUppVTJMRGEzcmgza2pzdjJ4ak8xVjExWU1XUEhDZmhmNjN5TkNEVmdENmY0ZXVuWDVlMzVzY01SeUd6RERia25aTHdzRmFJMC1iSWNrR291X0UxWHdFN01w?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 21:49:01 GMT",
-   "summary": "California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWFtWW9YMHUyWmxwTUs1VmZnOHZNdnJBNzB6azNFSG84M0FtS2x1SE50TDZMS0ZNS25zQ1lEZnFRdnd3UFhDRXMwLUVXaDZWRW9RZHdfQXdhNjFBdEJSd243SHlselowdWpIZ3RycmRSdUhlaTlDLUVGNjV1a3UwY2llSXpiV0dvVDN2VU1tS3NmbmQzVFNXV2FZcDJzWEI5b05NRW4zRXFPOV9NZnZUMmE5M2sycEtKVUdpNjRkLW90bGtiZnY0LWtvTHRDQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 19:26:22 GMT",
-   "summary": "Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
