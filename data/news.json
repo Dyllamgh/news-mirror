@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-03T12:56:24Z",
+ "generated_at": "2026-10-03T17:43:39Z",
  "count": 65,
  "items": [
   {
    "source": "nyt-world",
    "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
    "url": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
-   "published": "Sat, 03 Oct 2026 00:15:12 +0000",
+   "published": "Sat, 03 Oct 2026 14:59:12 +0000",
    "summary": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
    "full_text": ""
   },
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
    "url": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html",
-   "published": "Sat, 03 Oct 2026 12:49:40 +0000",
+   "published": "Sat, 03 Oct 2026 12:58:53 +0000",
    "summary": "It was unclear what background checks had been carried out before he was allowed to fly to Israel.",
    "full_text": ""
   },
@@ -30,7 +30,7 @@
    "source": "nyt-world",
    "title": "American High School Students Are Selling Guns Bound for Cartels",
    "url": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
-   "published": "Sat, 03 Oct 2026 12:43:36 +0000",
+   "published": "Sat, 03 Oct 2026 16:47:21 +0000",
    "summary": "Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.",
    "full_text": ""
   },
@@ -46,7 +46,7 @@
    "source": "nyt-world",
    "title": "FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says",
    "url": "https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html",
-   "published": "Sat, 03 Oct 2026 09:18:11 +0000",
+   "published": "Sat, 03 Oct 2026 14:52:27 +0000",
    "summary": "The violent midair assault on a FlyDubai flight to Tel Aviv has deepened concerns about the safety of Israelis traveling abroad.",
    "full_text": ""
   },
@@ -70,7 +70,7 @@
    "source": "nyt-world",
    "title": "What We Learned About American Teenagers Supplying Guns to Cartels",
    "url": "https://www.nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html",
-   "published": "Sat, 03 Oct 2026 09:00:54 +0000",
+   "published": "Sat, 03 Oct 2026 16:36:25 +0000",
    "summary": "Our reporting revealed how Mexican criminal groups are relying on teenagers and young adults in border states like Arizona to help supply their weapons.",
    "full_text": ""
   },
@@ -174,7 +174,7 @@
    "source": "nyt-technology",
    "title": "Who’s to Blame When A.I. Goes Rogue?",
    "url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
-   "published": "Fri, 02 Oct 2026 09:21:48 +0000",
+   "published": "Sat, 03 Oct 2026 14:51:40 +0000",
    "summary": "Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy.",
    "full_text": ""
   },
@@ -230,7 +230,7 @@
    "source": "nyt-technology",
    "title": "Russia’s Latest Propaganda? A.I.-Generated War Songs.",
    "url": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
-   "published": "Fri, 02 Oct 2026 14:40:24 +0000",
+   "published": "Fri, 02 Oct 2026 14:40:25 +0000",
    "summary": "Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States.",
    "full_text": ""
   },
@@ -268,10 +268,26 @@
   },
   {
    "source": "reuters-world",
+   "title": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmpYQ0Y2U28xREktZWI5cXZqVU1oV1dUeVgtRHRqb0FISGdKc01JMHc0VXVhbEcyZUNPWDliRDljWEwwblVkSkpqMmFSaVNsWGpTSExpWUJwd3huaDN4QlVPX05VM012UmNvYUZxRm5IZnk5QnhMMzVRMUZYTF9BNnJMaUlkVzkyUUlmTTRMdXdSdkg2Y1Y2ekJIaUpld3lCdWp6SS1Bc1N2QWVhNFNVRGxOMy1XNWItcUdwTWdrMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 20:55:00 GMT",
+   "summary": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 30 Sep 2026 13:34:00 GMT",
    "summary": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Russia pledges to continue massive strikes on Kyiv, urges foreign diplomats to leave city",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXNBYUpPd1pPY2dKT0RzdDVqX0U4aGZGeDhHMDlCeUJIRU40Zjh4N1pYcnFEOFBXNEo1MEN1QkwwV2ZLRnpYem9iRnhMcWk0Q3N2Y0QzY0Q0S2lfX1g3ZVdya1RUSlpVQWR2ZGt3SlUxelNKTmlidXJvaUZCOWFlNjJsLUc4MVQxV2c5a0UzUS1sbWdBTHZ1c2NqMlFQbE9hWEZtLWxLczFjbDlCNktHaVMwZ1NVSG5PTmtxY1Vn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 03 Oct 2026 16:13:33 GMT",
+   "summary": "Russia pledges to continue massive strikes on Kyiv, urges foreign diplomats to leave city &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,22 +300,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Indian border forces kill two Pakistani civilians, wound one, Pakistani security sources say",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXNKbTZJNmdRWUVFcHpiWWVYWVdNQXhTc2VUd0lyZElUS1dDWGVzcmdmVlpkRU9EaDNETFdqZ3J6Y2pmZXZtVEoyTmV5dUxRdm44UUZ3UDFKemIxUEZkR0FFcC1fSl9IRWd5V3JlRFhkejEyMTVPOE82elNydUc1SDVlc0oxV0hMdkFGOGdmeHZJT0lfWkxiTDJfRTdGVXl1RlkySVdCQmpXNWluODVHLTZ1WEgtNW1VSGNHVDhlTEphZ2FhLWo2V0tQbEppZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 16:19:46 GMT",
-   "summary": "Indian border forces kill two Pakistani civilians, wound one, Pakistani security sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmpYQ0Y2U28xREktZWI5cXZqVU1oV1dUeVgtRHRqb0FISGdKc01JMHc0VXVhbEcyZUNPWDliRDljWEwwblVkSkpqMmFSaVNsWGpTSExpWUJwd3huaDN4QlVPX05VM012UmNvYUZxRm5IZnk5QnhMMzVRMUZYTF9BNnJMaUlkVzkyUUlmTTRMdXdSdkg2Y1Y2ekJIaUpld3lCdWp6SS1Bc1N2QWVhNFNVRGxOMy1XNWItcUdwTWdrMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 20:55:00 GMT",
-   "summary": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "China says Taiwan is 'desecrating the martyrs' with its World War Two history criticism",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV3cwUmIyN3NGS3A4Tm1CQWRzb3R0VVhfR3hHbllmMTREdXBLM3hqeXU0amdESlVvczFmRTM4dk1JNDFsX0M4RXVDZEs2SjcyVkFKb3JhU1prM3NpNkhCMEloR3F1RmVJX1BiU1JfUVlRaHNReVM4TlJydVZaZGU2ZXFJZUtKVTJmYWZzVnEyeG5HWDQ2bWdkUXlXY0tObWxPMFlFdGxPdGk4Z1EtN2tkUktKY2ZNUWRhZHBR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 30 Sep 2026 03:59:00 GMT",
@@ -308,18 +308,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "IMF looking to set up Venezuela office, says no programme requested",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN182Yy1vb1hpa2xUcFR3a2NoZ0w0WWRwMmFwWi1xRVhjTUsyV2VvcDJpUTc1X0dmWUhSU2xmZWhxRU53R3N4TGw4WVMtcXdxNjNyR2haaExzcm5VY0NncU9pTXg2aG1vdjdnUlZlZGVVYkdya0w3M01KR1lab0NMMGpLUVdTTG1BTEZfMkZFazB2czZNUDA0UG1ZT19iN2ljMW1uMnBud0gzNW43c09mLUxaZlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 15:05:20 GMT",
-   "summary": "IMF looking to set up Venezuela office, says no programme requested &nbsp;&nbsp; Reuters",
+   "title": "Iran readies harder retaliation if attacked as diplomacy faces long odds",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQTk2ZFJ4YklNcjZMNEJ3aWlPSG9HZlZ5RzF1Q3o1RW16emhJWUQ3VVFkV3luT3FjSG9EaFVpR1VpYjRnMElVWFR0SFJ2Y1FRT0lNVHV6bHExMmJlbGI2U2FKMkRDakE5clVydmdkUkRXY3plNE16ZHVMZEhGNWtwQ25Nd2lQRndnM1lPTnJOSkx2ODNjeUloUGhaemlLMTR5NGY4ZmZnWnBpVG45RGwzcGVjcTU4SjNaRjdVd0ZSdlI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 14:32:10 GMT",
+   "summary": "Iran readies harder retaliation if attacked as diplomacy faces long odds &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "India's HDFC Bank appoints outsider Anup Bagchi as CEO",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkxTZWNtQXFucmJXdmRxR01taG5SOEVfT1RYSm9JelhiWWNqRl9BLTRDa0p0R0hqbXRkTm41bGhzT0hiSkdoTVppVkZzSlp6aDNBdXZ5a2NlWG80M21yWFNheHF0MjZqQlNWempyNG5qRHhlbmoxQ3ltVFBXLVVxYkw3UkQ4eVdfejdYNDJkLW1Famc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 16:58:10 GMT",
-   "summary": "India's HDFC Bank appoints outsider Anup Bagchi as CEO &nbsp;&nbsp; Reuters",
+   "title": "Indian border forces kill two Pakistani civilians, wound one, Pakistani security sources say",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXNKbTZJNmdRWUVFcHpiWWVYWVdNQXhTc2VUd0lyZElUS1dDWGVzcmdmVlpkRU9EaDNETFdqZ3J6Y2pmZXZtVEoyTmV5dUxRdm44UUZ3UDFKemIxUEZkR0FFcC1fSl9IRWd5V3JlRFhkejEyMTVPOE82elNydUc1SDVlc0oxV0hMdkFGOGdmeHZJT0lfWkxiTDJfRTdGVXl1RlkySVdCQmpXNWluODVHLTZ1WEgtNW1VSGNHVDhlTEphZ2FhLWo2V0tQbEppZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 16:19:46 GMT",
+   "summary": "Indian border forces kill two Pakistani civilians, wound one, Pakistani security sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXFtRVNvb2d6UFFRcG1ER2ZEcTktc3Y3UzZyYjU1QmRJcWdJWE9kNy16bXQyR054ekNKMTFXN2s2RlVVc1RRMTliajBMQTQ2X2wwYnZTdWM2V05aSE53ZzZkd0tBZm5iSUtRQkhqX2tyV2dkRkRCYkNkRXlUdjlCM1U5WHNNeWVWcWFLUFFjZU5BT1ZqbE1iRGxJeTAyUGpBb2Ytdlp1bnExci00R1lSdnRjOWhZMkhlRzRMWEViM3JYaXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 03 Oct 2026 10:30:09 GMT",
+   "summary": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,18 +340,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 23:31:28 GMT",
-   "summary": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says &nbsp;&nbsp; Reuters",
+   "title": "Germany's Schroeder, long criticised for Putin ties, joins board of Russian retailer",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmkyMjEzOFlqLTZvRXFzYVlvc3lURzVCdW4zTWpiNThVZkdtOUM0R0xOUmFoSU9haWhTelJZeF9rUS1oejFlbklqZ1phMTNvd2NlSHZYR3ZySVpPWks2WEVJdVItb2tmY2dkcFR4ell0eDRyWEE1b3F3Y3dteDFqdDRNX2ptdURtTndkWmhYdVBod2pDLXJ6bFRDSEtqT3daUWNzelNHZGhIekpGYlUteERadUl2ZTdMbjlScnQtNnhEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 13:21:11 GMT",
+   "summary": "Germany's Schroeder, long criticised for Putin ties, joins board of Russian retailer &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Tesla's car business back on growth path as deliveries beat forecasts",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVZuUmY4NVU2bWVoZVVneFFNWmdiZDZIcmZZTW9rcEx4WEpGZXdUX0pwczJMbWRSLWdROTJiNjRqSHQ3dm1jUGdsU0c3QTB5YlJjajJ3c0JmS3dLcTVpTFUzbzY0ZWhLMkVyckRONF8tdmhwcTRndmRYR1VDdjdYREhfeEJkeUUza2h2NTFmUEVDWG9iYjBhR2w0WXV5TzhUbmRMMjdyWkZwUnU0ZGYxbmt6dTRBb3VVMEJOT1Rn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 14:49:43 GMT",
-   "summary": "Tesla's car business back on growth path as deliveries beat forecasts &nbsp;&nbsp; Reuters",
+   "title": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 23:31:28 GMT",
+   "summary": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,34 +364,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Germany's Schroeder, long criticised for Putin ties, joins board of Russian retailer",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmkyMjEzOFlqLTZvRXFzYVlvc3lURzVCdW4zTWpiNThVZkdtOUM0R0xOUmFoSU9haWhTelJZeF9rUS1oejFlbklqZ1phMTNvd2NlSHZYR3ZySVpPWks2WEVJdVItb2tmY2dkcFR4ell0eDRyWEE1b3F3Y3dteDFqdDRNX2ptdURtTndkWmhYdVBod2pDLXJ6bFRDSEtqT3daUWNzelNHZGhIekpGYlUteERadUl2ZTdMbjlScnQtNnhEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 13:21:11 GMT",
-   "summary": "Germany's Schroeder, long criticised for Putin ties, joins board of Russian retailer &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Disney plans restructuring of television business, WSJ reports",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnhaMlpkb2Fvek1QeC1LcnlmT2ZIcDNXcTBzVkd5UGJCRUlUNXl2b29WRS1JV1BYOEtySk54Qkphb2JRb1g1SzJObDkxaTBReXk4YldWY2luVWxhTjJ6M2I5Z0djY3dZdTBCYzdMSHllZ3d0VFBIMTJ0Mkl1SDJxQldkMlhGdld0bEJYZFJrY051eGFFOHRWalgyRDVUY1lqc1JsSU5n?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 19:51:01 GMT",
-   "summary": "Disney plans restructuring of television business, WSJ reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 04:12:00 GMT",
-   "summary": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Kone plans TK Elevator Europe sale to address antitrust concerns, sources say",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3JpWDZwRi10cWgxdzlETFZGak5YeDNTSFZTSHE4RVNsNndhcEJzTjJGZG5rTnpmT0xxUE5uWnEySUJxWnprV2hoT3ZvcVdER3NKS084VUlFRWpuY2Y0V0RKcXh2UUdCbnpkMy1zWllGY191b2xxbjd6Mkw4UlNhRFg0Tk9kdlNpdkloWkszT2hnTEh2ODhLMkotVHAxRUhXcEZHMDUtenVVYnhqTk5aaWhLWVZpT2dOaEtqSXVIV2JpNnNRSXZN?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 14:46:14 GMT",
-   "summary": "Kone plans TK Elevator Europe sale to address antitrust concerns, sources say &nbsp;&nbsp; Reuters",
+   "title": "Tesla's car business back on growth path as deliveries beat forecasts",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVZuUmY4NVU2bWVoZVVneFFNWmdiZDZIcmZZTW9rcEx4WEpGZXdUX0pwczJMbWRSLWdROTJiNjRqSHQ3dm1jUGdsU0c3QTB5YlJjajJ3c0JmS3dLcTVpTFUzbzY0ZWhLMkVyckRONF8tdmhwcTRndmRYR1VDdjdYREhfeEJkeUUza2h2NTFmUEVDWG9iYjBhR2w0WXV5TzhUbmRMMjdyWkZwUnU0ZGYxbmt6dTRBb3VVMEJOT1Rn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 14:49:43 GMT",
+   "summary": "Tesla's car business back on growth path as deliveries beat forecasts &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -392,6 +376,22 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGxXWEZnTW1hNUtCOXY4NTJTWHQ0ZkZoUEZsYkt3c3lQTVU1NDFVbHJnSkNJbXRTdzZCSlBWY2tsc0stTk5CSGk1Ymhpb0NwaG1WUEg5Ni1pVlFxQnRMc093VGllN0c5ektIdWYyN191ZW5ZX1lrUjhVODk2TUpsRXFQT3hQdGhVUzdjdklkSENrWm8yWmgwVkE1bEd6TTB2RHBsUHpZVExmTUhkbjhINTVrZ3ZpQnNsQW9wc0FBMWk4XzF0WEI1aXZBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 01 Oct 2026 07:51:00 GMT",
    "summary": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDhLZ21halBzVzJicDJqTDNXYUFNVTVyZnU2OEtxNmJ5dHpHRnUyUWdoYnIxMGV2M3BkcHZ6QVAyQzdOQ05rU2V4dFdreTRFMmo2TUxwNlNvLU5lX1VleW5ybjNySVJmVjB1NFRWT1dGSy1NNGMtRlQ0NXlseHMwUllYTER3eElJbjdFZkRJOGpJMTRWUG5XblVrb2JsVkxwcV83aklGQ21LRUQ4Y00xTUFvcmRwUFJ5SFo1eDNxZlJqQ1hUYWMxaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 01 Oct 2026 20:17:00 GMT",
+   "summary": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 04:12:00 GMT",
+   "summary": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,9 +404,25 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Explainer: How Turkey's investment fund bubble burst",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0l1bkJFbVQwY0lWdXRvbmM1aUxFQUZVLWQwd1RPM1JINHhNLTZqLWY0cEFMb3RKVnFFbmQ2ZERnX0tuam9KdG90aW5RaGtsV0ZXOUd1WkdVNjUteXVTSHYxUTkwSWdZdnI3RXRmTEVMWEpyTXB0NF9GSnQ5UTNOU1V4ZWtLaUdTVFJQT1F5NG84cWdRVFZveXh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 14:57:00 GMT",
+   "summary": "Explainer: How Turkey's investment fund bubble burst &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "VIEW Soft September jobs report sends markets higher",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 13:33:10 GMT",
+   "summary": "VIEW Soft September jobs report sends markets higher &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Fed may skip October but pull rate hike trigger in December",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 21:22:37 GMT",
+   "published": "Fri, 02 Oct 2026 12:58:00 GMT",
    "summary": "Fed may skip October but pull rate hike trigger in December &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -428,26 +444,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Euro zone inflation surges more than expected, keeping pressure on ECB to hike rates",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjBZN3Zra1B6VVdIMFBGalpKbDVTYW9ZZjR2UFJDRC10V25XZHBRQndua3Brc1BVbWxPT2pZTWcwZzBYSFNIREFlX2FvLVNVOENURWZJckwyRmwyakp3X0tQd0Z5MVJVOVlrYmdxZlJ1azdLTjRvNW9WdzlJcjhYRE1YcVlYTk44V1hMSV9KZk1YdVpQdmRMTUN5bjI1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 09:57:23 GMT",
-   "summary": "Euro zone inflation surges more than expected, keeping pressure on ECB to hike rates &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Stocks rise after weak US jobs data but bonds resume selling",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xaEpXc3pMdGRXalZlcHdvWThBeklWRlpfRDd4cUZLbXNGS2s0YVF4Sm42YUpqaFNTbVkyWmIyanN6WmxtSG5yME8zTml3Z1N3a0NabmktSy1YYWp0SFlOM2NQZEN6WmFnX096dUREY1pHTFJ0NzlrUW54cw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 02 Oct 2026 02:10:00 GMT",
    "summary": "Stocks rise after weak US jobs data but bonds resume selling &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "VIEW Soft September jobs report sends markets higher",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 13:33:10 GMT",
-   "summary": "VIEW Soft September jobs report sends markets higher &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,14 +500,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Comcast's NBCUniversal cuts streaming technology jobs",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXBTS3lLLXduM0Q5MV9lTVlZOFBuRnJtMHdnY29hTzVic0F3WnBJbldBUEdwSjU1WGZtNVdFcTh5eHJDeFBVVm5sRUFSeHJZbk9HTGR3bllGREc3V1ZwUENCSEh0cEhveENMTEE0UTM3RG40QlhkZF9razhLRDFfMmJqRzBHX0dwWUZBSEw4WkxxNXpwR0w5Mnl2d041cDJqaW8yb0hra3E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 22:40:39 GMT",
-   "summary": "Comcast's NBCUniversal cuts streaming technology jobs &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "OpenAI alerts more than 100 groups about rogue AI agent activity",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 01 Oct 2026 22:26:30 GMT",
@@ -516,10 +508,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Swedish ball-bearing ad revives Greta Garbo with US, Chinese AI",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0h4dGNpV1NFa21mdnRuVmVWaHZfSXh2RFlOMmNoUFN2M05DMFc3ZzhTWTQybTQzRXBQRTItUzBjM1RVckgzMXpDY3dXMHlzaWJrTVMwU1IxaG9FOUpobzg2YkFDOTloZkl6RXp1c2duRzl2LW1vTEJDQ01icjh6SFllREZ3c0VkVkpLT3Z1Wm5tSDh3T1N0ZVczelBuS2JMRXJiTUJQdl8yU2NDd0hVWDNRTkNxNWN4dVlmVUFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 12:51:39 GMT",
-   "summary": "Swedish ball-bearing ad revives Greta Garbo with US, Chinese AI &nbsp;&nbsp; Reuters",
+   "title": "Comcast's NBCUniversal cuts streaming technology jobs",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXBTS3lLLXduM0Q5MV9lTVlZOFBuRnJtMHdnY29hTzVic0F3WnBJbldBUEdwSjU1WGZtNVdFcTh5eHJDeFBVVm5sRUFSeHJZbk9HTGR3bllGREc3V1ZwUENCSEh0cEhveENMTEE0UTM3RG40QlhkZF9razhLRDFfMmJqRzBHX0dwWUZBSEw4WkxxNXpwR0w5Mnl2d041cDJqaW8yb0hra3E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 01 Oct 2026 22:40:39 GMT",
+   "summary": "Comcast's NBCUniversal cuts streaming technology jobs &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWFtWW9YMHUyWmxwTUs1VmZnOHZNdnJBNzB6azNFSG84M0FtS2x1SE50TDZMS0ZNS25zQ1lEZnFRdnd3UFhDRXMwLUVXaDZWRW9RZHdfQXdhNjFBdEJSd243SHlselowdWpIZ3RycmRSdUhlaTlDLUVGNjV1a3UwY2llSXpiV0dvVDN2VU1tS3NmbmQzVFNXV2FZcDJzWEI5b05NRW4zRXFPOV9NZnZUMmE5M2sycEtKVUdpNjRkLW90bGtiZnY0LWtvTHRDQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 01 Oct 2026 19:26:22 GMT",
+   "summary": "Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
