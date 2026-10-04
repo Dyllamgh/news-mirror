@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-04T13:37:15Z",
- "count": 64,
+ "generated_at": "2026-10-04T17:57:21Z",
+ "count": 65,
  "items": [
   {
    "source": "nyt-world",
@@ -12,34 +12,42 @@
   },
   {
    "source": "nyt-world",
-   "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
-   "url": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
-   "published": "Sun, 04 Oct 2026 09:01:49 +0000",
-   "summary": "As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.",
+   "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+   "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+   "published": "Sun, 04 Oct 2026 16:03:37 +0000",
+   "summary": "The announcement plunges the Middle East deeper into war, as the Iran-allied Houthis have scored a series of triumphs in Yemen on the battlefield since the conflict was reignited.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "2026 Brazil Elections: What to Know as Lula and Bolsonaro Face Off",
+   "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-2026-president-race-lula-bolsonaro.html",
+   "published": "Sun, 04 Oct 2026 09:02:23 +0000",
+   "summary": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a race that could define the future of Latin America.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
    "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
-   "published": "Sun, 04 Oct 2026 11:34:40 +0000",
+   "published": "Sun, 04 Oct 2026 17:49:03 +0000",
    "summary": "The Omani co-pilot who officials said tried to crash the plane was said to have embraced extremist Islamist views.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "Brazil Election: What to Know as Lula and Bolsonaro Face Off in 2026 Presidential Race",
-   "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-2026-president-race-lula-bolsonaro.html",
-   "published": "Sun, 04 Oct 2026 09:02:22 +0000",
-   "summary": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a race that could define the future of Latin America.",
+   "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+   "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+   "published": "Sun, 04 Oct 2026 13:56:57 +0000",
+   "summary": "The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-   "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-   "published": "Sun, 04 Oct 2026 10:45:50 +0000",
-   "summary": "The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.",
+   "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
+   "url": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
+   "published": "Sun, 04 Oct 2026 09:01:49 +0000",
+   "summary": "As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.",
    "full_text": ""
   },
   {
@@ -62,7 +70,7 @@
    "source": "nyt-world",
    "title": "Who Were the Pilots on the FlyDubai Flight?",
    "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
-   "published": "Sun, 04 Oct 2026 09:33:18 +0000",
+   "published": "Sun, 04 Oct 2026 09:33:19 +0000",
    "summary": "The co-pilot’s embrace of extreme Islamist views prompted Omani officials to scrutinize him, according to two people briefed on the investigation.",
    "full_text": ""
   },
@@ -75,18 +83,10 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Who Owns the Moon?",
-   "url": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
-   "published": "Sun, 04 Oct 2026 09:06:40 +0000",
-   "summary": "A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-business",
    "title": "P.&G.’s Chief on Whether Brand Loyalty Is Enough When Prices Keep Climbing",
    "url": "https://www.nytimes.com/2026/10/04/business/procter-gamble-shailesh-jejurikar.html",
-   "published": "Sun, 04 Oct 2026 09:01:02 +0000",
+   "published": "Sun, 04 Oct 2026 09:01:03 +0000",
    "summary": "Procter & Gamble’s new boss, Shailesh Jejurikar, talks about how the company is thinking about higher costs, what gets passed on to consumers and how A.I. helps it compete.",
    "full_text": ""
   },
@@ -126,7 +126,7 @@
    "source": "nyt-business",
    "title": "Weight Loss Drugs Give Restaurants a New Hurdle: Diners Who Eat Less",
    "url": "https://www.nytimes.com/2026/10/03/business/restaurants-glp1-weight-loss.html",
-   "published": "Sat, 03 Oct 2026 12:44:43 +0000",
+   "published": "Sat, 03 Oct 2026 12:44:44 +0000",
    "summary": "Fewer orders and higher costs are squeezing restaurants big and small as people on the weight-loss drugs eat and drink less when dining out.",
    "full_text": ""
   },
@@ -238,7 +238,7 @@
    "source": "reuters-world",
    "title": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pRTER4OGtQS01WaGYxMkVLOWVnRVNlTGFKb1ZuQjVFT296TUhVSkNsSV9BTXItRVhlQUNUZG56OC1KS3B5WUVIWVIzZG1EUEUwbkt3Tm80NEc4dVloT0RLMkVZZlQ0WlFTRGVGeW1Va2NxdThBY1hSeHM2Wkg0S0hNcjFaa0ZBVm9QMVhodGxSRHVGVjduVmliTlhQQ3VLY2xWVnNLVnlZVzlKS0J2YXVRRWZIa3hIUWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 04 Oct 2026 08:03:13 GMT",
+   "published": "Sun, 04 Oct 2026 16:21:11 GMT",
    "summary": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -268,26 +268,18 @@
   },
   {
    "source": "reuters-world",
+   "title": "Explainer: How Turkey's investment fund bubble burst",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0l1bkJFbVQwY0lWdXRvbmM1aUxFQUZVLWQwd1RPM1JINHhNLTZqLWY0cEFMb3RKVnFFbmQ2ZERnX0tuam9KdG90aW5RaGtsV0ZXOUd1WkdVNjUteXVTSHYxUTkwSWdZdnI3RXRmTEVMWEpyTXB0NF9GSnQ5UTNOU1V4ZWtLaUdTVFJQT1F5NG84cWdRVFZveXh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 14:57:00 GMT",
+   "summary": "Explainer: How Turkey's investment fund bubble burst &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "World food prices near four-year high in September, UN says",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONEhfR0lrWDQySjhaQkpLXzJJMVpfcDhScWxHbGNRRkhwa00xcndrQmw4OXQwZzVlX2F6ZVBsTHZ6cUFUbHJyN2ZzTHNka3htMWphZE1sNVRNdXBfMHBXbHF0T0NfTS02OTJnQkR0dmRLRWRXandsdktobVdacDhmQjBKbVJ5czM5U1FoaTFrTUwxVktmSGd3UUhRVWpKQlY5Q253Yg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 02 Oct 2026 10:02:27 GMT",
    "summary": "World food prices near four-year high in September, UN says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Iran says Strait of Hormuz will not reopen until conditions are met",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl9GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 04 Oct 2026 12:59:41 GMT",
-   "summary": "Iran says Strait of Hormuz will not reopen until conditions are met &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Trump names intelligence chief Clayton as AI czar, to head task force, WSJ reports",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczlKTmxkdnE3WHZpaWs1Y2V2dFJJOENfZkRRdjdCdGJBcXRqMFRWVlFKMGZWRDhlTXBiOTQxNUY1dDlSNlZYcXlmS1ZaaF9iWkJsek5QeTZ5V2txU0hOVnFXUE9EZHU1NE1XdldXV3FaQzAzcU9KZmZNcXhJMzVaVHdYV2tIUHVDdG5Cc1FMTjFHUHRvQzEtQmhFdDUwOXR3RlUwWlBDX3c5ZlNUMWZZd1BLcm12TWVWYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 03 Oct 2026 22:46:00 GMT",
-   "summary": "Trump names intelligence chief Clayton as AI czar, to head task force, WSJ reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,14 +292,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Explainer: How Turkey's investment fund bubble burst",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0l1bkJFbVQwY0lWdXRvbmM1aUxFQUZVLWQwd1RPM1JINHhNLTZqLWY0cEFMb3RKVnFFbmQ2ZERnX0tuam9KdG90aW5RaGtsV0ZXOUd1WkdVNjUteXVTSHYxUTkwSWdZdnI3RXRmTEVMWEpyTXB0NF9GSnQ5UTNOU1V4ZWtLaUdTVFJQT1F5NG84cWdRVFZveXh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 14:57:00 GMT",
-   "summary": "Explainer: How Turkey's investment fund bubble burst &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWg0TDhpZGM4T3YwLU53ZXRBbS1Ma29wWWtkWHAzcks0aU1GWVJoTnprZUM1OU4xYzRNOUd5NWtOT0JERVlteHk2UVNia05uWkhsOWdmVTlsN1lKbjhZd0tENmFNeER6VTJ2UktfeFlOUUd2OWJkek00UVl5eXFlU1BHZWdURmw4VFZNd1dEMllYZnBwc3hzdjBONGZoUUQ1S3ZFd0dvdXZobmVvRXhqZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 03 Oct 2026 16:10:00 GMT",
@@ -315,10 +299,26 @@
    "full_text": ""
   },
   {
+   "source": "reuters-world",
+   "title": "Iran says Strait of Hormuz will not reopen until conditions are met",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl9GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 04 Oct 2026 12:59:41 GMT",
+   "summary": "Iran says Strait of Hormuz will not reopen until conditions are met &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Iran readies harder retaliation if attacked as diplomacy faces long odds",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQTk2ZFJ4YklNcjZMNEJ3aWlPSG9HZlZ5RzF1Q3o1RW16emhJWUQ3VVFkV3luT3FjSG9EaFVpR1VpYjRnMElVWFR0SFJ2Y1FRT0lNVHV6bHExMmJlbGI2U2FKMkRDakE5clVydmdkUkRXY3plNE16ZHVMZEhGNWtwQ25Nd2lQRndnM1lPTnJOSkx2ODNjeUloUGhaemlLMTR5NGY4ZmZnWnBpVG45RGwzcGVjcTU4SjNaRjdVd0ZSdlI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 14:32:10 GMT",
+   "summary": "Iran readies harder retaliation if attacked as diplomacy faces long odds &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-business",
    "title": "Rare police raid of Taipei gay bar sparks angry protest",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMURISGFRZ3VjZ1dka1Y5alhIVHBOM2xkYVkxM0R6cXY0RTVUT2UzSFVFR3J2cm1WM1Jfb1NBQUhObmhSMVUzZ2g1Y09qY3FvZy1ReXk0ZlZKUnpLWEFacnNYZjRzdy1JYWZiR1BCRENFa0Z3dFd6TTRwVzdwX1NmXzI5OGVFN1Q3amV1Z1lud3dmMjc0S0Q1ZDRLNEpRV2gxVGxmU041U0syWG1ucjZNVg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 04 Oct 2026 08:49:10 GMT",
+   "published": "Sun, 04 Oct 2026 13:22:16 GMT",
    "summary": "Rare police raid of Taipei gay bar sparks angry protest &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -356,18 +356,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "South Korea's monthly exports top $120 billion for the first time on record chip sales",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnJyM2ZNTm1lLU0yWWdRY3VFSDFYdEZHV29NSzR4LVl3RUhpLXk2b0UtVExfM0VUYlBKbGVKWF80NVpONGdrcTNySU5IZDEwMjdHWWtkNUR6ZnRoMlNqWVFNRXM2RUtZZTRaTFQwVVVLMm9oWUpTcEd5YW4tUUFNMGpucVpnUU1oY29Lak9oMnBrSHp5V1REQ1F4OWpUaTdfNGRsb1AtUTNDZUo5cHNOMg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 00:23:00 GMT",
-   "summary": "South Korea's monthly exports top $120 billion for the first time on record chip sales &nbsp;&nbsp; Reuters",
+   "title": "G7 countries agree on release of diesel and oil stocks after US pressure",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 08:21:00 GMT",
+   "summary": "G7 countries agree on release of diesel and oil stocks after US pressure &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 30 Sep 2026 00:47:37 GMT",
-   "summary": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing &nbsp;&nbsp; Reuters",
+   "title": "Yemen's Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVOVEVCTVdITFV4aHd1aWM4aC1lZzBQTUIxcG9zSkU0ZXJKbHVRdTRWTUVsRWVsRmZHYlI2ZW01dnp3NlQ4WEV3Wnp0YXpVV2VCQ2RmeVBQQ3BUN0E3S1ZrRkw0ODdkVVJsSnFWWVM5YWVZZExacUlwdGRrc3h1LVJkNHNWY1dZS1F2UE1aR1JHYzNkX0ktS0RIQW4zX3RJUWV4eVBqVFd6X0t1?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 03 Oct 2026 11:48:00 GMT",
+   "summary": "Yemen's Houthis say they attacked Aramco facility in Riyadh with missiles, drones &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "South Korea's monthly exports top $120 billion for the first time on record chip sales",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnJyM2ZNTm1lLU0yWWdRY3VFSDFYdEZHV29NSzR4LVl3RUhpLXk2b0UtVExfM0VUYlBKbGVKWF80NVpONGdrcTNySU5IZDEwMjdHWWtkNUR6ZnRoMlNqWVFNRXM2RUtZZTRaTFQwVVVLMm9oWUpTcEd5YW4tUUFNMGpucVpnUU1oY29Lak9oMnBrSHp5V1REQ1F4OWpUaTdfNGRsb1AtUTNDZUo5cHNOMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 01 Oct 2026 00:23:00 GMT",
+   "summary": "South Korea's monthly exports top $120 billion for the first time on record chip sales &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -379,11 +387,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "Yemen's Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVOVEVCTVdITFV4aHd1aWM4aC1lZzBQTUIxcG9zSkU0ZXJKbHVRdTRWTUVsRWVsRmZHYlI2ZW01dnp3NlQ4WEV3Wnp0YXpVV2VCQ2RmeVBQQ3BUN0E3S1ZrRkw0ODdkVVJsSnFWWVM5YWVZZExacUlwdGRrc3h1LVJkNHNWY1dZS1F2UE1aR1JHYzNkX0ktS0RIQW4zX3RJUWV4eVBqVFd6X0t1?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 03 Oct 2026 11:48:00 GMT",
-   "summary": "Yemen's Houthis say they attacked Aramco facility in Riyadh with missiles, drones &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "Revolut's rise to become Europe's $115 billion big bank rival",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uV1BZZzRESkxvVkxoM19FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItVGVwQXNKbXpZVG9G?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 04 Oct 2026 13:56:26 GMT",
+   "summary": "Revolut's rise to become Europe's $115 billion big bank rival &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -443,35 +451,19 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "VIEW Chinese refiners suspend October fuel exports, sources say",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnExM1MyQV9LX2ZOcWJra2NUUWhBRVNqbTh2bmZHTERobzBHZ0RVX2ZhS290R3ZITnpzUzJXbjl2WFBITXN6YXotaTRLZ091V3J1MS1EOWlYeVgwOXFkZ1ZMMDZoOW5pVWhqdUNxRFhYMjRpV2pJcEcwa2ZnekZ0TkMzNGV0NUlDcXNXaUl5QS1IRGpxb3JMbzFVMTk4ZU1hQ2FpVHN5MFFTV2M5VXNJU3lCRGg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 10:01:37 GMT",
-   "summary": "VIEW Chinese refiners suspend October fuel exports, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-tech",
    "title": "OpenAI safety employee quits, says 'time for trial and error is over'",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 03 Oct 2026 19:27:17 GMT",
+   "published": "Sat, 03 Oct 2026 19:00:00 GMT",
    "summary": "OpenAI safety employee quits, says 'time for trial and error is over' &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Dutch eyewear chain Hans Anders halts sale of Meta glasses, citing privacy concerns",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOTZJbGZnVk93R1htYkJ4QkpMX2NzaU0xT1ZyWDFxcDFQN180MDZSaGZPRXhHUkdPN3UwMDFlZjhZaHhENEtGVGIzd20xTy1jVUNhMExEc2lTcGZVMGNrWXRyMFczVGNMOHg4QnRWR3FQVlFNVklJSnVUQUtHTWJvRlVFQjRqbWRUbk1iUHpSbUF3STBWYzlwN2hRb3c3OVVldEJJUFdnUHBfMlRSeXdVRkpidW5xckF1LVJJLURJQ1hsY1dXcGdnUnN3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 02 Oct 2026 18:49:42 GMT",
-   "summary": "Dutch eyewear chain Hans Anders halts sale of Meta glasses, citing privacy concerns &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "OpenAI alerts more than 100 groups about rogue AI agent activity",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 01 Oct 2026 22:26:30 GMT",
-   "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity &nbsp;&nbsp; Reuters",
+   "title": "Trump names intelligence chief Clayton as AI czar, to head task force",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczlKTmxkdnE3WHZpaWs1Y2V2dFJJOENfZkRRdjdCdGJBcXRqMFRWVlFKMGZWRDhlTXBiOTQxNUY1dDlSNlZYcXlmS1ZaaF9iWkJsek5QeTZ5V2txU0hOVnFXUE9EZHU1NE1XdldXV3FaQzAzcU9KZmZNcXhJMzVaVHdYV2tIUHVDdG5Cc1FMTjFHUHRvQzEtQmhFdDUwOXR3RlUwWlBDX3c5ZlNUMWZZd1BLcm12TWVWYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 03 Oct 2026 22:46:00 GMT",
+   "summary": "Trump names intelligence chief Clayton as AI czar, to head task force &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -504,6 +496,22 @@
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlJTYWFXYlJBZ3IyVUJ4WVNFeXhuWnpUMklldThsaE02Q1lndjFNLU1vUVh2cUp2S1FQRjVUUmVic19pX3RxRTFWZ0lCOFRpM0gtQW1oZUx6MEdpalU3WGlJeXBuMTRKRGRGTnBQa3hGdTYyd0w2bnJkWTlPVlAycEx0ZVYzZFY3dEdWTGRHZDhDbkJXQ0RiN1RTSkVkOEZrRGROMUhxTXphTHpqbmdSZDZmU3BWZWI0LUtSQ2oxdE5tR1NtNXNPS1Y2emQtRmdjbjF2S2pn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 02 Oct 2026 13:37:07 GMT",
    "summary": "EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Swedish ball-bearing ad revives Greta Garbo with US, Chinese AI",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0h4dGNpV1NFa21mdnRuVmVWaHZfSXh2RFlOMmNoUFN2M05DMFc3ZzhTWTQybTQzRXBQRTItUzBjM1RVckgzMXpDY3dXMHlzaWJrTVMwU1IxaG9FOUpobzg2YkFDOTloZkl6RXp1c2duRzl2LW1vTEJDQ01icjh6SFllREZ3c0VkVkpLT3Z1Wm5tSDh3T1N0ZVczelBuS2JMRXJiTUJQdl8yU2NDd0hVWDNRTkNxNWN4dVlmVUFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 02 Oct 2026 12:51:39 GMT",
+   "summary": "Swedish ball-bearing ad revives Greta Garbo with US, Chinese AI &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "OpenAI alerts more than 100 groups about rogue AI agent activity",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 01 Oct 2026 22:26:30 GMT",
+   "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
