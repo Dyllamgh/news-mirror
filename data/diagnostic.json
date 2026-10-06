@@ -1,8 +1,6 @@
 {
  "reuters_sitemap": {
-  "status": 401,
-  "size": 774,
-  "sample": "<html lang=\"en\"><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please ena"
+  "error": "[Errno 104] Connection reset by peer"
  },
  "reuters_world_page": {
   "status": 401,
@@ -14,8 +12,8 @@
  },
  "nyt_via_jina": {
   "status": 403,
-  "size": 607,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Mon Oct 05 2"
+  "size": 777,
+  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Tue Oct 06 2"
  },
  "reuters_via_jina": {
   "status": 200,
@@ -28,8 +26,6 @@
   "sample": "<!DOCTYPE html>\n<html lang=\"en\"  xmlns:og=\"http://opengraphprotocol.org/schema/\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <title data-rh=\"true\">Not "
  },
  "reuters_pf_api": {
-  "status": 401,
-  "size": 774,
-  "sample": "<html lang=\"en\"><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please ena"
+  "error": "[Errno 104] Connection reset by peer"
  }
 }
