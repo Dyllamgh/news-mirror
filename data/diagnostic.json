@@ -1,6 +1,8 @@
 {
  "reuters_sitemap": {
-  "error": "[Errno 104] Connection reset by peer"
+  "status": 401,
+  "size": 774,
+  "sample": "<html lang=\"en\"><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please ena"
  },
  "reuters_world_page": {
   "status": 401,
@@ -11,9 +13,9 @@
   "token_len": 224
  },
  "nyt_via_jina": {
-  "status": 403,
-  "size": 777,
-  "sample": "{\"data\":null,\"code\":403,\"name\":\"AbuseAlleviationError\",\"status\":40305,\"message\":\"Anonymous access to domain www.nytimes.com blocked until Tue Oct 06 2"
+  "status": 200,
+  "size": 242,
+  "sample": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html\n\nWarning: This page maybe requ"
  },
  "reuters_via_jina": {
   "status": 200,
@@ -26,6 +28,8 @@
   "sample": "<!DOCTYPE html>\n<html lang=\"en\"  xmlns:og=\"http://opengraphprotocol.org/schema/\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <title data-rh=\"true\">Not "
  },
  "reuters_pf_api": {
-  "error": "[Errno 104] Connection reset by peer"
+  "status": 401,
+  "size": 774,
+  "sample": "<html lang=\"en\"><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please ena"
  }
 }
