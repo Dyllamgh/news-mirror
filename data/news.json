@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-08T19:37:12Z",
- "count": 68,
+ "generated_at": "2026-10-09T00:06:07Z",
+ "count": 69,
  "items": [
   {
    "source": "nyt-world",
-   "title": "French Students Take to the Streets as Government Seeks Way Out of Crisis",
+   "title": "French Student Protests Continue as Government Seeks Way Out of Crisis",
    "url": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
    "published": "Thu, 08 Oct 2026 19:31:01 +0000",
    "summary": "Mass protests over decrepit schools and absent teachers are in their third week, with more planned. Officials have failed so far to quell a movement drawing many adult supporters.",
@@ -14,7 +14,7 @@
    "source": "nyt-world",
    "title": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
    "url": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html",
-   "published": "Thu, 08 Oct 2026 17:29:08 +0000",
+   "published": "Thu, 08 Oct 2026 20:46:38 +0000",
    "summary": "A top aide to Ambassador Mike Huckabee skewed information to portray the Netanyahu government in a favorable light, according to multiple officials and documents obtained by The Times.",
    "full_text": ""
   },
@@ -62,7 +62,7 @@
    "source": "nyt-world",
    "title": "Escalating Assaults on Ukrainian Cities Are Taking an Enormous Toll",
    "url": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html",
-   "published": "Thu, 08 Oct 2026 17:05:44 +0000",
+   "published": "Thu, 08 Oct 2026 20:59:29 +0000",
    "summary": "At least 30 people were killed in a Russian strike on a commuter bus in the country’s east, officials said, a day after an attack on an apartment building far behind the combat zone killed 22.",
    "full_text": ""
   },
@@ -86,7 +86,7 @@
    "source": "nyt-business",
    "title": "Judge Extends Pause on Trump’s Ban Against CNN, MS NOW and Politico",
    "url": "https://www.nytimes.com/2026/10/08/business/media/cnn-msnow-politico-media-ban-trump.html",
-   "published": "Thu, 08 Oct 2026 18:37:37 +0000",
+   "published": "Thu, 08 Oct 2026 20:54:48 +0000",
    "summary": "The judge overseeing the case said that the pause would extend until next week, and promised to decide whether to further extend it by Tuesday.",
    "full_text": ""
   },
@@ -126,7 +126,7 @@
    "source": "nyt-business",
    "title": "Oil Prices Jump on Outburst of Violence in the Middle East",
    "url": "https://www.nytimes.com/2026/10/08/business/iran-war-oil-prices.html",
-   "published": "Thu, 08 Oct 2026 17:50:34 +0000",
+   "published": "Thu, 08 Oct 2026 20:01:15 +0000",
    "summary": "Attacks on ships around the Strait of Hormuz have continued as a war between Saudi Arabia and the Houthi militia intensified.",
    "full_text": ""
   },
@@ -172,9 +172,17 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care",
+   "url": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
+   "published": "Thu, 08 Oct 2026 22:48:06 +0000",
+   "summary": "Nearly 100 patients discussed their maladies with a Google bot, called AMIE, before meeting with physicians.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code",
    "url": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
-   "published": "Thu, 08 Oct 2026 16:36:48 +0000",
+   "published": "Thu, 08 Oct 2026 21:06:21 +0000",
    "summary": "The woman who helped put astronauts on the moon was a software engineer when the field was not prestigious or lucrative.",
    "full_text": ""
   },
@@ -235,22 +243,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Mixed Human Feelings After a Day at a Park Full of Robots",
-   "url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
-   "published": "Tue, 06 Oct 2026 17:51:56 +0000",
-   "summary": "I went to Galaxy Robot Park in Seoul to see how we might one day live with robots. It was part cutting-edge technology, part theatrics.",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "UK-backed group issues private lenders' debt rework guide ahead of IMF World Bank meetings",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVUFJVXNuU1NsdVBNTkNtZGZHeXFwRXB6ZGlZdkVRY1lXX3pwa0VVM1V4M0o3UmdRQkt1SGtuMS1fV1hDOEZlWThSV0ZWM2FZRHRHUTlNMzVzY1pQYjFTM1lEeTg4TVFjcWFxNjJMOGoxd0UxWXFtazJKMnl2MlJkNUliMFU0aGxBMVRYdU1DeGllNzk3ZklmQzE1MkVwVFpMaGNhZEdWZHZNYUtXbEhzUEQ1TVNHSDNtM0JETzZQMGZLc3AydVFrY1h3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 17:07:16 GMT",
-   "summary": "UK-backed group issues private lenders' debt rework guide ahead of IMF World Bank meetings &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "Scientists in Vienna and Beijing create world's first nuclear clocks",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1FTSUp2ZFNWd1NVMW5pandncUJNOHFyajhrbmJ1Sm0zdl8xMG5Xemo1TFlLUHl2clVVb2hfQm42OTBMTDNjQWZUem95SFpMQ2kwalZZU29oN3JFcFE5R0Z2aHlKMldBZkFRQ3VKcUgxREk1eTM5STEtekhPUXBUT1JVcnJydFF5Yks4NkJCN2NmaUlMUV9Wb1puYlZaS1IzNU1VbDVBUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -268,10 +260,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "World Bank appoints David Vaillant as managing director, CFO",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVNNeUdZMU1jcEF2ZEFZRUpoalZMcGsxalZBOFhaWFd5OWpLMUlaQ1ZnSmpCWFQ2SHUzSE1SXzFYMGtxcnEwdkVUTU1lTXBCbVh1U2tLdklFMWpuNDNGMzdGWjNGUmdaNDJJNEt4WjlfZ05CNThjQkJxSUVfTXVEelllRDlUUGJDd1hVZUtnM2RhNEFlTmdtY1Yyb3hhbUU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 05:15:00 GMT",
-   "summary": "World Bank appoints David Vaillant as managing director, CFO &nbsp;&nbsp; Reuters",
+   "title": "UK-backed group issues private lenders' debt rework guide ahead of IMF World Bank meetings",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVUFJVXNuU1NsdVBNTkNtZGZHeXFwRXB6ZGlZdkVRY1lXX3pwa0VVM1V4M0o3UmdRQkt1SGtuMS1fV1hDOEZlWThSV0ZWM2FZRHRHUTlNMzVzY1pQYjFTM1lEeTg4TVFjcWFxNjJMOGoxd0UxWXFtazJKMnl2MlJkNUliMFU0aGxBMVRYdU1DeGllNzk3ZklmQzE1MkVwVFpMaGNhZEdWZHZNYUtXbEhzUEQ1TVNHSDNtM0JETzZQMGZLc3AydVFrY1h3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 17:07:16 GMT",
+   "summary": "UK-backed group issues private lenders' debt rework guide ahead of IMF World Bank meetings &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,26 +276,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "World shares, euro slide as high oil prices, fiscal worries linger",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZW5YUkkzdjhfTWJXY25aWkVLeExISGkybXo1YmFoS256Qk5DclZaVVc4ODRnejkzYlBYOTBVWWp5YTVHRDVyMmtBUDVZWHlFclVhYUtIU2d0Tm1GWmRzMnhQNlg4aVVfWEZjb21nQ0tTUzc0WjQ5bEhmWVJuNzFwX25Bdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 07 Oct 2026 02:40:00 GMT",
-   "summary": "World shares, euro slide as high oil prices, fiscal worries linger &nbsp;&nbsp; Reuters",
+   "title": "Russia says plague institute worker's death does not risk an epidemic",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTludTZlWHBjdVd6VjI1LTlPQkhNWW90cDhvYjJHVnZqVElOalpNbTVBcHNoUGtIRTdhbGsxWE15WUFSRXA4b1p0bXl0cjV6R3h0RGxfMFpYM2N3cWJuZzJNenZaeVFsbFl2YzZpdzZVbEdENHRoUXdjRk1GSmRVRE50U0p1QVJaV3hFVk5zcFllOWVKSERBT0R0NmdzMW1SNFZicTZHajZ1WFRRUDE4S3d0QlZ3cjBoYzdwaGNqTWZWN1RJTHItZ0F0MlNUXzNjN2gxVTloWXkxR192c1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 07 Oct 2026 21:59:08 GMT",
+   "summary": "Russia says plague institute worker's death does not risk an epidemic &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
    "title": "IMF chief warns energy shock, growing debt and AI risks threaten global growth",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWc5YTdRc1hIb1hBUXdiRFY1YlZVQ2lOYTN1RVFIMUhBNDh3Q3M4NnJoRWI1Tzhxc255OHpHeS1TcjJSX1ZoTnNaWEo5VTBNQlJ5Q1pEWnFkSnhWSTlnYUtESFhJcnNZNVV0VkgycHZocFZFOU5hcVg1anpIUWtVckNscjJYeURiVmpIX293bTVteUFQNElQczlwcEJDOUZVbnFEc1p4eVQyVFJFWUZhbUc1ODlhSlViODdFTkJqTUNSbzkySGNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 07 Oct 2026 09:14:58 GMT",
+   "published": "Wed, 07 Oct 2026 06:06:00 GMT",
    "summary": "IMF chief warns energy shock, growing debt and AI risks threaten global growth &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Russia says plague institute worker's death does not risk an epidemic",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTludTZlWHBjdVd6VjI1LTlPQkhNWW90cDhvYjJHVnZqVElOalpNbTVBcHNoUGtIRTdhbGsxWE15WUFSRXA4b1p0bXl0cjV6R3h0RGxfMFpYM2N3cWJuZzJNenZaeVFsbFl2YzZpdzZVbEdENHRoUXdjRk1GSmRVRE50U0p1QVJaV3hFVk5zcFllOWVKSERBT0R0NmdzMW1SNFZicTZHajZ1WFRRUDE4S3d0QlZ3cjBoYzdwaGNqTWZWN1RJTHItZ0F0MlNUXzNjN2gxVTloWXkxR192c1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 07 Oct 2026 21:59:08 GMT",
-   "summary": "Russia says plague institute worker's death does not risk an epidemic &nbsp;&nbsp; Reuters",
+   "title": "World Bank appoints David Vaillant as managing director, CFO",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVNNeUdZMU1jcEF2ZEFZRUpoalZMcGsxalZBOFhaWFd5OWpLMUlaQ1ZnSmpCWFQ2SHUzSE1SXzFYMGtxcnEwdkVUTU1lTXBCbVh1U2tLdklFMWpuNDNGMzdGWjNGUmdaNDJJNEt4WjlfZ05CNThjQkJxSUVfTXVEelllRDlUUGJDd1hVZUtnM2RhNEFlTmdtY1Yyb3hhbUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 05:15:00 GMT",
+   "summary": "World Bank appoints David Vaillant as managing director, CFO &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -323,11 +315,35 @@
    "full_text": ""
   },
   {
+   "source": "reuters-world",
+   "title": "Attacks on Saudi airports kill three people, as fighting escalates in Yemen",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjcwdDdFSmxISzN2RWdiODU1ZjlXODFLZGRiVmxTeW94dnI1T1VsNnhlU1NJMTZXajJoVlE0VnpzVDlmMmJQUjYzN21Tamk5YWZhazdRSzd5MTJndURBTjNQTC0yd2I2ZDhIazZlNUJUYjAyZHVwZFRCMER1OGZLS2pZRmRQTjlrSlVyLUd3N1dnUUxrM2NBSERSd3VmYkJBNnpzT1I4RmhwMWhHbHQyN1ZOWkxCclZBV3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 07 Oct 2026 01:21:00 GMT",
+   "summary": "Attacks on Saudi airports kill three people, as fighting escalates in Yemen &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-business",
    "title": "PepsiCo slashes forecast, deepens cost cuts as N.America recovery drags",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUHltelZJVGJtWi1ueVRYa1Y0VHR1TG4tRTN4M1JIS29vSHE3V1VVWEJNQURYUlBBbGk5X2tYNFphZ0JvWnUxVUlkdGJjd1FjZFJLeDRvVWdhdjRIZmNJSjFDODZlWWktaERJQUliOFp4U0ZqRW13ZGZRQjBFTHlIbm43NzZWaU1WRmNnOXk4TnVzUWpRWUg3OHd4ZGdzYWhjMFVZLUhnZlRUVDhoNm9DN0F2REVpdy1XdjJ3cHBiLXQ3OFBtc2c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 08 Oct 2026 14:36:47 GMT",
    "summary": "PepsiCo slashes forecast, deepens cost cuts as N.America recovery drags &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Apple names insider Steve Smith as new M&A chief, memo shows",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVFMMVdNWVZKM2ExREhPZkJyQnhySHFNTktxYzJFT3dBZjdTTzBEV01LazNJTkdDZExNdFBRS3FtNDRYMXkxWC1EaFotLVI4dkxfXzB4enV0WXNBc3J0bGxtaUF2RUlvLTJzemFWN29ydUtFZWJDR2hGc3pVczhDakMtRTRMWmtKSEVxc0o4ek4tQ3liNUp0RW1EYm0tRGRWZ2FGNmdONGhWeW1jOW16Vg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 19:46:29 GMT",
+   "summary": "Apple names insider Steve Smith as new M&amp;A chief, memo shows &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGdkZHlKUjgwWHQ4eXRUaTJZeFZBQkFLaENBNFYxTUh5SVFkaWNfVGh3MUtrcGdKYjZhWk03QlV1WV8zYmxkbl9fLVRIa0xwWlczbVRwVlRFUGZwMXFwM2lRck5BVmVhQ3JmVzNZS3U0OUpuLVdLU04wVVlkNE9jN2IyRW9YY0pla283VmJBa3FpVm5zX2xaQkw0X3JCcUx1djhraTRVTEQzeGJtNzZKQ3hLTHRRSUEt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 12:01:28 GMT",
+   "summary": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,34 +356,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Ukraine says it hit Russia's largest oil refinery",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3pJT0ROR2hYSi10NDQycHpZdW5pRmMwTmNnZjRKVVEtbjBWMkZwaE9uU25CNDZtTXFvQ3NxMTRVblJ1Z1BuNFpTLXgtSjBrR1FqZHhvTkNkVmItVUJiYzNNZzhDelc5YjdwMzJlelcwNjBrbnl4WS00WWg5dE00S3NQN09HVldfMWpGbWNydzNJWm5tMmJ3Y0toTWdvVTVZN0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 15:12:06 GMT",
-   "summary": "Ukraine says it hit Russia's largest oil refinery &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "AI pricing lawsuit against McDonald's raises new antitrust questions",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdW50LWFCUWhGeXBDQTNMbHFXMU85QVN0LS1FZmg4QWQ0RG5QRnNsZ0FmWWVFU1VRZ1RiSHdhdnJlMU1vcEwyV1F6SGlvNWVyOGZUNmp0a1hTMG5YaUk5emRRTmtXd0VQdUtsVVA3UFRtT0gtVkFUVnFFOW1lZDlvYVBDdC1hUm5fOFQzT3dhQVdzMFZ3SVA1Rk1YQmdsVV9faWpjLTdHRDVwTmJFUGd0QUdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 18:39:06 GMT",
-   "summary": "AI pricing lawsuit against McDonald's raises new antitrust questions &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "India's TCS posts weakest September quarter growth in three years",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDFMc2VuQ241aHc2WXZxa0tmOVp4UVNuVDlIbjViQ3VFWUFfWWNRT2M5S3BGbkNNSGhqclpoRU1ha2Y5VkxMNkxBb1h6cjlUZHViM0V5ODNRSzJQd3NmNkIyWkN1R3lOOGdVOC1VWEhDNUdHcm1aT0RlNzJfVmZpTzEwVXNZMlc5ZXpvVjNPTmtjUWd2OVUtcWE2aFBfUmJ5VDZudFQycXJLVmVp?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 15:44:49 GMT",
-   "summary": "India's TCS posts weakest September quarter growth in three years &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Explainer: Data centers' 'flexible' power usage could save the grid billions. Can they scale?",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFlHUmY3dFNOSDEtZ1c3ajk4WjBoemNnTDRycHZzZjA4LXRyWUFkcmhNakpULW9JejN5bGVQcmpLZUNhZXYwTUROUXJGRk1RdG91b2JORGlQLUVkdDUwaGxOWm5TQ0JZekg4bzNoMjVoNTVsWTNiNHliOEpnVWU3cWVqcEN2YzVKUXJIZ0hSMk5UdUpsNkEzbUV0dmtNRm9QSzh6TTJ0MUdtSVRlMkRjY0pORHROQWUwVkpDclFuLTNaOE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 16:19:20 GMT",
-   "summary": "Explainer: Data centers' 'flexible' power usage could save the grid billions. Can they scale? &nbsp;&nbsp; Reuters",
+   "title": "Shell partially restarts Pearl gas-to-liquids plant in Qatar",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajAxTjhOWkJsU0pfU1l4amFnZnZWZFZsWUdJaEVpRlhraG0wVlN3bk5NMnZQNlZaWGhTWmM3YVhqdzlJYy1yeGRZZ3paU2Npc2RsN01Bc2tkTjdhQzZqRVZHcDFBVlNHdjAzT2ZIOW5ENnU1b3h4NEdKQ1NISU5xMUVzdTFSZUdCSDNqTzVmUEVxaEd2czE2bDZJcjZRUjFwTEQybGRpV1NJdUJxR3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 16:49:14 GMT",
+   "summary": "Shell partially restarts Pearl gas-to-liquids plant in Qatar &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,58 +372,42 @@
   },
   {
    "source": "reuters-business",
-   "title": "Greece plans 10% cryptocurrency capital gains tax",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcXM5OWRKZ3dGVlc3N1A3UjBXYWNrd3FrcERoUmdBcGRpZXpzRF9CYTRGREVzOE5TWEtQS2hpNXhBSzgxcmlNdjI5SUJIQUVwS3lzVGQ3cEVJdWJoMUM1YTBtY0VJYXFwYmRUNzJkWThTbHhpRFNRMlFSblBFR2ZqRXlzYW9Qb25yd2paMXlPMFVuakh1SmFPS1htMk5tbi1yc0tj?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 07:19:33 GMT",
-   "summary": "Greece plans 10% cryptocurrency capital gains tax &nbsp;&nbsp; Reuters",
+   "title": "India's TCS posts weakest September quarter growth in three years",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDFMc2VuQ241aHc2WXZxa0tmOVp4UVNuVDlIbjViQ3VFWUFfWWNRT2M5S3BGbkNNSGhqclpoRU1ha2Y5VkxMNkxBb1h6cjlUZHViM0V5ODNRSzJQd3NmNkIyWkN1R3lOOGdVOC1VWEhDNUdHcm1aT0RlNzJfVmZpTzEwVXNZMlc5ZXpvVjNPTmtjUWd2OVUtcWE2aFBfUmJ5VDZudFQycXJLVmVp?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 15:44:49 GMT",
+   "summary": "India's TCS posts weakest September quarter growth in three years &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "UK PM Burnham says he is open to Germany joining GCAP fighter programme",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzZpTnUwR1pQa3c1TTNsUFR2R3hQa0pKeGVaLURmdFBMTFh5dDVjM24xdkJkVU9QM20xbEJYREFLTW9penVwdDJEcnd0WkFxUk9KcTV1NXdhc2lKTlBick9QcHRtUERZNzZkbUlYSnRjU3dGMndiRmJOS3RkbVVzY2VfSGdrSjdOZXFFSVMtbUlqMEVaaGFLSWJYV0xudktUNkZBUEdPY1ppN1dxQXgxUW5TRXctSmhVdmlJVmhPbThYYjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 15:09:49 GMT",
-   "summary": "UK PM Burnham says he is open to Germany joining GCAP fighter programme &nbsp;&nbsp; Reuters",
+   "title": "Ukraine says it hit Russia's largest oil refinery",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3pJT0ROR2hYSi10NDQycHpZdW5pRmMwTmNnZjRKVVEtbjBWMkZwaE9uU25CNDZtTXFvQ3NxMTRVblJ1Z1BuNFpTLXgtSjBrR1FqZHhvTkNkVmItVUJiYzNNZzhDelc5YjdwMzJlelcwNjBrbnl4WS00WWg5dE00S3NQN09HVldfMWpGbWNydzNJWm5tMmJ3Y0toTWdvVTVZN0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 15:12:06 GMT",
+   "summary": "Ukraine says it hit Russia's largest oil refinery &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Google Cloud introduces Gemini agent for work as AI race heats up",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlVSeTZYa0pSOFppNk9GdFF0Y0VZa19lYnRKTjRXb0FpZUhaTlBEUmRLUW04N3E1azhGalpULTNwN2Y0SnhFWGhOTktSdTVMMTJDc2VRX013NGNuSzJYRGxiWVJyU2dzS0lGdGN4YXlxQzR3TWl0eVQwbjFKWW5JVG1kQXdJYVVwd2J2OTZ5NDZYT0JQM09Ycmt2amRmekhNWTBfR0pR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 15:11:43 GMT",
-   "summary": "Google Cloud introduces Gemini agent for work as AI race heats up &nbsp;&nbsp; Reuters",
+   "title": "Manus raises more than $500 million after Meta exit",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 13:55:34 GMT",
+   "summary": "Manus raises more than $500 million after Meta exit &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Data centers' 'flexible' power usage could save the grid billions. Can they scale?",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFlHUmY3dFNOSDEtZ1c3ajk4WjBoemNnTDRycHZzZjA4LXRyWUFkcmhNakpULW9JejN5bGVQcmpLZUNhZXYwTUROUXJGRk1RdG91b2JORGlQLUVkdDUwaGxOWm5TQ0JZekg4bzNoMjVoNTVsWTNiNHliOEpnVWU3cWVqcEN2YzVKUXJIZ0hSMk5UdUpsNkEzbUV0dmtNRm9QSzh6TTJ0MUdtSVRlMkRjY0pORHROQWUwVkpDclFuLTNaOE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 18:57:55 GMT",
+   "summary": "Data centers' 'flexible' power usage could save the grid billions. Can they scale? &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "COMMENTARY: Five charts sounding the alarm for stretched US markets",
+   "title": "COMMENTARY: Five charts sounding the alarm for stretched US markets: McGeever",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmYzcUx2ZXViSzFiaDNseDVlb25ZVDc4bGdpdTNfeHl2bjZDQklZOTlkNFp5c3dSWDl5OVE4U3VjdW14dWFzN0Z6WFZDR3RIN09HTk92bHV1eFczczlfdjV4QlBNcHcyRHhkUXRfSUxKZ0otSXMta1NaSnhRVDJGbW5iUVlCZ1lOVTkwellNcS1na1ZKVDM1RTAyUnRFbGRrU3M3bUJOZ1F1djVPUTZXQXpONWFmXzBhQnZkMmJ1SEgxN0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 15:18:30 GMT",
-   "summary": "COMMENTARY: Five charts sounding the alarm for stretched US markets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1JMSXB2aERESElBa2JCX0tZUDZJQ2NhWTFacEM3NTE5QmtjcjNlM2RoMHppNVpyc0VfYWFCQVQ2Qml2ZU9mS0RvVDRfY1BmSnEzbHotaXV6MFVBblVkTjVqQ0JIRC03UDgyd1RLd3BtdWZmODg5cTFVNWswQ3k5WnR1ZUR3TWY5VjJiem9memp6VXFpNFQzOHcyNjNTaE9nUERUSUZ1akh3WGZXQTRQN3RMTHA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 18:57:49 GMT",
-   "summary": "Euro zone ministers tell France to pass 2027 budget to calm markets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "US jobless claims hover near 57-year low for fourth consecutive week",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWFoUC1DSlZwckJETlF2WXdjTnhwSkt5UlIxVzBMQVoxVXJ0UjNTdjBDdmlwUmR3V2hQWDBGaTNnLTd1X2VIQVhBcVFmZGJHNGtCODU3RE55eHk2Y0FBbVBEUXF1S2lDaW42Y2VnUk9aRExvMXM1TGFIYjNpcnhTSUc5S1V3Nk1KWkZrSDlyTUFpNTZqYWxraw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 15:52:40 GMT",
-   "summary": "US jobless claims hover near 57-year low for fourth consecutive week &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Wall St slips as climbing oil, yields amplify inflation fears",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 15:51:25 GMT",
-   "summary": "Wall St slips as climbing oil, yields amplify inflation fears &nbsp;&nbsp; Reuters",
+   "published": "Thu, 08 Oct 2026 23:30:27 GMT",
+   "summary": "COMMENTARY: Five charts sounding the alarm for stretched US markets: McGeever &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,10 +420,50 @@
   },
   {
    "source": "reuters-markets",
+   "title": "US bonds rally after 30-year auction finds solid demand",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWpmVzQ1VWEzZnlPUWhiTld5WmYxSVZWTzlnem9razg4eFdjWVItTDJpTWx5X0FZTW1VdkdjV1RKVHdVMjJaTDBleXVqX2JKSFNFUmxlQXdaelR4cXJTdm9URy1ac2E0RVhMRzE3ZU1rNVJaakstdE9xTTNDTHkzZ3JQVEd0aHh3U2w2emtNbTVlelNqX0I2VEZ3NXZndWZKcnhoRmRSbGozdGhjNTRkVmV0U25NY1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 20:50:13 GMT",
+   "summary": "US bonds rally after 30-year auction finds solid demand &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "US jobless claims hover near 57-year low for fourth consecutive week",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWFoUC1DSlZwckJETlF2WXdjTnhwSkt5UlIxVzBMQVoxVXJ0UjNTdjBDdmlwUmR3V2hQWDBGaTNnLTd1X2VIQVhBcVFmZGJHNGtCODU3RE55eHk2Y0FBbVBEUXF1S2lDaW42Y2VnUk9aRExvMXM1TGFIYjNpcnhTSUc5S1V3Nk1KWkZrSDlyTUFpNTZqYWxraw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 15:52:40 GMT",
+   "summary": "US jobless claims hover near 57-year low for fourth consecutive week &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 23:09:38 GMT",
+   "summary": "S&amp;P 500, Nasdaq end lower as crude prices jump, chip stocks weigh &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1JMSXB2aERESElBa2JCX0tZUDZJQ2NhWTFacEM3NTE5QmtjcjNlM2RoMHppNVpyc0VfYWFCQVQ2Qml2ZU9mS0RvVDRfY1BmSnEzbHotaXV6MFVBblVkTjVqQ0JIRC03UDgyd1RLd3BtdWZmODg5cTFVNWswQ3k5WnR1ZUR3TWY5VjJiem9memp6VXFpNFQzOHcyNjNTaE9nUERUSUZ1akh3WGZXQTRQN3RMTHA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 18:57:49 GMT",
+   "summary": "Euro zone ministers tell France to pass 2027 budget to calm markets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Nvidia-backed Iambic Therapeutics launches IPO as biotechs buck market gloom",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2duSWZGV1gtNHhZUVRCMHQ4QTN4ZzAzOFR1QjVlbmNfdEYwRG9HRWc1ai1WUXV0TFlESmpzSnhQSW1jT2xDYmdhSXZrXzZTUFVyX1N5VFltX2VyVDZPeEUzZ0hxYnB1MmpYYVhvU3h0VlB3MjZrMThFZFhwMkk2cEw0eGdKSHdySTJEWTNsZklka25TamNFbG91UXRPSjJPYjl4d2JvREdwa2QyeTh5bHpRN3dmUXJzbXRUOFJacHpuM3M0?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 08 Oct 2026 18:18:10 GMT",
    "summary": "Nvidia-backed Iambic Therapeutics launches IPO as biotechs buck market gloom &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Shares slip as oil spikes and bond bashing rumbles on",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWJkYkZhMHpnb0pNVlAyTTZGOEYtSno1YTJGRV9GYWRPSDg1WGxXNlFKUVY4VGVzc0RMLVVVVFFlamgzd3ROTjBXTndhYm5Ia0hwbDhaSXBCQWIzZDhQSGxGUWdoZndaZHV3YUgyd2NUb0FsTkNlYWRYYUFyN0tSWFlYbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 00:57:00 GMT",
+   "summary": "Shares slip as oil spikes and bond bashing rumbles on &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -460,22 +476,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "COMMENTARY: Morning Bid: Wall Street winces at bond squeeze",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWJValB5TzlMMGM5czd2bW1Ma0xGZ0xXc3FKbEQteW9rbzl6Qkx0MHdwdjY2U25NZEdyQ28yeE91ZEVfaXMtOWJRMFQyWEFzeWdJTUpMTmRCd3BsUTVjNFQ2d3hlZmRiblZIWk82eTYwZllpamhPZXhvaXA1NHo2dDdlcVhHWmRwTXlNMWZjWXpIdG56Tkow?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 13:02:05 GMT",
-   "summary": "COMMENTARY: Morning Bid: Wall Street winces at bond squeeze &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Morning Bid: Sovereign bonds shouldered aside as AI takes their turf",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIMmE0b3l1X1ZiY1Q2b3pfTXZLa0hGZ3k3d3BQMkF1TlcyZkI0RXhhbGdLclVQejA0bGItMjZ3RS1hMFJjR3pacnZmcHk0MFRvWjByeEhEN3NVM056NmFhb1ZSNk9BUVZqdDY4WTJ5OVZsMU9ZUEMxb2V6T09ESnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 04:31:00 GMT",
-   "summary": "Morning Bid: Sovereign bonds shouldered aside as AI takes their turf &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 08 Oct 2026 01:21:00 GMT",
@@ -484,10 +484,26 @@
   },
   {
    "source": "reuters-tech",
-   "title": "US freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud",
+   "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0R0am1rbndOQjhQUzhJdTNHcXpnb3lDWFVteEs0SzJiVzc5cFNhMkNJZ2F5dzhjSTFlbFE1ZDRHNVE0MTNJM1phbUU1MVZXX0VkdmZoRUJDaU5OX3pPZ3V2bUZIaTMxZ0std2V2eVFyVUlaZGFXNjhCYTNtV1AxbnVsSlJnVXlWTW9JWWhiYTJaczdTR1JBcDNFaFg0YWRmZjRhZVR6c3dvd3pv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 15:18:12 GMT",
+   "summary": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Google Cloud introduces Gemini agent for work as AI race heats up",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlVSeTZYa0pSOFppNk9GdFF0Y0VZa19lYnRKTjRXb0FpZUhaTlBEUmRLUW04N3E1azhGalpULTNwN2Y0SnhFWGhOTktSdTVMMTJDc2VRX013NGNuSzJYRGxiWVJyU2dzS0lGdGN4YXlxQzR3TWl0eVQwbjFKWW5JVG1kQXdJYVVwd2J2OTZ5NDZYT0JQM09Ycmt2amRmekhNWTBfR0pR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 15:11:43 GMT",
+   "summary": "Google Cloud introduces Gemini agent for work as AI race heats up &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 18:57:27 GMT",
-   "summary": "US freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud &nbsp;&nbsp; Reuters",
+   "published": "Thu, 08 Oct 2026 21:21:04 GMT",
+   "summary": "Trump administration freezes green cards for Microsoft, IT firms, probes universities &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,34 +524,26 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGdkZHlKUjgwWHQ4eXRUaTJZeFZBQkFLaENBNFYxTUh5SVFkaWNfVGh3MUtrcGdKYjZhWk03QlV1WV8zYmxkbl9fLVRIa0xwWlczbVRwVlRFUGZwMXFwM2lRck5BVmVhQ3JmVzNZS3U0OUpuLVdLU04wVVlkNE9jN2IyRW9YY0pla283VmJBa3FpVm5zX2xaQkw0X3JCcUx1djhraTRVTEQzeGJtNzZKQ3hLTHRRSUEt?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 12:01:28 GMT",
-   "summary": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers &nbsp;&nbsp; Reuters",
+   "title": "Alphabet's Waymo secures $5 billion term loan to accelerate expansion",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0hkcWk3SGVuRHo2Rl92bWlManRvOXl3Zzl4T2FxOFNxclV0Vjl0cldtVC1lT3Q3Q1dHTmxaakFDTWdBZy04Tkw5SS1kSUI0MnBRNUtIZDg0SE1VRE5VdkNPYmhEN0JuTEpMcmdqMlFRcDBtSHNzSUVNU1ZVUnlOOFNHS19UZUVvdVZXZWtXWEcwbVF0Z1kySVVScnJXX2hmRXk5d2Q2X3V1Nm5Tb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 16:22:44 GMT",
+   "summary": "Alphabet's Waymo secures $5 billion term loan to accelerate expansion &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Italy launches EU-backed probe into Microsoft-owned gaming companies",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXRwdExFUmdtR3JDRVRxRFE3bU9lc19PTThvb2tIZGN5WUNfUGYyRzE3Y2ZjRmd1R0VmUW9qZmg2RVFfRzRja1YxbmV6SXNYTGQ3WVZwNlJ3ZmpCNW41dFZTb0tGRU5la0Mxb0dHMGtrNjhqemwyS2M0dHJNZHBFaTdyZXZOZTEtcEpaREtiMFhNVzNsVnpQSzVHYzNIU2EtNWRWODZhcG5rRVlpdE1neVkwVDk0TjBJZExzY1FB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 11:26:09 GMT",
-   "summary": "Italy launches EU-backed probe into Microsoft-owned gaming companies &nbsp;&nbsp; Reuters",
+   "title": "The skilled foreign tech workers' green card program under attack from Trump",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1hHTXgzeWc3WFZOUDJMdFg1dGQyNFhDSVBwZV9sTHliMzUwcjltTVNvWlowXzBfNUFwcHRMcHpjbnFOQ1NsUDd4U3hHU0d5MHNFek5HN3dIeXRZSWJqWDdvdlY2OEdMZm9La3BBUU80SVE2Y3RiMTEtZlNBSWZkMFNPdjVTQXBYWXdoZEF6dnJvbjVHcDI2WlJXS3lsem52b1dkM2c2UW1PZ1o0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 20:19:02 GMT",
+   "summary": "The skilled foreign tech workers' green card program under attack from Trump &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Manus raises more than $500 million after Meta exit",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 13:55:34 GMT",
-   "summary": "Manus raises more than $500 million after Meta exit &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWRCMnJEN0hfdXA5aS1lVVdWQXB5cE41QThjWURQb19XUGlCUFpUQTNCNWNRWDVrS1N6WWRrdl96QW9OQ2pYSnpkSzlHTjNGZ3VWcm1aYVpZc2M0TlJjQUE0WXB1S1J0NHk2T25yNWQ3d3hXdVY1VlZkclhzdncySFlvdGFiOWJTTjRqVk93NWNQQnJlYjcxQWxjS19zcFlhOHItVVp3aF85a1Z3RnZ3TnN6aWxWcGtDZGJV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 12:46:31 GMT",
-   "summary": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years &nbsp;&nbsp; Reuters",
+   "title": "India denies bias in satellite internet approvals after Musk's 'oligarchs' jab",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObXdIaGpBZjFZM0lBUzM0Rm41VUFScWFBSWxhMGVwdUlxRXJXdVU2aDNXZ1pLdF9rQzRVR1pkRkZtM0lNZnBnOHdIaTEzRUhHWXN5RmM0Zk1SZ3NnYWhjNTZQMmpTSTF3anBkMklPcEFIWmkySmpFZG1XZ1NIdVpDeERiTUF5SFRpYnJOU3RHUWJKeUgweDFfcEgwNGlROW9KbDFEZzdXajVrNFkwR19FOHVuWldPODFOWmNuYlczMzBrTjE0TmpVc0FuTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 05:09:00 GMT",
+   "summary": "India denies bias in satellite internet approvals after Musk's 'oligarchs' jab &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
