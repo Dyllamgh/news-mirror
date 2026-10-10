@@ -1,13 +1,37 @@
 {
- "generated_at": "2026-10-10T10:22:01Z",
+ "generated_at": "2026-10-10T16:45:11Z",
  "count": 66,
  "items": [
   {
    "source": "nyt-world",
-   "title": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
-   "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
-   "published": "Fri, 09 Oct 2026 23:00:44 +0000",
-   "summary": "Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli government rejected.",
+   "title": "What to Know About the Delhi Protests",
+   "url": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
+   "published": "Sat, 10 Oct 2026 11:07:00 +0000",
+   "summary": "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
+   "url": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
+   "published": "Sat, 10 Oct 2026 11:00:14 +0000",
+   "summary": "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Navi Pillay, Nobel Peace Prize Winner, Forged Her Career Under Apartheid",
+   "url": "https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html",
+   "published": "Sat, 10 Oct 2026 08:39:29 +0000",
+   "summary": "Navi Pillay, who won this year’s Nobel Peace Prize, fought racism in South Africa, shaping her international career as a judge and advocate for justice and human rights.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Inside Erik Prince’s Mercenary Deal in Congo",
+   "url": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html",
+   "published": "Sat, 10 Oct 2026 13:35:59 +0000",
+   "summary": "The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts.",
    "full_text": ""
   },
   {
@@ -16,6 +40,14 @@
    "url": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
    "published": "Fri, 09 Oct 2026 15:17:55 +0000",
    "summary": "The escalating violence has brought the conflict in Yemen to the doorstep of the Saudi capital, and the kingdom has no easy options to curtail the increasingly sophisticated and targeted strikes.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
+   "url": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
+   "published": "Fri, 09 Oct 2026 20:15:34 +0000",
+   "summary": "Government planes reported to be carrying the Russian president and his aides home from Turkmenistan were forced to circle or divert to another city.",
    "full_text": ""
   },
   {
@@ -44,30 +76,6 @@
   },
   {
    "source": "nyt-world",
-   "title": "Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay",
-   "url": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay-un-genocide-report-israel.html",
-   "published": "Fri, 09 Oct 2026 16:40:26 +0000",
-   "summary": "Ms. Pillay, a human rights lawyer, was drawn into the international spotlight last year as chair of a commission that found that Israel had committed genocide in Gaza.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Nobel Peace Prize Choice Amounts to Implicit Rebuke of Trump",
-   "url": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-trump-international-law.html",
-   "published": "Fri, 09 Oct 2026 15:01:46 +0000",
-   "summary": "The Trump administration has repeatedly attacked the international legal order and the International Criminal Court in The Hague, where the Peace Prize winner, Navi Pillay, served as a judge.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "India Cancels Trains, Floods Capital with Police to Block Protests",
-   "url": "https://www.nytimes.com/2026/10/09/world/asia/india-cockroach-protests-delhi.html",
-   "published": "Sat, 10 Oct 2026 03:14:33 +0000",
-   "summary": "A planned protest against a sweeping voter roll revision prompted police to order a virtual shutdown of New Delhi, the capital. The country’s highest court intervened.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
    "title": "In a Dead Hero’s Ashes, El Salvador’s Ruler Finds a New Spark",
    "url": "https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html",
    "published": "Fri, 09 Oct 2026 09:02:38 +0000",
@@ -75,11 +83,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "In South Africa, Pillay forged a career fighting apartheid.",
-   "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/in-south-africa-pillay-forged-a-career-fighting-apartheid",
-   "published": "Fri, 09 Oct 2026 15:59:42 +0000",
-   "summary": "Navanethem Pillay",
+   "source": "nyt-business",
+   "title": "What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’",
+   "url": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
+   "published": "Sat, 10 Oct 2026 14:28:57 +0000",
+   "summary": "As artificial intelligence automates office tasks, it is also creating a new type of human work.",
    "full_text": ""
   },
   {
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/10/09/business/dealbook/openai-revenue-safety.html",
    "published": "Fri, 09 Oct 2026 12:06:43 +0000",
    "summary": "News that the artificial intelligence giant’s sales weren’t growing as fast as investors had expected added to concerns about the A.I. boom.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "The Winning Stock Funds This Time Weren’t Tech. They Were Energy.",
-   "url": "https://www.nytimes.com/2026/10/09/business/stock-bonds-tech-energy.html",
-   "published": "Fri, 09 Oct 2026 09:03:21 +0000",
-   "summary": "Stock and bond fund returns for the quarter were bad nearly everywhere you looked, our columnist says. Energy stocks, lifted by the war with Iran, were an exception.",
    "full_text": ""
   },
   {
@@ -236,6 +236,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Thailand prepares to host IMF-World Bank meetings",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0drc0JrMzlLLTRTODZsS04wQ0Q5aEZ5SXdkeWZnNWRuWkNpeGxxVEVGdmdtTFQ0RVR4OTJ1N2duazRHRUFXTzBCTXdVcmZkMW9GUG9CWHNybXhpbFRIc3VMRVlzdDhZem15S0NKMmx1QzFDMGVlNHQzZUsyQ09udExXVURyb0VsN25ab2JqSzJxTmNoVTlsVzByR2xFYmdCT24w?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 10 Oct 2026 08:44:58 GMT",
+   "summary": "Thailand prepares to host IMF-World Bank meetings &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 09 Oct 2026 14:02:00 GMT",
@@ -248,14 +256,6 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 09 Oct 2026 09:03:00 GMT",
    "summary": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "EXCLUSIVE: US Treasury's Bessent to skip IMF-World Bank meetings in Bangkok",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0Fvek5PSXlPRmt0Z3pZd2JXcHpwcC1VSkNUdFRKRFVvNkFpNEJtMXJkd3JSSk9BMmV1aXdLRlBnTjNGMXdxaFl3M0NXc0VlTV8yT3VjMHA2b3pRekZXblctZUVfeGtXNm1zUHBsWTBIMzgwV2xCU01ndm9NWWRwMXYzSy0zNFJvUERHUUNvVll3QktBYmdNN2dnYTh4ZlVOeVk1SElVUlFqVjBpdVhyTzJR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 16:28:57 GMT",
-   "summary": "EXCLUSIVE: US Treasury's Bessent to skip IMF-World Bank meetings in Bangkok &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -276,9 +276,17 @@
   },
   {
    "source": "reuters-world",
+   "title": "EXCLUSIVE: US Treasury's Bessent to skip IMF-World Bank meetings in Bangkok",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0Fvek5PSXlPRmt0Z3pZd2JXcHpwcC1VSkNUdFRKRFVvNkFpNEJtMXJkd3JSSk9BMmV1aXdLRlBnTjNGMXdxaFl3M0NXc0VlTV8yT3VjMHA2b3pRekZXblctZUVfeGtXNm1zUHBsWTBIMzgwV2xCU01ndm9NWWRwMXYzSy0zNFJvUERHUUNvVll3QktBYmdNN2dnYTh4ZlVOeVk1SElVUlFqVjBpdVhyTzJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 16:28:57 GMT",
+   "summary": "EXCLUSIVE: US Treasury's Bessent to skip IMF-World Bank meetings in Bangkok &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Inside the deadlock at the world's top climate science body",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQkFJRWlmcmZtRXBVSHoyQzF5a0FqVkE4RkRuLUExQWxxaTRtTDdNTnBXLUFVSVFlbUw5Zm1YWDFoRzk4dDBlNm1CWEpNa1NOV3BRbFdKd3J5dVZ2MVhRVlBOVUhTenFEOXZYLUdCREl3dHA5OTRDMEE3YjhOdW5LTmttSThFWkpPX2psU0VsNXItVFJYY0VTNDVIX2ludThsaGdHbg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 06:04:00 GMT",
+   "published": "Fri, 09 Oct 2026 06:09:18 GMT",
    "summary": "Inside the deadlock at the world's top climate science body &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -300,18 +308,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Kremlin: Russia agrees with Rubio that Ukraine conflict is in a stalemate",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmhpZUc5Nk5YX202d21jNmdYb2JNLVVBdm04S3ZJWjlWSl94NmROODVhRlo1ZE9YU05oMkNDaTEzeGt1TG1vQk82ejZRZEhHbmlHOHZfTmNEb2JFc0lBZnBGSk1uU3p2WkZTSVZqNW5WbWk3TVAzNU44Sk5LS0tUSjRfZTBjSnZmSnNhNzNUd3lDLWViaTVic1ZXYjBlbHlvVDc2YjFjclg1OFJ3Y0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 21:01:44 GMT",
-   "summary": "Kremlin: Russia agrees with Rubio that Ukraine conflict is in a stalemate &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "South Korean banks were likely hacked by a China-based actor with an AI agent, CrowdStrike says",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODBzZUo1QkNGeDEyT2Q4QU5RYm1ybFpLMVdhc1E0OUtSTC15cGZuemU4Q0JsaE1lUXp0VU05WTl6bHRVUDhLNkFaOXI3TnhIcGJ0R1I1cWdnbEhNYUVvOVZvVzJLREpEMHd3VWUxQUZiLWlwUlFmNmdUbEpQNFkyaWdpTEJzVzNJNlVUYWl3ZjF4eTRha254Rm9xem9Kck15eWpWQlBIUU5hRlRIekJ6RkdvV00yV1lNZXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 10:35:29 GMT",
-   "summary": "South Korean banks were likely hacked by a China-based actor with an AI agent, CrowdStrike says &nbsp;&nbsp; Reuters",
+   "title": "UN calls US plans to livestream execution 'abhorrent'",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0pUN0VWTDg4eGJsdWEycUY2eWhfRDRTMnVoNDZHR3FYTTFIQ1NGOEYtMmJ4NlE2Y2JUUGlkZlBlOTd0SzZKT3kxc2FaLUtkMFdhdnd3MVdNYkxjOTZxaXBJdVFZaW1ZdURfVzJ6UVhNWHpyUnZ6U0laZ2VCZnpKelZHYmV2RHpHcG43VUN4UVdTbF8t?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 18:15:00 GMT",
+   "summary": "UN calls US plans to livestream execution 'abhorrent' &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -320,6 +320,14 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWN6RHkzeE9oNGpRQTJpQjZNamoyTS01YldNYndxS0c3ZEhYcGREZHkwN1o0aFRsVWJfOEU5dEZDWDVRUFdDUDlVenBlVGtOSG93MkJfLXp3UThXaFFKQ2x2ekVkMmdTMUxKV0tQd3pOekN0UGc3dFpURTU3NUpQS1RJR0V2MmVoSjFiTUJfbk1HMmhQZHhKN0R0ME5iUmhtV2tNWlkzY3JYNFVa?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 09 Oct 2026 11:44:55 GMT",
    "summary": "AI-related companies to drive most third-quarter US earnings gains &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "India's TCS senior staff will miss out on variable pay for September quarter, memo shows",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWxHNzNJUF9FTlpsWm1aWU1SNDlZa2otRXVveFhzeHN3NXF0NnRfdUpVQTJBd25xZ2x3d0hld21TalhQT2o4V1E3WllFYV9qMFZQclFKNGlMeU85c3E2Y0VRbVhMYVRaQktuX2MyamN0VlFkTExmUjhyWXMzem4yWXk1bGRVMmNSRGtWa0M1aGgweEtfSFQycFItdHZBUmNNdHJsaWpSc3BwaTBieE15LTNuZXlZWFcwdnlFWFh5VGtSM2M1cHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 20:41:00 GMT",
+   "summary": "India's TCS senior staff will miss out on variable pay for September quarter, memo shows &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,18 +348,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "OpenAI's September annualized revenue nears $50 billion, less than previously indicated, source says",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUJ6eFRkeVppWC1ocFZFMjRyWnFyczBwcml6OEJtaElGOEpxZkgzaFBSa1F2RTJjb3dXVTdLZ0pxWUpyZVhjZVdZRWR4TFpJQ2tjRG1UVGV6WWMwTkJsVVVDUHNjTU05MHBFWENJNGNPZW5sMjdyRUtLX0pfcUVLaWo5ZjhKd2ZCUnBHRlc2aXRpTFRMQTZSWWJuelZ4ZnVrM08xTVJBdlhtcjNEMS1PZUZhT2hDX3hYOUJGc2MzTV8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 21:12:00 GMT",
-   "summary": "OpenAI's September annualized revenue nears $50 billion, less than previously indicated, source says &nbsp;&nbsp; Reuters",
+   "title": "China's tax crackdown piles pressure on luxury brands as US spending falters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQVVQS191Y0hYUXlXZEdWMjhqWWVKTXU2R1l5NF9IQTFPVWFDZE9ncnhZcHM5allacTh1dENFbnc5a3MwVHJaU3NSOWxMaW5FTzkwMGpEOHE4aTdYT0RPMnYxMWk3YXdaa1NDZUxIVjBTYXBHc2lZcndBRDBoeTRROXVVOENldjI5ck02NXBvV0pCWXBoRmZPekNPcGVLMDhhaWFsZGpZeDZoa080Y05mYTZ1RW10TjMwUDdfVm40cy1VRWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 05:09:22 GMT",
+   "summary": "China's tax crackdown piles pressure on luxury brands as US spending falters &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "China's tax crackdown piles pressure on luxury brands as US spending falters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQVVQS191Y0hYUXlXZEdWMjhqWWVKTXU2R1l5NF9IQTFPVWFDZE9ncnhZcHM5allacTh1dENFbnc5a3MwVHJaU3NSOWxMaW5FTzkwMGpEOHE4aTdYT0RPMnYxMWk3YXdaa1NDZUxIVjBTYXBHc2lZcndBRDBoeTRROXVVOENldjI5ck02NXBvV0pCWXBoRmZPekNPcGVLMDhhaWFsZGpZeDZoa080Y05mYTZ1RW10TjMwUDdfVm40cy1VRWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 05:03:00 GMT",
-   "summary": "China's tax crackdown piles pressure on luxury brands as US spending falters &nbsp;&nbsp; Reuters",
+   "title": "Bigger US corn stocks fuel doubts about USDA livestock feeding data",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT2JIeWNyZ2hyOHAwSmQtbnNDeUx5ZEI0bTlUYWhZRFk5T0JaUmF6T0RhSkF4MnRIWG15Tng4MV9OOFZYUnloZHg4VXFKMEtDVEJLZGl5Mjh2bG1ENktDYkZpNDNDOUNCd0RhbnQ0TkgtVF92Y2hYdUtkZXZfbG9PQmhKMU0yTFh3M1B5a1QyWnRQbmRSc0FfOFpBZEpCaUotYjgxcFlCZGtVd0h2cm9FNE5OUE8xT0k0VUtrd3VoZnBVOFdzek5z?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 16:38:37 GMT",
+   "summary": "Bigger US corn stocks fuel doubts about USDA livestock feeding data &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,34 +372,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "Lessor Avolon orders 250 Boeing, Airbus jets with option for 100 more",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdko1U3lqODlKNXRDOHBrNndRT2J1RGVFVjhUY3QyM0g0MWt0RmtxTUVMdGtNYzJFNUI0eDZxQjJ2YkFQN1ZyZlZxLW9JbnlEUHZmUHdmQ1BJLVdwVE1Vb1phd05YX2VkX0RUWWlVR0hmNGxpcG1yY0lMajE2YUF3ZGdNc2JvWGhHVnl2eElUSlh5MDJvUm1KNjNvWU9ZSUpCc2gzVk9oaGdwSWVzMWNWLVlZZndNTVNad2dpNHd1SUNqMzdqTmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 13:29:19 GMT",
-   "summary": "Lessor Avolon orders 250 Boeing, Airbus jets with option for 100 more &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 14:38:00 GMT",
+   "published": "Fri, 09 Oct 2026 14:00:04 GMT",
    "summary": "Trump administration freezes green cards for Microsoft, IT firms, probes universities &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "American Express fined $350 million for insufficient anti-money laundering program",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON19QTUN4TUw1ODhFX3VQbEY0WDdpXzdvM3lwSl9tS3Z5QWtWQnliOUhuYV9tckxFWmJVRmFxejVvUVNob19tdURJQ2xxdDEwUm1HVzFZakNDMmVrT1R5MV9xZmVIUlNiTVE0OEFMUlozZEszQi1jbjhQbHVaYU11eHBzVU9ITllPRlhVUUNTZkJJVl91VHJwbFdrOWZVNGdrQ3FLNjg2RWw1WGhLMEdValdSY3RQTFNra3U0ZG8yU2h3eWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 20:52:00 GMT",
-   "summary": "American Express fined $350 million for insufficient anti-money laundering program &nbsp;&nbsp; Reuters",
+   "title": "Anthropic launches dashboard, animation tools for Claude",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 19:08:01 GMT",
+   "summary": "Anthropic launches dashboard, animation tools for Claude &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnN4TkxuZW5GVFJLOEc3UW10R0FPUUgtaUVRSzRjWWR3R2tUSTNyNkxwdDhULXJnMTA3VXFwUFdtbHlteW84WDBEM0YxdjUtbGxrRzhjXzJNeG5yNlp1NE14MkxfX1BidU1vMXZ2ZEpqSF9Hb2R3UExlZGpjRUJVRzU1bVluLVk0U3lIT3ZmdnJOeHN0R0xFd3BmZGRndUtNSzRvck5iYkZyN21vaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 21:38:35 GMT",
-   "summary": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case &nbsp;&nbsp; Reuters",
+   "title": "Lessor Avolon orders 250 Boeing, Airbus jets with option for 100 more",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdko1U3lqODlKNXRDOHBrNndRT2J1RGVFVjhUY3QyM0g0MWt0RmtxTUVMdGtNYzJFNUI0eDZxQjJ2YkFQN1ZyZlZxLW9JbnlEUHZmUHdmQ1BJLVdwVE1Vb1phd05YX2VkX0RUWWlVR0hmNGxpcG1yY0lMajE2YUF3ZGdNc2JvWGhHVnl2eElUSlh5MDJvUm1KNjNvWU9ZSUpCc2gzVk9oaGdwSWVzMWNWLVlZZndNTVNad2dpNHd1SUNqMzdqTmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 13:29:19 GMT",
+   "summary": "Lessor Avolon orders 250 Boeing, Airbus jets with option for 100 more &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,22 +404,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "US consumer sentiment near record low as frustration over economy mounts",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNtOTFCU2JUSDMxSExIeEJ0SlBxeWRKUlg1Y21pU1lhenlVVnRVWm1PbzJzLXZ0YVJaQi16QzdXR3Qzd3c0ZG5vOG90SE9rNXBPYUM2eFZjQXFKbHpORmVjU3dCekc5NFNuV295MkNDZm9EVUdxVnJ6TW15MnJvYzlhSXJlRjQ4M0JJOTJPaUdweDNlaXRvMnczWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 17:20:11 GMT",
-   "summary": "US consumer sentiment near record low as frustration over economy mounts &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 01:56:00 GMT",
-   "summary": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Wall Street posts weekly gains with earnings, inflation data on tap",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 09 Oct 2026 23:33:00 GMT",
@@ -428,18 +412,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 01:58:00 GMT",
-   "summary": "Gold hits one-week high, heads for weekly gain on bargain-hunting &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "US 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco's Ivascyn tells FT",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUjhNTkZmR2Q2NmQxSkRZWDVRT2tRbW9BVld0TnI1NDdyV043dmMxeElSakg2LTJRNUNJMzFxRG5pbW1xVFFaLUNQYkRFWDBwM3NHay1wNWpsT3l4ZUFlTDVJN0tUM0FCX1lYSGtjX0JFU0pSYzF1NmtvcDY4THJtZEFCYWNDT21lWFcyd1kzUUt4LWZOWXVrME1rOWhhN2RHWjZrYVYxbnJFb3BzN3loZ0pKdFVMT3E4RXN0dEpRSjlPVTg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 09 Oct 2026 05:27:00 GMT",
    "summary": "US 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco's Ivascyn tells FT &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "US consumer sentiment near record low as frustration over economy mounts",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNtOTFCU2JUSDMxSExIeEJ0SlBxeWRKUlg1Y21pU1lhenlVVnRVWm1PbzJzLXZ0YVJaQi16QzdXR3Qzd3c0ZG5vOG90SE9rNXBPYUM2eFZjQXFKbHpORmVjU3dCekc5NFNuV295MkNDZm9EVUdxVnJ6TW15MnJvYzlhSXJlRjQ4M0JJOTJPaUdweDNlaXRvMnczWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 17:20:11 GMT",
+   "summary": "US consumer sentiment near record low as frustration over economy mounts &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -456,6 +440,22 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGc3d3VfemdCVm9OMG8tZFo3MFpXMmtQR3paUW9yMWFia0txelBIS0w2M3RSeDdRdzV2WkR0WmU2ZFdNVkUyUWJMbWQ1YVA0M3d0Y3hRQkMxa3FlMDMtSXZ1OHF6UWNaTzRmTklWVnpSNHp2bzdRT0F3SlNvVzVFQ0trU21MeHlOMmU4R3U1c0NNTmw0dGtoT1lORzRBOGdTaUMyRjFtWFc4bXdsemFV?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 08 Oct 2026 02:26:45 GMT",
    "summary": "India's Sensex slumps to 32-month low on oil surge, foreign exodus &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1JMSXB2aERESElBa2JCX0tZUDZJQ2NhWTFacEM3NTE5QmtjcjNlM2RoMHppNVpyc0VfYWFCQVQ2Qml2ZU9mS0RvVDRfY1BmSnEzbHotaXV6MFVBblVkTjVqQ0JIRC03UDgyd1RLd3BtdWZmODg5cTFVNWswQ3k5WnR1ZUR3TWY5VjJiem9memp6VXFpNFQzOHcyNjNTaE9nUERUSUZ1akh3WGZXQTRQN3RMTHA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 11:36:00 GMT",
+   "summary": "Euro zone ministers tell France to pass 2027 budget to calm markets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Investors pick new darlings and duds as selloff rocks Europe's bond market",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUwxWllNS1pOd3QyU1N1SXNKRExZYWU2U2V2SXdRZkIxNTJ5NEFjNlRPMmlScW9sQUFMdzl3STlMN09oRzNqc0tPNGJVWnJ3b2hUa3NNWFN6MFRjSHJQODFZTFh4a1BMczhIU3JqY0xwUGlDRHEtUWxYbFJuXy1MbTk4ZGtHcFNnQjZ4V2d6UFc3VDNFTmtOOVlVTUhLeGRjOG1GbUp3VjFpUVBBSDdUOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 07 Oct 2026 15:32:49 GMT",
+   "summary": "Investors pick new darlings and duds as selloff rocks Europe's bond market &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,17 +500,17 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Tesla renames 'Full Self-Driving' to 'Assisted Driving' in Europe as it chases clearance for software",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV250TWJ1ZlRmak0zTWREOUloN0VqTXBaMUFDM25yRENjSllTdHNMZ0RrSF91WTBOUVhMYkxXVkswQWJGaWhKaV8wLXdOYVJ2bXEyZkliMlpmMDlYU3I1YVFuYWw4V0N6dEpyNnoybTBXOUVFX1ktSEZxQ19IaGxEUk1PT1dQOHVBdWpyOUg2WWM3OUdPNVZMQWdRRktzYWFaR1JSZGREQXJJZGdYQnpfUGM4YkF6RTh0M1dpNkwxUUlIcDctVjhvNzV4dUxjeUdNSkJ4Mm43MDI?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 14:56:00 GMT",
-   "summary": "Tesla renames 'Full Self-Driving' to 'Assisted Driving' in Europe as it chases clearance for software &nbsp;&nbsp; Reuters",
+   "title": "Russian satellite activity raises concerns for Starlink, German space commander says",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUS1wa08taHpWMlFhbXNObGh3a2hDRUs2a2wwd0F0Yk5MdTNHVVd4VWFsaTZJS1BzeThya3ZZTjRWTUdLcjFMT3BxbjhNSE9ROEZsQUJVdlFMTmxVZnVpZmdrM2tRSkk2X0E0NG1FMWdkTVZteXpzTzgtUFJaU2tXZ294S2xMS01neFVnSkRMYjV5UndYa3hJa2JwZVJkOHNJMzNiYmd2c1hqdGNyUWxZUDlvVmxHWWs4MFh5WS1PTF9YTExsaV92N01yZ1pwNDlqSDZsYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 12:26:27 GMT",
+   "summary": "Russian satellite activity raises concerns for Starlink, German space commander says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
    "title": "Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxvbWdzenJKeF9PdGppTmNVeTQySGx4dzNaREdmbktzZzVUc3UtZVdXRUVxT1d6eDA0MGE5UGYxRi1rbXdEYW96ZVRRWXUtS3BialZSa0l0dWVKQzhNVVVfRUlfWk4zM2g1anhLUmpmaUg5VWR3eHcybnJsVE8yVFJWZTl4ZnpQa2xWUm1wN2k4X2llWWVoTHZoRjBnVmkwYjBzdE5ON0VSalY4ZVVrUmVGTkRsUVNHWERuZFV4Z3ZXVlgxekFr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 06:05:00 GMT",
+   "published": "Sat, 10 Oct 2026 09:53:58 GMT",
    "summary": "Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -524,10 +524,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Ukraine hits second major tech site, expanding range of targets inside Russia",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHlDTS1wNzE0M05HazRDNThpeVVFdWpRcUtuZTFYcEszTDM4TWxsa1FuZVQ1dFY1RDhDOXRjZDJFdlVtWm5tV1FwbkQ3MlZVX0VYeEpLUEZubGtBalF0UFpPTFdhNGZON0tBYjVxbC1ZRjlVUlItZ0pCVEYzLW9Qcmw2Vy1EelJNNkRzSjFzemxlNzFmbElhc1p1Vy1IUmdXYmdDSm9ET21Iek0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 14:31:14 GMT",
-   "summary": "Ukraine hits second major tech site, expanding range of targets inside Russia &nbsp;&nbsp; Reuters",
+   "title": "Tesla renames 'Full Self-Driving' to 'Assisted Driving' in Europe as it chases clearance for software",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV250TWJ1ZlRmak0zTWREOUloN0VqTXBaMUFDM25yRENjSllTdHNMZ0RrSF91WTBOUVhMYkxXVkswQWJGaWhKaV8wLXdOYVJ2bXEyZkliMlpmMDlYU3I1YVFuYWw4V0N6dEpyNnoybTBXOUVFX1ktSEZxQ19IaGxEUk1PT1dQOHVBdWpyOUg2WWM3OUdPNVZMQWdRRktzYWFaR1JSZGREQXJJZGdYQnpfUGM4YkF6RTh0M1dpNkwxUUlIcDctVjhvNzV4dUxjeUdNSkJ4Mm43MDI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 14:56:00 GMT",
+   "summary": "Tesla renames 'Full Self-Driving' to 'Assisted Driving' in Europe as it chases clearance for software &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
