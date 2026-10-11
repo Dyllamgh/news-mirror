@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T21:00:01Z",
- "count": 65,
+ "generated_at": "2026-10-11T00:38:05Z",
+ "count": 66,
  "items": [
   {
    "source": "nyt-world",
@@ -84,6 +84,14 @@
   },
   {
    "source": "nyt-business",
+   "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+   "url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+   "published": "Sat, 10 Oct 2026 23:21:07 +0000",
+   "summary": "Major TV networks were notified on Friday that the department was looking into whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’",
    "url": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
    "published": "Sat, 10 Oct 2026 14:28:57 +0000",
@@ -152,15 +160,7 @@
    "url": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
    "published": "Fri, 09 Oct 2026 13:28:00 +0000",
    "summary": "Mr. Musk, whose company SpaceX owns Starlink, has attacked the top executive of Delta Air Lines for not selecting the internet provider.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "The Fallout From OpenAI’s Revenue Surprise",
-   "url": "https://www.nytimes.com/2026/10/09/business/dealbook/openai-revenue-safety.html",
-   "published": "Fri, 09 Oct 2026 12:06:43 +0000",
-   "summary": "News that the artificial intelligence giant’s sales weren’t growing as fast as investors had expected added to concerns about the A.I. boom.",
-   "full_text": ""
+   "full_text": "Airplane Wi-Fi has long been slow and balky. But airlines are racing to change that. Hoping that faster, more reliable internet access will help them attract and retain customers, many carriers are upgrading their planes to use Starlink, the satellite internet service operated by Elon Musk’s SpaceX. On Thursday, American Airlines said it would outfit more than 1,000 planes with Starlink. But Delta Air Lines has chosen not to go with Starlink, which has upset Mr. Musk, SpaceX’s chief executive. Mr. Musk said last month that Delta’s chief executive would “lose his job” for choosing Amazon’s satellite service, and he earlier attacked the top executive of Ryanair, the European carrier, for snubbing Starlink, too. This week, he said Indian oligarchs were blocking Starlink there, which he called a “a crime against the people of India.” From fee to free. Lufthansa was the first commercial airline to offer in-flight internet access in 2004, using a service developed by Boeing. But Boeing shut down the project just two years later. Other providers filled the void, and U.S. airlines started to offer Wi-Fi in the late 2000s. But few passengers used those services, which were often expensive, slow and unreliable. Over the years, the costs started to fall. In 2023, Delta eliminated Wi-Fi fees for members of the company’s loyalty program. JetBlue Airways had been offering free internet access for years — but Delta kicked off an industry shift. Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times. Thank you for your patience while we verify access. Already a subscriber? Log in . Want all of The Times? Subscribe ."
   },
   {
    "source": "nyt-technology",
@@ -227,14 +227,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Man vs. ‘Terminator’-Like Robot in a Cage. California Called It Illegal.",
-   "url": "https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html",
-   "published": "Thu, 08 Oct 2026 14:40:13 +0000",
-   "summary": "A tech start-up’s stunt in San Francisco tested the boundaries of combat sport safety and regulations.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "Thailand prepares to host IMF-World Bank meetings",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0drc0JrMzlLLTRTODZsS04wQ0Q5aEZ5SXdkeWZnNWRuWkNpeGxxVEVGdmdtTFQ0RVR4OTJ1N2duazRHRUFXTzBCTXdVcmZkMW9GUG9CWHNybXhpbFRIc3VMRVlzdDhZem15S0NKMmx1QzFDMGVlNHQzZUsyQ09udExXVURyb0VsN25ab2JqSzJxTmNoVTlsVzByR2xFYmdCT24w?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -252,14 +244,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 09:03:00 GMT",
-   "summary": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "How the US plan to livestream an execution compares with global practice",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1NBZFVBVHJYejdwU3ZJTW5DdFYxMk9Yb0lwc2w5Y3VTY2IxYll1Q1E5QkpHeWhLYS13dThUQkNrNFdhTmVGVlhrM0xuQTVESDZ2OUEtYWJBWFU1QUxxMVBKSVJQMUFkVzRsSWE4QWFDYVdpc21kakFoSGEwUEhzQklFcUhlVnY1alpuUkQtcGkyYXlvYkxPSmJzQ0QxLWU0cmZlcjEzem94bDByc2cyWWdPbm02TGtyWUl5LUtjdEU2UFRDTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 09 Oct 2026 14:31:00 GMT",
@@ -268,10 +252,26 @@
   },
   {
    "source": "reuters-world",
+   "title": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 09:03:00 GMT",
+   "summary": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "US to livestream Army firing squad execution of Fort Hood shooter, Pentagon says",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM1dUWkFxY2N1cVZHNDdrZWRCWVhCeTFaSnR0dzlqRERFT3ZMZWdscklER3JGOWVNczJ2c1N5cEZuU3NXdGQyYTVPSjlSQmdrUGxjNkQzWGZBbWRTU0FfNWktZ1huRGZRemhoOXdab1llSndxTERBNE5faF8ydV9laTFoYy01b1dZdFVUTDZQQmdmWVJQN1VURjBoX0hub0UxeVR6ZkxPQkVodDNfdk84eg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 08 Oct 2026 21:56:51 GMT",
    "summary": "US to livestream Army firing squad execution of Fort Hood shooter, Pentagon says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "India unveils tough curbs on dollar demand to defend rupee",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdllQdm5CdmlVZXN1TkRYcEd3akdFcFFiMU9xSXJNUnBzbk9HNWFqbTVsYVpXMG03bldVc29lZjVfMk9seFo4LXpadURFdWhmUEVYdWViNjBPNkFiVi1HTkx1clBCc1ZsSGNOdjlweHR3V0JRa0JiRFpEZWNCMHpnTF9GX2RUeWUyTE1oT1VRNjBTSUVZVDBaa0ZkVi0yTFBpRnQ0TlcwM1d2MTc4bVd6U2ZqcDRxUWJESWY4aWpfTmdNeVpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 10 Oct 2026 03:34:00 GMT",
+   "summary": "India unveils tough curbs on dollar demand to defend rupee &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,14 +292,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Vance says he won't watch livestream of execution; Trump remains silent",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjdrU1V3elhBdVdMYkQ1a0d5OGxxSy1aZ25CNDVMMmRZNW1GVnh2UEllUFhpXzVFT1pKYVE1R0ZxYUU0SzB0NGZjZTV0dXkzZmdmbjhDQXRESjVsajZKX2hTNmUzb3lCaDJ3UWx3MUJ2YnVTRURmTVJuc1RKU3ZXeXVYQ3RaZzZnNktkZG01c3JJd2toOVdZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 20:21:49 GMT",
-   "summary": "Vance says he won't watch livestream of execution; Trump remains silent &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Russia says plague institute worker's death does not risk an epidemic",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTludTZlWHBjdVd6VjI1LTlPQkhNWW90cDhvYjJHVnZqVElOalpNbTVBcHNoUGtIRTdhbGsxWE15WUFSRXA4b1p0bXl0cjV6R3h0RGxfMFpYM2N3cWJuZzJNenZaeVFsbFl2YzZpdzZVbEdENHRoUXdjRk1GSmRVRE50U0p1QVJaV3hFVk5zcFllOWVKSERBT0R0NmdzMW1SNFZicTZHajZ1WFRRUDE4S3d0QlZ3cjBoYzdwaGNqTWZWN1RJTHItZ0F0MlNUXzNjN2gxVTloWXkxR192c1E?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 07 Oct 2026 21:59:08 GMT",
@@ -308,50 +300,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Inside the deadlock at the world's top climate science body",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQkFJRWlmcmZtRXBVSHoyQzF5a0FqVkE4RkRuLUExQWxxaTRtTDdNTnBXLUFVSVFlbUw5Zm1YWDFoRzk4dDBlNm1CWEpNa1NOV3BRbFdKd3J5dVZ2MVhRVlBOVUhTenFEOXZYLUdCREl3dHA5OTRDMEE3YjhOdW5LTmttSThFWkpPX2psU0VsNXItVFJYY0VTNDVIX2ludThsaGdHbg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 06:09:18 GMT",
-   "summary": "Inside the deadlock at the world's top climate science body &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "AI-related companies to drive most third-quarter US earnings gains",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWN6RHkzeE9oNGpRQTJpQjZNamoyTS01YldNYndxS0c3ZEhYcGREZHkwN1o0aFRsVWJfOEU5dEZDWDVRUFdDUDlVenBlVGtOSG93MkJfLXp3UThXaFFKQ2x2ekVkMmdTMUxKV0tQd3pOekN0UGc3dFpURTU3NUpQS1RJR0V2MmVoSjFiTUJfbk1HMmhQZHhKN0R0ME5iUmhtV2tNWlkzY3JYNFVa?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 11:44:55 GMT",
-   "summary": "AI-related companies to drive most third-quarter US earnings gains &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Trump says Russia to supply diesel to US and global markets",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 15:43:00 GMT",
-   "summary": "Trump says Russia to supply diesel to US and global markets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFAxYTlxLTNCZ3c2bHMya2hWU2VvRUNTQ1I3YllKaGtoRERCSGFwaGFsRDlpQUVsdENqMnloSVpIQlFLZzk0N0VLNEdRSDExR2ZDaU5YOFQ1ekl4Y0tHb2VyUEVGOHVvam9KeTFHU1ZabmxQVjJMRC1jVmZFOVdtdWFuM3p6VHhjU2VqOFl3MXdBUG12OXU4RlMzV0ZNZ3RaSGpidld3cDBzR2VIcjNQOUNRbHdObV9K?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 11:40:04 GMT",
-   "summary": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "India's TCS senior staff will miss out on variable pay for September quarter, memo shows",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWxHNzNJUF9FTlpsWm1aWU1SNDlZa2otRXVveFhzeHN3NXF0NnRfdUpVQTJBd25xZ2x3d0hld21TalhQT2o4V1E3WllFYV9qMFZQclFKNGlMeU85c3E2Y0VRbVhMYVRaQktuX2MyamN0VlFkTExmUjhyWXMzem4yWXk1bGRVMmNSRGtWa0M1aGgweEtfSFQycFItdHZBUmNNdHJsaWpSc3BwaTBieE15LTNuZXlZWFcwdnlFWFh5VGtSM2M1cHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 20:41:00 GMT",
-   "summary": "India's TCS senior staff will miss out on variable pay for September quarter, memo shows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "EU says it agrees with China to halve hybrid vehicle exports to EU",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWFkxRUNzbndIZnJudlpUZmRzdjlPTndBd1cwUzJ5a1pwclM3LWg1U0wwTWd5Z0lkc3NYekstSHpJaEFYcHc3dUZBM3Q4NDJzUUJOQ0FnM2FkYlJ2NUdHU2xZWEx6NThOT0h0dkZVaGtCWDVRb0JqT2g1YmdNeTRZa2JpSHZFdGRYXzN5bUlfN1lxTnpVazdkZ0l6QmRTYnBFbUtXZHhoV0o0WWFmbUE2V3lHNU9USzRwV2FObTRFRURTc2Rv?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 14:26:25 GMT",
-   "summary": "EU says it agrees with China to halve hybrid vehicle exports to EU &nbsp;&nbsp; Reuters",
+   "title": "India detains thousands, locks down Delhi to foil election chief protest",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS25NS1lVdE9BWXluTnVDMkpxeDhMdWVwOU11N0ZQRnYwZEhnOFg3Mm44aEFIRXZIc09HLVRlYWhnZmZaV0VhQWJPRnRXeU5FQlQta0szcjRuYTVUNG45VXhCU3FtcXdHVkdfT0oyeGRMTENTYm9Vb1RIa2pfWWMyeGpCVUctbXlEYnFOY2hVTUtTa0hqTlBZNDlXNFhjdzFLUXJvdmVnOTZMZjRxTDFqZzJwSWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 10 Oct 2026 00:33:00 GMT",
+   "summary": "India detains thousands, locks down Delhi to foil election chief protest &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,42 +316,74 @@
   },
   {
    "source": "reuters-business",
-   "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 10 Oct 2026 04:29:46 GMT",
-   "summary": "Trump administration freezes green cards for Microsoft, IT firms, probes universities &nbsp;&nbsp; Reuters",
+   "title": "Sterling ticks higher as dollar dips on lower oil prices",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTndRanYwOWtGVXkzdjhMNkRVS3FfaGRfNkIzVEl6YjJRYUZFUWRRTUp1V09tQ0c0TFVTMlBDUDdkaTNwVmVzRGFSVG1DNmhxVjB4WFNFNThQbXU1UDlGMEV6X2s3cFEwUzR5V2dCNFVQR1F6ZEN1UV85cnVuT2VZd1hnOHJiRkdFOE9RXzRQWVVNUDk1TUJkeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 11:35:26 GMT",
+   "summary": "Sterling ticks higher as dollar dips on lower oil prices &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Anthropic launches dashboard, animation tools for Claude",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 19:08:01 GMT",
-   "summary": "Anthropic launches dashboard, animation tools for Claude &nbsp;&nbsp; Reuters",
+   "title": "Europe Inc heads for another quarter of strong profits, defying global gloom",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlcyakx2Zi1kSi1LeVhHUkpHTjJhMF9KUXBHZW9ENklNWXhhQklqaFBtT0gzc05GVFN0SEo4RFdnSHBpUXZMTmNvWmM3TEZhalRjRGlidWExWGhUOEhmNWs1TUtsTTg3cmd4UXp1bTdiVWFGMzhFaXQ4Z3MtbmJUZ3ZMTnQwZGZhd2w3WkpvVndYRTBVc09acW56MHJ4eEludUNLV1N1azNhcUR2QjZN?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 13:18:55 GMT",
+   "summary": "Europe Inc heads for another quarter of strong profits, defying global gloom &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "EXCLUSIVE: US, Russia explore gas sale to Europe amid Ukraine war, say sources",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEhaa1JlbmtzZjZfVFhHcXR0S3ZZUnRnTjBJNnl6UUQ3cjJPZ2JfQ1d5bDVpTEdvXzhwT2JrQTA5VGg4dVNweG9odGJwalF3cTd0clZUb1FJRE45NHVfS2R1bXRIQXliZkZPdFM4NGFkNkNlaTQxSU9Kd2R4WTEtX3FGMkx3YkR5X3lMaW9FOXRpemVncHlTRkZiWEdwakUzVnJ1NHVTdGhEWlRkNWIyeDJha2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 05:04:00 GMT",
-   "summary": "EXCLUSIVE: US, Russia explore gas sale to Europe amid Ukraine war, say sources &nbsp;&nbsp; Reuters",
+   "title": "AI pricing lawsuit against McDonald's raises new antitrust questions",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdW50LWFCUWhGeXBDQTNMbHFXMU85QVN0LS1FZmg4QWQ0RG5QRnNsZ0FmWWVFU1VRZ1RiSHdhdnJlMU1vcEwyV1F6SGlvNWVyOGZUNmp0a1hTMG5YaUk5emRRTmtXd0VQdUtsVVA3UFRtT0gtVkFUVnFFOW1lZDlvYVBDdC1hUm5fOFQzT3dhQVdzMFZ3SVA1Rk1YQmdsVV9faWpjLTdHRDVwTmJFUGd0QUdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 15:42:00 GMT",
+   "summary": "AI pricing lawsuit against McDonald's raises new antitrust questions &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Lessor Avolon orders 250 Boeing, Airbus jets with option for 100 more",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdko1U3lqODlKNXRDOHBrNndRT2J1RGVFVjhUY3QyM0g0MWt0RmtxTUVMdGtNYzJFNUI0eDZxQjJ2YkFQN1ZyZlZxLW9JbnlEUHZmUHdmQ1BJLVdwVE1Vb1phd05YX2VkX0RUWWlVR0hmNGxpcG1yY0lMajE2YUF3ZGdNc2JvWGhHVnl2eElUSlh5MDJvUm1KNjNvWU9ZSUpCc2gzVk9oaGdwSWVzMWNWLVlZZndNTVNad2dpNHd1SUNqMzdqTmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 13:29:19 GMT",
-   "summary": "Lessor Avolon orders 250 Boeing, Airbus jets with option for 100 more &nbsp;&nbsp; Reuters",
+   "title": "India's TCS rises as margins steady despite AI investments",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckdwSjZhV3lYaVBsMFlkbHZqbHg3ejNwLXJRTjJCRUxvQk5jUXlyQ3NybURhWGliZE5kY0JKaml3RU9TeHlUM1E3OWZIa2tfNUIzSVdrMHVpcFpOVnBtX1Zmb3FYejBuUW1qbW1FQnFLNDZOVldPOG45aEoyZGVkaloyVmg4SF9YN3pjU3Q3Uk5QZFRZX3pGenJmYTFPNGhYem51SG9Uc3paeG9QUGU5dlk3aXRua1ZQaTNfdXZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 16:26:20 GMT",
+   "summary": "India's TCS rises as margins steady despite AI investments &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "AkzoNobel, Axalta set to win EU antitrust nod for $25 billion deal, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXhNTjhLSmI1NTZVMGszNVhsdXFqSVFET190Ym5DTUVHbW82d2VOMHpIRG1ubzdSX2xnWkxBTHA0VmRFN1dXVWZlV0dKbW5FejdxNlc0NWtSVUlHZ3hNazAtcFdWb0xoZHJ4YUc0SVhNWDJuazB0Z0ROdkJGQUlsU3FGbm54bm04aUUwVmJDSjBFVDcxWGJiUlNUb1dGV2xHRUxuY0FYMW5ycDNtSm5qWGQ1SUZpZDdYOHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 18:48:04 GMT",
+   "summary": "AkzoNobel, Axalta set to win EU antitrust nod for $25 billion deal, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "PepsiCo slashes forecast, deepens cost cuts as North America recovery drags",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUHltelZJVGJtWi1ueVRYa1Y0VHR1TG4tRTN4M1JIS29vSHE3V1VVWEJNQURYUlBBbGk5X2tYNFphZ0JvWnUxVUlkdGJjd1FjZFJLeDRvVWdhdjRIZmNJSjFDODZlWWktaERJQUliOFp4U0ZqRW13ZGZRQjBFTHlIbm43NzZWaU1WRmNnOXk4TnVzUWpRWUg3OHd4ZGdzYWhjMFVZLUhnZlRUVDhoNm9DN0F2REVpdy1XdjJ3cHBiLXQ3OFBtc2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 10:05:00 GMT",
+   "summary": "PepsiCo slashes forecast, deepens cost cuts as North America recovery drags &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Venture Global breached LNG supply deal with Galp, tribunal rules",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEgxQzJIWjlpem9jZUZxcnpLRTZWRkdNeFR4cmJLZkJvZ2VsV01FSWNYTW1LNHZmMHVxMlFqdUg2VW5qeHBxNkdPTW1LQ1VLd2hUVGZkbk9wU1A2eXYzTXVNWXo4RFhNRVZCalBUdlhKTVM3LS1wN1hJbmxXaXpJaXpVZkZHdXViLVpsLW1sQTFNTjdPQlJkbnRSMEVrcFh1VVlub0VZRjZTZWZ3Qnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 19:46:06 GMT",
+   "summary": "Venture Global breached LNG supply deal with Galp, tribunal rules &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Washington Post names media veteran Alex Wallace COO",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUUI5MlozWllHdlEwWTBQTWdDY0xsMG4wZXpmQVJ0c0RsMEZIRTR5Y0hLeG4xR056ME1HQ2lhTnRTNDVONjB3TlBUQzJJc3lEVXRRTEZuMG42OE1YQWhaNF96N3doWFRzQXJsc3JjY1Juck5GekptbmwyMk9RZVQzWHZ6LXBaNVVxQk4xbzEwWlIwZ3VaZExEWXlGZnRlYjdqZVVEN2pEMS1EMWhWdlltTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 08 Oct 2026 15:04:09 GMT",
+   "summary": "Washington Post names media veteran Alex Wallace COO &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "India unveils tough curbs on dollar demand to defend rupee",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdllQdm5CdmlVZXN1TkRYcEd3akdFcFFiMU9xSXJNUnBzbk9HNWFqbTVsYVpXMG03bldVc29lZjVfMk9seFo4LXpadURFdWhmUEVYdWViNjBPNkFiVi1HTkx1clBCc1ZsSGNOdjlweHR3V0JRa0JiRFpEZWNCMHpnTF9GX2RUeWUyTE1oT1VRNjBTSUVZVDBaa0ZkVi0yTFBpRnQ0TlcwM1d2MTc4bVd6U2ZqcDRxUWJESWY4aWpfTmdNeVpB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 10 Oct 2026 03:34:00 GMT",
-   "summary": "India unveils tough curbs on dollar demand to defend rupee &nbsp;&nbsp; Reuters",
+   "title": "Trump says Russia to supply diesel to US and global markets",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 15:43:00 GMT",
+   "summary": "Trump says Russia to supply diesel to US and global markets &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,18 +428,26 @@
   },
   {
    "source": "reuters-markets",
-   "title": "India's Sensex slumps to 32-month low on oil surge, foreign exodus",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGc3d3VfemdCVm9OMG8tZFo3MFpXMmtQR3paUW9yMWFia0txelBIS0w2M3RSeDdRdzV2WkR0WmU2ZFdNVkUyUWJMbWQ1YVA0M3d0Y3hRQkMxa3FlMDMtSXZ1OHF6UWNaTzRmTklWVnpSNHp2bzdRT0F3SlNvVzVFQ0trU21MeHlOMmU4R3U1c0NNTmw0dGtoT1lORzRBOGdTaUMyRjFtWFc4bXdsemFV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 08 Oct 2026 02:26:45 GMT",
-   "summary": "India's Sensex slumps to 32-month low on oil surge, foreign exodus &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Investors pick new darlings and duds as selloff rocks Europe's bond market",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUwxWllNS1pOd3QyU1N1SXNKRExZYWU2U2V2SXdRZkIxNTJ5NEFjNlRPMmlScW9sQUFMdzl3STlMN09oRzNqc0tPNGJVWnJ3b2hUa3NNWFN6MFRjSHJQODFZTFh4a1BMczhIU3JqY0xwUGlDRHEtUWxYbFJuXy1MbTk4ZGtHcFNnQjZ4V2d6UFc3VDNFTmtOOVlVTUhLeGRjOG1GbUp3VjFpUVBBSDdUOA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 07 Oct 2026 15:32:49 GMT",
    "summary": "Investors pick new darlings and duds as selloff rocks Europe's bond market &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Bond selloff leaves France no room for fiscal mistakes, Citadel executive says",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTNZVFNjdnU2UjU3cUZpWnZKbUVLcEppRThRNWwybW40Vlcyd1ZXT1M0Y29NY25MODEyTUlveWhiMkIwbWlZMERZRWtqNWVSY0xNeWtKejdLNlFmT1BZeXpoYjNLZ3Q5VjlXZk8zZTRHQmNuUm5kb2RtSWlTRmRxMmVtTF9Ma2dmRFhOdXQzNkQ0SE9FbHNWcXktTE9FdGpySlJvQ3FfUXFFUUs0WUlCQnd2b0JOa1U0djlfb0FhM2dXQ2ly?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 07 Oct 2026 05:12:00 GMT",
+   "summary": "Bond selloff leaves France no room for fiscal mistakes, Citadel executive says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Wall Street posts weekly gains with earnings, inflation data on tap",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 23:33:00 GMT",
+   "summary": "Wall Street posts weekly gains with earnings, inflation data on tap &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,14 +460,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Venezuela president authorizes SpaceX's Starlink to operate in the country",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVNFOHFaa1NEMlRfcVpEckRFRkV1Nll5N3ZEcHR5V2xod3pmX2NMV1o1aE9relZVeDF1UmhNeEVJRDJxbGhua19mSl8wQ09sQm9IOUZwbVc3V1FnS182YW1KMGdqeDRzdmJDZV9DdVN2MEU5Y3pGQ0dYZk1MUkFILUtQaFF2UEJBYXQ4OXhNVGY2WlFWd3lFYXAxcHBCZnZOVVY4VUJrQUlURDBZUFg4NG9ucURRNkdZSnR4QzBSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 10 Oct 2026 00:02:00 GMT",
-   "summary": "Venezuela president authorizes SpaceX's Starlink to operate in the country &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Anthropic discloses fake tip to police among new rogue AI incidents",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 09 Oct 2026 19:21:00 GMT",
@@ -484,18 +468,26 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Netflix plans to cut 5% of its workforce, Puck News reports",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzY3UEczeHM4MTAwNE1rcVRZZnF2YTJGMUNLUzFhbVdxRU1VdGhZNUo1SUpLdTZZMnhvMFpScWZnOXhpOTlUWFh5LVlzOFJyUWxUVUd0Rk5Kd2w2VGZRaHY3S05SYnFrUWtmanpHU1ZPNm5hN3VTdHNkdUpRcndxSkhKSXVtdHFtTFozR2hxeDYtSldGYXktOHJSb29Qdld4R1liYk1LMFc3NkZzRXRZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 13:46:52 GMT",
-   "summary": "Netflix plans to cut 5% of its workforce, Puck News reports &nbsp;&nbsp; Reuters",
+   "title": "Venezuela president authorizes SpaceX's Starlink to operate in the country",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVNFOHFaa1NEMlRfcVpEckRFRkV1Nll5N3ZEcHR5V2xod3pmX2NMV1o1aE9relZVeDF1UmhNeEVJRDJxbGhua19mSl8wQ09sQm9IOUZwbVc3V1FnS182YW1KMGdqeDRzdmJDZV9DdVN2MEU5Y3pGQ0dYZk1MUkFILUtQaFF2UEJBYXQ4OXhNVGY2WlFWd3lFYXAxcHBCZnZOVVY4VUJrQUlURDBZUFg4NG9ucURRNkdZSnR4QzBSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 10 Oct 2026 00:02:00 GMT",
+   "summary": "Venezuela president authorizes SpaceX's Starlink to operate in the country &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "India rejects monopoly claim after Musk accuses Ambani of blocking Starlink launch",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEVyMm5IWVd1MWpWcERlbWVSUDQzTGNobTJfQkU2N3Z5MGZBTG1YMFVEcG1tbmowVXU0MFI2VHR5blJ5ZGFlMUFZY0ZNTzJ4bnRDTUZJQ1FGaXhiZk1YdjdyQml3M0U5SldubWpqNkJBRFNqUTBRZU5aRXBnUjJZRWFGZGVGTXBvMlVXYjBUSXdmTUpWZVNWMFMzdTlkQkFkRThpVUxJZG1oS2NRdW9yeXVSakRxWC1MS21LM21LdjJBeHVCXzF5Ynp5VW9QTFhWQkVjaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 09 Oct 2026 12:31:30 GMT",
-   "summary": "India rejects monopoly claim after Musk accuses Ambani of blocking Starlink launch &nbsp;&nbsp; Reuters",
+   "title": "Ukraine hits second major tech site, expanding range of targets inside Russia",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHlDTS1wNzE0M05HazRDNThpeVVFdWpRcUtuZTFYcEszTDM4TWxsa1FuZVQ1dFY1RDhDOXRjZDJFdlVtWm5tV1FwbkQ3MlZVX0VYeEpLUEZubGtBalF0UFpPTFdhNGZON0tBYjVxbC1ZRjlVUlItZ0pCVEYzLW9Qcmw2Vy1EelJNNkRzSjFzemxlNzFmbElhc1p1Vy1IUmdXYmdDSm9ET21Iek0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 08:02:00 GMT",
+   "summary": "Ukraine hits second major tech site, expanding range of targets inside Russia &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 10 Oct 2026 04:29:46 GMT",
+   "summary": "Trump administration freezes green cards for Microsoft, IT firms, probes universities &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -520,6 +512,22 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnN4TkxuZW5GVFJLOEc3UW10R0FPUUgtaUVRSzRjWWR3R2tUSTNyNkxwdDhULXJnMTA3VXFwUFdtbHlteW84WDBEM0YxdjUtbGxrRzhjXzJNeG5yNlp1NE14MkxfX1BidU1vMXZ2ZEpqSF9Hb2R3UExlZGpjRUJVRzU1bVluLVk0U3lIT3ZmdnJOeHN0R0xFd3BmZGRndUtNSzRvck5iYkZyN21vaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 09 Oct 2026 21:38:35 GMT",
    "summary": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Revolut aims to become global tech company beyond banking, CEO says",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXk3d0t0OXdTR1QyenpXeTZXTU1Cam9XcFpGWWRYRTlqZG8xM1FmYW52UkVwUFRyYUljOVFwVVFsYTlqN3RYYVFpTmxMQjAtRjJib2ZWR3NNazMzWmpKMnNlQ3VyZXo2XzFtSWxMTWp1Zjk2MzU1dS1DbXZXa21QSUljTmV6Q2gtWDJWZ3lKbFYwMzd2RDI4N2VydHJsX25pYVdyQnBZb3pmek5HYkpwUmswYkFnX0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 14:47:36 GMT",
+   "summary": "Revolut aims to become global tech company beyond banking, CEO says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "China vows to curb tech bubbles, keep AI risks in check",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEx6M2UxdWNfSDhCcy1TblhhT2F6aGNGc09hZXdTU2F2LVZLSWdRN0hKQTdGblRBYVE2R2FFakxab0tEcnE2VmJFN0FMUVdfLUNXWFVtWmswemRfN2pjaHByZEtEZWtyUUcyU1pZdHBDdzhYYjdkcHNQSVRUcXRsN3Q4RGl3OWYxS2k2Q1hjdlRySGZDX2owamZRVjRxQ2NGeUdHT2FHaTZjSl9PQUJsTzZrcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 09 Oct 2026 13:00:09 GMT",
+   "summary": "China vows to curb tech bubbles, keep AI risks in check &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
