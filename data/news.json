@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T14:28:07Z",
- "count": 67,
+ "generated_at": "2026-10-16T19:11:46Z",
+ "count": 68,
  "items": [
   {
    "source": "nyt-world",
@@ -12,10 +12,34 @@
   },
   {
    "source": "nyt-world",
-   "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
-   "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-   "published": "Fri, 16 Oct 2026 11:25:22 +0000",
-   "summary": "A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.",
+   "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+   "url": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
+   "published": "Fri, 16 Oct 2026 15:02:53 +0000",
+   "summary": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
+   "url": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
+   "published": "Fri, 16 Oct 2026 19:04:56 +0000",
+   "summary": "Recovering from lung cancer surgery, Pope Leo XIV spoke with Vladimir V. Putin to make a plea for Oleshky, where mines and drones have trapped some 2,000 people who are at risk of starvation.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+   "url": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+   "published": "Fri, 16 Oct 2026 15:22:54 +0000",
+   "summary": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom’s Sports and Business Events",
+   "url": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
+   "published": "Fri, 16 Oct 2026 15:52:50 +0000",
+   "summary": "The Iran-backed group’s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile.",
    "full_text": ""
   },
   {
@@ -28,10 +52,18 @@
   },
   {
    "source": "nyt-world",
+   "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+   "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+   "published": "Fri, 16 Oct 2026 11:25:22 +0000",
+   "summary": "A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
    "title": "El Niño Threatens Global Sugar Supply",
    "url": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
-   "published": "Fri, 16 Oct 2026 04:00:14 +0000",
-   "summary": "A poor sugarcane crop in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals.",
+   "published": "Fri, 16 Oct 2026 14:41:01 +0000",
+   "summary": "A sugarcane crop withered by El Niño in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals.",
    "full_text": ""
   },
   {
@@ -51,35 +83,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
-   "url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
-   "published": "Thu, 15 Oct 2026 18:18:46 +0000",
-   "summary": "A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Second Ebola Infection Announced in Kenya",
-   "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
-   "published": "Thu, 15 Oct 2026 17:38:52 +0000",
-   "summary": "The case is likely to raise alarms in the country and increase scrutiny of the government’s surveillance measures.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Houthi Missiles Strike Government Headquarters in Yemen",
-   "url": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
-   "published": "Fri, 16 Oct 2026 00:14:38 +0000",
-   "summary": "Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Violent Protests in Albania",
-   "url": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
-   "published": "Thu, 15 Oct 2026 21:40:24 +0000",
-   "summary": "Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.",
+   "source": "nyt-business",
+   "title": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting",
+   "url": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html",
+   "published": "Fri, 16 Oct 2026 18:28:21 +0000",
+   "summary": "Higher interest rates are inflating borrowing costs as the Trump administration spends on the Iran war and tariff refunds.",
    "full_text": ""
   },
   {
@@ -102,8 +110,8 @@
    "source": "nyt-business",
    "title": "Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes",
    "url": "https://www.nytimes.com/2026/10/16/business/indonesia-stocks-economy.html",
-   "published": "Fri, 16 Oct 2026 13:03:05 +0000",
-   "summary": "The potential downgrade by MSCI, an influential index provider, adds to a deepening crisis of investor confidence in the economic policies of Indonesian President Prabowo Subianto.",
+   "published": "Fri, 16 Oct 2026 18:18:14 +0000",
+   "summary": "The potential downgrade by MSCI, an influential index provider, adds to a deepening crisis of investor confidence in the economic policies of President Prabowo Subianto.",
    "full_text": ""
   },
   {
@@ -118,7 +126,7 @@
    "source": "nyt-business",
    "title": "Lufthansa’s Final A346 Flight Marks the End of an Aviation Love Story",
    "url": "https://www.nytimes.com/2026/10/16/travel/lufthansa-a340-600-airbus-retires.html",
-   "published": "Fri, 16 Oct 2026 13:40:40 +0000",
+   "published": "Fri, 16 Oct 2026 18:05:27 +0000",
    "summary": "Lufthansa’s quirky plane, with its extra-long fuselage, four engines and restrooms down a flight of stairs, has a devoted following. Now, the carrier, one of few still flying the model, is taking it out of service.",
    "full_text": ""
   },
@@ -152,14 +160,6 @@
    "url": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
    "published": "Fri, 16 Oct 2026 05:07:20 +0000",
    "summary": "In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy",
-   "url": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
-   "published": "Fri, 16 Oct 2026 13:35:08 +0000",
-   "summary": "The Federal Reserve chairman stuck to his pledge to avoid providing guidance about the path forward for interest rates, but did nothing to convey an urgency to raise them later this month.",
    "full_text": ""
   },
   {
@@ -198,7 +198,7 @@
    "source": "nyt-technology",
    "title": "Why No One Can Look Away From Elizabeth Holmes",
    "url": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
-   "published": "Fri, 16 Oct 2026 13:00:28 +0000",
+   "published": "Fri, 16 Oct 2026 17:15:33 +0000",
    "summary": "“I felt like there were some moments in the film where she was just brazenly lying.”",
    "full_text": ""
   },
@@ -220,7 +220,7 @@
   },
   {
    "source": "nyt-technology",
-   "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
+   "title": "Tesla Debuts 2026 Roadster ‘Flying’ Electric Sports Car",
    "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
    "published": "Fri, 16 Oct 2026 09:04:12 +0000",
    "summary": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
@@ -276,6 +276,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Putin envoy says Russia and US are discussing joint deals including on data centres",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzh3aTJ5dl95cHBVVC1pTGhZU3BoLU5UeDVjd0F6Mmlhc3BMc3dkZFByZXhPMDFUUnMtWkpEcW1GN3oyN0RzN0Y4YlI0VVl1ZzBVY2lQbFFGcUpiRDJoMUpzbXZPN1dCYjdpY3ltZVNRMGk3Nnp6b2poTEJHX2p0R2ZvUFFmVTlfQzJxRHNDU0hWNVE4R2dxMFhzdXhCYnpyUEpxQ01uenpJWVQ3OFZ1YWNQYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 16:34:18 GMT",
+   "summary": "Putin envoy says Russia and US are discussing joint deals including on data centres &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "India's RBI has spent half of $140 billion FX capital haul in rupee defence, bankers estimate",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONU5ZY25UM0c0a0FPX0ZNVl8zWGFJRVZ6YzFmNlVuR2JLb3VxMS02bmE0TDY1eW5Ra2swVzlCcnN5b2htdnZhRGNPaTVmN1hkeFE3Nm10RHNndDhORDFtRlpEbDllT2c4Ymp4VGJlY08tOTE4aXM4RTVpZXhFTmFUbHNVT05SSWV4SXlhRXB1dkFWenZJZ0RkelIxU3V3UHoyOXctd1FVMHdjLVZUc3FieXM0bUlXcXVma0lMRkhJeGw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 15 Oct 2026 08:39:43 GMT",
@@ -284,10 +292,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Romania resumes search for seven missing sailors from drone-hit ship",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlZhRnVFYUtGUGRnTHJ5c0d3V2R0SlFoUXVKd0t2RHEybzBubG9iRHlzWmVxU1FnRHV1RHlxSDZram9rUDR5ZEk2TU1yVnNCcVhRWXFLR2d3UVFOSWptUGItUEtwVFhSN25hOXZFOEFLVTFWNi13Mlo3a281SjJQQ0lXU0tXRGJsTGJxY2VCaTdQVm83b0FsNXlvM1dBcjFPM2RB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 11:53:13 GMT",
-   "summary": "Romania resumes search for seven missing sailors from drone-hit ship &nbsp;&nbsp; Reuters",
+   "title": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmt3MmNHZWJGNkVUMEV6MS00VmdnZ3U4LXpGVE5PUk1ZYXA2TjhQWm9lMUtObEVyZTlqejdpeDhKZlV5QVI0dWV6VUE3cXFtSmd3WUQyTldneXBQZjB0dU5lRTItQTc3YWZJRXB6NjRfOGZaVzhYUjExQmhYQ2lWUFlkXzc0TkdNWUl6S0xrMkZBZmNCYWpLUldwVDdsTGh5ZnkxSlFPWEdKWXhzZ2FLRVI3LWk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 15 Oct 2026 06:03:00 GMT",
+   "summary": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "IMF chief urges cooperation on AI and war risks, as US hails economic momentum",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaC1kZ3BadTRtNzZPdmw0UzNSSHNNTHh3cGltTWJvQ0hHanZaeWhoTDFrSG5GdnNkU2NRamJ3OXF6VVVtdDRncGJtdnpKemJQeHpqbTZFaFVOMUgtOFhNYnU5UFlFbTdtUWZ0SGhMVEtZVnYtMHFQTUlCZG5yN2txMnJjTklQWWtrYTFkS1JTeGRqNkNMa2Vra19qYk5XVzZ2V3pjZnczVERFb0pOOTFaQzZmaThwQ0RSRXM1VA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 13:08:03 GMT",
+   "summary": "IMF chief urges cooperation on AI and war risks, as US hails economic momentum &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,14 +316,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Bank of England's Bailey sees 'quite subdued' second-round price pressures so far",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTG5XUks5NHU3SnZ2Wk1EVklSZm9Od1ljNWFieUZmZTlibEZHOGJiSlBWWlVsMGttUi1pZjlkc2hfZjA4TEZaTGltSEJfMjdDUDJZZ2dLQ1hqX05TcklZd2J4dTFXQVA3V0p0ZG1uSWV2aFpGVnFrRUEza0hTUm9hdXVyMk1icGxLQk9LMUFrc3VTcF9RR1N3VHVxZjE4eld5dnM3TUxySGRfSXYzQV82R1haZUx6VDIwMi15YWJickk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 02:19:00 GMT",
-   "summary": "Bank of England's Bailey sees 'quite subdued' second-round price pressures so far &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "India says first phase of US trade deal nearly done, insists on edge over rivals",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGlKY3pLbkFHTmp2cnFiNnRlWWRyRWcxeU5HUnRrU3dWLVFIOFhHeUNiSTBoVmpQenB2a3FIU004b0dGelpMUzJoNzR4QkdLdTVLRF9OdHRqdDlxSDZ4Tnd2bWZIWkl0SUtXajdtdjFWYmNHcmZneFFwN05LdWNMZWNMdUVjNVZnSG9pQUNJYXd1dU1vNjhrc3RR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 15 Oct 2026 11:48:31 GMT",
@@ -315,51 +323,35 @@
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "Fed's Warsh sees US resilience, mum on rate-path view",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 03:57:00 GMT",
-   "summary": "Fed's Warsh sees US resilience, mum on rate-path view &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-business",
    "title": "UK competition regulator targets Microsoft's business software grip",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmFGbmFMbzg4cDVFbFJUN1E3bUlGb0VBaGxBMVFMRG11eE13dlM0Y2lhZmJiSjg4NGg3cHY2REV4MnM5ZkZKNWJjQmJ2RnZhSzk3MEhXbVhRSDRNWWlabU1IV3Z2OXJNYjZ2dWd0emNIbi02ejBiR25iWEs5UkJmcTh5WnlaNEMwaU9GWGdWN2Vrcm1aMmMtVUJ4NTJ6RE80MG1DazZJQ0RtbzdWT2htQVhKbHFydlhxQm1Z?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 10:27:07 GMT",
+   "published": "Fri, 16 Oct 2026 14:58:38 GMT",
    "summary": "UK competition regulator targets Microsoft's business software grip &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Russia takes over more EU companies' assets over Ukraine support",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDMtenFMRWlxMERtR0Q4QVFNUUFtXzBqM1p3U1VSQ256Vkxod1o2Q09kSDZLamxiWUtIanlPM25KOS13eWxCMm00REhXNWVhbjlYUUxHTjB0MHZKVUpXNlBCNDduQnI1czdUR05jMzdibWVSMGlFMmlxOHdTdnB3WXlnVkh3ZGE2T2ZWdl9Jd3lGYi1scjFULUU5S29jMG15ZkZhVE1uQ3pWYWswQWwtLWFDdWwtU010ZTBJUzJZNGR4Qm1TVFBwUlJ3bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 05:46:00 GMT",
-   "summary": "Russia takes over more EU companies' assets over Ukraine support &nbsp;&nbsp; Reuters",
+   "title": "Shell agrees proposed sale of French fuel stations to DCC Energy, source says",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG9EQVA1ZUNPX2ljSkw4NUNLTWtaem1MU3ZGSlNRZ3MwOHE0ZTZiaFdvWFVxdHlXRFRRNXMyU1ppdDZLX2RLNVUyMzZqOG1WUDdQXzlDR2IyUktXYkROUmR6bXE3aDZDejVjLTR5eU9YVUV6UGgxTUZsMDQyRWl4THhjb0E5SnJmVVFxTjN4NnNLV1pJajRoVzRpRFR0QldjMzRrdjhoR2MtajEwUzdKamx5SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 16:17:56 GMT",
+   "summary": "Shell agrees proposed sale of French fuel stations to DCC Energy, source says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "ExxonMobil signals $4.5 billion refining earnings boost as margins soar",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjlyZU82NGZleDhibTRDcWl1NzJId0JjZUpmMEVGZ1lRbzU2enR3WXV5a2xDME12TXdfYS1TaHJlMXh1bTIyNmNjbHVzNS1yb1laSVFHdWkxbnV4YTFyVXFVeGxzQktWV1ppWmZnQ1VHa2ljVVFrZjFOSHNqUjQ1U0lOTDJfTTRKT2FIWnRHRjg0MjhtXzlIYTJ2ZmdhUnJY?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 13:18:10 GMT",
-   "summary": "ExxonMobil signals $4.5 billion refining earnings boost as margins soar &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Naftogaz chief says Ukraine's gas reserves hit six-year high ahead of winter",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON29wRXNnSDhoWUxFd0FpaklIeG1uOTI2VkdUdzZKU2NuemNyZGoyZFFEcl9OT3o1aUx5V1lwNEtUUDZtT0Y5MFlmUmRjVFhXTWk5VVM0clR6RjhqZFJvQlN0YVhfNnB0OGU4R0VJLXBPTXlLMFo3eTNfd0x5bU5tMUFHUTdKRkRESnhSVnk0YUR1azlnWGtXcjE1NnB5R0xzbFZVaVVfVU1MM3VtYW9BS3VLYVVLQU9NYWNRQ1RSTkZKZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 11:26:01 GMT",
+   "summary": "EXCLUSIVE: Naftogaz chief says Ukraine's gas reserves hit six-year high ahead of winter &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Italy prolongs Schengen suspension with Spain, talks loom",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUWFIclJ5eVRzYUU3UldEU0prZVE1aFFOTXREYjVLdDNFTmREX05Zd3FLUU9GYzVpZzJtX0h4amxzb3phQ1p6QUFBS2lNM2ZRb2pyUVNGQ2lSVi1ETDZtWE0zTXRyaVI3TXJad2FBc3ozNGRjVHJZeVVBa0ltSTJiN1VpWjRtUTBBbU45SWZ3WGxnc0R2ZG5ZcmJ0aFBwOHdaaVp4US0tMXptQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 12:32:45 GMT",
-   "summary": "Italy prolongs Schengen suspension with Spain, talks loom &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Trump donor leading Caucasus fund has major Armenia holdings, Russia business history",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXotR2IyVjRqX3YzMldEVkFSWE5ibF9fNndPZWdYRVk2cEczX1lyd2dSTlFwVGVZQm5ST0FxakNfS1hFdWhuTndkMnotRUFNVmFvQ1BmTy1hdl9rd2NUaUNmdlBHZE0tWjFvWjdJcDhlVlBJV0dOck02MTktUHUzU0lEekN5N2tpcll6VHZlQUNyMkpZUWpJRkgtYjhEdXlXN0x4OHpGTTNYcndZUWNVZmdNVGNuZnlObVdaRUFIWDNUaXFDNUhMeG5zTWxwejY5?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 16:45:10 GMT",
-   "summary": "Trump donor leading Caucasus fund has major Armenia holdings, Russia business history &nbsp;&nbsp; Reuters",
+   "title": "Ryazan refinery halted processing at one primary unit after drone attacks, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWF4d1Z5QlhpMUR3Y0JvLWNnVElGVUU2Vnk0ZHVvcUFLZzFFcWhEb184TmZVSVdzQjdoM1BuRS0zVWNtZ2owWmRPTklGNm4yOXN3SzBDanAzemJzVTVGRXBXYUtsanBLVGRqM3kwTndodXk0VkxJbUw5blhzRVNsNmk1SzBVc3YwTkpuLW5IMS1GVlJZcW05SmE3RDFYdThhVGpuWC1RSXVuNno3VTJYZkkwdWUyODVZWHJjQVdyLTlyeFlqU3l2d1Vn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 15:38:39 GMT",
+   "summary": "Ryazan refinery halted processing at one primary unit after drone attacks, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,26 +364,34 @@
   },
   {
    "source": "reuters-business",
-   "title": "CCC Intelligent Solutions agrees to $6.1 billion take-private deal with GTCR, Elliott",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUdNcjdZbmllaVAyMXh0ejFIWWl0NEE4WTlUVWxPT1l6ckw2T01aT0VZLUZfMHJHV0E1cF9jandEV1p4djJWa0t6cHJaVnhqUGNHRTNvZE1kQk9vZ2xWaG4tZDZOaVMxOXlkLWxxU3dhZDViTmltNXp2UldwdF9sX3U0NFNDR3pIMDd5M3RUc05OVk1VRnY0MlJ0bXVBNUZQMDZkWGR5bURMOTZkaDNocHZTdHk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 21:50:23 GMT",
-   "summary": "CCC Intelligent Solutions agrees to $6.1 billion take-private deal with GTCR, Elliott &nbsp;&nbsp; Reuters",
+   "title": "US retail sales beat expectations in September on higher gasoline prices",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZnMTMydHhjWGswNVBLR3F5dEhkQ09TOW02dkt2eF8yMXVfa2g5dUNwQm5MdmRIZXB6Q0QtNkJrOGg3Zm1JWUh1akw3RGZ5czh4dEk2b2pxeDNLSXg5Sk9wQzJKVFBhanF2ZWtxNDR6T3pvNzgzbVVlRWotSnR5NjVwcjQtYjd3eVBGang1Sk1BWlU1WExpQy1ySndDeUhZSGFUNVFpSkRFZ19meGNuOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 15 Oct 2026 12:49:46 GMT",
+   "summary": "US retail sales beat expectations in September on higher gasoline prices &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Meta releases open-weight Muse Spark model for coding, agentic tasks",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDgySGFsc1IyeDdOaXR4di1nZWVqa3BrR3hhN3g2S2dHMkoyUUxGS3ZRdG12SlRwY08tWE1EUjRSVjlLTGVuTE5icXhYYjM4Qnd3VGFwc0pnb1FVUFQ2UWlVTk5XTERoYkNYNXZZYldISnJiR0FCVmNJTF94bUp4Y0R3Q2Q1UWg4dHdJdVpWQWRXMEJjcTR3WThFYzFaTmFHcm5tMVVyZVdndFRp?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 21:20:09 GMT",
-   "summary": "Meta releases open-weight Muse Spark model for coding, agentic tasks &nbsp;&nbsp; Reuters",
+   "title": "International Paper in talks with bidders for EMEA packaging business",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1pYRjVHd1JfS3psVUJVWEZ3V2MwanlEUlU1czhuSy1MUUltZ1ZZQmxGbHNSM256NGNaSy1ub25ZT2RhcElic0lQWTF2dFVaaWh2aDFFeHc2aE5wQnBBUGZWZXFNVU1hUGRYQm4ta1ctTDM2QTROMm5FNXVLZHR1b0staXpMZzZydFlhOFVTTzB6TUd3bE96Vkt1LUM5VE5DZ2hFeHBEaWU1azUzcUNvUmJHajhqRmRoQXdRUTZ4SnNqaXlJR3VSUWtwMWY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 15 Oct 2026 17:42:03 GMT",
+   "summary": "International Paper in talks with bidders for EMEA packaging business &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Austrian investor rushes to boost copper production at old Chile mine",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSm9ya250OUF2VWo2QzNYMDB2MjJjb0dMS1Vhc0pIMndnUTY4bnE2MDVnNkRDWjhhVnk2eDZCWVluOEdPanlGUjZ4ekc2RjRkY2NHdXdVYWtPUFowYk5henNCLU9KWjdhZHVSZmtGdS1kVWpPS3BQelNMWGdoZldXMVYwUFJ5eUlta0NMY2ZfME1oV0JTY1lXX2ZGdFBGN0t6cXVyMjNPa2hiZFE0TVBFMFMta2NOQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 10:20:15 GMT",
-   "summary": "Austrian investor rushes to boost copper production at old Chile mine &nbsp;&nbsp; Reuters",
+   "title": "Trump donor leading Caucasus fund has major Armenia holdings, Russia business history",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXotR2IyVjRqX3YzMldEVkFSWE5ibF9fNndPZWdYRVk2cEczX1lyd2dSTlFwVGVZQm5ST0FxakNfS1hFdWhuTndkMnotRUFNVmFvQ1BmTy1hdl9rd2NUaUNmdlBHZE0tWjFvWjdJcDhlVlBJV0dOck02MTktUHUzU0lEekN5N2tpcll6VHZlQUNyMkpZUWpJRkgtYjhEdXlXN0x4OHpGTTNYcndZUWNVZmdNVGNuZnlObVdaRUFIWDNUaXFDNUhMeG5zTWxwejY5?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 15 Oct 2026 16:45:10 GMT",
+   "summary": "Trump donor leading Caucasus fund has major Armenia holdings, Russia business history &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: US, Russia explore gas sale to Europe amid Ukraine war, say sources",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEhaa1JlbmtzZjZfVFhHcXR0S3ZZUnRnTjBJNnl6UUQ3cjJPZ2JfQ1d5bDVpTEdvXzhwT2JrQTA5VGg4dVNweG9odGJwalF3cTd0clZUb1FJRE45NHVfS2R1bXRIQXliZkZPdFM4NGFkNkNlaTQxSU9Kd2R4WTEtX3FGMkx3YkR5X3lMaW9FOXRpemVncHlTRkZiWEdwakUzVnJ1NHVTdGhEWlRkNWIyeDJha2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "summary": "EXCLUSIVE: US, Russia explore gas sale to Europe amid Ukraine war, say sources &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -406,24 +406,32 @@
    "source": "reuters-markets",
    "title": "CoreWeave bond rout tests market's math on AI buildout",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm5VTll1VmRrVEdWNm9HMmh4dUtxaDN2alV3YnJxUmtZdVJjZV9obW5Kc2tOYTNEQVdQNE1XMnFNbk1PaFBTTHZqcWxFZklDOVRtYm9IOWhnMjRuZTYyM2U0NVA1WmY0a3ZGQTFJbFp5cU1ha3h2WXBwLVFBSmtjRnVmZm8xdUtCMWlaX1YyUkpCSDhZamRzRG9UV3paVU9MalVpa0FFbzRBZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 13:29:14 GMT",
+   "published": "Fri, 16 Oct 2026 16:48:32 GMT",
    "summary": "CoreWeave bond rout tests market's math on AI buildout &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "European stocks rise, dollar set for weekly loss after yields drop",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUpLRUNwWEpRNVpNVWJPOWQyQXdKRjkzdTU5RjFiOUxpUFZGU1ZBa1VaS3ctN0xlc0lSMkptbUVMRlprcFFtZ3B6Z2ZFTG5XX2FBUHBoSk4xRTdiQm1ucERORXE4ZzNFZ09ySlpvUDlzb0tGUjFQZ3c0UmotdEstMEZCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 02:52:00 GMT",
-   "summary": "European stocks rise, dollar set for weekly loss after yields drop &nbsp;&nbsp; Reuters",
+   "title": "S&P 500, Nasdaq set for steep weekly losses as AI jitters rattle investors",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 17:31:36 GMT",
+   "summary": "S&amp;P 500, Nasdaq set for steep weekly losses as AI jitters rattle investors &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "How Healey's first UK budget could ripple through markets",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzdqOHBldnlRU2ZTLXFjY2EyMVdjQ2hfMmJWWkg0M1hpU2ZwY2J6YU5GTHRfMUR2TE96NzJrdHlJMGFsZW1YYzhzZEFfRXFfTjFfRWctQXZuWlQxRU85czFUT0w5eDJPcWZrXzFZc3N4RjJ0MWJkd2tzdkpqTFpQNFFSM3VXd3dyektwSHJaaF9BaXI5ZDY4NTNXODhLV0prdHMzTTlmYU1QUjlSZkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 05:01:00 GMT",
-   "summary": "How Healey's first UK budget could ripple through markets &nbsp;&nbsp; Reuters",
+   "title": "CoreWeave stock, bond set for weekly plunge as rate-hike fears hit AI bet",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2NPeFhDRXRadVpwTmIwYlN0MlBfU2tLdWJfcHRKRHFvU3NuXzY1WW5RVEgyZThFbmdVajVEZnpQUklNbjFlbmRDcUVQNTZJWDJOZ253eHVHeGlNMkk0Vm9VQk1xZGVJNEs0cFV2WUxTei1FNW5oNGZOZXBxWWhZcDh2T25EQl9OUDYtM0dEdEFFa1ZkZ2hHcGtveVRKeEFrd0tDeHB4eXEzeEFxLUw1VWo1RHQ2WUs0ODBITVJvZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 16:57:25 GMT",
+   "summary": "CoreWeave stock, bond set for weekly plunge as rate-hike fears hit AI bet &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Stocks edge lower as dollar heads for weekly loss",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUpLRUNwWEpRNVpNVWJPOWQyQXdKRjkzdTU5RjFiOUxpUFZGU1ZBa1VaS3ctN0xlc0lSMkptbUVMRlprcFFtZ3B6Z2ZFTG5XX2FBUHBoSk4xRTdiQm1ucERORXE4ZzNFZ09ySlpvUDlzb0tGUjFQZ3c0UmotdEstMEZCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 02:52:00 GMT",
+   "summary": "Stocks edge lower as dollar heads for weekly loss &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -436,10 +444,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Hedge funds' role comes into focus following European bonds turmoil",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXExeXEzNDNZOWtnSFNGYU5jLUJKLUJPc2lMNGZQRWE4c2VSOW8zVEV0eGFEOFJIMnFhM3YxMVdhZk1USG0zNGtWdEE3cXZJTEtJamJSY2pOMVU0clcybWljQjlsNnM0NGhDRkUwMlhCbnRQWGljZEZ5ZkE4eEptUHBGRkRfc2ZScG9FOVZJS0dsMjEzX1BqTzFJSFV4R2NmbXU5Z3BCdnREQ0ZyQld5cnVwVFZmZzRhakE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 05:02:00 GMT",
-   "summary": "Hedge funds' role comes into focus following European bonds turmoil &nbsp;&nbsp; Reuters",
+   "title": "COMMENTARY: Morning Bid: Tipping Point",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmQ1VmY0di1vdFVoNjVMMDZtQWFZRjZfS0R0VXZMOGpFazkxc0lKcVB4U043ZWVDQnh6ZDJvQUZBS09KY3JJaVVYeUFHU01fNmtUcjI0Nks4NkNLbm1TbHN0ZllsZDduQmU5cWpVQjlUQUxRMnNvRXZnZUNFQjhMMmFRVjFieHAzaFZFbkMzNzdfQmdrUjg0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 13:20:16 GMT",
+   "summary": "COMMENTARY: Morning Bid: Tipping Point &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -452,18 +460,26 @@
   },
   {
    "source": "reuters-markets",
-   "title": "MSCI freezes certain Turkey index changes, warns of potential market downgrade",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUZEVFFWaFBnQ2FpV24tTElBdW51dWh2cVNhS3I3NTNJcjFYa1dYNjRSOHlSR0phVDFZeldDb3dLLVdlOGdRbW1rWWt5TjVvZkNnN1R2MUE0LTRuU2VUZDljZlBaUmpwMml4MTNJam5VQ3FnSEEzN0NCQVNuTUFvbjdLVF9nRHdhUGMxd0hGak9DTHN4S3ZzS09fLUh2U1Rsd2t0T3A1OUszN1FlLWRmQWVDbkFfM0s3b19WOXdubmExclE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 01:53:00 GMT",
-   "summary": "MSCI freezes certain Turkey index changes, warns of potential market downgrade &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Morning Bid: Calm after CoreWeave shock, but for how long?",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44b1lGM1JLZENYQ1N1OEhhcmloOHVTUzl0X0JYZm5FZmFtLXhFTDVLWThlQzVxVnJRcjZkUDBVT20zYlJxRGRwVVBWQzRCVHNfbWt6QTFSWWtneFdWQ2I2LUxPZC15Tk95Z3d2dlBaXzlkX0dOdE44Z0RPdDQ2ZnM?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 04:31:00 GMT",
    "summary": "Morning Bid: Calm after CoreWeave shock, but for how long? &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Fed's Warsh sees US resilience, mum on rate-path view",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 03:57:00 GMT",
+   "summary": "Fed's Warsh sees US resilience, mum on rate-path view &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Starlink disruptions are being felt on the front lines of Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 17:15:19 GMT",
+   "summary": "Starlink disruptions are being felt on the front lines of Ukraine &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -472,6 +488,22 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 12:05:53 GMT",
    "summary": "Beijing seeks tighter grip on AI exports amid US rivalry &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Alphabet's Waymo plans first Canada robotaxi service in Toronto in 2028",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUVFbmxpclVROHZTbFhvQTBNNnIyZVJjVzc4MXBvNWFSQ1ZydU1Da1B1czVLbUJOZGg4MmJWVzNudDgzQ01BMm83NjBwbUludm9yc2RBMkM0SEppZ1lxaDUxVkcyY1FoZ1NyOF9vd1ZkU18xcXBxb1c3VGJpbzhDSW5MdjVkeW84OGN4Vmd2Q1JBQkVlU1F5TF9RSlRjNzRUTUIxeDR3WHZXQnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 12:04:45 GMT",
+   "summary": "Alphabet's Waymo plans first Canada robotaxi service in Toronto in 2028 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Germany to unveil Nvidia AI agreement next week, government sources say",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFhxVEl6YXFpRm9YZDJ5akl5YjBZQ0lnSzNrZ2xvRXVpQ1JvR2NybkMzRk4zdnRjQzNHNGFpZk0yZzBPM25wbDdYdWZuVGRSanNfdzM2STZxQ2hNbndENWtBd1lQemVEcVljSUJCbVU0ZEhBZVdKN2hQRkg4WUpVSjFIdlg2TlkwLXdDUzR1ZG04Z1VzVkloSHpvb2p4Z0JUeDg1MUZYd2NuQzlvWk43emh3Y184RDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 11:06:50 GMT",
+   "summary": "Germany to unveil Nvidia AI agreement next week, government sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,14 +532,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Why CoreWeave's troubles are rattling the AI boom",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX1N4UnFOUjBxRjJ6TGVSaG9QaWtYRkJlVWJmcXprZ2VTY29DLWRXeHJGSFdvRC1lMENRUmlpZGRUZ3NXWm5pNkJZbWZOcE84VVRTOHpGS29QbC1QQUtFUW45NmIwVmQ5NHpmOW5OREFEVW9ocGxGcC1wdmMzaUU2V3poemZRekxlSmRmTE85cngzSnFPeWV5bUxxS2VOd2hIZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 19:24:00 GMT",
-   "summary": "Why CoreWeave's troubles are rattling the AI boom &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "CNN, Axios and other publishers join Google's AI news program",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnM2QWR6ZVFBcTRKb1MxbGgwXzBYMkt5aldWd2Q0UHRBbklWZTBYQVdEeFE4QnRDY09rR1hnX1BSam41NVRRS0d6dTdaSkU3c3NsbFMyYS1sN1pqRnA1dl94bXRxdk01WTJaNnFWVVJzRk5xUjdTRDBocnlzbkVxZWdNaUwxRExrU1RrVkd3ZXJpM3djTVFBSGZZRE0wRWVKaHpGRER4d2hXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 15 Oct 2026 19:31:47 GMT",
@@ -516,26 +540,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Amazon launches two new portable AI listening devices",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0c4SGNGOWZtd0Y4cUZFbDlZdXdZbmZEMmZrVGNpbU1BdkNWUUtlTjBXRGN4dlVDaWJrUENJcEh0VzVEY09oNHVJbDBkQ2FRV1hqeTFuc3dZaURjTHNuQ2RmS25xNm9KVS1OaXFja2kwSFZPQVV2MG9XNmdKOTBBSERzUVNJYUUxUXNOYTYxSkpNU3VkamZpT21lTlBmeFJ3QVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 19:15:34 GMT",
-   "summary": "Amazon launches two new portable AI listening devices &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "US chip stocks set to wipe out $2 trillion after latest selloff",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 15 Oct 2026 14:02:41 GMT",
    "summary": "US chip stocks set to wipe out $2 trillion after latest selloff &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "CoreWeave's slump spotlights growing burden of debt behind AI boom",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 19:57:10 GMT",
-   "summary": "CoreWeave's slump spotlights growing burden of debt behind AI boom &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
