@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T22:24:04Z",
+ "generated_at": "2026-10-17T02:29:34Z",
  "count": 67,
  "items": [
   {
@@ -84,9 +84,17 @@
   },
   {
    "source": "nyt-business",
-   "title": "Netflix Scrambles to Rewrite Its Narrative With Layoffs and a Sudden Firing",
+   "title": "M.L.B. Playoff Ads With Sydney Sweeney and Megan Fox Draw Backlash",
+   "url": "https://www.nytimes.com/2026/10/16/business/media/mlb-playoffs-commercials-sydney-sweeney-novig.html",
+   "published": "Sat, 17 Oct 2026 00:45:33 +0000",
+   "summary": "Commercials with Sydney Sweeney promoting a gambling platform and Megan Fox endorsing male enhancement have rankled fans, and even athletes. Who is in charge?",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing",
    "url": "https://www.nytimes.com/2026/10/16/business/media/netflix-layoffs-bela-bajaria.html",
-   "published": "Fri, 16 Oct 2026 22:17:29 +0000",
+   "published": "Fri, 16 Oct 2026 23:22:21 +0000",
    "summary": "Despite strong revenues and profits, the streaming service cut 1,000 jobs and jettisoned its chief content officer. Drops in the stock price and viewer engagement are to blame.",
    "full_text": ""
   },
@@ -118,7 +126,7 @@
    "source": "nyt-business",
    "title": "Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes",
    "url": "https://www.nytimes.com/2026/10/16/business/indonesia-stocks-economy.html",
-   "published": "Fri, 16 Oct 2026 18:18:14 +0000",
+   "published": "Fri, 16 Oct 2026 18:18:15 +0000",
    "summary": "The potential downgrade by MSCI, an influential index provider, adds to a deepening crisis of investor confidence in the economic policies of President Prabowo Subianto.",
    "full_text": ""
   },
@@ -155,18 +163,10 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Is Longevity Medicine Going Mainstream?",
-   "url": "https://www.nytimes.com/2026/10/16/business/longevity-medicine-mainstream.html",
-   "published": "Fri, 16 Oct 2026 09:00:20 +0000",
-   "summary": "As major health systems open their own programs, longevity medicine is gaining credibility and becoming more accessible.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Meta Withdraws $25 Million from Its Midterms Push",
    "url": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
-   "published": "Fri, 16 Oct 2026 20:58:40 +0000",
+   "published": "Fri, 16 Oct 2026 20:58:41 +0000",
    "summary": "The company outlined a $65 million budget last year when it embarked on an effort to elect state politicians friendly to the A.I. industry.",
    "full_text": ""
   },
@@ -252,10 +252,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "World Bank's Banga sets goal of quintupling critical minerals financing in five years",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMURDQ2RXU1hVUVRzWnlhdG1vclRwaEFnWlRvVGY2bFJ0SFhfWDNOR0ktX28zRC1mUjFGbklkRThPckpQa0FfUXNkZHZJRm9hTnB0YmFNMzJIdVNOa3dtMlBUbGVSbFRscFVjYmx6TS0xRHA0WFk2RVJPRkdpVnl5MDNsUFlfUmU0ZDg4RmpoaVJZVVJBT29FdGtPZFF5TTFGNnlXOXpqUExLTU9tV2RfY1M5Q3hrRHd2a01JNDBUemNiNC1iVTBScXItYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 02:56:00 GMT",
-   "summary": "World Bank's Banga sets goal of quintupling critical minerals financing in five years &nbsp;&nbsp; Reuters",
+   "title": "Bessent calls for World Bank reforms, including upstream oil and gas financing",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmVBc2lZeXZJNlZpZ3VMVkdXTENJanEzampXOWtLcmRpVkFoOFFKTktkTWI2akVZTG9wV1UyY1ZreW02TzBDTG5LWUxiOUl4bnl0TW5JRG52X21aT3A1TkdyRV9ObEVBZWl3TmxKODB5aUVQLXFCa0NBY1VCQ2pZUEtDZUpiaDYxUjhoanZPQ0FCam8xcmJuVS13b3lQLXBPb2dSb044ZTlvYnF6X293STlMOXJBa21k?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 15 Oct 2026 05:01:00 GMT",
+   "summary": "Bessent calls for World Bank reforms, including upstream oil and gas financing &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,10 +268,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Bessent calls for World Bank reforms, including upstream oil and gas financing",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmVBc2lZeXZJNlZpZ3VMVkdXTENJanEzampXOWtLcmRpVkFoOFFKTktkTWI2akVZTG9wV1UyY1ZreW02TzBDTG5LWUxiOUl4bnl0TW5JRG52X21aT3A1TkdyRV9ObEVBZWl3TmxKODB5aUVQLXFCa0NBY1VCQ2pZUEtDZUpiaDYxUjhoanZPQ0FCam8xcmJuVS13b3lQLXBPb2dSb044ZTlvYnF6X293STlMOXJBa21k?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 05:01:00 GMT",
-   "summary": "Bessent calls for World Bank reforms, including upstream oil and gas financing &nbsp;&nbsp; Reuters",
+   "title": "World Bank's Banga sets goal of quintupling critical minerals financing in five years",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMURDQ2RXU1hVUVRzWnlhdG1vclRwaEFnWlRvVGY2bFJ0SFhfWDNOR0ktX28zRC1mUjFGbklkRThPckpQa0FfUXNkZHZJRm9hTnB0YmFNMzJIdVNOa3dtMlBUbGVSbFRscFVjYmx6TS0xRHA0WFk2RVJPRkdpVnl5MDNsUFlfUmU0ZDg4RmpoaVJZVVJBT29FdGtPZFF5TTFGNnlXOXpqUExLTU9tV2RfY1M5Q3hrRHd2a01JNDBUemNiNC1iVTBScXItYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 02:56:00 GMT",
+   "summary": "World Bank's Banga sets goal of quintupling critical minerals financing in five years &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Grynspan holds lead for next UN chief as race enters decisive stage",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDBseWc1NmlhcXdoLUUwQ2NTYzVOZkVGTXdQXzB0alBKeFpkX285MXZxWUp3VVMzOElaU2hZcTBXRVMwd29NTlpfUXctMWMzdDlWZXV2SVNhM0M1RUpIa3VaMlRnZ0VudTNYZm1hVC1MN211RWx3V2hQVUZUM1hQVnhsTmYwMFI2OVpXMnJBVGl5MkkzeDExTVpqOUpxQ3dXUFFlNFdYV3FBbVdyUUFqNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 22:28:54 GMT",
+   "summary": "Grynspan holds lead for next UN chief as race enters decisive stage &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -308,26 +316,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Belgian police search homes of relatives of Congo's Tshisekedi",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLWFoUlV1T1VVc0hJcTRjM2FYQXM5dXh4LS1SV3o1RkRwMDdCSGkzMTFITHdNZ0hhdG9remo2SVNCN2Y2WTZIRWZ5blFEc2FVRkR6VGZubEdYS2MyMEVlV3JoeGMtV2JUN2t3YnJYd3Y0YXdoYkhpeURGRlZBMlRtWE5CMk5acWZsWkVVcnFEc0NJajhLTTBrdVhHTmxXcU85YU5YU0wzRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 10:50:58 GMT",
-   "summary": "Belgian police search homes of relatives of Congo's Tshisekedi &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "India says first phase of US trade deal nearly done, insists on edge over rivals",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGlKY3pLbkFHTmp2cnFiNnRlWWRyRWcxeU5HUnRrU3dWLVFIOFhHeUNiSTBoVmpQenB2a3FIU004b0dGelpMUzJoNzR4QkdLdTVLRF9OdHRqdDlxSDZ4Tnd2bWZIWkl0SUtXajdtdjFWYmNHcmZneFFwN05LdWNMZWNMdUVjNVZnSG9pQUNJYXd1dU1vNjhrc3RR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 11:48:31 GMT",
-   "summary": "India says first phase of US trade deal nearly done, insists on edge over rivals &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "UK competition regulator targets Microsoft's business software grip",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmFGbmFMbzg4cDVFbFJUN1E3bUlGb0VBaGxBMVFMRG11eE13dlM0Y2lhZmJiSjg4NGg3cHY2REV4MnM5ZkZKNWJjQmJ2RnZhSzk3MEhXbVhRSDRNWWlabU1IV3Z2OXJNYjZ2dWd0emNIbi02ejBiR25iWEs5UkJmcTh5WnlaNEMwaU9GWGdWN2Vrcm1aMmMtVUJ4NTJ6RE80MG1DazZJQ0RtbzdWT2htQVhKbHFydlhxQm1Z?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 14:58:38 GMT",
-   "summary": "UK competition regulator targets Microsoft's business software grip &nbsp;&nbsp; Reuters",
+   "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 18:59:17 GMT",
+   "summary": "Beijing seeks tighter grip on AI exports amid US rivalry &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,18 +332,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "SpaceX's spectrum deal still leaves it far from rivaling telecom giants",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHV3bWRnU1U4MHdadDJPdEtta3FXWV8zM20xbFpWNVlaVkM4VFNoRy1GQTNUOTRpTTI5MWxvdGo5S0ZvaDdJb3E1QWtzUlJETmQ4X0JMcjIxU3JRUVFFWU5RcVdZRXRHZ090Z3R0UEVYbjEySHBqRWRBQnJWenlGd2NCTEl4M0syMGZpVURMOUE1V3BlbHg3Rk05WjVndjAxbkxXbUR6T0hqWC1Ld2o0LUxSYm0wVjM2LVlnWDViOTdXQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 15:46:59 GMT",
-   "summary": "SpaceX's spectrum deal still leaves it far from rivaling telecom giants &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWRWUHVNUlFoLTN1X1lyWWoyN05FWGJOV3JFdDNWYUNvWWl3WTRKYVhpWjZaZmUteWJXNVU5d0Q4MVFHNzE0azRMc0p6Vk1PYnlKUzVtazBYRkNKTS1XRzNlSjB3SVFFWXV3T3psSFlYak8xVElnZU1SRURVT0N2WnZld1FrUDdNcl9Kd2dIM0F0Y3BYS0FRQl9CNHgtV0Nib2I4VDNibTdmY2VlSWpRRlA1dHJjOFA1VE5XQThTOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 15:15:44 GMT",
-   "summary": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs &nbsp;&nbsp; Reuters",
+   "title": "Ryazan refinery halted processing at one primary unit after drone attacks, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWF4d1Z5QlhpMUR3Y0JvLWNnVElGVUU2Vnk0ZHVvcUFLZzFFcWhEb184TmZVSVdzQjdoM1BuRS0zVWNtZ2owWmRPTklGNm4yOXN3SzBDanAzemJzVTVGRXBXYUtsanBLVGRqM3kwTndodXk0VkxJbUw5blhzRVNsNmk1SzBVc3YwTkpuLW5IMS1GVlJZcW05SmE3RDFYdThhVGpuWC1RSXVuNno3VTJYZkkwdWUyODVZWHJjQVdyLTlyeFlqU3l2d1Vn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 15:38:39 GMT",
+   "summary": "Ryazan refinery halted processing at one primary unit after drone attacks, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,6 +348,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "EXCLUSIVE: Naftogaz chief says Ukraine's gas reserves hit six-year high ahead of winter",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON29wRXNnSDhoWUxFd0FpaklIeG1uOTI2VkdUdzZKU2NuemNyZGoyZFFEcl9OT3o1aUx5V1lwNEtUUDZtT0Y5MFlmUmRjVFhXTWk5VVM0clR6RjhqZFJvQlN0YVhfNnB0OGU4R0VJLXBPTXlLMFo3eTNfd0x5bU5tMUFHUTdKRkRESnhSVnk0YUR1azlnWGtXcjE1NnB5R0xzbFZVaVVfVU1MM3VtYW9BS3VLYVVLQU9NYWNRQ1RSTkZKZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 11:26:01 GMT",
+   "summary": "EXCLUSIVE: Naftogaz chief says Ukraine's gas reserves hit six-year high ahead of winter &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "US import prices increase; post largest annual gain in more than four years",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXBPbnpTYVoxLUJfaDFHQjdrTFJXblFfN0FRVENPaEcxd0FfZWZJYk5kQ2tmUzRiYWhaSXdlUG9tVjgzVmRXZGlBaW1MQlZtRkFkQ0dxWkktQTNPdHM2anpjNGVMVnlWYUVuODlfVlZPbHp0T0pDcTNONU1RTDUyZDlIbkZUbnJNcjctWkdZQzZGeUpQOGkzcHY2R0RqRGM1?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 16:08:45 GMT",
@@ -372,10 +364,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Ryazan refinery halted processing at one primary unit after drone attacks, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWF4d1Z5QlhpMUR3Y0JvLWNnVElGVUU2Vnk0ZHVvcUFLZzFFcWhEb184TmZVSVdzQjdoM1BuRS0zVWNtZ2owWmRPTklGNm4yOXN3SzBDanAzemJzVTVGRXBXYUtsanBLVGRqM3kwTndodXk0VkxJbUw5blhzRVNsNmk1SzBVc3YwTkpuLW5IMS1GVlJZcW05SmE3RDFYdThhVGpuWC1RSXVuNno3VTJYZkkwdWUyODVZWHJjQVdyLTlyeFlqU3l2d1Vn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 15:38:39 GMT",
-   "summary": "Ryazan refinery halted processing at one primary unit after drone attacks, sources say &nbsp;&nbsp; Reuters",
+   "title": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWRWUHVNUlFoLTN1X1lyWWoyN05FWGJOV3JFdDNWYUNvWWl3WTRKYVhpWjZaZmUteWJXNVU5d0Q4MVFHNzE0azRMc0p6Vk1PYnlKUzVtazBYRkNKTS1XRzNlSjB3SVFFWXV3T3psSFlYak8xVElnZU1SRURVT0N2WnZld1FrUDdNcl9Kd2dIM0F0Y3BYS0FRQl9CNHgtV0Nib2I4VDNibTdmY2VlSWpRRlA1dHJjOFA1VE5XQThTOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 15:15:44 GMT",
+   "summary": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "UK competition regulator targets Microsoft's business software grip",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmFGbmFMbzg4cDVFbFJUN1E3bUlGb0VBaGxBMVFMRG11eE13dlM0Y2lhZmJiSjg4NGg3cHY2REV4MnM5ZkZKNWJjQmJ2RnZhSzk3MEhXbVhRSDRNWWlabU1IV3Z2OXJNYjZ2dWd0emNIbi02ejBiR25iWEs5UkJmcTh5WnlaNEMwaU9GWGdWN2Vrcm1aMmMtVUJ4NTJ6RE80MG1DazZJQ0RtbzdWT2htQVhKbHFydlhxQm1Z?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 14:58:38 GMT",
+   "summary": "UK competition regulator targets Microsoft's business software grip &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,26 +388,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Canadian steelmakers offset some US tariff pain with domestic demand",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMldhLXNyRTVtNGxxVHN2Y2xISWVPeDRjXzlnRHBWQ2pNTFlVMktheFFGMkc4MnNpeHpMVllwVVJMUFVrZHRIOHpXMVE1M2RYN0p6S2tuQlJOdE1GMTctbmdibUVDaV93YWxaa01NbHpaZ2UxSVhGbU50YWRFN0xneERkdF84clprZWIwYUVaYU9nZmFHb1YzODI1cGRxTFhncS1GOW5oR0RtRUw1NGlQSGo0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 10:24:55 GMT",
-   "summary": "Canadian steelmakers offset some US tariff pain with domestic demand &nbsp;&nbsp; Reuters",
+   "title": "US arms firm Anduril could make interceptors in Europe, executive says",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckc3Wlc2T3lRZTMtek04aTFTMk1HUnNtbWZwc3RNc1FleWtMSzFEUmxCUkJOdW5XS3Q2Rlg5b3hMSWhYb1ZGZ2UwSWVSV0I2OTllMlJ3RXR2Rkd0WGQ0NjRPeVd5WVBOQWIzRW4tQk5va3FFME5zSTc2X1RQMlpENkRyZVNkc2RiZGltNEFCYzNONnFaU1hGZjdycS03S0w4dWZUdTdDOFBIWDJyVXVhbldNcWV3X3ljNXJEVFZVWlhITmJ0UHNhcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 19:00:28 GMT",
+   "summary": "US arms firm Anduril could make interceptors in Europe, executive says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "US manufacturing output rises in September",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVYxNGI1Sk9lWk02OVNrTnNyczRlbF9WTFJUa3lLUi1mLThHVGp3Y2RQUWtNcGVnWHRqcGVZSzdzOUp6c3psQy1jS3JhM3h2RnVlTEkzcS1wZGR2aThrd1IyaDF0MnJKRXh3TjYtSmVFem5WMGNfQ1ExekdTLXdTQnlkNEhrZzFfQXNoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 14:13:44 GMT",
-   "summary": "US manufacturing output rises in September &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFVPNGdFX1B5eHM3eFl1WG1sV0FWUVlqcDVEMFRURDYzOWdXYl9OVTZ3TC1YT2VjUlRIOEFEVjhPbk5GaG1HZGExcm1zbExBa2VSNlpoakxpdjJ2V3NrWlZkaDg3VlhHZjgwN2lnNEgyU2RXbnBSWnpFaU9FWktOaThkb3hVQjNwSm83YnRUanhoWTFydUJ5dUEtdjFEaG85ekhISHI3VEw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 09:26:24 GMT",
-   "summary": "Stablecoin issuer Circle to push into 40 new markets, CEO says &nbsp;&nbsp; Reuters",
+   "title": "Canadian steelmakers offset some US tariff pain with domestic demand",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMldhLXNyRTVtNGxxVHN2Y2xISWVPeDRjXzlnRHBWQ2pNTFlVMktheFFGMkc4MnNpeHpMVllwVVJMUFVrZHRIOHpXMVE1M2RYN0p6S2tuQlJOdE1GMTctbmdibUVDaV93YWxaa01NbHpaZ2UxSVhGbU50YWRFN0xneERkdF84clprZWIwYUVaYU9nZmFHb1YzODI1cGRxTFhncS1GOW5oR0RtRUw1NGlQSGo0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 10:24:55 GMT",
+   "summary": "Canadian steelmakers offset some US tariff pain with domestic demand &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -420,10 +412,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh",
+   "title": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 20:33:09 GMT",
-   "summary": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh &nbsp;&nbsp; Reuters",
+   "published": "Fri, 16 Oct 2026 11:01:00 GMT",
+   "summary": "Wall Street tumbles as worries about AI trade and high oil prices weigh &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,26 +436,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW5fbkZTYm9qdzQzT19nUjIyTVZDN1hhOEhkRmI5Rm9PQ3RKUk10Z00wUWZ3a0JFZlVyQV9NQlFSVF9jZU5MTXBPQXBwbFE4UlJEa3lGTVpELVktUWJVRHB5MHRFMWNHVEJHMWc3LXFaYXd3LVNtbW9ycDJydGN2Q3pOWWk1bTRsaWV5c0RvLTZDM3JhdUVSWHc5U01CLU9GTHlObjNqRXNibU5MbUxndFFBWV9jR0tyU0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 08:19:55 GMT",
-   "summary": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Indonesian stocks sink most since 1998 on MSCI downgrade warning",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGZDclBEV0w3ZFJ3bE8tckwwTE1YTXBXTG1GdGNfN2Vkb1BsaXFoZVo1QUF4YUhzanBOM05HNmR6X1gyalBGR05HQk5NM1VhY0VGbUhqb0dIN2txQklscWtMaVd3MVE3QTdISTRVbDZXdEpXa25EUHpZejdrZ1ozdFlOOTBBT2VfT3VFcmh5UmpjRWFoelZTUEZKOTl5UEhrc1dpWVQ3ZUpMd1NmVE8ybA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 02:40:00 GMT",
    "summary": "Indonesian stocks sink most since 1998 on MSCI downgrade warning &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Morning Bid: Calm after CoreWeave shock, but for how long?",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44b1lGM1JLZENYQ1N1OEhhcmloOHVTUzl0X0JYZm5FZmFtLXhFTDVLWThlQzVxVnJRcjZkUDBVT20zYlJxRGRwVVBWQzRCVHNfbWt6QTFSWWtneFdWQ2I2LUxPZC15Tk95Z3d2dlBaXzlkX0dOdE44Z0RPdDQ2ZnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 04:31:00 GMT",
-   "summary": "Morning Bid: Calm after CoreWeave shock, but for how long? &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -476,18 +452,58 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Indonesia faces rare MSCI exclusion that could cut it off from global capital",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGk2ZGtxRDZlTHR0c1J0V1lpbDA5Y28xT1A3S0xmcFY5SFBueGlIaU9nOVhPOHM2b0pBNktvOVNZUnk5ck9jbElSbmZRS1R5dkxiSTBVenVvRFR3Y29TdzhIZllmdFdDZm4zZmpvd0RaOE1HLWJsOFEzOXRSelZPeG5DV3RoZ3hvNmhCc25UZ1NCQzBiRVBUeG94YzlsTVU3MmJoM0syRWVvbE8yM1dVamVlMXZVWW1mX25UYl92VmZNeS1Tc2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 16:12:04 GMT",
-   "summary": "Indonesia faces rare MSCI exclusion that could cut it off from global capital &nbsp;&nbsp; Reuters",
+   "title": "Morning Bid: Calm after CoreWeave shock, but for how long?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44b1lGM1JLZENYQ1N1OEhhcmloOHVTUzl0X0JYZm5FZmFtLXhFTDVLWThlQzVxVnJRcjZkUDBVT20zYlJxRGRwVVBWQzRCVHNfbWt6QTFSWWtneFdWQ2I2LUxPZC15Tk95Z3d2dlBaXzlkX0dOdE44Z0RPdDQ2ZnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 04:31:00 GMT",
+   "summary": "Morning Bid: Calm after CoreWeave shock, but for how long? &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFVPNGdFX1B5eHM3eFl1WG1sV0FWUVlqcDVEMFRURDYzOWdXYl9OVTZ3TC1YT2VjUlRIOEFEVjhPbk5GaG1HZGExcm1zbExBa2VSNlpoakxpdjJ2V3NrWlZkaDg3VlhHZjgwN2lnNEgyU2RXbnBSWnpFaU9FWktOaThkb3hVQjNwSm83YnRUanhoWTFydUJ5dUEtdjFEaG85ekhISHI3VEw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 09:26:24 GMT",
+   "summary": "Stablecoin issuer Circle to push into 40 new markets, CEO says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Indonesia gets 'wake-up call' as MSCI prepares to expel it from global indexes",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlg4UjV3N2U0ZUVvYWhOTF9YNEI5c1VCaVd3ZTdCcUl2dFBGUklnZngtVlNhaS1BSFJWUkVqcGluT05jLVNqNll0RWRJQWZOdVRZWnM4TUR2UHJTVGNYbnNOVmgtVWVqcjJWOHdDWTVVME9BVHBiLXBiclQyN3ljTDlfaTdnWDdzcmZTZk1wX2p6b3NXVjJNVE04QU82aGVTQW5xdWEzcm5tNU9OT2JMVVlINA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 15 Oct 2026 21:18:00 GMT",
+   "summary": "Indonesia gets 'wake-up call' as MSCI prepares to expel it from global indexes &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Private credit roundup: CoreWeave's debt stress tests private credit's AI financing boom",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTXFuNmFhVWZ1ekJvUURza2FlWVN5dGlWOWpScUFKQ1pOTlVIMUVnd0FUVndpNHdBVEZ5YW1VYjlUeVk5eU0yZHJVcGN5ZVNCQklJQVd4RWJSZVNYRW5oSXEyeXdyQzR4MkltanN2NjVJRnVfejkwUHVQZHlSb0t6eEtwM2RtUUU0WVg4SFEwUGMxOHVncGFudTBLWFRvTnpmRk5fakFoeXl6OHM5MEZiM2luOWo0S0FKTExibXRxYnduY25OaDZXUkVzWGNKOGxmQWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 14:58:32 GMT",
+   "summary": "Private credit roundup: CoreWeave's debt stress tests private credit's AI financing boom &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 18:59:17 GMT",
-   "summary": "Beijing seeks tighter grip on AI exports amid US rivalry &nbsp;&nbsp; Reuters",
+   "title": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0p1V2xfQXVzaVlPdVhQdWxra2NPSWtJRGZoZ3ZqdHd1Z1NZOVFpQUhxY2RKU2g0VVo3T280MW9rSXhJZW83TTk3M2hXSDFJcWs2LVhoblM5eTdOQV94NVk1b1YwWVBRN2hOcXB2enRBY3haQVpZd2tNZjExZGVWOTlFZDA1VkFINU5Nb1RIZWpISjVpc3pSN0MxWGxkbG9saDVWNmI5cWVVak0tTWNhZXBraGxwTXl4LWF0cUdHMFFOLVI2c3BV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 20:28:08 GMT",
+   "summary": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "SoftBank weighs $18 billion acquisition of Allied Universal, source says",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXdNdHpBa2pKc200dGJ6aDlPYUNpNTlla3ZxM2ZWQzdXNDBxclZxc3pSRlZNelgwSnIzSzdmRVFhdzRVNVhJckNMTjhFOTNsdWlkMWxJSkJRa3huaXd6d3R6cktEODVnUE5aMGMwWEw0ZzRwTTJnX1ZoQ2F5UVhpMUZNNzNLNGNDT2RhdGZnMHZtTHZjcm9PNFk4bldiTjZ4TnJ6SF9zV0owWERWXzgyYmpYLVpFOE9ITG1kanhfOWdfME40Tmh0eTF5cjNfa3AxdFJV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 21:22:20 GMT",
+   "summary": "SoftBank weighs $18 billion acquisition of Allied Universal, source says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "SpaceX's spectrum deal still leaves it far from rivaling telecom giants",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHV3bWRnU1U4MHdadDJPdEtta3FXWV8zM20xbFpWNVlaVkM4VFNoRy1GQTNUOTRpTTI5MWxvdGo5S0ZvaDdJb3E1QWtzUlJETmQ4X0JMcjIxU3JRUVFFWU5RcVdZRXRHZ090Z3R0UEVYbjEySHBqRWRBQnJWenlGd2NCTEl4M0syMGZpVURMOUE1V3BlbHg3Rk05WjVndjAxbkxXbUR6T0hqWC1Ld2o0LUxSYm0wVjM2LVlnWDViOTdXQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 15:46:59 GMT",
+   "summary": "SpaceX's spectrum deal still leaves it far from rivaling telecom giants &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -502,24 +518,8 @@
    "source": "reuters-tech",
    "title": "Rogue AI agents broke into Indian firms' live systems, government says",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 07:04:13 GMT",
+   "published": "Fri, 16 Oct 2026 20:19:26 GMT",
    "summary": "Rogue AI agents broke into Indian firms' live systems, government says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Vehicles from Geely brands to come with Google built-in services outside China",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkdKYUg3TkNueTRZR0NTZ3p1ZTNEUlg4R3QtdFFDOEFwSERqZlRheGtHdERFM2NKekZoYXdUMEJDRnBjRkVJdk5QR2JxNThYWnlPbWZJT0YwNF9Va2JqRzJLNFlDcXFsTTUzd1BNcFZlWWFrb0F3cWxtT0M5Rm85bjdkSnpTUEVhaWx1aFNIUVE4cUQydEtnUm1XalJlcTlCOUN6TkZCVE82OS1BUU9YQTBINk9yaS1helE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 07:51:54 GMT",
-   "summary": "Vehicles from Geely brands to come with Google built-in services outside China &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Germany to unveil Nvidia AI agreement next week, government sources say",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFhxVEl6YXFpRm9YZDJ5akl5YjBZQ0lnSzNrZ2xvRXVpQ1JvR2NybkMzRk4zdnRjQzNHNGFpZk0yZzBPM25wbDdYdWZuVGRSanNfdzM2STZxQ2hNbndENWtBd1lQemVEcVljSUJCbVU0ZEhBZVdKN2hQRkg4WUpVSjFIdlg2TlkwLXdDUzR1ZG04Z1VzVkloSHpvb2p4Z0JUeDg1MUZYd2NuQzlvWk43emh3Y184RDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 11:06:50 GMT",
-   "summary": "Germany to unveil Nvidia AI agreement next week, government sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -532,10 +532,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "CNN, Axios and other publishers join Google's AI news program",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnM2QWR6ZVFBcTRKb1MxbGgwXzBYMkt5aldWd2Q0UHRBbklWZTBYQVdEeFE4QnRDY09rR1hnX1BSam41NVRRS0d6dTdaSkU3c3NsbFMyYS1sN1pqRnA1dl94bXRxdk01WTJaNnFWVVJzRk5xUjdTRDBocnlzbkVxZWdNaUwxRExrU1RrVkd3ZXJpM3djTVFBSGZZRE0wRWVKaHpGRER4d2hXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 19:31:47 GMT",
-   "summary": "CNN, Axios and other publishers join Google's AI news program &nbsp;&nbsp; Reuters",
+   "title": "Germany to unveil Nvidia AI agreement next week, government sources say",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFhxVEl6YXFpRm9YZDJ5akl5YjBZQ0lnSzNrZ2xvRXVpQ1JvR2NybkMzRk4zdnRjQzNHNGFpZk0yZzBPM25wbDdYdWZuVGRSanNfdzM2STZxQ2hNbndENWtBd1lQemVEcVljSUJCbVU0ZEhBZVdKN2hQRkg4WUpVSjFIdlg2TlkwLXdDUzR1ZG04Z1VzVkloSHpvb2p4Z0JUeDg1MUZYd2NuQzlvWk43emh3Y184RDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 11:06:50 GMT",
+   "summary": "Germany to unveil Nvidia AI agreement next week, government sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
