@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T13:25:17Z",
- "count": 67,
+ "generated_at": "2026-10-17T16:47:39Z",
+ "count": 68,
  "items": [
   {
    "source": "nyt-world",
@@ -12,10 +12,18 @@
   },
   {
    "source": "nyt-world",
-   "title": "Vatican Says Pope Leo Will Leave Hospital on Saturday, Days After Lung Surgery",
+   "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
    "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
-   "published": "Sat, 17 Oct 2026 10:03:58 +0000",
+   "published": "Sat, 17 Oct 2026 16:17:00 +0000",
    "summary": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "What to Know About the Violent Protests in Albania",
+   "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+   "published": "Sat, 17 Oct 2026 16:00:58 +0000",
+   "summary": "Student demonstrations over education converged with broader protests against rising living costs and a luxury development linked to Jared Kushner, President Trump’s son-in-law.",
    "full_text": ""
   },
   {
@@ -30,7 +38,7 @@
    "source": "nyt-world",
    "title": "Why Are There Protests in France?",
    "url": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
-   "published": "Sat, 17 Oct 2026 13:13:08 +0000",
+   "published": "Sat, 17 Oct 2026 15:43:31 +0000",
    "summary": "Student demonstrations converged on Saturday with a broader protest movement against rising living costs, heightening a national reckoning.",
    "full_text": ""
   },
@@ -38,7 +46,7 @@
    "source": "nyt-world",
    "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
    "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
-   "published": "Sat, 17 Oct 2026 08:18:15 +0000",
+   "published": "Sat, 17 Oct 2026 13:42:27 +0000",
    "summary": "By announcing his lung condition himself, Leo has been more forthcoming than many popes. But mysteries remain, prompting scrutiny of papal statements for hidden meaning.",
    "full_text": ""
   },
@@ -75,14 +83,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
-   "url": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
-   "published": "Fri, 16 Oct 2026 19:04:56 +0000",
-   "summary": "Recovering from lung cancer surgery, Pope Leo XIV spoke with Vladimir V. Putin to make a plea for Oleshky, where mines and drones have trapped some 2,000 people who are at risk of starvation.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-business",
    "title": "States Are Stepping Up as the New Antitrust Enforcers",
    "url": "https://www.nytimes.com/2026/10/17/business/dealbook/state-antitrust-enforcement.html",
@@ -94,7 +94,7 @@
    "source": "nyt-business",
    "title": "The Reporter Who Exposed Elizabeth Holmes on Nathan Fielder’s Documentary",
    "url": "https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html",
-   "published": "Sat, 17 Oct 2026 09:02:12 +0000",
+   "published": "Sat, 17 Oct 2026 15:22:32 +0000",
    "summary": "Ms. Holmes handed the makers of “You Can See Everything” — and the rest of the world — a microscope with which to observe and dissect her lies.",
    "full_text": ""
   },
@@ -110,7 +110,7 @@
    "source": "nyt-business",
    "title": "Can Cereal Be Healthy? Big Companies Are Trying.",
    "url": "https://www.nytimes.com/2026/10/17/dining/breakfast-cereal-healthy.html",
-   "published": "Sat, 17 Oct 2026 13:15:19 +0000",
+   "published": "Sat, 17 Oct 2026 15:03:41 +0000",
    "summary": "As more Americans turn away from the snap, crackle and sugar, the industry is trying to capitalize on our current obsession with wellness.",
    "full_text": ""
   },
@@ -118,15 +118,15 @@
    "source": "nyt-business",
    "title": "It’s Time to Shop Medicare, and This Year, It’s Extra Important",
    "url": "https://www.nytimes.com/2026/10/17/business/medicare-coverage-retirement.html",
-   "published": "Sat, 17 Oct 2026 09:01:27 +0000",
+   "published": "Sat, 17 Oct 2026 09:01:28 +0000",
    "summary": "Be sure to read your mail this fall — big changes to prescription drug plans and Medicare Advantage provider networks are coming, and could cost you more.",
    "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "Weak Links Start to Show in A.I. Borrowing",
-   "url": "https://www.nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html",
-   "published": "Sat, 17 Oct 2026 09:00:51 +0000",
+   "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
+   "published": "Sat, 17 Oct 2026 09:00:52 +0000",
    "summary": "Debt trouble at CoreWeave, Oracle and SoftBank raises questions about whether there is broader trouble with the data center build-out.",
    "full_text": ""
   },
@@ -244,10 +244,26 @@
   },
   {
    "source": "reuters-world",
+   "title": "Ukraine says Russia's claimed territorial advances are 'an illusion'",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnRmWGFHY2E5VUVuby10c1hDVllKMlRaWTlQWnViTGxiR3ZLYXYzeWQwTmRHMExGMzhUNXdxdE5sWnd0c3RPUUlUekpMd1haZ3V3bE9EbUxLY2MtWVpiN01pdGw5RkNHaGV4THNkYkRlYlE2UF8zRktxelNxeEx0bkIwM0Z6VW1QamhyMnNOUGlsRWw0X21OMUswNG1EcEdxZU1oNWFDMkUtTzdtZjNFVHFNMS0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 17 Oct 2026 12:59:43 GMT",
+   "summary": "Ukraine says Russia's claimed territorial advances are 'an illusion' &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 15 Oct 2026 23:07:00 GMT",
    "summary": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Trump says US may need to strike Iran's Pickaxe Mountain",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 12:54:29 GMT",
+   "summary": "Trump says US may need to strike Iran's Pickaxe Mountain &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,14 +284,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Major development banks step up support for critical minerals value chains",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3h2ZF9YVG81ZVh6OXlpVnhDWEdKMVJGMDZjZGkzM2ZGRml0bHZHdjN3UkFQRGRzWWp0SlA1eks2TnR0LUw4SEpDTE1TR180Z0EwVDhYb0N0U1pBSWpUNHdEVDlYc05LNDF3Rk9OeVBXTDJOMmNmcnpyTUhyeHZ2QXFJZHQwbk9xVlNUMnlxUkV4Q2ZNRnNrRmd0V1JHQU9jOGJTZWlXY1did0d3TUZKMTRlNEhjOGY0WVFpSmpBeHhjNHM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 17 Oct 2026 04:14:00 GMT",
-   "summary": "Major development banks step up support for critical minerals value chains &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "India's RBI has spent half of $140 billion FX capital haul in rupee defence, bankers estimate",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONU5ZY25UM0c0a0FPX0ZNVl8zWGFJRVZ6YzFmNlVuR2JLb3VxMS02bmE0TDY1eW5Ra2swVzlCcnN5b2htdnZhRGNPaTVmN1hkeFE3Nm10RHNndDhORDFtRlpEbDllT2c4Ymp4VGJlY08tOTE4aXM4RTVpZXhFTmFUbHNVT05SSWV4SXlhRXB1dkFWenZJZ0RkelIxU3V3UHoyOXctd1FVMHdjLVZUc3FieXM0bUlXcXVma0lMRkhJeGw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 15 Oct 2026 08:39:43 GMT",
@@ -284,10 +292,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Trump says US may need to strike Iran's Pickaxe Mountain",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 12:54:29 GMT",
-   "summary": "Trump says US may need to strike Iran's Pickaxe Mountain &nbsp;&nbsp; Reuters",
+   "title": "US annual budget gap hits nearly $2 trillion, largest in 5 years",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWlhaU90MklTU2wtZDJ1OC1wcVZIeDF5Y3FGRGsyam90X1VCNF9NcGRSUFNwTG1PQ21fZXZndjN3WXM4UG9LSW82OW1xLVQ0Rng3ODZLcjdwRWZtYVEzTm5oYjdlZUZhMXVmVUhubUhuWVJrMzVndXdUN29sQ2h1SHRKMnF0UkdXQ2dkWXppOU50bDV2WXhLM0tHZjk3MGtiTm4xQWNkc2FpU0dXOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 18:53:40 GMT",
+   "summary": "US annual budget gap hits nearly $2 trillion, largest in 5 years &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,10 +308,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 17 Oct 2026 11:39:54 GMT",
-   "summary": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers &nbsp;&nbsp; Reuters",
+   "title": "Major development banks step up support for critical minerals value chains",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3h2ZF9YVG81ZVh6OXlpVnhDWEdKMVJGMDZjZGkzM2ZGRml0bHZHdjN3UkFQRGRzWWp0SlA1eks2TnR0LUw4SEpDTE1TR180Z0EwVDhYb0N0U1pBSWpUNHdEVDlYc05LNDF3Rk9OeVBXTDJOMmNmcnpyTUhyeHZ2QXFJZHQwbk9xVlNUMnlxUkV4Q2ZNRnNrRmd0V1JHQU9jOGJTZWlXY1did0d3TUZKMTRlNEhjOGY0WVFpSmpBeHhjNHM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 17 Oct 2026 04:14:00 GMT",
+   "summary": "Major development banks step up support for critical minerals value chains &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -312,14 +320,6 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 18:59:17 GMT",
    "summary": "Beijing seeks tighter grip on AI exports amid US rivalry &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "IMF chief says AI risks may exceed opportunities without safeguards and ethical framework",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2IzOWJIRFRrNjFuc3M5M1RRQUNUS1dQcGVaSVhPa2lZVzd2a0JKamxsTFR4dU5QMThydUVyTks4bXhjM29fOE1oVWltNkVKcnk3ZFZEZmlmWXl5UlZDZXRfSmRfRTltdGU5dGdUbF9hSEI1Qi02R05ScVNvZVJ0V0xvelkxTmFsbXVvM1VjNWRCQU5FZUJXbnFQSUgtYlpxclUtbkV3ejNiVGs2V2pQOS1LNTN5TzZVb00xbGlBVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 09:30:22 GMT",
-   "summary": "IMF chief says AI risks may exceed opportunities without safeguards and ethical framework &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -342,7 +342,7 @@
    "source": "reuters-business",
    "title": "Russia takes over more EU companies' assets over Ukraine support",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDMtenFMRWlxMERtR0Q4QVFNUUFtXzBqM1p3U1VSQ256Vkxod1o2Q09kSDZLamxiWUtIanlPM25KOS13eWxCMm00REhXNWVhbjlYUUxHTjB0MHZKVUpXNlBCNDduQnI1czdUR05jMzdibWVSMGlFMmlxOHdTdnB3WXlnVkh3ZGE2T2ZWdl9Jd3lGYi1scjFULUU5S29jMG15ZkZhVE1uQ3pWYWswQWwtLWFDdWwtU010ZTBJUzJZNGR4Qm1TVFBwUlJ3bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 11:43:36 GMT",
+   "published": "Fri, 16 Oct 2026 05:46:00 GMT",
    "summary": "Russia takes over more EU companies' assets over Ukraine support &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -364,18 +364,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Supertanker rates fall from record highs",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkk0WDVQcnY0THRwaTVSenJQTEQ0U1VuVHdEY2xKTl9CdEw2NjlFN0FvTnBGbldlREpWRGZ6YV9kWnRjNjVuTlJqTWVBR0U3VXAwbXgwRjlSY1pfSVd3SjRKYU5KMVJwVm56blVQMnFFbV9EejlRNlZuSWo2OGd1TVl4ZlVwOXlvVGttb0ZLVkk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 14:25:41 GMT",
-   "summary": "Supertanker rates fall from record highs &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Chinese online retailer Temu agrees to data privacy curbs to settle Texas lawsuit",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUURFUXU2ZzFtZmdDWGE1X0otUGFGeEFTc0RVbFJDaExxTlltMnlqUVhnbmxVSjhqeDNyZEFMcnpodkJoYXpENk5pLTNpZUFGb2RXUEN0RUl3RDduTC1peE94aUNTT0dCRllVTks4cDM0ZDd1bHV5d1Bvb1V6ZE80dFowNFJyb09Bd19haVRUcGRQLUtwdlM4ekVfcXJlaWNublYwQk1mSUhUNlItMUtHNmZUSllWdVBTUTRfTmp0XzBVcUlET0lxMzlENXlxZjVs?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 15:48:00 GMT",
    "summary": "Chinese online retailer Temu agrees to data privacy curbs to settle Texas lawsuit &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Supertanker rates fall from record highs",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkk0WDVQcnY0THRwaTVSenJQTEQ0U1VuVHdEY2xKTl9CdEw2NjlFN0FvTnBGbldlREpWRGZ6YV9kWnRjNjVuTlJqTWVBR0U3VXAwbXgwRjlSY1pfSVd3SjRKYU5KMVJwVm56blVQMnFFbV9EejlRNlZuSWo2OGd1TVl4ZlVwOXlvVGttb0ZLVkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 14:25:41 GMT",
+   "summary": "Supertanker rates fall from record highs &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,18 +388,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWRWUHVNUlFoLTN1X1lyWWoyN05FWGJOV3JFdDNWYUNvWWl3WTRKYVhpWjZaZmUteWJXNVU5d0Q4MVFHNzE0azRMc0p6Vk1PYnlKUzVtazBYRkNKTS1XRzNlSjB3SVFFWXV3T3psSFlYak8xVElnZU1SRURVT0N2WnZld1FrUDdNcl9Kd2dIM0F0Y3BYS0FRQl9CNHgtV0Nib2I4VDNibTdmY2VlSWpRRlA1dHJjOFA1VE5XQThTOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 15:15:44 GMT",
-   "summary": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Striking unions at Antofagasta's Centinela copper mine reach preliminary deal, ending strike",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ0FwZktMaHJHVlo2Q0J3bUpPWHZfMFBHWWRQWTJSLTRIcktQdW9uUU1oUTd3NURsOWVZb1BGUWN5cG5kWk1OZDQ3SXJURFhTZ0pzQkQxSkZLRUdNSVZUeVRabktuOWhFRUFOcnVYUmtBbWNrU0xvUVo0WVRWX1RSOWVEcjhMMXk1ZDl5XzRSeGRpcTVxb1ItZTNRUU5uVlJqVHlmbHJqdEtVblMtbzJ2eHpVWTlfQlZrSHM0RWRsLXIyY3l5QnZyc3VwVWtLM1E5SGFsVUxB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 17 Oct 2026 02:42:00 GMT",
    "summary": "Striking unions at Antofagasta's Centinela copper mine reach preliminary deal, ending strike &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWRWUHVNUlFoLTN1X1lyWWoyN05FWGJOV3JFdDNWYUNvWWl3WTRKYVhpWjZaZmUteWJXNVU5d0Q4MVFHNzE0azRMc0p6Vk1PYnlKUzVtazBYRkNKTS1XRzNlSjB3SVFFWXV3T3psSFlYak8xVElnZU1SRURVT0N2WnZld1FrUDdNcl9Kd2dIM0F0Y3BYS0FRQl9CNHgtV0Nib2I4VDNibTdmY2VlSWpRRlA1dHJjOFA1VE5XQThTOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 15:15:44 GMT",
+   "summary": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,14 +444,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Private credit roundup: CoreWeave's debt stress tests private credit's AI financing boom",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTXFuNmFhVWZ1ekJvUURza2FlWVN5dGlWOWpScUFKQ1pOTlVIMUVnd0FUVndpNHdBVEZ5YW1VYjlUeVk5eU0yZHJVcGN5ZVNCQklJQVd4RWJSZVNYRW5oSXEyeXdyQzR4MkltanN2NjVJRnVfejkwUHVQZHlSb0t6eEtwM2RtUUU0WVg4SFEwUGMxOHVncGFudTBLWFRvTnpmRk5fakFoeXl6OHM5MEZiM2luOWo0S0FKTExibXRxYnduY25OaDZXUkVzWGNKOGxmQWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 14:58:32 GMT",
-   "summary": "Private credit roundup: CoreWeave's debt stress tests private credit's AI financing boom &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Indonesia gets 'wake-up call' as MSCI prepares to expel it from global indexes",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlg4UjV3N2U0ZUVvYWhOTF9YNEI5c1VCaVd3ZTdCcUl2dFBGUklnZngtVlNhaS1BSFJWUkVqcGluT05jLVNqNll0RWRJQWZOdVRZWnM4TUR2UHJTVGNYbnNOVmgtVWVqcjJWOHdDWTVVME9BVHBiLXBiclQyN3ljTDlfaTdnWDdzcmZTZk1wX2p6b3NXVjJNVE04QU82aGVTQW5xdWEzcm5tNU9OT2JMVVlINA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 13:34:22 GMT",
@@ -483,6 +475,22 @@
    "full_text": ""
   },
   {
+   "source": "reuters-markets",
+   "title": "Indonesia faces rare MSCI exclusion that could cut it off from global capital",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGk2ZGtxRDZlTHR0c1J0V1lpbDA5Y28xT1A3S0xmcFY5SFBueGlIaU9nOVhPOHM2b0pBNktvOVNZUnk5ck9jbElSbmZRS1R5dkxiSTBVenVvRFR3Y29TdzhIZllmdFdDZm4zZmpvd0RaOE1HLWJsOFEzOXRSelZPeG5DV3RoZ3hvNmhCc25UZ1NCQzBiRVBUeG94YzlsTVU3MmJoM0syRWVvbE8yM1dVamVlMXZVWW1mX25UYl92VmZNeS1Tc2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 16:12:04 GMT",
+   "summary": "Indonesia faces rare MSCI exclusion that could cut it off from global capital &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 17 Oct 2026 11:39:54 GMT",
+   "summary": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-tech",
    "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -496,6 +504,14 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyRDdMUmlLNHlsNWhYbVRfTFE1WkJIODRiQmxfOHpzM09lYS1Na0JGNG5YdXlIV09fUVZDWkpRRDFIcUlXb2VYaHhZTjM5Q1AwMnRZZjFkSjRKTTM3RHdUaDhEaEdUWnZTZmVrTUtNaHdTWnM3NVJ3WnFma1VTb09hcURCME10UmFMWXdabmxwNXk1ZUZ6emFoYmRCanEzM3FR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 23:05:57 GMT",
    "summary": "Anthropic signs lease for first Canadian data center &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Why CoreWeave is in the crosshairs of the AI scare",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDBmSEI4THQ5MFFtQXA5a1YweUdtQ2RIYXJXU0t0SFpiQ2kzbENpUWpVbW9hRU5KY1FiMkZPdDVOcmY3OW5WTVRqTFo1SnZKQmxweEFXeVhkY0ZySUdjQWVoV2p3TEVlbXVSSVBZTnNVbXdNc2Q1bmpzSVFrYXFtTmVhUloyaDRqeHp0NllQZWxDTHFENXhv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 17:51:43 GMT",
+   "summary": "Why CoreWeave is in the crosshairs of the AI scare &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -516,14 +532,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "SpaceX's spectrum deal still leaves it far from rivaling telecom giants",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHV3bWRnU1U4MHdadDJPdEtta3FXWV8zM20xbFpWNVlaVkM4VFNoRy1GQTNUOTRpTTI5MWxvdGo5S0ZvaDdJb3E1QWtzUlJETmQ4X0JMcjIxU3JRUVFFWU5RcVdZRXRHZ090Z3R0UEVYbjEySHBqRWRBQnJWenlGd2NCTEl4M0syMGZpVURMOUE1V3BlbHg3Rk05WjVndjAxbkxXbUR6T0hqWC1Ld2o0LUxSYm0wVjM2LVlnWDViOTdXQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 15:46:59 GMT",
-   "summary": "SpaceX's spectrum deal still leaves it far from rivaling telecom giants &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Alphabet's Waymo plans first Canada robotaxi service in Toronto in 2028",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUVFbmxpclVROHZTbFhvQTBNNnIyZVJjVzc4MXBvNWFSQ1ZydU1Da1B1czVLbUJOZGg4MmJWVzNudDgzQ01BMm83NjBwbUludm9yc2RBMkM0SEppZ1lxaDUxVkcyY1FoZ1NyOF9vd1ZkU18xcXBxb1c3VGJpbzhDSW5MdjVkeW84OGN4Vmd2Q1JBQkVlU1F5TF9RSlRjNzRUTUIxeDR3WHZXQnc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 12:04:45 GMT",
@@ -532,10 +540,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "SoftBank weighs $18 billion acquisition of Allied Universal, source says",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXdNdHpBa2pKc200dGJ6aDlPYUNpNTlla3ZxM2ZWQzdXNDBxclZxc3pSRlZNelgwSnIzSzdmRVFhdzRVNVhJckNMTjhFOTNsdWlkMWxJSkJRa3huaXd6d3R6cktEODVnUE5aMGMwWEw0ZzRwTTJnX1ZoQ2F5UVhpMUZNNzNLNGNDT2RhdGZnMHZtTHZjcm9PNFk4bldiTjZ4TnJ6SF9zV0owWERWXzgyYmpYLVpFOE9ITG1kanhfOWdfME40Tmh0eTF5cjNfa3AxdFJV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 21:22:20 GMT",
-   "summary": "SoftBank weighs $18 billion acquisition of Allied Universal, source says &nbsp;&nbsp; Reuters",
+   "title": "SpaceX's spectrum deal still leaves it far from rivaling telecom giants",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHV3bWRnU1U4MHdadDJPdEtta3FXWV8zM20xbFpWNVlaVkM4VFNoRy1GQTNUOTRpTTI5MWxvdGo5S0ZvaDdJb3E1QWtzUlJETmQ4X0JMcjIxU3JRUVFFWU5RcVdZRXRHZ090Z3R0UEVYbjEySHBqRWRBQnJWenlGd2NCTEl4M0syMGZpVURMOUE1V3BlbHg3Rk05WjVndjAxbkxXbUR6T0hqWC1Ld2o0LUxSYm0wVjM2LVlnWDViOTdXQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 15:46:59 GMT",
+   "summary": "SpaceX's spectrum deal still leaves it far from rivaling telecom giants &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
