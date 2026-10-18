@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T23:44:48Z",
- "count": 69,
+ "generated_at": "2026-10-18T02:29:35Z",
+ "count": 68,
  "items": [
   {
    "source": "nyt-world",
@@ -30,7 +30,7 @@
    "source": "nyt-world",
    "title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
    "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
-   "published": "Sat, 17 Oct 2026 21:39:47 +0000",
+   "published": "Sat, 17 Oct 2026 21:39:48 +0000",
    "summary": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved.",
    "full_text": ""
   },
@@ -86,7 +86,7 @@
    "source": "nyt-business",
    "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
    "url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
-   "published": "Sat, 17 Oct 2026 21:18:47 +0000",
+   "published": "Sat, 17 Oct 2026 23:46:16 +0000",
    "summary": "The Trump administration is ignoring the will of Congress and waiving new Russia sanctions amid fears that high energy prices will cost Republicans in next month’s elections.",
    "full_text": ""
   },
@@ -252,6 +252,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Ukraine says Russia's claimed territorial advances are 'an illusion'",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnRmWGFHY2E5VUVuby10c1hDVllKMlRaWTlQWnViTGxiR3ZLYXYzeWQwTmRHMExGMzhUNXdxdE5sWnd0c3RPUUlUekpMd1haZ3V3bE9EbUxLY2MtWVpiN01pdGw5RkNHaGV4THNkYkRlYlE2UF8zRktxelNxeEx0bkIwM0Z6VW1QamhyMnNOUGlsRWw0X21OMUswNG1EcEdxZU1oNWFDMkUtTzdtZjNFVHFNMS0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 17 Oct 2026 12:59:43 GMT",
+   "summary": "Ukraine says Russia's claimed territorial advances are 'an illusion' &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 15 Oct 2026 23:07:00 GMT",
@@ -276,14 +284,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Trump says US may need to strike Iran's Pickaxe Mountain",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 12:54:29 GMT",
-   "summary": "Trump says US may need to strike Iran's Pickaxe Mountain &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "India's RBI has spent half of $140 billion FX capital haul in rupee defence, bankers estimate",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONU5ZY25UM0c0a0FPX0ZNVl8zWGFJRVZ6YzFmNlVuR2JLb3VxMS02bmE0TDY1eW5Ra2swVzlCcnN5b2htdnZhRGNPaTVmN1hkeFE3Nm10RHNndDhORDFtRlpEbDllT2c4Ymp4VGJlY08tOTE4aXM4RTVpZXhFTmFUbHNVT05SSWV4SXlhRXB1dkFWenZJZ0RkelIxU3V3UHoyOXctd1FVMHdjLVZUc3FieXM0bUlXcXVma0lMRkhJeGw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 15 Oct 2026 08:39:43 GMT",
@@ -292,26 +292,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Tens of thousands march in Lisbon over housing and living costs",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa3NQRHI0VTRqeGpNXzZSN0hkTU1aOTh3M3BKdHBQVGc1b1pGdmRRVWJ4WTdSbnVaNlJXQXNJeklhMEJlYkhocVVwRGtzcjlISk43UW9tU2RYWXNQR09Wd3k4a2xCQm9Ua1Z4bkY2UlI3NFpzMXZKcHNGTy1PdlJBMkV6YTN0Y210eHJWN0xtbVByX0o1RlV6V2lOVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 17 Oct 2026 17:11:29 GMT",
-   "summary": "Tens of thousands march in Lisbon over housing and living costs &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmt3MmNHZWJGNkVUMEV6MS00VmdnZ3U4LXpGVE5PUk1ZYXA2TjhQWm9lMUtObEVyZTlqejdpeDhKZlV5QVI0dWV6VUE3cXFtSmd3WUQyTldneXBQZjB0dU5lRTItQTc3YWZJRXB6NjRfOGZaVzhYUjExQmhYQ2lWUFlkXzc0TkdNWUl6S0xrMkZBZmNCYWpLUldwVDdsTGh5ZnkxSlFPWEdKWXhzZ2FLRVI3LWk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 06:03:00 GMT",
+   "published": "Thu, 15 Oct 2026 22:09:16 GMT",
    "summary": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "US annual budget gap hits nearly $2 trillion, largest in 5 years",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWlhaU90MklTU2wtZDJ1OC1wcVZIeDF5Y3FGRGsyam90X1VCNF9NcGRSUFNwTG1PQ21fZXZndjN3WXM4UG9LSW82OW1xLVQ0Rng3ODZLcjdwRWZtYVEzTm5oYjdlZUZhMXVmVUhubUhuWVJrMzVndXdUN29sQ2h1SHRKMnF0UkdXQ2dkWXppOU50bDV2WXhLM0tHZjk3MGtiTm4xQWNkc2FpU0dXOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 18:53:40 GMT",
-   "summary": "US annual budget gap hits nearly $2 trillion, largest in 5 years &nbsp;&nbsp; Reuters",
+   "title": "Trump says US may need to strike Iran's Pickaxe Mountain",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 12:54:29 GMT",
+   "summary": "Trump says US may need to strike Iran's Pickaxe Mountain &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -320,6 +312,22 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLWFoUlV1T1VVc0hJcTRjM2FYQXM5dXh4LS1SV3o1RkRwMDdCSGkzMTFITHdNZ0hhdG9remo2SVNCN2Y2WTZIRWZ5blFEc2FVRkR6VGZubEdYS2MyMEVlV3JoeGMtV2JUN2t3YnJYd3Y0YXdoYkhpeURGRlZBMlRtWE5CMk5acWZsWkVVcnFEc0NJajhLTTBrdVhHTmxXcU85YU5YU0wzRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 15 Oct 2026 10:50:58 GMT",
    "summary": "Belgian police search homes of relatives of Congo's Tshisekedi &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 17 Oct 2026 11:39:54 GMT",
+   "summary": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Russia takes over more EU companies' assets over Ukraine support",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDMtenFMRWlxMERtR0Q4QVFNUUFtXzBqM1p3U1VSQ256Vkxod1o2Q09kSDZLamxiWUtIanlPM25KOS13eWxCMm00REhXNWVhbjlYUUxHTjB0MHZKVUpXNlBCNDduQnI1czdUR05jMzdibWVSMGlFMmlxOHdTdnB3WXlnVkh3ZGE2T2ZWdl9Jd3lGYi1scjFULUU5S29jMG15ZkZhVE1uQ3pWYWswQWwtLWFDdWwtU010ZTBJUzJZNGR4Qm1TVFBwUlJ3bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 11:43:36 GMT",
+   "summary": "Russia takes over more EU companies' assets over Ukraine support &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,14 +340,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 17 Oct 2026 08:19:38 GMT",
-   "summary": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "US appeals court blocks class actions over Tesla's self-driving claims",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSi1jRE51Z3VxRjhwUXZnVmc5UncxU1h1VEJLMWtJV3JCRk44WEE1MWNvY0I3RGFONU51OHhWczRnb2R2UVA1WU9ZQi1sWDVCLXBCbXlXM1hsejJUazVNWDJsUWs1RXVuY3NucVpMQmhDazd1Y1dzREo2QUhRZ0RkTVhlT2g1RGZiWjBqbXg1U3YtOExkLXNfcVVhWTBOQ2M0am9wdTlrQmdVUHJkMDlaWEItSmZOaUR2eWZlQlUwSXlVbGpORkhN?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 19:21:06 GMT",
@@ -348,42 +348,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Russia takes over more EU companies' assets over Ukraine support",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDMtenFMRWlxMERtR0Q4QVFNUUFtXzBqM1p3U1VSQ256Vkxod1o2Q09kSDZLamxiWUtIanlPM25KOS13eWxCMm00REhXNWVhbjlYUUxHTjB0MHZKVUpXNlBCNDduQnI1czdUR05jMzdibWVSMGlFMmlxOHdTdnB3WXlnVkh3ZGE2T2ZWdl9Jd3lGYi1scjFULUU5S29jMG15ZkZhVE1uQ3pWYWswQWwtLWFDdWwtU010ZTBJUzJZNGR4Qm1TVFBwUlJ3bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 05:46:00 GMT",
-   "summary": "Russia takes over more EU companies' assets over Ukraine support &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Chinese online retailer Temu agrees to data privacy curbs to settle Texas lawsuit",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUURFUXU2ZzFtZmdDWGE1X0otUGFGeEFTc0RVbFJDaExxTlltMnlqUVhnbmxVSjhqeDNyZEFMcnpodkJoYXpENk5pLTNpZUFGb2RXUEN0RUl3RDduTC1peE94aUNTT0dCRllVTks4cDM0ZDd1bHV5d1Bvb1V6ZE80dFowNFJyb09Bd19haVRUcGRQLUtwdlM4ekVfcXJlaWNublYwQk1mSUhUNlItMUtHNmZUSllWdVBTUTRfTmp0XzBVcUlET0lxMzlENXlxZjVs?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 15:48:00 GMT",
-   "summary": "Chinese online retailer Temu agrees to data privacy curbs to settle Texas lawsuit &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Supertanker rates fall from record highs",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkk0WDVQcnY0THRwaTVSenJQTEQ0U1VuVHdEY2xKTl9CdEw2NjlFN0FvTnBGbldlREpWRGZ6YV9kWnRjNjVuTlJqTWVBR0U3VXAwbXgwRjlSY1pfSVd3SjRKYU5KMVJwVm56blVQMnFFbV9EejlRNlZuSWo2OGd1TVl4ZlVwOXlvVGttb0ZLVkk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 14:25:41 GMT",
-   "summary": "Supertanker rates fall from record highs &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWRWUHVNUlFoLTN1X1lyWWoyN05FWGJOV3JFdDNWYUNvWWl3WTRKYVhpWjZaZmUteWJXNVU5d0Q4MVFHNzE0azRMc0p6Vk1PYnlKUzVtazBYRkNKTS1XRzNlSjB3SVFFWXV3T3psSFlYak8xVElnZU1SRURVT0N2WnZld1FrUDdNcl9Kd2dIM0F0Y3BYS0FRQl9CNHgtV0Nib2I4VDNibTdmY2VlSWpRRlA1dHJjOFA1VE5XQThTOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 15:15:44 GMT",
-   "summary": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Striking unions at Antofagasta's Centinela copper mine reach preliminary deal, ending strike",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ0FwZktMaHJHVlo2Q0J3bUpPWHZfMFBHWWRQWTJSLTRIcktQdW9uUU1oUTd3NURsOWVZb1BGUWN5cG5kWk1OZDQ3SXJURFhTZ0pzQkQxSkZLRUdNSVZUeVRabktuOWhFRUFOcnVYUmtBbWNrU0xvUVo0WVRWX1RSOWVEcjhMMXk1ZDl5XzRSeGRpcTVxb1ItZTNRUU5uVlJqVHlmbHJqdEtVblMtbzJ2eHpVWTlfQlZrSHM0RWRsLXIyY3l5QnZyc3VwVWtLM1E5SGFsVUxB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 17 Oct 2026 02:42:00 GMT",
-   "summary": "Striking unions at Antofagasta's Centinela copper mine reach preliminary deal, ending strike &nbsp;&nbsp; Reuters",
+   "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 17 Oct 2026 08:19:38 GMT",
+   "summary": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -396,10 +364,42 @@
   },
   {
    "source": "reuters-business",
-   "title": "EXCLUSIVE: Boeing sales chief McMullen to retire, company memo says",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkxmc1JxOWpyS09mVkF1ODlhbmFnRUktSExvbWlIVVFlaFhUdWMyUURPZ1ZKSUprT291ZzNFS0NadXZ4eEhCakdDVHY3NElaMzZiS180TVNIbFZiNWN5enkxV0lVSHBoZG4wemZWVHlHc1M1U1ZwM3lDSkFuN2JKb09UcUlvSVlJQ1d6ODN2aG9VUFVYWVZaOXg4UV9LTWJwMy1zUXRuY3FJZFdIbUt6dGpUdXI2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 21:29:37 GMT",
-   "summary": "EXCLUSIVE: Boeing sales chief McMullen to retire, company memo says &nbsp;&nbsp; Reuters",
+   "title": "Supertanker rates fall from record highs",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkk0WDVQcnY0THRwaTVSenJQTEQ0U1VuVHdEY2xKTl9CdEw2NjlFN0FvTnBGbldlREpWRGZ6YV9kWnRjNjVuTlJqTWVBR0U3VXAwbXgwRjlSY1pfSVd3SjRKYU5KMVJwVm56blVQMnFFbV9EejlRNlZuSWo2OGd1TVl4ZlVwOXlvVGttb0ZLVkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 14:25:41 GMT",
+   "summary": "Supertanker rates fall from record highs &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US solicits exchange of up to 17 million barrels of oil from strategic reserve",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFNXdnRkamV3Q2plZzU5UHl3LUlPa2hxTVY1VTA5dXU2UXUxWG5DekxOY0ZrWlNobFBDNTRQR2xrTHRZbEJMZUd1dzRQSUd0ZmQ1TDRtTE9YcmRoRVEzUkhrQjhUX01DVk8zdU5saFJEc1NDUWFXcFhsbmFZRlQ0b1FGdm9nTnFGSDAwWUxVMDVJeHZXalROYmNNdlVJLWxxaEloOWtLWUsxOWlzbTFmSWhHMHVaRGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 21:36:21 GMT",
+   "summary": "US solicits exchange of up to 17 million barrels of oil from strategic reserve &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWRWUHVNUlFoLTN1X1lyWWoyN05FWGJOV3JFdDNWYUNvWWl3WTRKYVhpWjZaZmUteWJXNVU5d0Q4MVFHNzE0azRMc0p6Vk1PYnlKUzVtazBYRkNKTS1XRzNlSjB3SVFFWXV3T3psSFlYak8xVElnZU1SRURVT0N2WnZld1FrUDdNcl9Kd2dIM0F0Y3BYS0FRQl9CNHgtV0Nib2I4VDNibTdmY2VlSWpRRlA1dHJjOFA1VE5XQThTOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 15:15:44 GMT",
+   "summary": "Italy clinches deal with EU over measures to limit impact of gas prices on electricity costs &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US arms firm Anduril could make interceptors in Europe, executive says",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckc3Wlc2T3lRZTMtek04aTFTMk1HUnNtbWZwc3RNc1FleWtMSzFEUmxCUkJOdW5XS3Q2Rlg5b3hMSWhYb1ZGZ2UwSWVSV0I2OTllMlJ3RXR2Rkd0WGQ0NjRPeVd5WVBOQWIzRW4tQk5va3FFME5zSTc2X1RQMlpENkRyZVNkc2RiZGltNEFCYzNONnFaU1hGZjdycS03S0w4dWZUdTdDOFBIWDJyVXVhbldNcWV3X3ljNXJEVFZVWlhITmJ0UHNhcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 19:00:28 GMT",
+   "summary": "US arms firm Anduril could make interceptors in Europe, executive says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US air traffic controllers to get 2.8% pay raise under FAA deal",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVMxanRINlNtUFcxTGZ2VnBkRG94ODRPd0IwQi1VbVM4UkpHZlFuZ2VCdU5iWUhXWFlEQjdnV3gxSHAxOHlSUktXWEdtbmpnUkRsS1lPRWhrRXM2czB3RmpPU0FOczB4QTltSjdGejlNa3JsSFYtRWs4Qnl3NjY4ekdMOHF3eUpZMXBLeXM2dkFHaFFHZF9TdW5UWWpDMzVkS3dONk9DcFp1UUVnSF93UVNDMTF4WUhE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 22:55:50 GMT",
+   "summary": "US air traffic controllers to get 2.8% pay raise under FAA deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -438,7 +438,7 @@
    "source": "reuters-markets",
    "title": "Indonesia gets 'wake-up call' as MSCI prepares to expel it from global indexes",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlg4UjV3N2U0ZUVvYWhOTF9YNEI5c1VCaVd3ZTdCcUl2dFBGUklnZngtVlNhaS1BSFJWUkVqcGluT05jLVNqNll0RWRJQWZOdVRZWnM4TUR2UHJTVGNYbnNOVmgtVWVqcjJWOHdDWTVVME9BVHBiLXBiclQyN3ljTDlfaTdnWDdzcmZTZk1wX2p6b3NXVjJNVE04QU82aGVTQW5xdWEzcm5tNU9OT2JMVVlINA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 15 Oct 2026 21:18:00 GMT",
+   "published": "Fri, 16 Oct 2026 13:34:22 GMT",
    "summary": "Indonesia gets 'wake-up call' as MSCI prepares to expel it from global indexes &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -446,24 +446,8 @@
    "source": "reuters-markets",
    "title": "Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 00:57:00 GMT",
+   "published": "Fri, 16 Oct 2026 18:35:09 GMT",
    "summary": "Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Private credit roundup: CoreWeave's debt stress tests private credit's AI financing boom",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTXFuNmFhVWZ1ekJvUURza2FlWVN5dGlWOWpScUFKQ1pOTlVIMUVnd0FUVndpNHdBVEZ5YW1VYjlUeVk5eU0yZHJVcGN5ZVNCQklJQVd4RWJSZVNYRW5oSXEyeXdyQzR4MkltanN2NjVJRnVfejkwUHVQZHlSb0t6eEtwM2RtUUU0WVg4SFEwUGMxOHVncGFudTBLWFRvTnpmRk5fakFoeXl6OHM5MEZiM2luOWo0S0FKTExibXRxYnduY25OaDZXUkVzWGNKOGxmQWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 14:58:32 GMT",
-   "summary": "Private credit roundup: CoreWeave's debt stress tests private credit's AI financing boom &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXNKelJOV3BhOFlRUmVnYWwyV0FXSkNpa0VNS2g0ek01V1BhaUNxX3FBclJXUUNKRENoU2d5cHNNazZIMWZ2TXB4aVZIcHNXaWNFbDkxYXpvdlhwakgxekdDd0ZWRDlJMW9zeE9FU3kwcWRPMjJFVmVfNnJ3OGNxV3JaSU5xTHVVQnRTaEdfUGpzVVY0a216eGlrZFBsYmxSQThnSlM5alJvd3hKMU1vY2N0dDFUNGdoTTdBd25kUllEMG45RFhZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 17 Oct 2026 06:19:00 GMT",
-   "summary": "IMF members call for more support amid war shocks, 'advanced intelligence' risks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -476,6 +460,14 @@
   },
   {
    "source": "reuters-markets",
+   "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXNKelJOV3BhOFlRUmVnYWwyV0FXSkNpa0VNS2g0ek01V1BhaUNxX3FBclJXUUNKRENoU2d5cHNNazZIMWZ2TXB4aVZIcHNXaWNFbDkxYXpvdlhwakgxekdDd0ZWRDlJMW9zeE9FU3kwcWRPMjJFVmVfNnJ3OGNxV3JaSU5xTHVVQnRTaEdfUGpzVVY0a216eGlrZFBsYmxSQThnSlM5alJvd3hKMU1vY2N0dDFUNGdoTTdBd25kUllEMG45RFhZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 17 Oct 2026 06:19:00 GMT",
+   "summary": "IMF members call for more support amid war shocks, 'advanced intelligence' risks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Indonesia faces rare MSCI exclusion that could cut it off from global capital",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGk2ZGtxRDZlTHR0c1J0V1lpbDA5Y28xT1A3S0xmcFY5SFBueGlIaU9nOVhPOHM2b0pBNktvOVNZUnk5ck9jbElSbmZRS1R5dkxiSTBVenVvRFR3Y29TdzhIZllmdFdDZm4zZmpvd0RaOE1HLWJsOFEzOXRSelZPeG5DV3RoZ3hvNmhCc25UZ1NCQzBiRVBUeG94YzlsTVU3MmJoM0syRWVvbE8yM1dVamVlMXZVWW1mX25UYl92VmZNeS1Tc2c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 16:12:04 GMT",
@@ -483,11 +475,19 @@
    "full_text": ""
   },
   {
+   "source": "reuters-markets",
+   "title": "Gold set for a weekly drop as traders assess Fed signals",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFdTSHVlWTdpZG0xRlc1U3Rka1I3Q3FLdVhKUVJjRWdlb040SXdMZktTT3k1WEgxSnB0QzdaQ2FSY05KTVVOSFg4aVpSRm01Z1hfdGNxY0JnYzJqeXBCcm1SU1FaVzlPUWljNFBxWDlYZmJxYU5ycmxyb1FNUEpTcVpoc3AwS25VUUgxMkFIOXZpQU5TZlVOTEVmVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 18:20:09 GMT",
+   "summary": "Gold set for a weekly drop as traders assess Fed signals &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-tech",
-   "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 17 Oct 2026 11:39:54 GMT",
-   "summary": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers &nbsp;&nbsp; Reuters",
+   "title": "Hacker gets data on millions of California students, state education department says",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlA0RlBQaC1ReDRNUHZDTUVpLXc0b2dnbC1MbzUxRHZBeUszeXVPQS0yV3dKNXJXRWRWeW9HTEdKVXB5V0NjT19xV29FM1RrRTBpajRxVVpQUktqckJrTVJUM3dha1drUmQzWGpUdWR5LXUyeWtOazNENjRRaWhqX3VhTVY1SzF3dURQQm96c1hrUG02SnJYbk9qQjVqbGxlTzEzT3dpa1gtUG5MTjBzZUJvbFQ2SXltbmQzS0VhMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 17 Oct 2026 02:31:00 GMT",
+   "summary": "Hacker gets data on millions of California students, state education department says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -516,14 +516,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Anthropic signs lease for first Canadian data center",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyRDdMUmlLNHlsNWhYbVRfTFE1WkJIODRiQmxfOHpzM09lYS1Na0JGNG5YdXlIV09fUVZDWkpRRDFIcUlXb2VYaHhZTjM5Q1AwMnRZZjFkSjRKTTM3RHdUaDhEaEdUWnZTZmVrTUtNaHdTWnM3NVJ3WnFma1VTb09hcURCME10UmFMWXdabmxwNXk1ZUZ6emFoYmRCanEzM3FR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 23:05:57 GMT",
-   "summary": "Anthropic signs lease for first Canadian data center &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 16 Oct 2026 18:59:17 GMT",
@@ -540,18 +532,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 17 Oct 2026 00:57:00 GMT",
-   "summary": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports &nbsp;&nbsp; Reuters",
+   "title": "Anthropic signs lease for first Canadian data center",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyRDdMUmlLNHlsNWhYbVRfTFE1WkJIODRiQmxfOHpzM09lYS1Na0JGNG5YdXlIV09fUVZDWkpRRDFIcUlXb2VYaHhZTjM5Q1AwMnRZZjFkSjRKTTM3RHdUaDhEaEdUWnZTZmVrTUtNaHdTWnM3NVJ3WnFma1VTb09hcURCME10UmFMWXdabmxwNXk1ZUZ6emFoYmRCanEzM3FR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 16 Oct 2026 23:05:57 GMT",
+   "summary": "Anthropic signs lease for first Canadian data center &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "SoftBank weighs $18 billion acquisition of Allied Universal, source says",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXdNdHpBa2pKc200dGJ6aDlPYUNpNTlla3ZxM2ZWQzdXNDBxclZxc3pSRlZNelgwSnIzSzdmRVFhdzRVNVhJckNMTjhFOTNsdWlkMWxJSkJRa3huaXd6d3R6cktEODVnUE5aMGMwWEw0ZzRwTTJnX1ZoQ2F5UVhpMUZNNzNLNGNDT2RhdGZnMHZtTHZjcm9PNFk4bldiTjZ4TnJ6SF9zV0owWERWXzgyYmpYLVpFOE9ITG1kanhfOWdfME40Tmh0eTF5cjNfa3AxdFJV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 16 Oct 2026 21:22:20 GMT",
-   "summary": "SoftBank weighs $18 billion acquisition of Allied Universal, source says &nbsp;&nbsp; Reuters",
+   "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 17 Oct 2026 00:57:00 GMT",
+   "summary": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
