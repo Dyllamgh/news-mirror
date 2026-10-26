@@ -1,13 +1,29 @@
 {
- "generated_at": "2026-10-25T22:14:26Z",
- "count": 68,
+ "generated_at": "2026-10-26T02:38:04Z",
+ "count": 67,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
+   "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+   "published": "Mon, 26 Oct 2026 02:26:39 +0000",
+   "summary": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "María Corina Machado Returns to Venezuela",
    "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-   "published": "Sun, 25 Oct 2026 20:35:51 +0000",
+   "published": "Mon, 26 Oct 2026 00:32:49 +0000",
    "summary": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+   "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+   "published": "Mon, 26 Oct 2026 01:57:24 +0000",
+   "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
    "full_text": ""
   },
   {
@@ -32,14 +48,6 @@
    "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
    "published": "Sun, 25 Oct 2026 21:39:45 +0000",
    "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "What to Know as Serbia Votes for a New Parliament",
-   "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
-   "published": "Sun, 25 Oct 2026 04:01:22 +0000",
-   "summary": "A student-led movement is challenging the governing party of Aleksandar Vucic, who has dominated Serbian politics for over a decade.",
    "full_text": ""
   },
   {
@@ -75,14 +83,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Italy’s Young Protesters Return to the Streets",
-   "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
-   "published": "Sun, 25 Oct 2026 15:41:10 +0000",
-   "summary": "Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-business",
    "title": "‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office",
    "url": "https://www.nytimes.com/2026/10/25/business/media/elizabeth-holmes-clayface-box-office.html",
@@ -94,7 +94,7 @@
    "source": "nyt-business",
    "title": "Caryle Murphy Has Died. She Earned a Pulitzer for Reporting in Kuwait.",
    "url": "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
-   "published": "Sun, 25 Oct 2026 16:53:43 +0000",
+   "published": "Mon, 26 Oct 2026 01:08:42 +0000",
    "summary": "A Washington Post journalist, she was one of the few Western reporters in Kuwait in 1990 when Saddam Hussein’s forces invaded.",
    "full_text": ""
   },
@@ -164,6 +164,14 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+   "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
+   "published": "Sun, 25 Oct 2026 09:01:00 +0000",
+   "summary": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
    "url": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
    "published": "Fri, 23 Oct 2026 16:14:56 +0000",
@@ -172,34 +180,10 @@
   },
   {
    "source": "nyt-technology",
-   "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
-   "url": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
-   "published": "Thu, 22 Oct 2026 19:29:30 +0000",
-   "summary": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
    "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
    "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
    "published": "Thu, 22 Oct 2026 01:21:13 +0000",
    "summary": "The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
-   "url": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
-   "published": "Thu, 22 Oct 2026 14:51:58 +0000",
-   "summary": "Tech companies are painting data centers with gray coatings on top of gray concrete and steel to resist fire, rust and static electricity. That has made data centers a fast-growing market for paint makers.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
-   "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
-   "published": "Sun, 25 Oct 2026 09:01:00 +0000",
-   "summary": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
    "full_text": ""
   },
   {
@@ -228,10 +212,34 @@
   },
   {
    "source": "nyt-technology",
+   "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
+   "url": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
+   "published": "Thu, 22 Oct 2026 19:29:30 +0000",
+   "summary": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
    "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
    "published": "Thu, 22 Oct 2026 16:01:36 +0000",
    "summary": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
+   "url": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
+   "published": "Thu, 22 Oct 2026 14:51:58 +0000",
+   "summary": "Tech companies are painting data centers with gray coatings on top of gray concrete and steel to resist fire, rust and static electricity. That has made data centers a fast-growing market for paint makers.",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Serbia's Vucic concedes defeat in historic election win for student protest movement",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 25 Oct 2026 01:03:00 GMT",
+   "summary": "Serbia's Vucic concedes defeat in historic election win for student protest movement &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -244,34 +252,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmFjNlIzWmpXOUo3WWp5enVJbThmQmhPRWlEaDJ2UVZaV0ZmYm5EUVRqeXpzSFpydWZPOFlObEh2MWk2aTJaMXBqN202dThhWms5NF9Jb3hOSjR3V19MczZUOThKTU9kM0FBOVd4Q3kzMTlkaDJfa3N0MmdoNW1uSmVwbUlrbFJ3bWRwc0UwVkdVTjNmVXdoWHVzS25CLUYydGNBOVNPMmt4UEl4anM4YUowS0s?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 25 Oct 2026 02:46:00 GMT",
-   "summary": "Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 23 Oct 2026 21:16:00 GMT",
-   "summary": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "World marathon champion Jepchirchir provisionally banned by AIU over EPO finding",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2dOMTJveHdXNlhRY3hLd0xncW00TnFfbks1UEg0YjZTOTRaYXhKeEdHUlZwU2JIZHNpRnJ5Vmx5LXVTZ0V1YmdCdUIyTmEtVGhWQkdsdGJXdVp0NUU1Z3pWdF9pZmJWTEN6bXNFZzlpWE1PSkRPSE9SaGNfV3VWLV9EY1RIR2tncGZMYk5QZTg1dkYtM0R6ODdMa2t1MUQyeXFldXdLekhnNEhodVhpeTBPYUJsQWVyMEZB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 23 Oct 2026 18:25:41 GMT",
    "summary": "World marathon champion Jepchirchir provisionally banned by AIU over EPO finding &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Hacking attempts surge as companies, governments rush to patch PHP flaws",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 22 Oct 2026 13:06:31 GMT",
-   "summary": "Hacking attempts surge as companies, governments rush to patch PHP flaws &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,18 +268,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk0ycEtUWHg2S2g0aWMwczhtYU5ac3hLS2k1TkhmOTFHUnVkaW5fMlZFT2lsaVc1dnBvdjAzNmREUW1veE9IOUp6R19CRE1NQU94SDVQOHJqaGMyaE9mR2VLUVZnT21BMTV4LTYwVGM1R2hrRmZpVXNGWEZkSXlodEVsdmh3YktZekxNUjdlUFRwYm1iMWtreGlnYVdENGdfU3VlRkt5NDBlbVdITzdDaURmbE1tdWhp?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 24 Oct 2026 21:45:00 GMT",
-   "summary": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power &nbsp;&nbsp; Reuters",
+   "title": "Hacking attempts surge as companies, governments rush to patch PHP flaws",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 22 Oct 2026 13:06:31 GMT",
+   "summary": "Hacking attempts surge as companies, governments rush to patch PHP flaws &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "World Series rematch, Indian edition: Yankees beat Dodgers in Mumbai event",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ195Umx2b2hqdnZXRF9EVlgweXRtSm10NllwWG5tRHR0OVpud0x1ZjBYZmlob1hwZHdoYU9pTDJKcE8wTUxUTGlkalBlcEk4NUNTYS1femRGX3ZqS1c2OXNpV3FMV2Y2cnliN2hyX1o2Y2otS1hpUUFzQlpUaGZoRlVCUU14MS1FbHlVOTJLVUVrTDVKclVBQjljVXozWTNScUhhM1VoNHlzc2tJZGs1T1MyXzBxbmdoR09DYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 25 Oct 2026 06:38:00 GMT",
-   "summary": "World Series rematch, Indian edition: Yankees beat Dodgers in Mumbai event &nbsp;&nbsp; Reuters",
+   "title": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk0ycEtUWHg2S2g0aWMwczhtYU5ac3hLS2k1TkhmOTFHUnVkaW5fMlZFT2lsaVc1dnBvdjAzNmREUW1veE9IOUp6R19CRE1NQU94SDVQOHJqaGMyaE9mR2VLUVZnT21BMTV4LTYwVGM1R2hrRmZpVXNGWEZkSXlodEVsdmh3YktZekxNUjdlUFRwYm1iMWtreGlnYVdENGdfU3VlRkt5NDBlbVdITzdDaURmbE1tdWhp?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 24 Oct 2026 21:45:00 GMT",
+   "summary": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -308,18 +292,34 @@
   },
   {
    "source": "reuters-world",
-   "title": "Bolsonaro, Lula about even in polls for Brazil runoff vote",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOW9aaS1WT2hUWE5VTjd3U19BR0VxZ0xtUXd5QjQ5V3EzMkxsYWs2X0lHYm11TzU5YTY3RDQ2dGlnblllZklkV1AySElHOVF6a0RKZmNZZHpJMlVCaE82QjBXN1lHeFNFSGE4VlBjUGVwWlBSWkRQOTE0dzNRZ2NMQm9tWWRzN1FBaHhfbWVqcDl5Qkw5OW5wNlNDMEJjZXVmUkQ3NE5CSmdfci1IMkVVQktUdElSSEd2ZEs2VjRBQktYM3dXc2pvMmFR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 24 Oct 2026 23:02:10 GMT",
-   "summary": "Bolsonaro, Lula about even in polls for Brazil runoff vote &nbsp;&nbsp; Reuters",
+   "title": "Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmFjNlIzWmpXOUo3WWp5enVJbThmQmhPRWlEaDJ2UVZaV0ZmYm5EUVRqeXpzSFpydWZPOFlObEh2MWk2aTJaMXBqN202dThhWms5NF9Jb3hOSjR3V19MczZUOThKTU9kM0FBOVd4Q3kzMTlkaDJfa3N0MmdoNW1uSmVwbUlrbFJ3bWRwc0UwVkdVTjNmVXdoWHVzS25CLUYydGNBOVNPMmt4UEl4anM4YUowS0s?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 25 Oct 2026 02:46:00 GMT",
+   "summary": "Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 22 Oct 2026 13:24:15 GMT",
+   "summary": "Government websites go dark after AI-discovered flaw sparks security scramble &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "World Series rematch, Indian edition: Yankees beat Dodgers in Mumbai event",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ195Umx2b2hqdnZXRF9EVlgweXRtSm10NllwWG5tRHR0OVpud0x1ZjBYZmlob1hwZHdoYU9pTDJKcE8wTUxUTGlkalBlcEk4NUNTYS1femRGX3ZqS1c2OXNpV3FMV2Y2cnliN2hyX1o2Y2otS1hpUUFzQlpUaGZoRlVCUU14MS1FbHlVOTJLVUVrTDVKclVBQjljVXozWTNScUhhM1VoNHlzc2tJZGs1T1MyXzBxbmdoR09DYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 25 Oct 2026 06:38:00 GMT",
+   "summary": "World Series rematch, Indian edition: Yankees beat Dodgers in Mumbai event &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 25 Oct 2026 20:56:52 GMT",
-   "summary": "Musk says SpaceX raised $40 billion in debt for GPUs &nbsp;&nbsp; Reuters",
+   "title": "Thousands protest Czech government's public media overhaul after rushed vote",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3NtVE4za2c1ckhEX0F1Vm5FTExqYnIwRExMVkJvT2owY21CZFlLWFh5bGF1eWlaX0w2RUVua0hrVHcwQnRXTXh5NFlNbF9pektuU1Bzc2hrV1VuYWJpOEZLSlVId3Q4dmZicnlNX2t4M3RPdFA0NHNlQ2tRY2JibzZRaFAtQmF5LVNKbEhuYXdLcHZUcjIxRl9reWdpZlJUX2Vkd2M3aXlsMUwyQ1ljZnlWMFdycEpoTjJzLUoyUFJfWlkwZGZvX2hjOGVpRlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 25 Oct 2026 17:45:43 GMT",
+   "summary": "Thousands protest Czech government's public media overhaul after rushed vote &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,6 +356,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Oil slips from near six-months highs despite supply concerns",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 25 Oct 2026 23:24:00 GMT",
+   "summary": "Oil slips from near six-months highs despite supply concerns &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Comcast flags over $1 billion in restructuring charges in fourth quarter",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjJ2dV85cGc3bEF1UU1idGVnc1NnTC1tcUsyY3dnSkNXT3dEbFpURzVHS2N4c2gwcmpqWjVYTktNdUJKM3NvbjNJbHQtclg4QllDNDVrOXJJZUpJVWdiNnZnZDJ4dXBNRVZjamJ6MDltMXh0VlZTX0RJeXhuRTdUa0tHaVRobHpRbWMxQjY3bEx5SmF3cEFRSENMY0tseGw3OFB1alMzRUlwQlYwOW1TdDNoMmFWSmxYOEwtNlNwclVCdUU?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 22 Oct 2026 14:27:59 GMT",
@@ -364,18 +372,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmxvaUpMTUR1QlpFdTFCM21oR2ZqYmwzWUVrSFpBYmZLYlFjWV9yc3NTX1BjTnZndGl1d2N4OG52MlVJenJKNkxKUW9aR3lZaGtvVzJ1UzhCeDh2X3hQcFRJVklIZ2N5X3drTHk0YVpFTmNKcGN6WDlpQ294WE5TNUhBT0g0NFJjSDhmek9yMU0zNGRMeU1mZ1ZkME13QUJ1aGFMR0gtOWVqcG50SFZQNWdUVlZxV01wNUNWc2gwZlp3VVhoZDc3VnIwcWdQSGhVOWFWUUE3ZndMTDIz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 24 Oct 2026 00:43:00 GMT",
-   "summary": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say &nbsp;&nbsp; Reuters",
+   "title": "Britain will not join Canada's defence bank, source says",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUt0ejc0NEtPd0U5enNlek5yek5Jak91bUlPdGtLY3FzQ2I3THJXTkhpVFYtdVZPUjZwRnY5ZnBGcmp3dGh1d2d2dlBvNExnTlRKZ2pPamp1X0ZBQzNib2ZGcFJZX3FBdWZsUEV6UkhNWG1WYzc1Y3ZBY1Y3X01qaURXejBwWUZIcHZrMDlWd3ptX2ZKX0wwTEJmci1fOWt5My1IZlY2cURXYVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 25 Oct 2026 19:21:43 GMT",
+   "summary": "Britain will not join Canada's defence bank, source says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Trump ends tariffs on some Canadian products, as Senator Collins faces close race",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 23 Oct 2026 18:05:00 GMT",
-   "summary": "Trump ends tariffs on some Canadian products, as Senator Collins faces close race &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmxvaUpMTUR1QlpFdTFCM21oR2ZqYmwzWUVrSFpBYmZLYlFjWV9yc3NTX1BjTnZndGl1d2N4OG52MlVJenJKNkxKUW9aR3lZaGtvVzJ1UzhCeDh2X3hQcFRJVklIZ2N5X3drTHk0YVpFTmNKcGN6WDlpQ294WE5TNUhBT0g0NFJjSDhmek9yMU0zNGRMeU1mZ1ZkME13QUJ1aGFMR0gtOWVqcG50SFZQNWdUVlZxV01wNUNWc2gwZlp3VVhoZDc3VnIwcWdQSGhVOWFWUUE3ZndMTDIz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 24 Oct 2026 13:23:58 GMT",
+   "summary": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -387,19 +395,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 20 Oct 2026 20:11:32 GMT",
-   "summary": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
    "source": "reuters-markets",
-   "title": "Most Gulf shares close lower as Saudi-Houthi fighting rages on",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3ZBWG5tbkZvcXJFc2xkcEs1SmhEcHAybDM1ZGN0T0ZCN3BIcTFyaF9laXlEYVA2N2ZsUmJjcmgxaS1aVW5jdFZSOFZrc2JnUWFJaFRwR25QS0pob0RTT0lONlJldzVxOFlidThrdm8zTVU4X1l4dFRPVUY5R0ZuX05aX2pibWg2VlNLUmlaVmFaWDg5bDlMQUVFWTh2bnZ3WFJ4MzA1RWVDMEtKOEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 25 Oct 2026 13:20:32 GMT",
-   "summary": "Most Gulf shares close lower as Saudi-Houthi fighting rages on &nbsp;&nbsp; Reuters",
+   "title": "Asian shares make cautious start, Brent eases from six-month high",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 26 Oct 2026 00:46:00 GMT",
+   "summary": "Asian shares make cautious start, Brent eases from six-month high &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,10 +412,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Johnson & Johnson's prostate cancer drug shrinks tumors in early-stage trial",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 24 Oct 2026 08:18:18 GMT",
-   "summary": "Johnson & Johnson's prostate cancer drug shrinks tumors in early-stage trial &nbsp;&nbsp; Reuters",
+   "title": "Most Gulf shares close lower as Saudi-Houthi fighting rages on",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3ZBWG5tbkZvcXJFc2xkcEs1SmhEcHAybDM1ZGN0T0ZCN3BIcTFyaF9laXlEYVA2N2ZsUmJjcmgxaS1aVW5jdFZSOFZrc2JnUWFJaFRwR25QS0pob0RTT0lONlJldzVxOFlidThrdm8zTVU4X1l4dFRPVUY5R0ZuX05aX2pibWg2VlNLUmlaVmFaWDg5bDlMQUVFWTh2bnZ3WFJ4MzA1RWVDMEtKOEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 25 Oct 2026 13:20:32 GMT",
+   "summary": "Most Gulf shares close lower as Saudi-Houthi fighting rages on &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "China urges US to halt proposed expansion of outbound investment curbs",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 24 Oct 2026 13:51:55 GMT",
+   "summary": "China urges US to halt proposed expansion of outbound investment curbs &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,10 +452,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Nasdaq CEO flags 'modest softening' in IPO market as macro uncertainty hits debuts",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2tNRmp3a3M1dmlVenEyZWI1YUNVcTZXQlJTeDNrdGpsTXhFQ1NDQURlUDZOZUpvNWtjMGtBb1IyYmNnUVY3MlE1U3o4a01XWDM3WWZnVGltTTBGN2k3akZHb1hTVW52RlhFdEZOclBTSlVOQlp0aGxZdU5PeWR3THRZa2Z1M0R6VVVxT3ZDdWtlc2FfajRUMWRxNWlRb2tMUjRRdkttYlZTSGpja1V3SnRndlEyRVJUZ3QtRVlSRWFMX2I3YXIwa3R3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 22 Oct 2026 16:02:09 GMT",
-   "summary": "Nasdaq CEO flags 'modest softening' in IPO market as macro uncertainty hits debuts &nbsp;&nbsp; Reuters",
+   "title": "Wall Street closes lower to end rocky week",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 23 Oct 2026 23:46:35 GMT",
+   "summary": "Wall Street closes lower to end rocky week &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -459,19 +467,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Wall Street closes lower to end rocky week",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 23 Oct 2026 23:46:35 GMT",
-   "summary": "Wall Street closes lower to end rocky week &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "SoftBank-backed OPay eyes up to $4.4 billion US IPO valuation",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2V6VjJWWjd3dEVHMTdLSnd3S1NldjY4RFVublUtUnJ4WEJiYjY3aDM3MkM5anpCbWJLazRPYTR6NVl6M21BMUJ6ZUFjNW1GODhYVUI0N28wMTU1MFlITzBRRlZEdGprajd6WkpPODh4YllfbUtiVWp2eUNhRXJ5S01yWnloOS02VElpZWNfc2N3U29xTWJN?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 23 Oct 2026 22:41:05 GMT",
-   "summary": "SoftBank-backed OPay eyes up to $4.4 billion US IPO valuation &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 25 Oct 2026 20:05:00 GMT",
+   "summary": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -536,14 +536,6 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 23 Oct 2026 20:06:00 GMT",
    "summary": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 23 Oct 2026 10:03:00 GMT",
-   "summary": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
