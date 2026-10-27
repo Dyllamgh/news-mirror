@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T03:13:09Z",
- "count": 64,
+ "generated_at": "2026-10-27T09:31:34Z",
+ "count": 66,
  "items": [
   {
    "source": "nyt-world",
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
    "url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
-   "published": "Mon, 26 Oct 2026 18:26:54 +0000",
+   "published": "Tue, 27 Oct 2026 03:29:47 +0000",
    "summary": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed.",
    "full_text": ""
   },
@@ -46,7 +46,7 @@
    "source": "nyt-world",
    "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
    "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
-   "published": "Mon, 26 Oct 2026 14:30:53 +0000",
+   "published": "Tue, 27 Oct 2026 06:59:20 +0000",
    "summary": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.",
    "full_text": ""
   },
@@ -62,7 +62,7 @@
    "source": "nyt-world",
    "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
    "url": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
-   "published": "Mon, 26 Oct 2026 13:14:20 +0000",
+   "published": "Mon, 26 Oct 2026 13:14:21 +0000",
    "summary": "The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.",
    "full_text": ""
   },
@@ -80,6 +80,54 @@
    "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
    "published": "Mon, 26 Oct 2026 10:03:40 +0000",
    "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
+   "url": "https://www.nytimes.com/2026/10/27/business/in-anthropic-ipo-goldman-and-morgan-stanley-slug-it-out-for-top-bank.html",
+   "published": "Tue, 27 Oct 2026 09:20:40 +0000",
+   "summary": "Anthropic named the Wall Street firms lead underwriters on its upcoming public offering, a role that will generate generous fees and enormous prestige.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
+   "url": "https://www.nytimes.com/2026/10/27/business/the-fed-is-expected-to-hold-rates-steady-warsh-will-have-to-explain-why.html",
+   "published": "Tue, 27 Oct 2026 09:03:47 +0000",
+   "summary": "Inflation is moving in the wrong direction and the labor market remains stable, a combination that bolsters the case for higher interest rates.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Why Is Halloween Candy So Expensive?",
+   "url": "https://www.nytimes.com/2026/10/27/dining/halloween-candy-prices.html",
+   "published": "Tue, 27 Oct 2026 09:03:08 +0000",
+   "summary": "The average cost of a 100-piece bag has jumped 71 percent in the last five years. Consumers are thinking twice about what they’ll spend.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Holiday Travel Costs Are Soaring. Here’s How to Save.",
+   "url": "https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html",
+   "published": "Tue, 27 Oct 2026 09:02:51 +0000",
+   "summary": "As airfares and gas prices surge, here’s how you can extend your travel budget.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans",
+   "url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
+   "published": "Tue, 27 Oct 2026 09:02:36 +0000",
+   "summary": "Germany’s Neura is one of the companies at the forefront of efforts to use artificial intelligence in robotics, and crucial to whether Europe can close the gap with China.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "U.S. Pensions Are Riding the A.I. Wave. For Better or Worse.",
+   "url": "https://www.nytimes.com/2026/10/27/business/pensions-ai.html",
+   "published": "Tue, 27 Oct 2026 09:02:00 +0000",
+   "summary": "As exuberance around the technology stokes fears of a bubble, the nation’s public pensions are starting to grapple with their role — and their risks.",
    "full_text": ""
   },
   {
@@ -115,59 +163,19 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Musk Is Predicting ‘Guppy-level Death’ for Scores of A.I. Companies",
-   "url": "https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html",
-   "published": "Mon, 26 Oct 2026 13:36:27 +0000",
-   "summary": "Elon Musk sees many artificial-intelligence infrastructure companies being shut out of the debt market, a warning that could weigh on markets.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
-   "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
-   "published": "Mon, 26 Oct 2026 18:44:19 +0000",
-   "summary": "Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "5 Hotels That Celebrate Music",
-   "url": "https://www.nytimes.com/2026/10/26/travel/music-hotels.html",
-   "published": "Mon, 26 Oct 2026 09:01:49 +0000",
-   "summary": "From San Antonio to London, hotels are taking the music theme seriously, offering concerts, listening rooms, studios and more.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Why Some People Are Using Apps to Make Friends",
-   "url": "https://www.nytimes.com/2026/10/26/business/friendship-apps.html",
-   "published": "Mon, 26 Oct 2026 16:56:25 +0000",
-   "summary": "Apps that match personalities — for a price — have surged in popularity amid a loneliness epidemic.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office",
-   "url": "https://www.nytimes.com/2026/10/25/business/media/elizabeth-holmes-clayface-box-office.html",
-   "published": "Sun, 25 Oct 2026 17:16:13 +0000",
-   "summary": "“Clayface” was No. 1 at the box office, but “You Can See Everything,” a documentary about the disgraced Theranos founder, surged in its second weekend.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Caryle Murphy Has Died. She Earned a Pulitzer for Reporting in Kuwait.",
-   "url": "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
-   "published": "Mon, 26 Oct 2026 01:08:42 +0000",
-   "summary": "A Washington Post journalist, she was one of the few Western reporters in Kuwait in 1990 when Saddam Hussein’s forces invaded.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
    "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
    "published": "Mon, 26 Oct 2026 18:08:07 +0000",
    "summary": "Ahead of what could be the largest public listing ever, Anthropic said revenue soared to $16.3 billion in the first half of the year, and it planned to spend $807 billion on A.I. infrastructure.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+   "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+   "published": "Mon, 26 Oct 2026 18:44:19 +0000",
+   "summary": "Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications.",
    "full_text": ""
   },
   {
@@ -188,9 +196,17 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Wanted: Robot-Dog Walkers. $20/Hour.",
+   "url": "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html",
+   "published": "Tue, 27 Oct 2026 09:03:03 +0000",
+   "summary": "No pooper scooper required.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "The Key Numbers From Anthropic’s IPO Filing",
    "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
-   "published": "Mon, 26 Oct 2026 20:21:28 +0000",
+   "published": "Mon, 26 Oct 2026 20:21:29 +0000",
    "summary": "We broke down the A.I. company’s key figures, which give insight into the health of its business, its future plans and who’s in charge.",
    "full_text": ""
   },
@@ -219,19 +235,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-   "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-   "published": "Sun, 25 Oct 2026 09:28:36 +0000",
-   "summary": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
-   "url": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
-   "published": "Fri, 23 Oct 2026 16:00:10 +0000",
-   "summary": "In Ohio, many voters say their frustration about the increase in electricity and fuel prices and the growth of data centers won’t influence whom they vote for.",
+   "source": "reuters-world",
+   "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjdsQURjQ0MxQmgtQVEyTGZiNzFRd1QtY0dsRXowVHhQRVNObEJLV0Vhc0tKQVZDbVp2a2Rmbklod1hURHFhUGVZb2JKRUdxMGxtSmxtcW55aV9fdG40eUhJNHZmUC1HLWlUWTVtekVVYTZqdGsxeEJtbEh5VkVQdFBYRS1rYzBoVVBVOUZtaEtWQ2FEQ3dpYmZyOENnRmZoRFVUT2h3MW9tNXE4a3JYZTY1RjhGUlA0ak5ENHRqTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 27 Oct 2026 03:42:00 GMT",
+   "summary": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,10 +268,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Anthropic's potential mega IPO joins ranks of world's biggest listings",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGdsSFROVFREMW5FMGs1dGlzcXBGZlRlUTVoaUdqek43TzBPUDFFUS00Umd2elBzZ3Zja3VQeThmLTVvajcxcnRnRGJlaW5laF9ZaHBrd1k4akdaLWNyamd6UjVsOExSY2k5b0RxSGtvcnR1VXhKXzMyREc1QUxOd0lRdkVzNm1jOEVJZDVPM0RTTVllQ051N2tCeHZsRnlNQ2dYZGZ2RDctSkJBdjZmN3ZDa2hoQkZ6QlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 19:19:10 GMT",
-   "summary": "Anthropic's potential mega IPO joins ranks of world's biggest listings &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 26 Oct 2026 19:30:00 GMT",
+   "summary": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,10 +292,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Reactions to election victory of Serbia's Student List",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFFtSkZDaktTdnFfWEY2d3JHRlVJbU1GT2cyN054TmtlWXd0VmNha1B6NHp4M2l4Wjd5T2hTaVFuNGxJZllacHFKbkR1THpqYktzYUZkQ3VENDNCdjRjSHVoUUZrOHBkbUM3dVc1NGZaR2ZJTWtlU0ZjREV0QkJ3cENMc2ZONXp5Qng1NzRsdzEwMlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 25 Oct 2026 23:12:00 GMT",
-   "summary": "Reactions to election victory of Serbia's Student List &nbsp;&nbsp; Reuters",
+   "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1p1a2NSeGhUY0p3Q2JMNzRPTmN6SjNWRFRNNlE0bXlnYzFxYWFWdTlfM2xPX0FTZlNWUlF6TUVOakxlMEhSUzhsQi0xWG9TVUhaWlVvbDVkbWVXOV9vLTZ1d2xGRFNWTWQtNi13MzhqTDBYSlVjb2pZQVJCS1hUTUZTR1U4U0JSUGctdGlsR21XVHlYaWxLWThLa19QQ3BGSTlYZGR1c3l1aldIbjE0M1IzY1NZeXNSazRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 25 Oct 2026 22:48:00 GMT",
+   "summary": "Anthropic's Claude accessed Georgia state vote count data behind paywall &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -300,50 +308,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1p1a2NSeGhUY0p3Q2JMNzRPTmN6SjNWRFRNNlE0bXlnYzFxYWFWdTlfM2xPX0FTZlNWUlF6TUVOakxlMEhSUzhsQi0xWG9TVUhaWlVvbDVkbWVXOV9vLTZ1d2xGRFNWTWQtNi13MzhqTDBYSlVjb2pZQVJCS1hUTUZTR1U4U0JSUGctdGlsR21XVHlYaWxLWThLa19QQ3BGSTlYZGR1c3l1aldIbjE0M1IzY1NZeXNSazRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 25 Oct 2026 22:48:00 GMT",
-   "summary": "Anthropic's Claude accessed Georgia state vote count data behind paywall &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 23 Oct 2026 20:04:09 GMT",
-   "summary": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say &nbsp;&nbsp; Reuters",
+   "title": "Brazil runoff election results",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbGYxTWRHbm5VTmdCdTlKNms1WEV5bFhrNFFjQlozb2stb3F0OWRwNWYyTkFRR0pxZW80MlNnQTQ5M0NsNVBLdmF5eWdqc1MwdTl1SEtYYi1Ed2VwV05MOEFoZEhRQk1wMkdhaTN4TnlFdEN3WVZEelRvNnJ6ZXJJNFJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 26 Oct 2026 06:46:00 GMT",
+   "summary": "Brazil runoff election results &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Applied Materials to raise BESI stake to about 20%",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2dSZnVyS01aVkZORzdYTW1QY2VlWDl5aWVOd29uNUJBR0NhVGwwdUU0WG1WZEZJNkFndF9yb1JBMzRYRWpuYXJPYVpOaTV3RzczRVRlSXdtT1lZaTFLcmFPM1YycXZ5SmNoYlU1eVBUMHdQVkVlYjZpMU5TTjJRU3BDUW5SSVEwTWR2STJVa2NjUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 21:35:42 GMT",
-   "summary": "Applied Materials to raise BESI stake to about 20% &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkI1dVc1WGVsRGwyMkZtNFFfR3NpaFR2M2JTQ05POTBkZ29lSVpuelFJVWFCTC1tNEJ3Y0F6YUxHWUJkWjJqcm1KWnhNajVxNk5iUFZuck9ZV0tOVEdxYjlxcG0ycUk5UUlyU3l6bnpJY0NFMDJqcXJ4cWJGeUJRbTV5YTVtQy1CSXlTUmZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 21:47:43 GMT",
-   "summary": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Galp, Moeve scrap downstream merger as Iran war boosts refinery valuations",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUdmRHBJcVJmcko1NVpEVHRETC1hVFI2NFhYLXdvcFBuVFJxRFA3X0FmWWR2ZWFEelRWbHJfdDc5b3RhNFI4SzB1OXBLWkcwbnF0amRmTXJYVXFKa1Z1eFV5T3FZSzV6SWlxUUpMenZ1WG5hbzAybGFWb1luMU10NjVFbHBrM0d3UlEwVWVqanVfLThBTXRNbWxhZ0ZodjZRZHFsTXhkMUVaMVVaaS1xdzJQNXY?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 15:51:19 GMT",
-   "summary": "Galp, Moeve scrap downstream merger as Iran war boosts refinery valuations &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "SpaceX enters $40 billion deal with Apollo for AI chip financing",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVVGd09lcmxpeGpEOEFyaWx0LTFsSG5nQjdDS2d2ZDVyQXpnNjhhVGgyeUh0eXBubTlRYzNWeXF4TmRrTDR4bWkxTVlXb2ZFbnhwdmY4ZnI0Z0d5Y2V1bW9hU0NrVjZnbFhMTmxOaV9ITC1MQXJHMlFtbklQYm1vWkFCLWxvQzJvWHNia09rbUc1NXZya0NYcTd6NGFxLWIzMTExTFNkclNsak9PM1hwc2s4UktHOVpBVmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 13:58:13 GMT",
-   "summary": "SpaceX enters $40 billion deal with Apollo for AI chip financing &nbsp;&nbsp; Reuters",
+   "title": "Morning Bid: All eyes on AI",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FTNEdiYXRpWS1wOU9OM1d6S0ZSZHNXc2p1RDYxRHJHR3dvTTR6QUhPb0ROYUNyeWpTaW1Hb1BUYUlpSnR3NHJ4OGh2eXRYSDFIN0VRVzhoRlRGSC1pUTZWdUdTbDJiNEtaVzBQZmF0R3ZfcThBWnU3OGppcWdGV1QwX2NwMm9JenZKQm1R?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 27 Oct 2026 04:40:00 GMT",
+   "summary": "Morning Bid: All eyes on AI &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,10 +332,42 @@
   },
   {
    "source": "reuters-business",
-   "title": "Buses out, shoppers in: London's Oxford Street goes traffic-free",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmhHLVQtWW5oc0hEcHFSTVdkbC1KWXB1amJYeVYyVTZtcXpZdnBNaTFRb1kzcHk4cFdnLVVDYmZrVU5rZ0V4N2NLR2JwdWh1WHFIZ3UzZkZDN29aR2E5aHBBQ2hacnROLTh4MzU3TW5uZDNycXd3Ukk4QmFZUVF3VTJwcldIQkphekZDczJwdGluSVpUYjk5RGJ2TkJfdWh0MWRJZ3JTc1VnVG5PTkZFckp0SjhUblRwNVRV?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 15:43:43 GMT",
-   "summary": "Buses out, shoppers in: London's Oxford Street goes traffic-free &nbsp;&nbsp; Reuters",
+   "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkI1dVc1WGVsRGwyMkZtNFFfR3NpaFR2M2JTQ05POTBkZ29lSVpuelFJVWFCTC1tNEJ3Y0F6YUxHWUJkWjJqcm1KWnhNajVxNk5iUFZuck9ZV0tOVEdxYjlxcG0ycUk5UUlyU3l6bnpJY0NFMDJqcXJ4cWJGeUJRbTV5YTVtQy1CSXlTUmZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 26 Oct 2026 21:47:43 GMT",
+   "summary": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "HSBC's third-quarter revenue misses estimates, shares slide",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVZVOUw4UjhITVVsZ1psYmQ4Tkwta1lJSGl1OVRkemlLQzJZZWNRXzBEV1NDU0FNR3VyWGh5eE1SR1QyOUlKcWJpSHdRdDltYmxzc0NUX3dEZktFWVY2eUhWcDl4Y2JLUDhtdTJwbUFIckNnUjhiTDR3ZGVBS2VmZXFrenQ5SW1QOTFNUUVhaEdOck9fNml1R05HRkJiOVppV2cxWWxjX21wM2hr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 27 Oct 2026 04:04:00 GMT",
+   "summary": "HSBC's third-quarter revenue misses estimates, shares slide &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Galp, Moeve scrap downstream merger as Iran war boosts refinery valuations",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUdmRHBJcVJmcko1NVpEVHRETC1hVFI2NFhYLXdvcFBuVFJxRFA3X0FmWWR2ZWFEelRWbHJfdDc5b3RhNFI4SzB1OXBLWkcwbnF0amRmTXJYVXFKa1Z1eFV5T3FZSzV6SWlxUUpMenZ1WG5hbzAybGFWb1luMU10NjVFbHBrM0d3UlEwVWVqanVfLThBTXRNbWxhZ0ZodjZRZHFsTXhkMUVaMVVaaS1xdzJQNXY?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 26 Oct 2026 15:51:19 GMT",
+   "summary": "Galp, Moeve scrap downstream merger as Iran war boosts refinery valuations &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "No pressure from US to cut Russian oil imports, Indian oil minister says",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2RTRUViV01oOW1kdndvVWFsbGFMYzJNRWE1ZjloY19FMGRmUVozY3lQOG5Tck9PbDM4WGJnV0dLSG5CeEtvd3ZXd2NVR0UwbHdnT1FDbTFXczhDVkYwbVpXSVh1T21reUgxNHdXNVFpTkF3cFJiSkRkSlVlUDRrTW9TSzR0WnpmVF9tR24yWnlNUmtuQTNEdUdUc05Xcnd3NjB6OERDQmJ2dHpWRGk5VVRTUmE2QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 27 Oct 2026 06:13:00 GMT",
+   "summary": "No pressure from US to cut Russian oil imports, Indian oil minister says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Hang Seng investment arm to merge with HSBC's asset business, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWZaSjh3c2xTWkJ1T3VzN2JlXzdiRWFvMG53ZHlucXJMcjZveHB0bVFUTEw2NEhteERsOVNiZWhZT3VRT2I5OE9sOVU0UkY3cnVPWmo5XzFHamE1NThXQ0tvVWh5WkZVdklOYng0UjI3ZG1Hb1lUd0xrLTVxaFIwSVhOUkJyY1RBOG9ycHA3OVp2MWtLdHNoZ1FkT0hzMTRwNElFNzdzNXpDM2tzRDVLMVRDUVc1V3FoLTJfTVh2NmFLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 26 Oct 2026 16:22:32 GMT",
+   "summary": "Hang Seng investment arm to merge with HSBC's asset business, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,22 +380,62 @@
   },
   {
    "source": "reuters-business",
-   "title": "Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXJNWmV4Ny1ON2FmYXdrclBkWWdrZXdfX2JHLUdoZ3ZLamJNdHl1NHc3RDk4TWUxZVRZMUN2QTVvMk01Ujk4Wmk2ejZOT3h3UmlWUmp6S0lLVHBSZmVvQ0c0Sm1xYVVMNXN4M2JkNWtKVUpoWEd4YloyWVJBME8tb0htQnhzNzA5V1ZWWlE5cE10a25nNWtxQmc5dDlGdF9MZzRYMllaMHI5eXlINXpCeVJKZmVFRmttRmFQZUtFOTNDNEx2OUlGemNBV1FuLUNDdWdFZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 14:01:23 GMT",
-   "summary": "Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS &nbsp;&nbsp; Reuters",
+   "title": "Chinese beauty brands, flush with success at home, start to vie for global shelf space",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd29zTzc4XzJ1dmVYNkJkaVUxMERuVUhjRGZWWUI5RURGV3BxWWw1S1BHODlpS0xFOWotenNSMHQyMHJtVDVkNHdYb3FtbnpSMWE0WXNKLVJBLUxtQ08zc3VvY0Y0WVhxbklRVFlSRFJJVU9XTzdhcTRBSVBRcUtJVkhNaElrU0lJTGJZc2YxeWFOV1QzaE5tQ3pSZFB1MFhCa0dsUERmQ0dYbm5lX3hGX0Z2ZnpBay0tQ0R6TVZQLVJ4OXpEUkkzU2hyam1mQXBS?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 26 Oct 2026 08:07:02 GMT",
+   "summary": "Chinese beauty brands, flush with success at home, start to vie for global shelf space &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "EU accepts Temu plan to remedy Digital Services Act breach",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVBDRndDRXdkT0ZRcmR4ZEtyTkpoc3ZRd2J5TVJWUlBvdEViaWZJdFB0QjF2cmlDWldEeTd1dDVOZGxfX0t4NTU5b2lvNXoxZ1JzR2NOYUFvalpjU29rTUplTXBoWjRGZzdWdFREXzJabU1BVkJXSVdRT2tFR29iaEh4U040ckNGaDlleFRKZzVPOHpsdWNjME9EaWVCVHlUd05PWWNFS1c0U2xqa1JhZTY2UXFRLWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 16:46:26 GMT",
-   "summary": "EU accepts Temu plan to remedy Digital Services Act breach &nbsp;&nbsp; Reuters",
+   "title": "SpaceX enters $40 billion deal with Apollo for AI chip financing",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVVGd09lcmxpeGpEOEFyaWx0LTFsSG5nQjdDS2d2ZDVyQXpnNjhhVGgyeUh0eXBubTlRYzNWeXF4TmRrTDR4bWkxTVlXb2ZFbnhwdmY4ZnI0Z0d5Y2V1bW9hU0NrVjZnbFhMTmxOaV9ITC1MQXJHMlFtbklQYm1vWkFCLWxvQzJvWHNia09rbUc1NXZya0NYcTd6NGFxLWIzMTExTFNkclNsak9PM1hwc2s4UktHOVpBVmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 26 Oct 2026 13:58:13 GMT",
+   "summary": "SpaceX enters $40 billion deal with Apollo for AI chip financing &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-business",
+   "source": "reuters-markets",
+   "title": "Bond market is a buy right now, JP Morgan Asset Management's fixed income head says",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3VRRFNCaDlHTDliTGZNZ0RPWldLbXpjeWljeVducGNXVTd4VVBoRy1VaVVNX0RlLUM2UFpJQW5wUlMyMmxLZHhiSXkwZXlXU25NekNoMmx3b0hlVjF1RDNSck9GU3VHaFdCYU13OV8xaVVmRWJFbWpsX211VkkwLXBISG9XVG9UdVlCdXVQSlp0OEdpbVc2aENGdXFoQkp4R1dLU0gyc1ZGcGNCeXJabkF6bWpFZkloaU1tZXhheHB6dmVC?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 27 Oct 2026 02:43:00 GMT",
+   "summary": "Bond market is a buy right now, JP Morgan Asset Management's fixed income head says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Asian stocks rise as AI enthusiasm returns ahead of earnings, central bank decisions",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 27 Oct 2026 01:46:00 GMT",
+   "summary": "Asian stocks rise as AI enthusiasm returns ahead of earnings, central bank decisions &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "EU seeks to widen market access to counter trade restrictions, Germany's Merz says",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkZSOUw3U0tLdEdHZUF4ckFzWXBYOTVzSThCRFU4a1B5dWFXSG9jLTNZanJGOXo1Q0ktS3FFeUpJMEpUMkhPOVl0RTVPalVrYlZOS0hGM09ISWxyMmZuVUE0dmp6RTEzZHA1N3BiUHRYbUw4eUw5WTdOZm9ZdWo3ZjBoQ1B4WlVqbVdMYW85TkFSSFY2SFI4MHA1OS1ZX0t6Z191MGEwRUkwOHRxQmtlYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 27 Oct 2026 04:07:00 GMT",
+   "summary": "EU seeks to widen market access to counter trade restrictions, Germany's Merz says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Gold eases on firmer dollar ahead of Fed decision",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 27 Oct 2026 07:47:13 GMT",
+   "summary": "Gold eases on firmer dollar ahead of Fed decision &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "China is back in the bull semen market, but only the best will do",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3E0MjhoMHdkTDZyMktjbVJVY0c1cWNyUmJtN0tTSWRoSkc5WEZHeHZpTzdQSlhqcUE5NHE4M3A4ODFjdHp1N0NYUHhmQWF4b3p0MzZZS1p0MnV0cGJ3am0ySUJMcGJrVEFxejNrODBodTdURUs3MGppUVJHdGZ5Tm81MjZsUzg1b0hBY0p3NVF4WDAwTXpqNUNDbGhaUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 27 Oct 2026 01:05:00 GMT",
+   "summary": "China is back in the bull semen market, but only the best will do &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Analysts forecast Brazil market plunge after Lula turnaround win",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUg5MG54d2NUSzFuSUtIODRNeVdrczFnOXZhMmhfem1Fc1lzdjlGNThiMXBoWkFJYzhQVWdSZDJjQlZEb0RWWFNaNVZGcU8xbVNsbm5KZXl5cnhiNFFoZ1A5ZTdrQkkwMW9lN2Mwc3hlTmx6Q0N4aHhSbUM2eUpZMTJITFI2cjgwR3hicDBhenlJWDlEbEhqSlEwNzNIamdoSUJTajlWcU4zSmVI?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 26 Oct 2026 15:36:36 GMT",
@@ -396,26 +444,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 27 Oct 2026 01:46:00 GMT",
-   "summary": "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Trading Day: AI light, Brazil flight",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGtjajJzcHA3THZRdGdBS1B0Tm9tZFhzU2ZhdE1ETng2dU1BdDFrckpuYng5YnhHT0g3UkwtWnR5U2RpMWt6OXlMTW53c2MteHZPMHhiNEZ5TnFwbGg4TFU4M3VIME5haDI1dTZSMkdNNzdRUFZSSXJ3Qmt3U3JsRTVmYjVkNGJYNU5Qcmo4VExKSzJac1J3MUl2aXIzSzhDalJaTWtB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 21:52:23 GMT",
-   "summary": "Trading Day: AI light, Brazil flight &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
+   "title": "Meta eyes record $97.5 billion equity raise to fund AI expansion",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 19:07:55 GMT",
-   "summary": "Meta eyes record $95 billion equity raise to fund AI expansion &nbsp;&nbsp; Reuters",
+   "published": "Mon, 26 Oct 2026 11:07:00 GMT",
+   "summary": "Meta eyes record $97.5 billion equity raise to fund AI expansion &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -427,42 +459,26 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Brazil stocks, real tumble as Lula win shifts investor focus",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NwbFFDLVhWTUJuTGZxYkI1YWtMOFNFM29UMndmRUp3V1RzM0wyeTdvS2dzalE3WFRKdUVvWTdpOXVzakNmajA1TFVkX1RmdG5xRmRWUm9pQ1lOMEYwM2tMQVY0emRfdjVWeks3QVBhdWNzVXd4dEN1TE5oc1Q2ZHpOUDE3NmM4bWE0Sk1mS3RSeF9CUUlqdjhkZmJiNFpRWUp3ZTRDb3ZHWkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 04:09:00 GMT",
-   "summary": "Brazil stocks, real tumble as Lula win shifts investor focus &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Nvidia, Meta deepen AI ties with $3 billion investment deal",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 27 Oct 2026 06:08:00 GMT",
+   "summary": "Nvidia, Meta deepen AI ties with $3 billion investment deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Israel markets see upside in potential Netanyahu defeat after three-year rally",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXJIajdRV1c5bHF6T191cVFwTWxIUjhibThXYWJUQ3J4LWctRFR3THZpQ09OcG9adG93MTJPdHdxb1psaVpvU2RhMzNwR00wNm91RlozRW9QRHFLYXg4aW8ybzRDUWc3c1pXRng2RU02bmp1bVhld3hBMmViUW9CRy1MS0x3TUJCTm4yZUVERVVQcXhmandmTVVabzExTnRwQmowZmQwa2cxRktqWWF5UTNIY282QWFXOXZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 03:01:00 GMT",
-   "summary": "Israel markets see upside in potential Netanyahu defeat after three-year rally &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: Nice earnings forecasts you have. Shame if something happened to them: Joachim Klement",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNME92MEFjQ2FZazN4di1xaHljdUF4RC14cnFHSVlVYUFsM0IwUEJaZXExc2VsbFhEOUhZT1FUaUVCVllXM1k5UVVRSlZoaEEtQzM1TFFPaHZUdExJYWRpS21xd2ZkRjM1RHZCMlhndkVsQjJfZHg1X0lHbmd2b1R1QW11RVRydnVDZlM0UjFWUGtSWWJWLVMtdVE2aGtxWVVJTzJuLWNaajFPcjJKXzJfTjY0WUtvR1Nlalk0N3g0MWotZ1c2cnBPaHNFaXhUOXQtSEJHZzRHOVl5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 13:01:35 GMT",
-   "summary": "COMMENTARY: Nice earnings forecasts you have. Shame if something happened to them: Joachim Klement &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: Morning Bid: Lula land",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWVYeFVxMTM1WVNDNnRxTzB5V1V4bXBvWEVTMmt6TGtrRVdWNVhNTDg0SW02aGpNVVUtb3JkSGdoNlV6Tl94U0hFWHphQlBwVG9ncldYWUhEZmZkckM0X3owTHhYS1phNy1LZnliZUlaanY2c1VUcUtoSkwycUZXZDFvV2JNZTBsb0ZfazJXLXRybFlLWERR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 10:40:24 GMT",
-   "summary": "COMMENTARY: Morning Bid: Lula land &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "China's lab-grown diamond makers target AI, chip sectors for next wave of growth",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGJjWTFGMk9ycWp1UHQwZWwtZWVkU25QRmg2NzVIVkpUdXhvR3dtTjNtY3FCSkJacUtkbE9vOGItMlRtaGduTm83Y1lkOUtOT09SanAxOWhQd2IzTGRpYmpIUVhhcmV4YmtvR3A4VFJ1dEJscVVHYVl1QzJRYkVzLTBXRXI0WkFyaHlKUVhEbDZIdFhLT1VaUzhiNEJsX1B2bU85MHVtdkhhWmUzbTZOMWFMRnJuNVBnUnRv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 26 Oct 2026 23:01:00 GMT",
+   "summary": "China's lab-grown diamond makers target AI, chip sectors for next wave of growth &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
    "title": "Apple says it will replace iPhone Duo units showing screen problems",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDQ4T2NLV2owRndGNTliYUlmVC12UURXTl93WXE3VTY4eHd2emRWMWxxYkFzQUxxTk9EdjlzMzFDR1JsNWJYR0F4clF5TDM3cTgzZXd0c3REanlXVDJCaXpfNFYyc25IR3RNUXpxZmxWVjFaZDdvTjlqdlc1cEtnRFNLMEppenQtUHpHMVJlankta1MxdUFjdmM5QXBrT3JrcDFCNFZZdHBLVnRhMFBaQVdiVFphbzdBNzNxRHdfNDRFNWp2?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 20:44:02 GMT",
+   "published": "Mon, 26 Oct 2026 20:43:00 GMT",
    "summary": "Apple says it will replace iPhone Duo units showing screen problems &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -472,6 +488,14 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 26 Oct 2026 20:32:00 GMT",
    "summary": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Applied Materials to raise BESI stake to about 20%",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2dSZnVyS01aVkZORzdYTW1QY2VlWDl5aWVOd29uNUJBR0NhVGwwdUU0WG1WZEZJNkFndF9yb1JBMzRYRWpuYXJPYVpOaTV3RzczRVRlSXdtT1lZaTFLcmFPM1YycXZ5SmNoYlU1eVBUMHdQVkVlYjZpMU5TTjJRU3BDUW5SSVEwTWR2STJVa2NjUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 26 Oct 2026 21:35:42 GMT",
+   "summary": "Applied Materials to raise BESI stake to about 20% &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -496,7 +520,7 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 26 Oct 2026 13:05:00 GMT",
    "summary": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test &nbsp;&nbsp; Reuters",
-   "full_text": ""
+   "full_text": "Title: reuters.com\n\nURL Source: https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5&hl=en-US&gl=US&ceid=US:en\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
    "source": "reuters-tech",
@@ -504,15 +528,7 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZrWlJVYTllelhNczNoX2dHZ2pQYk1FTUZtLVNPYUdZUEdEVElSZGpLR0QzWTJZS25DOUNHdXdvakRCcHBLVmxKbFBwVmNXWUhtZllwZ2p5ZzdjdnBUb3ZkOWRmT3VzbUNLQ09YRVVJQk5WSWtncHVkRjZUWlJYbDJ2TzRFM0hEM1YtOHd0c05XaW1GRFJhMU1aZEpzOVJZaU5UQTZCMi1EMExhNnRKRmRmR2gyaGZq?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 26 Oct 2026 17:22:18 GMT",
    "summary": "Cadence unveils suite of AI models that chipmakers can run in-house &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWx2akllRU5PaXFQc1RpYXNpX0g1czVlak9RcmVyenpqeUstcklpemh0M3RzRWhBdGVFd3VFU0w0aGZtUjI2NXdJRlF3dkwxX1ctUUxjSXpnSGh0bG05UG1iMmQ0OG05cHVpWFV4VGdsTlFBQzJoTGk4QlhuQkpWRzh0NjZGa1JIVzJGUE40QnZRMl9JQ3Y4aEl6eFFFRXVSTDIwSWRwQlBhSkphN0ZTNF8yMkl5d2VNeVpnVmFScENpMm9GQkpKVjhRdGxPNm1T?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 26 Oct 2026 07:16:35 GMT",
-   "summary": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML &nbsp;&nbsp; Reuters",
-   "full_text": ""
+   "full_text": "Title: Google News\n\nURL Source: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZrWlJVYTllelhNczNoX2dHZ2pQYk1FTUZtLVNPYUdZUEdEVElSZGpLR0QzWTJZS25DOUNHdXdvakRCcHBLVmxKbFBwVmNXWUhtZllwZ2p5ZzdjdnBUb3ZkOWRmT3VzbUNLQ09YRVVJQk5WSWtncHVkRjZUWlJYbDJ2TzRFM0hEM1YtOHd0c05XaW1GRFJhMU1aZEpzOVJZaU5UQTZCMi1EMExhNnRKRmRmR2gyaGZq?oc=5&hl=en-US&gl=US&ceid=US:en\n\nMarkdown Content:"
   }
  ]
 }
