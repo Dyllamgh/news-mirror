@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-11-02T19:56:53Z",
- "count": 65,
+ "generated_at": "2026-11-03T01:57:59Z",
+ "count": 64,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
+   "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
+   "published": "Mon, 02 Nov 2026 20:50:14 +0000",
+   "summary": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Why Orban and Vucic Broke With Trump on Election Denial",
+   "url": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
+   "published": "Mon, 02 Nov 2026 16:48:13 +0000",
+   "summary": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "Russia Senses Opportunity in Polish Political Turmoil",
@@ -12,17 +28,9 @@
   },
   {
    "source": "nyt-world",
-   "title": "Why Orban and Vucic Broke With Trump on Election Denial",
-   "url": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
-   "published": "Mon, 02 Nov 2026 16:48:12 +0000",
-   "summary": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
    "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program",
    "url": "https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html",
-   "published": "Mon, 02 Nov 2026 19:14:50 +0000",
+   "published": "Mon, 02 Nov 2026 21:01:03 +0000",
    "summary": "The decision is the latest measure taken against the country, which the administration has accused of discriminating against white people.",
    "full_text": ""
   },
@@ -30,15 +38,15 @@
    "source": "nyt-world",
    "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
    "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-   "published": "Mon, 02 Nov 2026 19:01:04 +0000",
-   "summary": "Iranian officials spoke of some progress in negotiating to reopen the strait, a vital oil and gas shipping lane, even as they prepare for all-out war.",
+   "published": "Mon, 02 Nov 2026 20:25:34 +0000",
+   "summary": "Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
    "url": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
-   "published": "Mon, 02 Nov 2026 18:32:11 +0000",
+   "published": "Mon, 02 Nov 2026 20:30:58 +0000",
    "summary": "Party leaders will make competing cases to the Israeli president for either Benjamin Netanyahu or Gadi Eisenkot to get the first chance to build a governing coalition.",
    "full_text": ""
   },
@@ -54,7 +62,7 @@
    "source": "nyt-world",
    "title": "Up in the Clouds With the Pope, It’s Still Commercial",
    "url": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-   "published": "Mon, 02 Nov 2026 11:49:16 +0000",
+   "published": "Mon, 02 Nov 2026 21:26:15 +0000",
    "summary": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
    "full_text": ""
   },
@@ -70,39 +78,47 @@
    "source": "nyt-world",
    "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
    "url": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
-   "published": "Mon, 02 Nov 2026 05:01:07 +0000",
+   "published": "Mon, 02 Nov 2026 21:46:45 +0000",
    "summary": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "India’s Congress Party Holds Mass Protest in New Delhi",
-   "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
-   "published": "Sun, 01 Nov 2026 16:51:34 +0000",
-   "summary": "Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.",
+   "source": "nyt-business",
+   "title": "William Nordhaus Has Died. Nobelist Influenced Climate Policy.",
+   "url": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
+   "published": "Mon, 02 Nov 2026 23:13:58 +0000",
+   "summary": "The Yale professor moved climate change into mainstream economic analysis.",
    "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
+   "url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
+   "published": "Mon, 02 Nov 2026 23:10:20 +0000",
+   "summary": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment.",
+   "full_text": "The Trump administration is preparing to scale back workplace accommodations for women related to pregnancy and reproductive health, seven people with knowledge of discussions of the plans said. The moves will limit the impact of a 2022 law that was meant to fill a gap in disability and discrimination protections that employees are guaranteed at workplaces. It was intended to provide accommodations for pregnant workers, such as bathroom and water breaks, reprieves from heavy lifting or time off for prenatal appointments. But the scope of the regulations under the law, known as the Pregnant Workers Fairness Act, has been debated since their drafting. Conservatives, even some who supported the law, said the rule that the Equal Employment Opportunity Commission wrote to apply the law reached far beyond pregnancy to cover matters including abortion, fertility treatment and related procedures and conditions it was not meant to protect. Narrowing them would fit with other efforts by Andrea Lucas , the E.E.O.C.’s chair, to roll back what she has called the liberal excesses of the Biden administration. The E.E.O.C. has targeted corporate diversity, equity and inclusion programs, abandoned some discrimination cases and stopped enforcing workplace protections for transgender workers. It is of a piece with a suite of executive actions that are remaking the American workplace by halting enforcement of sexual harassment rules and encouraging fewer mothers to work outside the home. The E.E.O.C. plans to publish the proposed narrowing of conditions eligible for accommodations as soon as this month."
   },
   {
    "source": "nyt-business",
    "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
    "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-   "published": "Mon, 02 Nov 2026 19:49:51 +0000",
-   "summary": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlight the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+   "published": "Mon, 02 Nov 2026 21:28:04 +0000",
+   "summary": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
    "full_text": ""
   },
   {
    "source": "nyt-business",
-   "title": "He Pioneered a Groundbreaking Idea. And Was Met with Corporate Wrath.",
+   "title": "William Nordhaus Pioneered Putting a Price on Pollution",
    "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
-   "published": "Mon, 02 Nov 2026 19:48:00 +0000",
+   "published": "Tue, 03 Nov 2026 00:27:42 +0000",
    "summary": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement.",
-   "full_text": ""
+   "full_text": "Long before climate change entered the vernacular, the economist William D. Nordhaus had seized on the idea of taxing pollution as the most effective way to combat man-made global warming. Dr. Nordhaus, who died Friday at 85, spent his career championing the idea of a tax on carbon dioxide. Putting a price on planet-warming pollution, he contended, would slow down climate change and could be achieved without severe harm to the economy. His work helped inform government policies around the world, and in 2018 he shared the Nobel Prize in economics. But Dr. Nordhaus faced powerful adversaries who ultimately curtailed the influence of his ideas. The fossil fuel industry, which would have absorbed the costs that Dr. Nordhaus proposed, vigorously opposed his work and commissioned reports that attacked carbon taxes. “What economists did not take account for a long time was the enormous political interests that were lined up to fight any kind of climate policy,” said Gilbert E. Metcalf, emeritus professor of economics at Tufts University. “Basically, the fossil fuel industry had a lot of money and they spent it wisely to block any progress in this area.”"
   },
   {
    "source": "nyt-business",
    "title": "Trump’s Tariffs Are On the Ballot in Michigan",
    "url": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
-   "published": "Mon, 02 Nov 2026 17:48:42 +0000",
+   "published": "Mon, 02 Nov 2026 20:05:13 +0000",
    "summary": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach.",
    "full_text": ""
   },
@@ -126,7 +142,7 @@
    "source": "nyt-business",
    "title": "Martha Stewart Apologizes for Homeless Halloween Costume",
    "url": "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html",
-   "published": "Mon, 02 Nov 2026 16:29:24 +0000",
+   "published": "Mon, 02 Nov 2026 20:54:59 +0000",
    "summary": "Stewart, the media mogul and entrepreneur, had posted a photo of a costume with tattered clothes and a sign asking for help.",
    "full_text": ""
   },
@@ -147,22 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Disneyland’s Autopia Ride Will Switch to Electric Vehicles",
-   "url": "https://www.nytimes.com/2026/11/02/climate/disneyland-autopia-gas-electric.html",
-   "published": "Mon, 02 Nov 2026 17:00:26 +0000",
-   "summary": "The gas-powered engines in Disneyland’s Autopia ride weren’t properly certified. The little cars will be replaced by E.V.s.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
-   "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
-   "published": "Mon, 02 Nov 2026 10:02:16 +0000",
-   "summary": "States like Saudi Arabia and the United Arab Emirates that have worked to rebalance from a dependence on energy have seen growth plunge in a year of strife.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
    "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
@@ -180,9 +180,17 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
+   "url": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+   "published": "Mon, 02 Nov 2026 23:41:50 +0000",
+   "summary": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
    "url": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
-   "published": "Mon, 02 Nov 2026 18:48:03 +0000",
+   "published": "Mon, 02 Nov 2026 18:48:04 +0000",
    "summary": "Marvell and Lumentum said they were combining, in a major bet on a technology, known as optical networking, that is increasingly being used in A.I. data centers.",
    "full_text": ""
   },
@@ -211,18 +219,18 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "AO3 Fan Fiction Site Is Hacked and Could Be Offline for Weeks",
-   "url": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
-   "published": "Sat, 31 Oct 2026 21:04:43 +0000",
-   "summary": "Home to tales inspired by the likes of “Harry Potter” and “Heated Rivalry,” the archive was taken down after “an intrusion,” one of its founders said. It could be down for weeks.",
+   "source": "reuters-world",
+   "title": "AJ Products cuts world championship sponsorship following Russia ruling",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS216TWF4UFppampwQXRkVF9sVnlSTmxYMjZ4N1NJSlo0cGgwLWNaRmoxS3l0NjBZc1ZmY0J5NFFmT2pSX3RqZzBwWUJrNTJOOUhMWnhRcDFzTHR1RUJfdkN6M24tbDdOSmV6QU41Xzd4TFZDek51TnZQRDlIbGVId2t2N1NSc2ZGZGpucFoyb3JrTXhlRmJ1bUQ4RjFEbWhaOVJDY1FjSFhpVWJ1aUZRMV95M18?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 16:03:06 GMT",
+   "summary": "AJ Products cuts world championship sponsorship following Russia ruling &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
    "title": "UK adventurer returns home after 28-year trek around the world",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnVVTkNTbVVjOUJBUVFXWU5CeUM5SnRxNWgwVkptbkJZUE4wMWh2UUo2WXVkaE5odEJ0emFqYndOVHhlZXdaVUxsZnhHbVdOOVAyS2FhNC12ZnlldHpIMlM2MDhzSWdxWTlDRDFtS3F4aDMxcUx1ejE5TURQRG5CeVhSMkhNWUp5Y3h6Q3gzS3M5eTd4Vk9janVYaDZLZ3kwMlJlNnc3YTVjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 15:11:43 GMT",
+   "published": "Mon, 02 Nov 2026 18:58:51 GMT",
    "summary": "UK adventurer returns home after 28-year trek around the world &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -232,14 +240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFJFQUd0MGpUMUdubkFVLWwzTHgwWmc1dlhDMzBWWjVYVnJGbTFiTndMWk9IclpjVWljUWlGTy1xUUN3VVRCLWRNeFluRGxQc3dFek52dVhvMU4zTGwtRDJtZWdDRnJRRFd4eUZiWDQtUnpkeFFOc1FRb1pJQ3BQNmptTDdKa0FWek5zSjdQcC1IcUZMTk1xNzdFQS1mQTd2WW11MmlGMTBIMmhyYURMVjltNmVWNi1Bc0JTLXhnTGg5TXk3YzYtb3Y2VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 02 Nov 2026 06:38:00 GMT",
    "summary": "World's energy supply buffers have been eroded, ADNOC CEO says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "AJ Products cuts world championship sponsorship following Russia ruling",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS216TWF4UFppampwQXRkVF9sVnlSTmxYMjZ4N1NJSlo0cGgwLWNaRmoxS3l0NjBZc1ZmY0J5NFFmT2pSX3RqZzBwWUJrNTJOOUhMWnhRcDFzTHR1RUJfdkN6M24tbDdOSmV6QU41Xzd4TFZDek51TnZQRDlIbGVId2t2N1NSc2ZGZGpucFoyb3JrTXhlRmJ1bUQ4RjFEbWhaOVJDY1FjSFhpVWJ1aUZRMV95M18?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 16:03:06 GMT",
-   "summary": "AJ Products cuts world championship sponsorship following Russia ruling &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -256,6 +256,14 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 01 Nov 2026 23:08:00 GMT",
    "summary": "China's robot makers have mastered the moves. Now comes the race for brains &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "FIFA to grant access to documents from scrapped World Cup sell-off plan",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEFzck4wYnU2RWM0ck1venJSdVVCYWxJZV9kLWJ1emdldXRTVDJjZ2dGZmRUMHk5cmxIR3VBR09Yd0pzUWNKcmNVRm1hbDF0dzRlaHZPZmJMajI3TTVvcVVoRVRtVVc4TXdoQ3dTdXBpZmwwYWJBQkdLd2phT0J5VXMwWkxCQThPUTdSMmFTZEEyUkpBOUhDZTZ6TkUtNjJSeHNKb3hpbGNVU053b0g4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 20:21:19 GMT",
+   "summary": "FIFA to grant access to documents from scrapped World Cup sell-off plan &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,34 +292,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Bulgaria elects Iliana Iotova, ally of PM Radev, as its first female president",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjN2Q2FvbFlwQ1R1Y1h0T2sweW5XdmFzLThZS3JLWE5HRnoxdTFoc3VQX09hNy05NGcxeXhzblBkd0JEc0tkOUM5YVkzTkVRZzRBVDQyNFNXekVXeVhhRjJjWGhpM3BHZVpjbTd2UFRhQzJlVGdmSzhmSGRwNXRPRFNzYVNUZXh4V3lSVmVIdVRmVVJjTWRraVl6SDRqN0gwNEliX0tEcjVMLU9ZeG1LMEZUajM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 06:42:00 GMT",
-   "summary": "Bulgaria elects Iliana Iotova, ally of PM Radev, as its first female president &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Formula One's youngest world champions",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUF9TMng4UmtjSWlzeVczQUU1Wkk3b00xOGJmaXc3WlBMSXRyQTdSUFlBd0lBVk11OGN5MnhrSFo3NFo2Y2dVdW11N001YmlIWWU1b3FENGxWUGgtRUNFSUU4ajBWaTRzeFJwbVR3bXFoVTRLUk5PZGtOTkpmTkNjc2JCMmIxR3N6dGVQS1FqMWhQT2s?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 01 Nov 2026 22:58:13 GMT",
    "summary": "Formula One's youngest world champions &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "EXCLUSIVE: India moves to resolve Scotch tariff dispute under UK trade pact, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejNZeU16MndWU3VSckp3bDJ4YXgzQ0Rnb1Ftb2daeWRlVHZsQkxjY2U4ODVvRUJrM1VtMXl6UnQ5STlfcFVtYzF1YnpCaUZfWExkLUhkaEU4SFE4T2tQRHZoN3J0QVBUbUtCSThZcF8yYVJCbndSeFFVTjZCa0Y3RE5iUS1hUUM4d1dIQjRvVlZMNFViTWd4cllEVmdHWTJfQ0x5Tjk5SzlDeUtmMXRfM0hsSm9TX294dTJv?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 14:25:44 GMT",
-   "summary": "EXCLUSIVE: India moves to resolve Scotch tariff dispute under UK trade pact, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "India's Reliance posts best day in over six years as oil business, Jio Platforms lift outlook",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 03:50:00 GMT",
-   "summary": "India's Reliance posts best day in over six years as oil business, Jio Platforms lift outlook &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,10 +316,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "China factory growth slows in October as export orders ease, private PMI shows",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3hYd093Mlc3ZWdMZkdpTE13RXFjUTNHbU1VaV9DU25MamJmd2dTYVZEakladUp6OFZWZUtNdlNlb29KTmRBZS1VZm1GV1JBT1Z2UGhMT1pLVi13SmNOZkQ4M3k3cl84S2daZGtrcEE3UXJZOXZ3ZEoxRGRXQmFyV0hhUzF0ZE9DODduOWZKY0VpemEwYWsxeTRlTm1VR19kWGhvc2NLUUVfbHUxTFNKdFZrVWVfa3hlTG5vT3JhZkRyMnJx?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 01:49:00 GMT",
-   "summary": "China factory growth slows in October as export orders ease, private PMI shows &nbsp;&nbsp; Reuters",
+   "title": "India's Reliance posts best day in over six years as oil business, Jio Platforms lift outlook",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 03:50:00 GMT",
+   "summary": "India's Reliance posts best day in over six years as oil business, Jio Platforms lift outlook &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US construction spending tumbles in September",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01aRVpGZE5DcEJCR3Rlb2VxSG1SWWFPNHhHejFFV04xU0Z3X21nZ1lGaEtpYW84MzFBMEpmX1JRWHAwLUUwTENBYmpxUVVGMW1BM25oVWVybDVmQjF2djA0X2ZJcTMzbV9LR0NRdXFEM214Y2JJMlRzUTNkLVR6VWNzRVljb1F0ZG55c2UyQjE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 15:36:10 GMT",
+   "summary": "US construction spending tumbles in September &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "At 'China's Hollywood', visitors become stars as consumers spend more on experiences",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFBDT2ZyV3JPVmlaUFhIYVgyN0NGUmpUV3pkWTFscXc2Q0Yza1pnQ0l2NlNpWmxXOE1vdUdBR0RYNDJLSVdvZ3FQYk1CdEtLVTZhQjVrOXNybnE3ZS1NT2hyeUlkbEtFYkdZcnRRT2xYYXp4OFJZSC1PSlRkYVgtYzZueGRpS0NPQVdvVEhZaV9DUy1vaFJBWXc4T1RJZGNsalQyVFpqQzRzRGhRM3B5eExGWXdmVlZjWlE2RXJqN3NWQ295VUQwMmJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 07:08:00 GMT",
+   "summary": "At 'China's Hollywood', visitors become stars as consumers spend more on experiences &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -350,16 +350,16 @@
    "source": "reuters-business",
    "title": "Bangladesh sets up wage board as garment workers' unrest shuts factories",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjhSamRicmVUSnUzRXhIZmkzVC1pVlhFWk1MRGFiM0VpOW9WTHRUQmd0a3BobkV3cUwxeHpzSkNLQWVmUWowb1BTTjE4MUlvaThta2YtaWZDUHpSdkxHZUtXNFhFQjlZMTNCM050QXJrc2FIV2JOVjNkWTFHZGE1bjMxek9PX1dEeWJiNDZNcWlhNDVOd1hoZ01DYXByQThDTEZqckVCeWVWQVIzVVNiV0lSNHhFVTdNdmh3TmtGT2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 01 Nov 2026 14:51:53 GMT",
+   "published": "Sun, 01 Nov 2026 02:58:00 GMT",
    "summary": "Bangladesh sets up wage board as garment workers' unrest shuts factories &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "Intel on course for worst day ever, triggers global chip rout",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2NqOERFZ1pGS25NV2RwTVlCSUVMbXdBQ0QxRzlmWTdWd3EzT2N6YUo4QVNHanQwUC1aRHdqcmtOeWdDUGpQcTg1X1pFWDdydHhyQWUzNnVUQk9Tc3h1Z29WbWxHa1VFZmdod3Z6bG1LNzkwQ3h2a3ZHdlA5cEF4X3d6LVdCUEVEc0RkVTNYcG5IQmlZcy10cmhDSmxDcndVeGFtUURSOXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 30 Oct 2026 20:50:09 GMT",
-   "summary": "Intel on course for worst day ever, triggers global chip rout &nbsp;&nbsp; Reuters",
+   "title": "Cursor says up to 5,000 users affected by tampered Claude Code extension",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSE5Sd2ZzblVoTHk3cWowdjBHOUlGQ25obHhuSkoyell3S2JWTUxqeXFFRnBMbTVaOENobjFKVFJXT0VhQi1VSzVBX0dSM3N5SGJ4N2VWSjhnX3NCQlJsSmdTX1RmSlpEeHN0NFFXVll0MzZRV1lfbUpkcDZ1dk9xQXpSWHBVUVJiMDJCYXgtMmlxMnQ1a2dxcmxBZlFBcTY0SUZMYXZyeHNZX3o1ejRUbkxmN3JqRlYtSnNCRnFiZkswLWx4S2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 30 Oct 2026 21:58:34 GMT",
+   "summary": "Cursor says up to 5,000 users affected by tampered Claude Code extension &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -368,22 +368,6 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWWlKcXhtLUoxbjVhMVRzSGJVQnM3RVh2NlJJOS1ReFA1WEJBUzhORUtPczhiRHphbzE0aWNZdFF4QUE3MFdxNWo4VUpWcGJRR2stN0szcnNJa0p4OWM5NXZlX2p0QWk1OWZBREJURS1YWXh1UXEzQm5Gcl9fREZZRW45dU9DYVFHWVp3Qlg0Qk12dUlsM2hPTjZObmlDS2VvR1ViejVPZGc4bkQwV19ISThxdk1VMjU5a21mWHBxMUhGQVVqOHc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 29 Oct 2026 21:55:45 GMT",
    "summary": "Dockworkers at more than 100 ports worldwide strike against arms shipments &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Nine people dead in Learjet crash in south Florida, officials say",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXAwdVdXLUJnR3JHYmUzeFlIQjFKeVB4RmR3QWVoS1F5bVFJaXpaN0JFS05hTFV2THZCUlgtY1JMS2lmWHMxdWNxMWRQRldTZThyZUdJSmJrMVhpRWQ2dTcwSFQ2by1SbXBma1JqckV3U3FtTE9ZZ0ZFN0ZzUHItXy14WTlGY3hwVEU5T0k4TEVZbXZCQ2ZaeExtWGpJV2xYRUFHZFE4cldUMVB0VDlWYU1vLXU0T0xnZzZMb1lB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 01 Nov 2026 21:57:00 GMT",
-   "summary": "Nine people dead in Learjet crash in south Florida, officials say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "What the US midterms could mean for markets, AI and the debt ceiling",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 17:10:26 GMT",
-   "summary": "What the US midterms could mean for markets, AI and the debt ceiling &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -396,18 +380,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm5nTThDOUxTZDlERFZrWjg0WllEVktOcXZOWGdDQWtvX3VIQXhaWGc5amxQMHdacndmRng1R3pnSko1ZnV5OExhbVVRVGh5c2RtYUw0dmNfODU1NklnbXp1dkx3ZHlpSTAtY01WOGY5SkpFTnRGaXo4OEZ0cVUweTl2bk1hTFFqbC1hM1I1MUVraXdhWVRoTWJkZjJGVDlmSmZEaEs4em0tVkhSUjdRMjlMaU5EQ2M?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 17:16:03 GMT",
-   "summary": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt &nbsp;&nbsp; Reuters",
+   "title": "What the US midterms could mean for markets, AI and the debt ceiling",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 17:10:26 GMT",
+   "summary": "What the US midterms could mean for markets, AI and the debt ceiling &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St rises as oil falls heading into US midterm elections",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnVDQzd0LTF3Vi1BMnJDLWpGaHNIMlJVTDNnVmplMzZnVjRxRTZUUTRsQkVvZ21EN3lXMzA4ZDJnOTQwc01ld2tqT1pGZVN6VmpuVWpzLVVMUU1qcDdnRFdEQUZoM0l6Ym9NYnhfWDctWkZnSC1fLUk0RGxtUmd3WU9zLXdhcTdGTkJvcUxaazZKZEliVjl3bVBfZldDajJMOXZtVkx0NVI4YWlwMkVFbXpMR0ZGQW9wOWxEcTM3QThSdk1fb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 17:09:43 GMT",
-   "summary": "Wall St rises as oil falls heading into US midterm elections &nbsp;&nbsp; Reuters",
+   "title": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm5nTThDOUxTZDlERFZrWjg0WllEVktOcXZOWGdDQWtvX3VIQXhaWGc5amxQMHdacndmRng1R3pnSko1ZnV5OExhbVVRVGh5c2RtYUw0dmNfODU1NklnbXp1dkx3ZHlpSTAtY01WOGY5SkpFTnRGaXo4OEZ0cVUweTl2bk1hTFFqbC1hM1I1MUVraXdhWVRoTWJkZjJGVDlmSmZEaEs4em0tVkhSUjdRMjlMaU5EQ2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 17:16:03 GMT",
+   "summary": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -420,18 +404,26 @@
   },
   {
    "source": "reuters-markets",
-   "title": "EXCLUSIVE: India regulator backs scrapping long-term capital gains tax for foreigners, sources say",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzZGZDRyZ3dzMWVMcEp4bmVRbGNoRFdhODFvSDFjZmplU1VDRXNleUs1MElLczNVRHN5WS0xc2phWXFZaktGQ1pqelBPbjRfeWRLSFBqajEzRU43bWxpUkZtNVM4VGs0LVVUMzVlbW13X0FGZlJLWWZDZmpscXV4NVBNemxXZ2RhZEozakVfRlNWb3E0MTlEYlhveXRZVHVmeUozNkJ4RjBBQTR2TUt2QnJZajV1SVRMZUEyMG5n?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 06:38:00 GMT",
-   "summary": "EXCLUSIVE: India regulator backs scrapping long-term capital gains tax for foreigners, sources say &nbsp;&nbsp; Reuters",
+   "title": "S&P 500 ends down; Apple dips ahead of quarterly report",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnVDQzd0LTF3Vi1BMnJDLWpGaHNIMlJVTDNnVmplMzZnVjRxRTZUUTRsQkVvZ21EN3lXMzA4ZDJnOTQwc01ld2tqT1pGZVN6VmpuVWpzLVVMUU1qcDdnRFdEQUZoM0l6Ym9NYnhfWDctWkZnSC1fLUk0RGxtUmd3WU9zLXdhcTdGTkJvcUxaazZKZEliVjl3bVBfZldDajJMOXZtVkx0NVI4YWlwMkVFbXpMR0ZGQW9wOWxEcTM3QThSdk1fb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 21:42:18 GMT",
+   "summary": "S&amp;P 500 ends down; Apple dips ahead of quarterly report &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
    "title": "The midterm races Wall Street and other financial firms are watching",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVkpxUklFUTdCSkhiYTVScExzTDk2NGdyN1JtaXh1bjZTb21RZTd2eEs5eGdlSkI2R3VMdzZITk55NUg0VEkzM0MxQ2lFajFSVXdob052ZG5JWU51eUlRV3dTMEZYNjUyNEtCRG1GMjFHQ1pRSEVQX2lsalJIUHM2R05wTHBvbTZqUU9GU1QzU3RMclU3dlpQODViTzhDTXB4Slc5SGdheHVmZkNMOVFMYkhGQzg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 17:19:38 GMT",
+   "published": "Mon, 02 Nov 2026 21:28:30 GMT",
    "summary": "The midterm races Wall Street and other financial firms are watching &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "EXCLUSIVE: India regulator backs scrapping long-term capital gains tax for foreigners, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzZGZDRyZ3dzMWVMcEp4bmVRbGNoRFdhODFvSDFjZmplU1VDRXNleUs1MElLczNVRHN5WS0xc2phWXFZaktGQ1pqelBPbjRfeWRLSFBqajEzRU43bWxpUkZtNVM4VGs0LVVUMzVlbW13X0FGZlJLWWZDZmpscXV4NVBNemxXZ2RhZEozakVfRlNWb3E0MTlEYlhveXRZVHVmeUozNkJ4RjBBQTR2TUt2QnJZajV1SVRMZUEyMG5n?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 06:38:00 GMT",
+   "summary": "EXCLUSIVE: India regulator backs scrapping long-term capital gains tax for foreigners, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,18 +436,34 @@
   },
   {
    "source": "reuters-markets",
-   "title": "October dive for AI-related shares tests broader US stock market's resilience",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVlEWkkyN3lYZG41WXJvcl9pNWlKYW5VNjdmb1lHYkNGVHpmT1BHLWVDUFQydFNra3JIeVlfVFh5ZzhoTzRfMVdwZ2didmtGZ0hGZDN6ZmtTbUk5b2lIb3JfZ2poRld3R1BCM28zLUlHUnlZcHJQMXp3S01PTGNBSmxRN1pYMThUZXQtbHBHaU5CWnhTMFF6VTFidG05QzdQTnVJYmJiZl9YQTFxX3ZhWExjN0NZOUpTWjFTaUh5WUFSem9MdW1Z?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 17:08:44 GMT",
-   "summary": "October dive for AI-related shares tests broader US stock market's resilience &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Gold rises over 2% from one-year low on softer oil prices; US midterms in focus",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 02 Nov 2026 05:04:00 GMT",
    "summary": "Gold rises over 2% from one-year low on softer oil prices; US midterms in focus &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "COMMENTARY: Morning Bid: Apple's healthier core",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1RoUHBhYnYwYi1KLVFaNlMxbHJTTmhXd2Y3bHlRbm1GSkhiLUF3emxWdXVYSVZmOUdXMXEyb1lmX0xvTHJoUUl4NkdXODNndmVCMV9KTXZOVlowQmRZaDFNTkt0TTlINi01M09jZ0dYdHB3RWRxZ29aTElJbkpIc3p0VHpoaHZWZ1RHbTRadDJESjlVOXJZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 12:28:37 GMT",
+   "summary": "COMMENTARY: Morning Bid: Apple's healthier core &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "How Marvell and Lumentum stack up in AI's optical race",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY0EtTnBrY0l4V2ptTHA2b3lzaE9vdU8tdkZUVVFuTV9zeWhIUTI0dFlBckFRcG5lbXloTmxTazFJc1VrZXd6dUhqRW1Xc255M2dFWG9ENFRmdU5mMHRnYWhFN1JET1hFV3lKd0RxWnBGcVpnV3FmZV9FWnlReE9pdTh6VjhfTzNBX0g5N21yMEM1T1Bxc1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 18:43:32 GMT",
+   "summary": "How Marvell and Lumentum stack up in AI's optical race &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Snap settles with two teens during trial testing claims social media caused depression, eating disorders",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWlaZ3pFczZyTTFuOFB2ZWlTbXZnZ0RTck5XTnh0b3AtcURJYkJDX202VWN2aWdyaWc1bHdBbWlHbU1RSFQ2QWZEYWRiS0dyOVRQOXZpN3A4ckFoUS1Bamp3bk0zNWpkVVl0ckc3VXZpZGNQR0Q1Z3B6UHlPcFZHTVY4LWlYemVCM3ZKSjExUHBUdzFZbHRGMkt4al9OYUs3b0pjM21RQVlkWkZ0YmZXa3RzcUhES2dXVExOVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 21:29:58 GMT",
+   "summary": "Snap settles with two teens during trial testing claims social media caused depression, eating disorders &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,17 +476,17 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Anthropic's loss shrinks, revenue jumps ahead of blockbuster IPO",
+   "title": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 17:08:33 GMT",
-   "summary": "Anthropic's loss shrinks, revenue jumps ahead of blockbuster IPO &nbsp;&nbsp; Reuters",
+   "published": "Mon, 02 Nov 2026 14:50:00 GMT",
+   "summary": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
    "title": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 18:41:14 GMT",
+   "published": "Mon, 02 Nov 2026 20:21:51 GMT",
    "summary": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -494,7 +502,7 @@
    "source": "reuters-tech",
    "title": "New cyberattack on supermarket fridges sweeps across Europe",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 17:07:38 GMT",
+   "published": "Mon, 02 Nov 2026 21:37:54 GMT",
    "summary": "New cyberattack on supermarket fridges sweeps across Europe &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -504,22 +512,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 02 Nov 2026 06:40:00 GMT",
    "summary": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazUtcTBWVFNLd21jTk9YOFRDRHoyc2ZuV1haZ21JaUdIei1leFkxVVF5V0JpLXJGdV9raXhrV0k0bU1xM0g5TnR6cTA5dWNFZ3VVVUo1UHVyU3pUUWw0YjFreXNTZ3Q4TXdoazBwT1dxRU52bTkxMXlEbG95LVY1eUlLMGZHUk9hQUd4aVZxWkxMUzBMVmhELWNpaUhSaGR3V19UYy00R3UzMUVkWU80ZHl0aW9URGdlQ19RX2dmZHFreHNS?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 06:25:00 GMT",
-   "summary": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Apple's new CEO Ternus to face first earnings test as memory costs surge",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUl3TDYxM3pONVd4QUM2TVlWdnRRY28tSnNuN1YwT3JibW1hX1hsYTByY3dJcURaLW56QXc3dVU3WlFaOXlLOXJjd09MTVZtNWxKam1WRlh2THFxSHJobUdnc1hQNVJTaDNULTNGcGhMTVg0b2piUDRNdnUwOXhpQ0U1cTI2Zzg1VV94MXhxYmhHdlBJcW04OU9mVHJGVXAxdFpPQVZVUGJNa3h1UmhGM2xTajV3bkJfQnRBeFk5bjZwNGxJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 05:05:00 GMT",
-   "summary": "Apple's new CEO Ternus to face first earnings test as memory costs surge &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
