@@ -1,13 +1,45 @@
 {
- "generated_at": "2026-11-04T04:18:22Z",
+ "generated_at": "2026-11-04T13:36:53Z",
  "count": 66,
  "items": [
   {
    "source": "nyt-world",
-   "title": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
-   "url": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
-   "published": "Tue, 03 Nov 2026 20:57:49 +0000",
-   "summary": "The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.",
+   "title": "Countries Weigh, and Worry About, What Trump Will Do After Midterm Defeat",
+   "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+   "published": "Wed, 04 Nov 2026 13:19:17 +0000",
+   "summary": "Commentators abroad wondered what the president’s electoral losses might mean for oil prices, the war on Iran and the end of the Trump era.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Why Doctors in Thailand Fear KFC",
+   "url": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
+   "published": "Wed, 04 Nov 2026 10:01:48 +0000",
+   "summary": "In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+   "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+   "published": "Wed, 04 Nov 2026 13:18:58 +0000",
+   "summary": "President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role. But his skills as a savvy mediator could be instrumental after an inconclusive election.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
+   "url": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
+   "published": "Wed, 04 Nov 2026 10:23:53 +0000",
+   "summary": "As South Africans head to the polls on Wednesday, Helen Zille, 75, is betting voters care less about race and more about public services in her bid to become mayor of Johannesburg.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
+   "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
+   "published": "Wed, 04 Nov 2026 13:17:49 +0000",
+   "summary": "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.",
    "full_text": ""
   },
   {
@@ -28,26 +60,18 @@
   },
   {
    "source": "nyt-world",
+   "title": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
+   "url": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
+   "published": "Tue, 03 Nov 2026 20:57:49 +0000",
+   "summary": "The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
    "title": "Bomb Threats Disrupt Several Flights Across Europe",
    "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
-   "published": "Tue, 03 Nov 2026 16:22:42 +0000",
+   "published": "Wed, 04 Nov 2026 07:29:45 +0000",
    "summary": "Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’",
-   "url": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
-   "published": "Tue, 03 Nov 2026 22:19:16 +0000",
-   "summary": "The monarch called Britain’s trafficking of enslaved people from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-world",
-   "title": "Celebrating Day of the Dead, High in Mexico’s Mountains",
-   "url": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
-   "published": "Tue, 03 Nov 2026 10:03:31 +0000",
-   "summary": "Over the course of 10 days in a remote Mexican town, dances and processions summon souls in the belief that the dead are never truly gone.",
    "full_text": ""
   },
   {
@@ -59,27 +83,51 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Why Trump Often Mentioned Iran in the Midterm Campaign",
-   "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
-   "published": "Tue, 03 Nov 2026 21:30:27 +0000",
-   "summary": "President Trump has repeatedly reminded Americans of a losing campaign issue just as voters head to the polls. Why?",
+   "source": "nyt-business",
+   "title": "The Business Fallout From a Blue Wave",
+   "url": "https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
+   "published": "Wed, 04 Nov 2026 13:18:36 +0000",
+   "summary": "Investors are already picking the winners and the losers after Democrats glided to a landslide victory in the midterm elections.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Drones Emerge as the Top Killer of Civilians in Sudan’s War",
-   "url": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
-   "published": "Tue, 03 Nov 2026 10:03:19 +0000",
-   "summary": "The weapons have become the No. 1 killer of civilians this year, according to the United Nations, devastating a population already overwhelmed by famine and drought.",
+   "source": "nyt-business",
+   "title": "The New York Times Adds 420,000 Digital Subscribers",
+   "url": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html",
+   "published": "Wed, 04 Nov 2026 12:09:52 +0000",
+   "summary": "The additions in the third quarter keep the company roughly on track to meet its goal of 15 million subscribers by the end of next year, after a slower second quarter.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
-   "url": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
-   "published": "Wed, 04 Nov 2026 01:48:41 +0000",
-   "summary": "Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament. But many Jewish lawmakers are trying to avoid relying on them.",
+   "source": "nyt-business",
+   "title": "CVS to Split Off Pharmacy Business, Ending the Healthcare Conglomerate Era",
+   "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
+   "published": "Wed, 04 Nov 2026 12:43:43 +0000",
+   "summary": "In a breakup planned for 2028, CVS Health intends to split off its pharmacies into a new company, while keeping together its businesses in insurance and pharmacy benefits.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results",
+   "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+   "published": "Wed, 04 Nov 2026 12:14:55 +0000",
+   "summary": "The world’s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
+   "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
+   "published": "Wed, 04 Nov 2026 06:22:18 +0000",
+   "summary": "On TV, the outcome of the midterm elections became clear early on. Pundits celebrated and grieved by turns.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "How the Stock Market Is Reacting to the Midterm Elections",
+   "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+   "published": "Wed, 04 Nov 2026 12:18:04 +0000",
+   "summary": "Global markets fell as the first results came in, but later traded higher as investors assessed the outlook for policy as the balance of power shifted sharply in Washington.",
    "full_text": ""
   },
   {
@@ -112,54 +160,6 @@
    "url": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
    "published": "Tue, 03 Nov 2026 15:27:12 +0000",
    "summary": "Business executives and investors are preparing for a Democratic sweep and the ramifications for policy on data centers, cryptocurrency and more.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "How Broadcast, Cable and Late-Night Shows Plan to Cover the Midterm Elections",
-   "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
-   "published": "Tue, 03 Nov 2026 17:02:14 +0000",
-   "summary": "Viewers will be flooded with options, including 13 straight hours of NBC footage and a continuous livestream of Steve Kornacki and his big board.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "The Soaring Cost of Diesel Is Bankrupting Small Trucking Companies",
-   "url": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
-   "published": "Tue, 03 Nov 2026 20:28:37 +0000",
-   "summary": "For small trucking firms operating with little margin for error, high fuel costs can make the difference between survival and bankruptcy.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "For Iowa Journalist Laura Belin, Covering Politics Is a Constant Battle",
-   "url": "https://www.nytimes.com/2026/11/03/business/media/laura-belin-iowa-political-reporter.html",
-   "published": "Tue, 03 Nov 2026 10:02:38 +0000",
-   "summary": "Laura Belin is an openly liberal journalist in Iowa who has long been shut out by state Republican officials. Now she’s being bypassed by Democrats who favor friendly internet influencers.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
-   "url": "https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html",
-   "published": "Wed, 04 Nov 2026 01:54:03 +0000",
-   "summary": "A law to end surprise medical bills has generated millions of high-dollar payouts for doctors. Health plans are now fighting back by frequently withholding money.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
-   "url": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
-   "published": "Tue, 03 Nov 2026 20:23:22 +0000",
-   "summary": "Saudi Arabia’s state-owned oil company posted a 9 percent increase in third-quarter profit on Tuesday.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "William Nordhaus Dies; Nobel Winner Influenced Climate Policy.",
-   "url": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
-   "published": "Tue, 03 Nov 2026 15:02:21 +0000",
-   "summary": "The Yale professor moved climate change into mainstream economic analysis.",
    "full_text": ""
   },
   {
@@ -236,6 +236,54 @@
   },
   {
    "source": "reuters-world",
+   "title": "International politicians react to Democrats winning US midterms",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkVUcncxLUJqT2dDRWNjUTNjVUh5cmxVYmVRUUJQZkcydUhDcGNkMWdTT0lYTlBTemFEZHF5Zjc2VERfOTFyT0tIcEhFSFo5QzNvTXZlaTNmUDUxY2J4ZFhKeDN4dXlpZmtJMWJxRkVnYjFXNnJZdEM3WGRoUXg3RVlaUWN1dV9wZDE2WHp2ZGJ6MHZUbXlyZXJzT2JPZUZSZEtFMGRqMF95enlWZ2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 13:14:08 GMT",
+   "summary": "International politicians react to Democrats winning US midterms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Family doctors in England to use blood tests to spot cancer early in world first",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 11:17:43 GMT",
+   "summary": "Family doctors in England to use blood tests to spot cancer early in world first &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Binance hackers used fake job interview in $6.3 billion attack",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 03 Nov 2026 14:49:00 GMT",
+   "summary": "Binance hackers used fake job interview in $6.3 billion attack &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "As Americans vote, Trump says US will stop $4 billion in aid to Israel",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 03 Nov 2026 13:28:00 GMT",
+   "summary": "As Americans vote, Trump says US will stop $4 billion in aid to Israel &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "UK adventurer returns home after 28-year trek around the world",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnVVTkNTbVVjOUJBUVFXWU5CeUM5SnRxNWgwVkptbkJZUE4wMWh2UUo2WXVkaE5odEJ0emFqYndOVHhlZXdaVUxsZnhHbVdOOVAyS2FhNC12ZnlldHpIMlM2MDhzSWdxWTlDRDFtS3F4aDMxcUx1ejE5TURQRG5CeVhSMkhNWUp5Y3h6Q3gzS3M5eTd4Vk9janVYaDZLZ3kwMlJlNnc3YTVjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 02 Nov 2026 18:58:51 GMT",
+   "summary": "UK adventurer returns home after 28-year trek around the world &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "World Bank urges Kenya to curb graft, raises 2026 growth forecast",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUEtFcjduei16Z3VXSTZKVGdMSTBSM2J4NlBwd1pnMjdsR3JxNUJDTnNNaVRldTc1Yi1EVmxOQmtNTVg1SVBVOERmRkZQWTFpODNLcVkwWXBmWTMzaHI1dV9QNmNRS01kTGs1cVByS0Y5TUVieXNxU25hU0N0ZExPd1N6OXFOYTVQbVR3eUd2aVNZYVVkejkwOVgwemkwU1BsQmJIS0JieEM5TEdfQlFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 04:03:00 GMT",
+   "summary": "World Bank urges Kenya to curb graft, raises 2026 growth forecast &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Norway, Denmark, Sweden and Czechs refuse to play Russia at 2027 Ice Hockey World Cup",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnE5UmI5TDQzTVRGcmhlazJxd05DSEZ2OEZGOFJkamh5aU9ZWUpvSHJ2MmV3Y1lkUjB3NDhDN3M3c0VBY2N0VlYtZkdhRk1xR05ObUNqVVEySUlRX0x5SnZ1ellKZkx0bWtZbGdWd1M1cV9WYkU0aEtYaW5rOVBDWTZLVFh6Y3Y0V3owV1h2S1oyd0hueXlqYUFzcW5WS21HeFlNd2JEUzdJbUQtYVBDQm9zRU9WX1NjQTRv?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 03 Nov 2026 16:30:03 GMT",
@@ -252,54 +300,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "AJ Products cuts world championship sponsorship following Russia ruling",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS216TWF4UFppampwQXRkVF9sVnlSTmxYMjZ4N1NJSlo0cGgwLWNaRmoxS3l0NjBZc1ZmY0J5NFFmT2pSX3RqZzBwWUJrNTJOOUhMWnhRcDFzTHR1RUJfdkN6M24tbDdOSmV6QU41Xzd4TFZDek51TnZQRDlIbGVId2t2N1NSc2ZGZGpucFoyb3JrTXhlRmJ1bUQ4RjFEbWhaOVJDY1FjSFhpVWJ1aUZRMV95M18?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 16:03:06 GMT",
-   "summary": "AJ Products cuts world championship sponsorship following Russia ruling &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "UK adventurer returns home after 28-year trek around the world",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnVVTkNTbVVjOUJBUVFXWU5CeUM5SnRxNWgwVkptbkJZUE4wMWh2UUo2WXVkaE5odEJ0emFqYndOVHhlZXdaVUxsZnhHbVdOOVAyS2FhNC12ZnlldHpIMlM2MDhzSWdxWTlDRDFtS3F4aDMxcUx1ejE5TURQRG5CeVhSMkhNWUp5Y3h6Q3gzS3M5eTd4Vk9janVYaDZLZ3kwMlJlNnc3YTVjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 18:58:51 GMT",
-   "summary": "UK adventurer returns home after 28-year trek around the world &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Binance hackers used fake job interview in $6.3 billion attack",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 17:35:37 GMT",
-   "summary": "Binance hackers used fake job interview in $6.3 billion attack &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "World faces €30 trillion financing gap, Santander report warns",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjIwakhmUkZFMkZjS0NYOTNsNndnd3BXdWhFTmJDaWY1VzU2R2lkUDBBNHRpRThtSTlxWTBZMTRZTmxNYzBGcmpZdVlWdkx0Rmh5YmtUWUFoQjFGdWdDS1BJVUNETWxoTGRKTTY4cmVZRWF3ZDlxaHcxeC01OGl5b0pHak9BZnFjWTJxaDhpbXRYUEY5d3d3aDdMelpaSzNBWjZtSmVRQWpvMUhVcGp5b19scw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 14:37:01 GMT",
-   "summary": "World faces €30 trillion financing gap, Santander report warns &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "WGC lowers outlook for gold investment demand growth as bar buying slows",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXNhd2d5cnZVajh5dGZkbnVvc3daNEtvT3NWekFmajVxZ0FfWFRlUGVFb0Z3UWsyWFpVYmN4YmNNdXFkM3gtV0FxcFNjUGtHYVFrNFBoUV9JZl83REU3SmlRTU54bXVSS2NubW1nOEJCVXpyVjdCcnNTUmRmNV9YX05UMDVSTG5zaFA2XzRIMDFZU1kyUVlxVzBfeG9MQjhWdUU5ZEI4bkRUbjEwS3QwTXVGNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 06:06:00 GMT",
-   "summary": "WGC lowers outlook for gold investment demand growth as bar buying slows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHg1TzJIbXNhYlFoOUJHZ1NBLUV1X00zQlZabmJDa2lpOUtCY0dpbUZxNmRPSXJUcnVHZ3JOc19MamxqUnpDNl9qT2FQbmppZ09qSnhRbnNGSFZxeGJYSlZqd1prMlktb0xkajhGMkpKTDNXcFZOcjZHVUFzRnpnNHExR2Fub1N0REhjZXVKUDVGanBacjFreWVNODNGc0xBd0xxTWotR2g2a0wtbzI1NTltZWJjX2h6WmV6UWFWUDJxLTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 23:35:16 GMT",
-   "summary": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "India's 2026 gold demand seen falling to six-year low on price rise",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUE0SkF5VEdGaDktM2p1UmtpczI2QnFrSGFYU2VrNl9FSkFBZWxDb05oU0dYWDN4SXpIYUxyVzc4Si1iNG9QcGJLTXhzUHlKMTljSFhTSHdCMG5FZkx3WU5SN2R3bUFscjV1YzNYdk80YU5taEQtUUEyam04RVlvOExYWk51YVhZRnUxb3J2bjlsQ0VCeTJmbXpMMGYtLUxGckVqM0tZNjB1ZFI3?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 03 Nov 2026 06:04:00 GMT",
@@ -308,18 +308,42 @@
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: US intelligence sharing has fractured under Trump, officials say",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1RQX29mdC10ZFVoTm51R3Z1YkkzMmVDdHFtYUN5RzdhZG8yNEFXM2M4blI1ZnZNRHM1SXVNc2dNbFdSb0Zoam55N25mX0o3RFNlQmY4ejNFRE9zenpSRjVDNklUaDBvZ1pjdUU2ZlhKUnFKVVc3MFNuM2tGVXhjZkJtd3h4MjZIdWtTSk8zdmNuZ0Qxal9EN3IxVnRyYW9iWWRMUVN2R1lvck81N2ota2x6WlI?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 17:38:52 GMT",
-   "summary": "EXCLUSIVE: US intelligence sharing has fractured under Trump, officials say &nbsp;&nbsp; Reuters",
+   "title": "China's solar push reshapes traditional ways of life on Tibet's high plateau",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmF2NkRUeVRpUERoLWhSdUNYRUtMbkdrVmNlbERVV1U2Nnh0bXFOakhnLXZ1Tmg2cjJEb19yR1ppajNzcVlVa0NmYi00WWZZTnRxVkFOb290dVd1R2s3eE5UMmY0eUV4SUh6Sk4xOGFURFZZN3lvYVRkNlZnclNudHd1djI3dHloTWZFZUdWX3FCNmVoWmVHdjJZNGp2aHAwZFB4dnBDU1VEbFdwT3ZtSDlyQnBQOU5qazJCUTB0MTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 04:16:00 GMT",
+   "summary": "China's solar push reshapes traditional ways of life on Tibet's high plateau &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "CVS tests breakup of retail, insurance businesses, source says",
+   "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 12:13:10 GMT",
+   "summary": "Elon Musk's business empire braces for Democratic wave as Texas flips blue &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "CVS Health to split in two, separating pharmacy business from insurance",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajJWZGJKRmQ0T1UtdWxsc1Q5d2ItVmFRUjdzRmRnT2tpVjc5Q3ZobXd1bmxyMHZUMDVtVFNsQkRTYTFkMUV3SXpGRmNRel93bEl4OW12YV9yTGpnUzV0Sk01OWFJZ1BzdXhWYmdQeUR4eG02OWdqbHJhWXcwODhyN0RpS0JxMk1UdUlrTGpvRUFrRGFPcXJCcmNHV3dvb1dfOHlGWjNYYnA0TlViRGJOamdUSzMxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 13:03:44 GMT",
+   "summary": "CVS Health to split in two, separating pharmacy business from insurance &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "BP taps Shell's Emma Lewis to head downstream business",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS05vWlpDYUFXLVk0bHU5bFcwdFlGWU13RjRZT2xBOURDV0hhX0ZhRnJmZjJyOXh6WUh6eVhsSV9zeC1Sdi1mUjk4eGluYTRFdnZXT1d0c2tnUVpHSFI1eWdZWnJPZmhmXzFsRzh1akFwN3FfbFpzUTlBVkdRbGQ3dHBJMUxtUGl6U3RqY0owbjhySnNxbTZCd3dfb3poOG02cUpNLVZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 07:46:00 GMT",
+   "summary": "BP taps Shell's Emma Lewis to head downstream business &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "CVS will split up its pharmacy and insurance business into two companies, WSJ says",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkhjaUZVT0NOQTI5R2JFdk92UWQxRVpoaF9GX3lTSGxHZFEteEVQYk5FSi1oc0JXUXRycVhLZVNzaVpRUWZReWxpS2dGNEF4VkluUWo2UUVCV0Fmbk5KN1pxN2RrUE1YOGpPaThUcHJGSkpnVXlaUXFhbVZNQzR5UXFTM0ZFYjVpQlZWSHJDRzRhSkloRW9hWlZHWUlqY3lYVlpOanUtQ0tzOFM2TDBXc3c5R3hfUDhXNWpKWWFGdDFzTHdvaVotVGdR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 03 Nov 2026 22:42:00 GMT",
-   "summary": "CVS tests breakup of retail, insurance businesses, source says &nbsp;&nbsp; Reuters",
+   "summary": "CVS will split up its pharmacy and insurance business into two companies, WSJ says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,6 +356,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "Mubadala-owned Moeve to exit upstream with sale of Algerian assets",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd1VjQ1lxbDQxbEV0QWsyOGlPSDdYc1NPNkt5YWIxTVpJaGs1VGpZcVU3dERjRkFSLUkyamVxSG5tYV9MSkFyS2FyamJ1VU00NHNPTWdIRlRhTW95NG9veTU1TDhzZ0loanpkNjBwc1NadjBxU3NFeGdGTDhxZ3l6eVdVRFB1WlFtTkczcG1rS3gtWFVYSEF2MTV6VnpNU1dFTTh3NzdEOGtYTTZ2blY4T2RwWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 09:47:00 GMT",
+   "summary": "Mubadala-owned Moeve to exit upstream with sale of Algerian assets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdnFHVnpXOTk4UEYwSlJ5WHhOaUNkVEtPN2o4N3hnSDl2MW12ejZscWRBNnAyRUdyUnhSbGlVdS12UGwzUDFnNlNiWmFzY3Bya3E0NjZIMDhBZzN3YWNJWlZMaGF6amFORVJiVXlONHZrOVFEcW5VbGV6bUF3cDdJbV83dnJXSXh0NnF1RUlkWkJkdWhsbEZRWVJkeXo5THhPLUl1LTFZUVgwM3JLZGhnTGsxeHJ0OFVTRktPOEZpVm9Cc2M5QkVUcTlrZw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 03 Nov 2026 10:21:58 GMT",
@@ -340,138 +372,122 @@
   },
   {
    "source": "reuters-business",
-   "title": "Unilever targets $1.12 billion savings in home, personal care pivot",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFJYeG9UMjdNc1k0TElralpWVEwzN1lCTkVMV0V3VUlEYW5sV1RhVUk0MzFKSGZNNGFFTVVBcmRlR0h0VWExMFIyNlAzaFhOWklFLXo1Z25qNlBGYUtCMmNfeDltTlk4MVpkZmVpaHlrOTl6Ylg5VnFxcU5DYWtEczVPQ3FBRVhqZlJETmQxNFlnVVc0OXZOYmM0aXc5UFUyS2RqYVFIT1pZcTVmRkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 18:06:53 GMT",
-   "summary": "Unilever targets $1.12 billion savings in home, personal care pivot &nbsp;&nbsp; Reuters",
+   "title": "China accounts for nearly half of clean industry investments, research shows",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzBfOElyTWFnSU5VV0xoN2F1WVdHWUNVUjlURlAzZnNnVlN5N2RVWWFSUXpKOUdjSktSM1BFUEpLQ2hvNXJlemVSRWFWV2o3OC1OcElTdWtFR0N2OHRyOTM4ZXRZcUlhX3ZEMHYzNFhUdm9fRTRBTkhuUy1jdGM4UjY5dkJMMEJ2ZlNmY0h1T0RuOHd5MWVfQTduLXhNMWktYmdSUHVBXzhsUDRpaXFhRGxzajdhaThCMEFIaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 03:32:00 GMT",
+   "summary": "China accounts for nearly half of clean industry investments, research shows &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "New cyberattack on supermarket fridges sweeps across Europe",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 09:26:00 GMT",
-   "summary": "New cyberattack on supermarket fridges sweeps across Europe &nbsp;&nbsp; Reuters",
+   "title": "Novo Nordisk's CFO Karsten Munk Knudsen to leave company",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGN0RzlUbzdBbHRLS0FqS3o3UDBhRnVqdlp3eThjelBCSkJ2ZlJyNTM4cWl4WEF6UmJEU19IQTlqQklfZk5lUm1UWmlxRGJ2S2ZMVmxhdGpWczhYNnI3V3o4VzQyMzBFb0hObG9CX0hBTVZfeENvdGd0U3RINVp0ckFXWUF4bzVWYzcyWXZjZE1mcDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 07:06:00 GMT",
+   "summary": "Novo Nordisk's CFO Karsten Munk Knudsen to leave company &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "New Jersey governor warns ports against accepting Russian diesel",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd09aQ2FkakZqaWxZbjQ5RFhZY2Q3Ui1QS0wtc3VSWHJLUlFNTWU2Tml4ZENSelVwaXZhZk1WcXBXYXgtUWNKT1NmVVMzQ3ZjM1hMUGZKQkJDZjUwWkVPb3NaT1MySU5lV0tWUUFvd1hwWG1tOFBMenZVV0FTOHV2TTVsS0xVbG9oVklRSEtZQTlqZzlMWV9wRHp1VGIxTUw4UU0xQ3h6ZEhKcU9VRHRUb0dyNHNlTXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 19:38:09 GMT",
-   "summary": "New Jersey governor warns ports against accepting Russian diesel &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Bottler Coca-Cola Europacific Partners flags cost pressures, keeps outlook",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWJxTjVpVnA3QTlSMXA5LU9WZTJUSVZnZ0E0aW1lVkMxc2FYcFFiNjdFcm9CWWo5T3NCanQwZGVrVEIxanpya3VjczNCWEdIeG1uY1Q3RHVxOS04ai1rVjVGVzhhM1RER2p2UFdsQ0NGQXl3MUY0aU81V2U5Y1pzQ3EwQjd0dHo2RnUwbG1Xb3Q5MmIzX1dkTVVmcjhXUm5xcDNfaUJmUEFPbFd6Y1pIRDg3ZEU3OWJnVXZZTUNPTHZ0bnlBRjRuNk1RNmhmanM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 08:15:20 GMT",
-   "summary": "Bottler Coca-Cola Europacific Partners flags cost pressures, keeps outlook &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "CVR Energy to buy two Marathon refineries, marketing business for $4.2 billion",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmdYZm9MQzlBTU5OQlhkMjctbXJCcWhmck1Ma3hSTTFVN2kydnJIVFZTTGQycUVHcFlaUV9KRnVFU1dqSXJzcW51R3liV0F5V0tIZWZud2NGb3FPYUhBMHBEakd2a1JaQUJvdmN0cjJuN2JPS0x0SEdJYjBDQVBoRngwM3dvaWxudi10TkZHRVV1TWgxZlZuNXhRRHVZaVhac1ROeXBXeHQ1SnFpbFJLQk91a21xWWsyOXgyMlV3R3NxbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 05:16:00 GMT",
-   "summary": "CVR Energy to buy two Marathon refineries, marketing business for $4.2 billion &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "India's competition regulator clears Kotak Mahindra's acquisition of Deutsche Bank retail business",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXhBc0Exb185Q1BpSGZPQ0FLc3lqZkR3RVNYUF9NdU5mM1FIbzVYRnRQM0cwLVF0bXgwMTJIaUtNQ1pPTGhQd3plV3FpVzNIUEFVb1UwaFVFS01aODAxUEpPdDdWUV9IQldlQmhCZXlfZ1JMOHpWZ1VHMURMWFljNFo2MDNaejlaSGZBaXgyVlZVS2xuM2F2cGxSemFHYnBCZ0hXOWFJNmhreDhpRlhpQVJmSVM5bzBoTC1ILUUxZUh6SFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 17:10:42 GMT",
-   "summary": "India's competition regulator clears Kotak Mahindra's acquisition of Deutsche Bank retail business &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "EU, France launch scheme linking French firms with Ukrainian defence startups",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlhDYjQwdWxuamRZVTJZbVpvcUVjTzlmRXpMRkRxelg0ZExGOFpicTJua0ltLUh4VXM4OXhCb1AzMVZtYXZRUnRCbTdaWTFPXzRVMkFrZXNnTy10azhZMTBoQ2FJTVNhUTdHWnpyWHpVdWJQNlg5a0VObTNvTFJyQzFJYklPMU52a2dEVGpORV9iMFJ3RXNGbDJSSlFnV20yVnhUZ1QwcHoyWmljbjJxQjkzMWJyMWVYbkRaTC1lQUVWUUFfQnpjQWhLVmh5clpvcEZUcExB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 13:55:30 GMT",
-   "summary": "EU, France launch scheme linking French firms with Ukrainian defence startups &nbsp;&nbsp; Reuters",
+   "title": "Disney eyes thousands of layoffs, asks managers to target 20% savings, Bloomberg News reports",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFRGRW5WZUJyZDIxY3dFM1FneTBpOVhvWlVKcWdqa0l1T0VMblRzT3h5YVhhb1JwdlB5dzhERG91T2dVc1o1Zlh3bEU2QnU0MnpwdGFFM0RqalBoZUZHaExEa0gyNWkwc2xkT01DWUdNQTZaVXRlYS1GZFhHcnJwQ3VuMy0weU0tRktyelJqNzI4NUJXNUpGVGlzNjBib1loTk9IVE9TUDN0YnRvbDJWaHhLTS1RMUliMmI0WHJJMmNIY2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 03 Nov 2026 00:36:00 GMT",
+   "summary": "Disney eyes thousands of layoffs, asks managers to target 20% savings, Bloomberg News reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Stocks wilt, dollar slides as early midterm results point to blue sweep",
+   "title": "Democratic sweep adds new twist to markets' Iran, AI, and debt worries",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 13:11:07 GMT",
+   "summary": "Democratic sweep adds new twist to markets' Iran, AI, and debt worries &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzVTcjFWM1pyclM0MFlFbkZGbTFaSVZfbFVkcTNCMUQxVnEzZ1N4Y3k4N2hvNTdGQkMwN2pxRktWQ2NoR1ZtaG5Ob1Y0eno2UWhQU05SWE9DZWp4ME95RXQ2cFd1VWZ5Vi1hTTBlWlFEaFV6bHpmUlFoMzhBOHVIR3plRFU3WEd0R3pmNFk0NFNwbVhweWctRWRGcHlxWDZMVnR5cmFSN1ktMW8zUkI5WE10akw5b3pO?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 10:59:16 GMT",
+   "summary": "Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Morning Bid: Markets fret blue wave will drown data centres",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93OE95c0J3SXVtQndrTy15NzhvLWZJNkxreWFTOVIxOUVfVDZmT2pENjUtdExybTBHS3BwRzl5dXZDYTRnUlo4bklubTFFeU9WVnBOWENEajNkdllacnhwUzlqaHhpd0xsb1R3QU5uYTB0ME0yNnpfUThZQTc1WXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 05:41:00 GMT",
+   "summary": "Morning Bid: Markets fret blue wave will drown data centres &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "PODCAST: Pricing the Democratic sweep",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbk1vVEh1bktvb09nUUZ5Z2pJTjJuZ3lqWkpnVHlDRU5XQlNWS2pYdjRGZm9PVEdTcVBSNTczZTdRSkpsNDJpSlFPX21HRUtoRnBMbERaVXNJZk1UU2I3YzNCcDAwVjNzc1Y0c1pQX2ZWMVRNTV93b1MwWnRLYndPVThwOXppbGx6RnhMWWJMQUYtZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 10:27:19 GMT",
+   "summary": "PODCAST: Pricing the Democratic sweep &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Market analysts react to Democratic sweep in US midterms",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalZOQ2dwZlhyRUNiYXBvNzREaUZMUnZlSkZMVDNtLUo2bFI5cTFiZkY1R3BlZXdLVjFselI2WVUxaGJOXzFCUjAzeWNOSW1wVHpaOHZZQ2l4el9ia2VXUE9kaE5NNS1TZ0xpQzdSUnBlWmdBS1ZBaEZNYWRxZjhpRUYwcGFWbUhkMHlDY1dkcks?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 02:57:00 GMT",
+   "summary": "Market analysts react to Democratic sweep in US midterms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Crypto tracks stocks higher after Democrat midterm wins",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUFUdUF2M1VTUGNuNjdfek4xeXZfV0ZOd2lzTEZWQ0p4ZW1xRHlpYTYxamhrTF81Qm5fdVQyZGlEVjFLck5YU01kMkZwTEFXZlVpSk9RRHVVVEN2Y05ja29QVHA4Z2tBRXhLS1g2X1lmb1NFclZWZnFueC0tNURqamN0TUxyWExHV1BuN3lmc2hVOUhaNG5Ga3g5MGxUWDBuMEFaZ0ZXV1lGRTMwdWVnM3EwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 07:35:00 GMT",
+   "summary": "Crypto tracks stocks higher after Democrat midterm wins &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Wall St futures jump as Democrats sweep midterms",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 12:22:35 GMT",
+   "summary": "Wall St futures jump as Democrats sweep midterms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Stocks rally, dollar dips after Democrats' 'blue sweep' victory",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZWFDY2tZeDZfbXdVWnE2QWZwVlNpX3NqVm1OdmR0bDBGTlJjU3dJWG5yWEFpSG4tSHVhY2NEeVBsNnllVFQyb0tWRU1naXZQLWN3Tlk4VE1PV3o2cU1tVHFYX1hDT1ZtRkVWUWtYR3JwWFRyTXZIRldDWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 01:06:00 GMT",
-   "summary": "Stocks wilt, dollar slides as early midterm results point to blue sweep &nbsp;&nbsp; Reuters",
+   "published": "Wed, 04 Nov 2026 13:03:00 GMT",
+   "summary": "Stocks rally, dollar dips after Democrats' 'blue sweep' victory &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Prediction markets increasingly price in Democratic sweep as US midterm betting soars",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 11:02:00 GMT",
-   "summary": "Prediction markets increasingly price in Democratic sweep as US midterm betting soars &nbsp;&nbsp; Reuters",
+   "title": "ECB rate hike looks nearly certain after inflation rises to three-year high",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnlWVjhZeXhCME9sTHdmcC1RWTdrNUVIbUhhbE1td2t3Z2VDbzh1SW1kSmJJdWU5aVRSeW8tQ3hweVJwTDdVMGR0XzdtM0UtSGhkRnY1NWN6ZUkxR05xb2NadnJuNjEza3d4cDNOcTRnWXJBT2MzYnJjY2hkbjdHUmxoWjVsWGE0UE5NOUx0QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 11:49:22 GMT",
+   "summary": "ECB rate hike looks nearly certain after inflation rises to three-year high &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "PODCAST: Markets await midterms",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVE1vZ3dDOV9HTWNqY2VZdGNQR1NqUFd1T2EyQjFmWGJENzZXcG1jMnROVVloME5rOVN4OG1rOXNOVk5Qa3VKYWdNSGVQa2w3WEZEWGRZM2ZMT21SdklnaTdWQWUzUUxPQ1BCMHZBU1VGVWhvMEg2U0FsVU5OdXREN0FDS3IzMHk3TUNRTXVla2k?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 14:32:02 GMT",
-   "summary": "PODCAST: Markets await midterms &nbsp;&nbsp; Reuters",
+   "title": "Oil falls on Iran war uncertainty, US Democrats' midterm sweep",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 02:10:00 GMT",
+   "summary": "Oil falls on Iran war uncertainty, US Democrats' midterm sweep &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVp0N2w0REZqOUJ3YkRxcmliYkhtX25yTkFtdmJDUFdSVm5CcXRQYjdMeFFLU0gxcHk1STM2R0xXaGJ6TW9ZN2ZQS2RReVRiXzNtY1B3Qm5fZ1lfTUFaMVpRM2d2ZVZodnZtbUFFLUtkcURfUEtENElyNG5YcFRGcncteEFaZFUwOGxVUmpTMWFkMEtvb09VTG50a2NSbjhLUm5Zc3EtZS1XUU5lWm9B?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 10:50:00 GMT",
-   "summary": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Singapore Airlines says 46,000 booking records affected by Amadeus breach",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHY1TlZBQVBfQnRoa1RwSjFtWmdBdWMtR1Y4UEdVMlp2MzZMVmo4dVJkc1g5NEgweFU4bmkxdGtEem5XQ1c5VW5EamNIXzdURExVYUVpSzlIY01IWkItRHNSZW1SMnNhVVNCSGhDd3VjZnNJM1E5QTZvSXpyd18tVzdIZ2c4M3d4YXNFWUJaYV95YjF0RWlRTHQ3dW1ucFYxWUlfWjlrQmpUU055NzhQQlplcTNCVkxWYURMeGg2Qnk5RGk4SGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 01:11:00 GMT",
+   "summary": "Singapore Airlines says 46,000 booking records affected by Amadeus breach &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Investors poised for possible Democratic gains in Congress as US awaits election results",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzBTeXRWM3ktaW9LQUFHVVg5V2JZMWZ3OG5LaWUtNGpVMmN2bnQ4RTJmaWVVaGctdnJZTkFZeWdjbG9JUUE4NFdFalFyQ2tZRFotZERxRkJQcHVtS1lwUGhVc0xJZnVqYnF4ZllqcDJFUkJxcEd2QTF0RGFERW1oSkFENEV0V3VQMEFabVkwOHcwTV9lVWNRZ3JmbDVDOUQ5aGYwWTJUb0o5RGpK?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 10:07:00 GMT",
-   "summary": "Investors poised for possible Democratic gains in Congress as US awaits election results &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Global markets were already fragile. Big AI bets could break them",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE4zc2x5OEJZU0pFUTJXWlF6V2c5TmZ2MmFxLW9QcHhMdFpUZ0tsNWtSTXYtUG5pckRUVTZBQnNGZkE4T1FhRHdESDRmejMzc2VOTjI3UGhjUEJiLUM1bUNHZU1qTWtMOEthVnp5QklOMDdkOWdVSk5DR0g1UFZ0ekJ5TTROejhJaXpRd1FTRVMyZlNIbG4zcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 05:08:00 GMT",
-   "summary": "Global markets were already fragile. Big AI bets could break them &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "European stocks slip as Middle East uncertainty makes for caution",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0JOZWpKV2J4djQwSkJiWGc4cGVCX1VsN1gwZEJuZFJ4UjRDYXpQanhhRnVPMUJaTGh3NEZqcmxqanFpdXpJdm5SMzhtWmxxZUswaXBZSjBmd3dHWS1ZdVVTbDJ1UG82LVZwQnQ1UUlCMllJWTZFWDFVN29Ca0ZmWnZBZUVvN3NjRF9Ia1VrMFBobXZMY0lDZkRzM3AxcWwxOF9j?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 07:24:00 GMT",
-   "summary": "European stocks slip as Middle East uncertainty makes for caution &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "US job openings jump in September; layoffs lowest in 1-1/2 years",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlgtY2locEJUNE5fUS1ORmxNWGx1Sk5RXzBHV08wZEE3SVdiSlBmWEJtTmh3U1pIaDBmcUcwQkIxc2M0WTVmdVRiVHJIT2hFWlhQQ1d3YnpoVU83SHBnNUptMl9UUVJ3RUhNZ2RIU3ZzM2g4MGowQlpCVHFZdlIxdGRDbmNaWmNqUmZDQzF5SWk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 18:45:08 GMT",
-   "summary": "US job openings jump in September; layoffs lowest in 1-1/2 years &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Betting on US midterms brings rush, stress as serious money goes on the line",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXM5REVmckxkZlNXQmQxV2I3TEJOaTl1SXRfdU8tN0VUUFBiY3F4UDNieGJ2OTY2TDJXVEpJU2d2c0F5WkRBSWFNT1FKZjlCVm5SMWcyMHhaZlZlT3k2X2puajhuV1ptUjQzanhydW5yZXU0M1RFYnBlYkhCS01JOHI5RTlMVUlsZHRib1BSbnFMU09MTkRqY1Z6aE5KSGY2LWJodHNqWXNVMlROTjAtSEl4TENJQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 19:16:00 GMT",
-   "summary": "Betting on US midterms brings rush, stress as serious money goes on the line &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Stocks wobble as investors watch US midterm elections",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcWNjUUxuZ2lvM29QWUdBcWpkZGdCaUpLSkJRT3pXbzNUcTh6ajFTN0d1NmpHTlN6d2p0TlNfRElGZV9ZTnR2SHdabGNxQ3FqUkMtN2N1LXppRmlxNGRlTHozQ0YxY3BqNnNNRGtaYUppX1ZyMjJVdkhiYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 02:24:00 GMT",
-   "summary": "Stocks wobble as investors watch US midterm elections &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "EXCLUSIVE: Tesla misled South Korean customers about automated-driving tech, consumer group alleges",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaHFtVW90SEVfXzZpTkdUYVU0WENhU1BnZ3I4QW1sUUJjcGxqVHlpZzA4ODAyRF9LUmdRbnpCSjRPdUd2YjVTaktzZnJHeWx4WWxNMDhnaWVoS3c3djAyeEpMUWlaVVZwVE5BYUxnemhmbXlSRzBWdU41c0lRMGQwclZIbTVITE1iQWVhbzNsdjFySF9raFl0aDNHV0JLRjBqMU8xNmxBVmUxNUVpck1XcUlITmNqUFRMUWhHOEJmUzc1cTVMbUxjbVM2c2J0TGRHVG5PV1JNc2ZRSU5OV3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 00:03:00 GMT",
+   "summary": "EXCLUSIVE: Tesla misled South Korean customers about automated-driving tech, consumer group alleges &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -484,50 +500,34 @@
   },
   {
    "source": "reuters-tech",
+   "title": "OpenAI employees warned about operational security lapses for years, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 03 Nov 2026 18:56:00 GMT",
+   "summary": "OpenAI employees warned about operational security lapses for years, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Super Micro forecasts quarterly revenue above estimates on strong AI server demand",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGxzdV85Qy15NnlQQ1Z0b0Rxbno1UFp3STZ6YVhKS0N5cUpyREUwR2c4ajMxRjJEUWE5SEdoMmJWR0Q2YnhfV3ExZHpvNVlKZ0ItUVE2S0E5QmZ4c0ZoUVJsaUNwX181dVI5aXdtZGpBLTBqZWlWYkMwYjc0YU1landiYkg2SVN5YjlqeEVNYURfX0ZBajlOM2pmU1pfMmpqaHFkTGFicmYzSlRaTnlpZ29WV05TckpKcVBqZGwycmktUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 03 Nov 2026 22:10:51 GMT",
+   "summary": "Super Micro forecasts quarterly revenue above estimates on strong AI server demand &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "EXCLUSIVE: Ambani's Jio explores tech-for-equity talks with Comcast and Charter, sources say",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVk1sUHd5bUdEcHFJdHJrQTlmV0tSY3Y4dzh3R09TTWpKOTlvT2NUTXlISU9pSlpZY3Bpei14aDFjclduRVRQTU5pUTRVR0o4LWQ5QlgwZmVObHdDTmZqQUhCb1E4dWllX3Q1QkZCdXhyVDZ4M29tV2FpaHZlcDVUT0M2TlFHc2lQei1kQmROQlZBUXF0Y3pINHRYeHp0WEM4ZzVsWUJRc2p0bThCU2tubno4alU0V1Vham8wYkxRbVBBTHlaUlNSVU5OcDJrMzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 03 Nov 2026 19:26:00 GMT",
+   "summary": "EXCLUSIVE: Ambani's Jio explores tech-for-equity talks with Comcast and Charter, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "Musk’s pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday​",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenlkU0tVOVBzcm1oVTFKMjNPUVlJY25RNjBfUXo5OGFPeWg2S01zM0lTa3ZXa216UjhPTVlXdzU1RXU4aWtJVnZ4cmJQX19xV1M1NG5HbWFLYm9ReUp0VUFBMThuS1JHMzJRZGxLZnNmNVlCb0lOQ2tfamowMU9TRnRLZ2l1X1I0Qkk5YWotZ1pIeXVyNHp0MEZ3V2h4ZVpmX2lXMlRqbHlTaU1VQUd1N1NKa3lNa25hdXZuSlBTNUZLVDJfUU1CTE1n?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 03 Nov 2026 20:34:40 GMT",
    "summary": "Musk’s pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday​ &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Apple shares slide as Ternus sounds alarm on memory costs",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWtrTGxXbDgwckNQWG4zLXc1eV9LUTdPZW1zbnlWYmdobHdXMm15MXNDNU8wdUVHLThfLWRxeHo3TnM4YnNvdEJmeHpEeVE2ekh2SWhKekx3RkJwNUhHWEh2OV8wRmdkWThzcHBKYTk4RGRLYXdaSTRfWFNCNnJaNWs1X3NHQmtuS004T3N3SGpXVWtmeVZkR0hUWTRoelhZS3AxSnNCdk9zWF9Da01LdmVLQVViaHRtdWx6dg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 14:34:09 GMT",
-   "summary": "Apple shares slide as Ternus sounds alarm on memory costs &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 19:16:17 GMT",
-   "summary": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 02 Nov 2026 20:21:51 GMT",
-   "summary": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Nexperia sues Wingtech and its founder, demanding compensation for damages",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3FlVDNCc0NhUXppRXU0NU82MmNhQzBHbVVqTy1ZY1ZJQTB0T1hReEVvc2thWkZlb2lvOTJUWS1OQ3pYZ1FuYlpxMVJZa1owWWU3SXBKQXdfZEZpaGtLS052akdtNFMyTzFGcTd6Q3d6LVEwZ3ctWU5DWERvOE85VmFZRHA0N3ExdU13ajhIUlhfbVZuZ3g2dXA5bmIxSVhkaFg4VFRTeVBlOUxfMXF5WXdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 14:48:47 GMT",
-   "summary": "Nexperia sues Wingtech and its founder, demanding compensation for damages &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFhBT1lnS0xzTk9POHBCNUlEYmh6d3JkYW9xMnNRQ2gtYWJ3MF8xWDFTVjYwSGhjUjJnTVpRYzlmMFN0RkZtRTFYQkNQRUg0RlVEMDRRTEtOZGRpUFNlQm1IbTZTeDFnRUtoSkgybVBCcXlBLXNxS2U1d0lqNmRoQVBnWDdpdHJsbmwwNkNaV2htRkVlOEJzOWNXYUN3czFQU1VBRVNrQ01mazFULWJjeUdteTBIY3UwMkkxQjlxbXJaQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 06:34:00 GMT",
-   "summary": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
