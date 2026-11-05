@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-04T20:39:31Z",
- "count": 65,
+ "generated_at": "2026-11-05T01:57:16Z",
+ "count": 67,
  "items": [
   {
    "source": "nyt-world",
    "title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
    "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
-   "published": "Wed, 04 Nov 2026 17:51:20 +0000",
+   "published": "Wed, 04 Nov 2026 23:36:59 +0000",
    "summary": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+   "title": "Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
    "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
    "published": "Wed, 04 Nov 2026 20:17:02 +0000",
    "summary": "President Isaac Herzog began meeting with party leaders for two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition.",
@@ -30,7 +30,7 @@
    "source": "nyt-world",
    "title": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
    "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
-   "published": "Wed, 04 Nov 2026 18:46:33 +0000",
+   "published": "Wed, 04 Nov 2026 22:04:04 +0000",
    "summary": "Israel once had bipartisan support in the United States, but a strong showing for Democrats, some of whom are deeply critical of the war in Gaza, has left the country with fewer friends in Congress.",
    "full_text": ""
   },
@@ -84,9 +84,33 @@
   },
   {
    "source": "nyt-business",
+   "title": "White House Delays Hearing on Fed Governor",
+   "url": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
+   "published": "Wed, 04 Nov 2026 22:55:30 +0000",
+   "summary": "The administration pushed back a hearing for Lisa D. Cook, the Federal Reserve governor that President Trump has tried to fire, after her lawyers raised scheduling issues.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Trump Media’s Shares Fall to Record Low After Midterms",
+   "url": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
+   "published": "Wed, 04 Nov 2026 22:37:45 +0000",
+   "summary": "Trump Media & Technology Group’s stock plunged 24 percent a day after Democrats made huge gains in the midterm elections.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
+   "url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+   "published": "Thu, 05 Nov 2026 00:01:15 +0000",
+   "summary": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "How Trump’s Energy Policies Helped Trigger Midterm Rout",
    "url": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
-   "published": "Wed, 04 Nov 2026 19:51:40 +0000",
+   "published": "Thu, 05 Nov 2026 00:31:06 +0000",
    "summary": "The war in Iran, efforts to promote fossil fuels and attacks on renewable energy contributed to higher prices for gas and electricity that drove voter discontent.",
    "full_text": ""
   },
@@ -94,7 +118,7 @@
    "source": "nyt-business",
    "title": "A Lawsuit Says the McRib Is Lacking Something You Might Expect It to Have",
    "url": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html",
-   "published": "Wed, 04 Nov 2026 17:25:10 +0000",
+   "published": "Wed, 04 Nov 2026 21:24:08 +0000",
    "summary": "A judge in Chicago ruled that the class-action lawsuit could proceed.",
    "full_text": ""
   },
@@ -126,7 +150,7 @@
    "source": "nyt-business",
    "title": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era",
    "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
-   "published": "Wed, 04 Nov 2026 17:44:43 +0000",
+   "published": "Wed, 04 Nov 2026 21:20:03 +0000",
    "summary": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies.",
    "full_text": ""
   },
@@ -134,64 +158,8 @@
    "source": "nyt-business",
    "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
    "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
-   "published": "Wed, 04 Nov 2026 19:28:00 +0000",
+   "published": "Wed, 04 Nov 2026 21:19:26 +0000",
    "summary": "The world’s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
-   "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
-   "published": "Wed, 04 Nov 2026 18:22:34 +0000",
-   "summary": "On TV, the outcome of the midterm elections became clear early on. Pundits celebrated and grieved by turns.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Stocks Rise as Democrats Flip Control of Congress",
-   "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
-   "published": "Wed, 04 Nov 2026 19:24:41 +0000",
-   "summary": "Markets traded higher as investors foresaw gridlock in Washington, typically a bullish signal.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Trump Is Watching Fox News, and He Is Not Thrilled",
-   "url": "https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html",
-   "published": "Wed, 04 Nov 2026 01:59:57 +0000",
-   "summary": "On a consequential midterm night, the president offered some harsh criticism of the cable news channel on his social media account.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months",
-   "url": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
-   "published": "Tue, 03 Nov 2026 18:09:36 +0000",
-   "summary": "A report from the cryptocurrency exchange described a monthslong campaign involving fake job interviews that exploited an engineer’s work computer and an internal A.I. tool.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Google Will Turn Off Search for Schools That Reject A.I.",
-   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-   "published": "Tue, 03 Nov 2026 20:53:40 +0000",
-   "summary": "Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
-   "url": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
-   "published": "Mon, 02 Nov 2026 23:41:51 +0000",
-   "summary": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
-   "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
-   "published": "Mon, 02 Nov 2026 18:01:25 +0000",
-   "summary": "The company went on a deal spree with tech giants, former crypto miners and others to gain computing power to further its artificial intelligence ambitions.",
    "full_text": ""
   },
   {
@@ -212,6 +180,22 @@
   },
   {
    "source": "nyt-technology",
+   "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+   "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+   "published": "Tue, 03 Nov 2026 23:39:55 +0000",
+   "summary": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months",
+   "url": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
+   "published": "Tue, 03 Nov 2026 18:09:36 +0000",
+   "summary": "A report from the cryptocurrency exchange described a monthslong campaign involving fake job interviews that exploited an engineer’s work computer and an internal A.I. tool.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Voting Problems Cause a Surge in Misleading Fraud Claims Online",
    "url": "https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html",
    "published": "Tue, 03 Nov 2026 19:54:30 +0000",
@@ -220,10 +204,10 @@
   },
   {
    "source": "nyt-technology",
-   "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
-   "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
-   "published": "Tue, 03 Nov 2026 23:39:55 +0000",
-   "summary": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.",
+   "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
+   "url": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+   "published": "Mon, 02 Nov 2026 23:41:51 +0000",
+   "summary": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
    "full_text": ""
   },
   {
@@ -243,19 +227,27 @@
    "full_text": ""
   },
   {
+   "source": "nyt-technology",
+   "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
+   "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
+   "published": "Mon, 02 Nov 2026 18:01:25 +0000",
+   "summary": "The company went on a deal spree with tech giants, former crypto miners and others to gain computing power to further its artificial intelligence ambitions.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Deportees Turn to TikTok to Document Life Starting Over",
+   "url": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
+   "published": "Mon, 02 Nov 2026 14:53:35 +0000",
+   "summary": "On TikTok, men and women sent back after living in the United States are documenting the reality of starting over — and finding an audience.",
+   "full_text": ""
+  },
+  {
    "source": "reuters-world",
    "title": "From Iran to trade: how the US midterms impact the rest of the world",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 04 Nov 2026 19:40:29 GMT",
    "summary": "From Iran to trade: how the US midterms impact the rest of the world &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Family doctors in England to use blood tests to spot cancer early in world first",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 11:17:43 GMT",
-   "summary": "Family doctors in England to use blood tests to spot cancer early in world first &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -268,10 +260,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "World stocks rally as investors expect more political certainty after Democrats' win",
+   "title": "World shares advance as Democrats' victory eases political uncertainty",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZWFDY2tZeDZfbXdVWnE2QWZwVlNpX3NqVm1OdmR0bDBGTlJjU3dJWG5yWEFpSG4tSHVhY2NEeVBsNnllVFQyb0tWRU1naXZQLWN3Tlk4VE1PV3o2cU1tVHFYX1hDT1ZtRkVWUWtYR3JwWFRyTXZIRldDWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 04 Nov 2026 01:06:00 GMT",
-   "summary": "World stocks rally as investors expect more political certainty after Democrats' win &nbsp;&nbsp; Reuters",
+   "summary": "World shares advance as Democrats' victory eases political uncertainty &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Binance hackers used fake job interview in $6.3 billion attack",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 03 Nov 2026 14:49:00 GMT",
+   "summary": "Binance hackers used fake job interview in $6.3 billion attack &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Doctors in England launch primary-care trial of blood tests for spotting cancer early",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 22:31:02 GMT",
+   "summary": "Doctors in England launch primary-care trial of blood tests for spotting cancer early &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -288,14 +296,6 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYldVVWZMVFEwSkw0RXVnZFhkTGpRUl9rNVpMR25KUW5kaTJLZlVjUjgyZURaUW9XMzdxaVRLNmRsbV9VeERTcjJ6MmhwMDVRdGsxZW9mSnRWNk9DRVYyWVN1Yi1qTVNlTW90M3ZmWi1nQi1KVHBtRmV6QVRmeUNOUmVVNXA0aHRlX0k2anZNX2dGYXBuZjMw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 04 Nov 2026 15:07:41 GMT",
    "summary": "South Africa says US midterm results usher in new era &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Binance hackers used fake job interview in $6.3 billion attack",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 14:49:00 GMT",
-   "summary": "Binance hackers used fake job interview in $6.3 billion attack &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -334,7 +334,7 @@
    "source": "reuters-business",
    "title": "CVS to break up $117 billion business, separating pharmacies from insurance; shares fall",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajJWZGJKRmQ0T1UtdWxsc1Q5d2ItVmFRUjdzRmRnT2tpVjc5Q3ZobXd1bmxyMHZUMDVtVFNsQkRTYTFkMUV3SXpGRmNRel93bEl4OW12YV9yTGpnUzV0Sk01OWFJZ1BzdXhWYmdQeUR4eG02OWdqbHJhWXcwODhyN0RpS0JxMk1UdUlrTGpvRUFrRGFPcXJCcmNHV3dvb1dfOHlGWjNYYnA0TlViRGJOamdUSzMxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 18:31:18 GMT",
+   "published": "Wed, 04 Nov 2026 21:36:39 GMT",
    "summary": "CVS to break up $117 billion business, separating pharmacies from insurance; shares fall &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -342,24 +342,16 @@
    "source": "reuters-business",
    "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 16:37:03 GMT",
+   "published": "Wed, 04 Nov 2026 12:11:00 GMT",
    "summary": "Elon Musk's business empire braces for Democratic wave as Texas flips blue &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "BP taps Shell's Emma Lewis to head downstream business",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS05vWlpDYUFXLVk0bHU5bFcwdFlGWU13RjRZT2xBOURDV0hhX0ZhRnJmZjJyOXh6WUh6eVhsSV9zeC1Sdi1mUjk4eGluYTRFdnZXT1d0c2tnUVpHSFI1eWdZWnJPZmhmXzFsRzh1akFwN3FfbFpzUTlBVkdRbGQ3dHBJMUxtUGl6U3RqY0owbjhySnNxbTZCd3dfb3poOG02cUpNLVZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 07:46:00 GMT",
-   "summary": "BP taps Shell's Emma Lewis to head downstream business &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFREOVI1am9RMmxtb1dOZTc2dFNqaDZLMENlSFQwZEg3SWthaFdPVVV3QXEyMjlKTE5zZHI3Nk1RclhjZWt3SmZuQjNyMVM3c2RLZFo4Z0JEOEZCdXNPZFBPLVpCZnlmUkFBNWE5Zk0zcWFyTTNBZHlMR1FtaFFRVnNXWS04LTlocmtSTEFscG9GTlh6aGd3SC0tVHRmSWtYdnhKWnRqVmNHa0NhaEhkTENiRnJEaWJOREtuOEN1dVRrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 12:56:18 GMT",
-   "summary": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say &nbsp;&nbsp; Reuters",
+   "title": "ARRAY to combine with Shoals in $1.32 billion all-stock deal",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVd4WnFxc1ZvSS1EcXJ1dEl2NlEydVhsOWhiNExIdER1d3dhLW9LOXdNSFVyaFltYnFzbTIyaUN6ODV2QmRmdUdhYVkyS3lmek95SWpEb1B6RExTSjN6MGJKUFZWMWwyQ0NiOGhoLXZHUjdQSGZWdTliSWNTWTdzUElvYlhUNURvT2xxM3pzU1BDNWNia0t2Snoxd1VTcm5l?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 14:31:59 GMT",
+   "summary": "ARRAY to combine with Shoals in $1.32 billion all-stock deal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,18 +364,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "HP names former GSK chief Emma Walmsley as CEO",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqYWVjWk1RLUI2U0Y1RE8zNV9lRDljSXBUaS1SYjVlQmVxUXBLS0ljTVJrc1ZtQTBYdFU3emEwNWc4RW1HM1dzWV9wMnFNM3FtY3ZuaDlPR0RYTE94VDdiZ0ZNeHJMRVRZbTJWcjJ3UWJRUmlZSURqZUwzVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 17:37:38 GMT",
-   "summary": "HP names former GSK chief Emma Walmsley as CEO &nbsp;&nbsp; Reuters",
+   "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFREOVI1am9RMmxtb1dOZTc2dFNqaDZLMENlSFQwZEg3SWthaFdPVVV3QXEyMjlKTE5zZHI3Nk1RclhjZWt3SmZuQjNyMVM3c2RLZFo4Z0JEOEZCdXNPZFBPLVpCZnlmUkFBNWE5Zk0zcWFyTTNBZHlMR1FtaFFRVnNXWS04LTlocmtSTEFscG9GTlh6aGd3SC0tVHRmSWtYdnhKWnRqVmNHa0NhaEhkTENiRnJEaWJOREtuOEN1dVRrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 12:56:18 GMT",
+   "summary": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "China's services growth slows to three-month low as confidence weakens",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHVNb2NBaHZZLVVTbXctQndZbExMODNJU0JmSFNzZ0hzM2p3cndkVWN3MXVBdGd4cEFrUk5QWUhsZ1VyZm9RWk5lOHNtTGU5djdWRWRoOGlvaTVZNzhsSnB5Y3ZlYXdWckFaMFhWbzYxM1hLaUkyaVdScEVodlNpaWoyN3M1dnc4Q0MyRDVRRE00Sm1BS3BJdldUTlQ3ek40UEozaE9NN0lXQjVIbFhTcG05MEZCakU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 01:58:05 GMT",
-   "summary": "China's services growth slows to three-month low as confidence weakens &nbsp;&nbsp; Reuters",
+   "title": "Kraft Heinz to divest North America coffee unit amid CEO turnaround efforts",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMXVyb0dGLVVtSVo1aTVySXBEaktZNG02N3BYZHYwVzVvclBheTZySXI2VHhwU2NUUkdmU0dXS0ZNcElpSVRrYUxvNldMNFpBejEzdklDSm03T240RnE1OUpNRFJkV2JLbENReEVBclRjYlZKY3E5RjhXdXVmalN3Mlh0TGRlZWUxTTlwczB6ZXczcC1fclozblpUazFmanRHb2NhRkdxU3VOczRtdzl1TzBLVHBtZFlITFBHYlBpckVCbVNrNG1BTC04c3FlTkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 18:04:12 GMT",
+   "summary": "Kraft Heinz to divest North America coffee unit amid CEO turnaround efforts &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "BP taps Shell's Emma Lewis to head downstream business",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS05vWlpDYUFXLVk0bHU5bFcwdFlGWU13RjRZT2xBOURDV0hhX0ZhRnJmZjJyOXh6WUh6eVhsSV9zeC1Sdi1mUjk4eGluYTRFdnZXT1d0c2tnUVpHSFI1eWdZWnJPZmhmXzFsRzh1akFwN3FfbFpzUTlBVkdRbGQ3dHBJMUxtUGl6U3RqY0owbjhySnNxbTZCd3dfb3poOG02cUpNLVZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 07:46:00 GMT",
+   "summary": "BP taps Shell's Emma Lewis to head downstream business &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,9 +404,17 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Billionaire tax measure trails as California tallies votes",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkEyRmc5d1YtTTNnZ3pCVUxxdmZ2S0NnbHpVdlBManREQkxVVG5QekRoNVVnOXZwTExrWGlJSnFpUXJMenlqZ2ZBVWhKX3JUakcyYmNKcUxsZFdLdmJUUml6T21lOVBJM2w0TlNBTWpHX2NBS0U5YXExNHhQTkhlODlPZm5DWnp1dVdxWlI3SWkwc1FNc3FjN0M3WWVlUG0tTE1Lb0JXMy1qMjV3cXIwbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 18:59:31 GMT",
+   "summary": "Billionaire tax measure trails as California tallies votes &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 18:54:46 GMT",
+   "published": "Wed, 04 Nov 2026 20:43:17 GMT",
    "summary": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -420,18 +428,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
+   "title": "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzVTcjFWM1pyclM0MFlFbkZGbTFaSVZfbFVkcTNCMUQxVnEzZ1N4Y3k4N2hvNTdGQkMwN2pxRktWQ2NoR1ZtaG5Ob1Y0eno2UWhQU05SWE9DZWp4ME95RXQ2cFd1VWZ5Vi1hTTBlWlFEaFV6bHpmUlFoMzhBOHVIR3plRFU3WEd0R3pmNFk0NFNwbVhweWctRWRGcHlxWDZMVnR5cmFSN1ktMW8zUkI5WE10akw5b3pO?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 10:59:16 GMT",
-   "summary": "Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say &nbsp;&nbsp; Reuters",
+   "published": "Wed, 04 Nov 2026 22:11:38 GMT",
+   "summary": "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Wall Street rallies after Democrats win Congress; data center stocks slide",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 18:40:28 GMT",
-   "summary": "Wall Street rallies after Democrats win Congress; data center stocks slide &nbsp;&nbsp; Reuters",
+   "title": "UK electric car registrations surge 54% to capture third of market",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZnhHemtJSFFaSC1EckdTS2ROUlFxU0VsdE9pbE5PSnMzLXE3ZDc0TWZLdWlPMUtjZDVJVXFtODVkWC01aXdXeFFOdmRqR2UteXA1YlUzaHZtUjNPcFZCR1p2NXVUUDZxNEpuWndOQzZRaGh4YVVRTDRtdmpqNmNYQVpPc2FIQ1F6V1FfRksxbW1qM2VVNnBFeld5a2xvLTl2RjF1Xzdmbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 16:01:41 GMT",
+   "summary": "UK electric car registrations surge 54% to capture third of market &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -452,6 +460,14 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 23:54:37 GMT",
+   "summary": "Wall Street ends higher after Democrats win Congress; data center stocks tumble &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "PODCAST: Pricing the Democratic sweep",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbk1vVEh1bktvb09nUUZ5Z2pJTjJuZ3lqWkpnVHlDRU5XQlNWS2pYdjRGZm9PVEdTcVBSNTczZTdRSkpsNDJpSlFPX21HRUtoRnBMbERaVXNJZk1UU2I3YzNCcDAwVjNzc1Y0c1pQX2ZWMVRNTV93b1MwWnRLYndPVThwOXppbGx6RnhMWWJMQUYtZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 04 Nov 2026 14:19:56 GMT",
@@ -460,10 +476,26 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Crypto tracks stocks higher after Democrat midterm wins",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUFUdUF2M1VTUGNuNjdfek4xeXZfV0ZOd2lzTEZWQ0p4ZW1xRHlpYTYxamhrTF81Qm5fdVQyZGlEVjFLck5YU01kMkZwTEFXZlVpSk9RRHVVVEN2Y05ja29QVHA4Z2tBRXhLS1g2X1lmb1NFclZWZnFueC0tNURqamN0TUxyWExHV1BuN3lmc2hVOUhaNG5Ga3g5MGxUWDBuMEFaZ0ZXV1lGRTMwdWVnM3EwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 07:35:00 GMT",
-   "summary": "Crypto tracks stocks higher after Democrat midterm wins &nbsp;&nbsp; Reuters",
+   "title": "COMMENTARY: Trading Day: Oil tanks, stocks leap on US midterms",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0g5LTRCVmcyN3VZSy1SLXN5c1dnSENEYXhocXN1STdoUWxPYk9qbUhTM3dYckRlZ3hpVDktbzZhWnlha1hMRlpITmFlNEdCc0VIMU9PUGprQmRfLUk0b09HM3VzWG5adFZZUWZoX1prbTNoeHcyOWZ1WXl3LXFLQWhrSWd3dE8yNXJseDNXWFR1S19LT0FPNXFjTUtjbVhJbW1tSU9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 22:07:45 GMT",
+   "summary": "COMMENTARY: Trading Day: Oil tanks, stocks leap on US midterms &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Europe to invest €525 million in chip startups to catch up with US and China",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWJ3cnhGTVFUOE9TZXZkdVB0OW9tVFhjWVhFRjlDRktBLUNVcmh1MHFQc1lkb0R4UU96OFY0OEdwT0F4Z2p4aHhlUkVCQXlNSVQtSThhSVVBSGprdm1UNTAxTHB5MHpScXVhM0EyaDQtNGdMMUFia2Vya01vTzNqUlF2eDF1U2p5Mzk5WDZqaGNEVDEtSFk1N1NBRmZpRVlhUWNZeFdySnE2VHhvQVA0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 17:43:40 GMT",
+   "summary": "Europe to invest €525 million in chip startups to catch up with US and China &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Texas data centers face uncertain future after Hinojosa wins governor’s race",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUURSU3JiR2xDMkJBZzlqbkgxbER5MjF3aVh1TXZzM2tIbkNVWTVGb3BYZmVzelhxVlRLTEVqRXBoNDBSNlQwSlh2SDJNM29jRWZGRm1mUENidEZVaDhXMFpsZWRQNVFlOHp6VGRPaU9oT3BBdFhweTN1Qk1nSkZaMDg5MkJGTTN2ZmlUYnFTYTllYjFUVlZQNllZUG54TVptcFFSVnlQbEFEbnNQdDNmNEJMbWpLT05GR0dDWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 22:47:43 GMT",
+   "summary": "Texas data centers face uncertain future after Hinojosa wins governor’s race &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -476,6 +508,14 @@
   },
   {
    "source": "reuters-tech",
+   "title": "Trump's midterm drubbing demonstrates the power of data center opponents",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0RKVlY1MlliV3dhVWp3b2FVOGNsTGEyYnZLb1ZENVpINVdLdDVFTnNsazZ5b3FsbmVocktWZUhacFZmRU83cEFLOTNnOVBKZXJ6RUFoTjFncjJsNHB4Z25QMHlVLTNPRnE5TE5KNU9NN2JQQ09rQmo2N1N4dHFGNUEySXhLUVFhZVlJU0ZUd0V6aXhKVy1OT3JIa3lwdUpDT184VXpQYkthTXg1VWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 09:57:00 GMT",
+   "summary": "Trump's midterm drubbing demonstrates the power of data center opponents &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
    "title": "AMD shares rise as AI-driven data-center strength fuels growth outlook",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1otSGFrSy03TGU4SkFJWHJ0SlJER0pMU0FvV3RIZm1udEtsLTlqazJwbzFEX1lNR3NGYWdNRnRBMDc1ZEk0elNtb2xHcXFFOEFqSnVsWkVRSTBpeHBPUEwtNDZtSUxuZUpKSnM1aXFlX2VUczJlNWRFSXM3MGxmRXAyYkt0dUloMlhaYVJZUVhqNmU2cGVpNkJaMXY3Sm5Qck04ZjNtbHdBSC02Q3hxd3BR?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 04 Nov 2026 14:49:08 GMT",
@@ -484,26 +524,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Google to invest $15 billion in Malaysia in 2027 and 2028",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1FaR0wwZ3NzY3ZuM1lwaExfWVRlOGVrTGFJakc1dHZsY2RyMV9tYXNVbDJKYVczUk1DUFVCYURtejVSOTNtR1ZzMVh2Z2NSQjl5UG9jRzlza0h6NUFMS3EzTnRsQTlmWTF4dzd6bkpfbnV4TFdLRFNST0ZxblFIMjVIdzIwRE9pUWNKUU1LWVJqRFlhZFhXWFhzb1owSkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 09:14:09 GMT",
-   "summary": "Google to invest $15 billion in Malaysia in 2027 and 2028 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Tencent rolls out AI model trained with limited cybersecurity data amid hacking fears",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSmctOGpnNzF6QjZkU1BvQ3VUSmhmb2I3bXRQQjQyeWRudFp4bHR2WXpIbDFpY0FLR2JTUnp4eTMzN3ozWDk5cGpydzkxZ205MzFWRThkb2ZLVXVjak5LaUNQaFZFeUllQ0YydHFoUWVWNVZ0Z2JNS19YUTR0TWYzNkw3YTVhY3VRRnRoM3NqYzBoWG5wdE94aktTcXp2OGE3czlRQnUtQm1Vd3RBQ1NJNExRLW1ndTlvckpwSFhzTDZ2MkYtbm9OVmNfa2M?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 12:40:12 GMT",
-   "summary": "Tencent rolls out AI model trained with limited cybersecurity data amid hacking fears &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Singapore Airlines says 46,000 booking records affected by Amadeus breach",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHY1TlZBQVBfQnRoa1RwSjFtWmdBdWMtR1Y4UEdVMlp2MzZMVmo4dVJkc1g5NEgweFU4bmkxdGtEem5XQ1c5VW5EamNIXzdURExVYUVpSzlIY01IWkItRHNSZW1SMnNhVVNCSGhDd3VjZnNJM1E5QTZvSXpyd18tVzdIZ2c4M3d4YXNFWUJaYV95YjF0RWlRTHQ3dW1ucFYxWUlfWjlrQmpUU055NzhQQlplcTNCVkxWYURMeGg2Qnk5RGk4SGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 01:11:00 GMT",
-   "summary": "Singapore Airlines says 46,000 booking records affected by Amadeus breach &nbsp;&nbsp; Reuters",
+   "title": "Crypto tracks stocks higher after Democrat midterm wins",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUFUdUF2M1VTUGNuNjdfek4xeXZfV0ZOd2lzTEZWQ0p4ZW1xRHlpYTYxamhrTF81Qm5fdVQyZGlEVjFLck5YU01kMkZwTEFXZlVpSk9RRHVVVEN2Y05ja29QVHA4Z2tBRXhLS1g2X1lmb1NFclZWZnFueC0tNURqamN0TUxyWExHV1BuN3lmc2hVOUhaNG5Ga3g5MGxUWDBuMEFaZ0ZXV1lGRTMwdWVnM3EwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 07:35:00 GMT",
+   "summary": "Crypto tracks stocks higher after Democrat midterm wins &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -512,14 +536,6 @@
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaHFtVW90SEVfXzZpTkdUYVU0WENhU1BnZ3I4QW1sUUJjcGxqVHlpZzA4ODAyRF9LUmdRbnpCSjRPdUd2YjVTaktzZnJHeWx4WWxNMDhnaWVoS3c3djAyeEpMUWlaVVZwVE5BYUxnemhmbXlSRzBWdU41c0lRMGQwclZIbTVITE1iQWVhbzNsdjFySF9raFl0aDNHV0JLRjBqMU8xNmxBVmUxNUVpck1XcUlITmNqUFRMUWhHOEJmUzc1cTVMbUxjbVM2c2J0TGRHVG5PV1JNc2ZRSU5OV3c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 04 Nov 2026 00:03:00 GMT",
    "summary": "EXCLUSIVE: Tesla misled South Korean customers about automated-driving tech, consumer group alleges &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "OpenAI employees warned about operational security lapses for years, sources say",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 03 Nov 2026 18:56:00 GMT",
-   "summary": "OpenAI employees warned about operational security lapses for years, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
