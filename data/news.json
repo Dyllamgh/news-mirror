@@ -1,7 +1,15 @@
 {
- "generated_at": "2026-11-06T13:34:31Z",
+ "generated_at": "2026-11-06T20:13:42Z",
  "count": 68,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+   "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+   "published": "Fri, 06 Nov 2026 18:36:57 +0000",
+   "summary": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
@@ -14,7 +22,7 @@
    "source": "nyt-world",
    "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
    "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
-   "published": "Fri, 06 Nov 2026 05:01:25 +0000",
+   "published": "Fri, 06 Nov 2026 19:24:08 +0000",
    "summary": "Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.",
    "full_text": ""
   },
@@ -22,15 +30,31 @@
    "source": "nyt-world",
    "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
    "url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
-   "published": "Fri, 06 Nov 2026 10:54:43 +0000",
-   "summary": "The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.",
+   "published": "Fri, 06 Nov 2026 16:59:43 +0000",
+   "summary": "A 500-pound bomb supplied by the United States appears to have been used in the Oct. 18 strike, according to video footage examined by The New York Times.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+   "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
+   "published": "Fri, 06 Nov 2026 20:07:47 +0000",
+   "summary": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
+   "url": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
+   "published": "Fri, 06 Nov 2026 17:36:38 +0000",
+   "summary": "Tundu Lissu was found guilty of incitement for statements he had made ahead of a presidential election in October 2025.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
    "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
-   "published": "Fri, 06 Nov 2026 13:11:33 +0000",
+   "published": "Fri, 06 Nov 2026 16:21:25 +0000",
    "summary": "Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.",
    "full_text": ""
   },
@@ -44,6 +68,14 @@
   },
   {
    "source": "nyt-world",
+   "title": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
+   "url": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
+   "published": "Fri, 06 Nov 2026 18:01:28 +0000",
+   "summary": "Paul Nthenge Mackenzie told followers to starve themselves in order to meet Jesus, an edict that was violently enforced, a court heard during his trial.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
    "title": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
    "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
    "published": "Fri, 06 Nov 2026 10:00:19 +0000",
@@ -51,35 +83,51 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Alberta’s Librarians Brace for a New Era of ‘Book Bans’",
-   "url": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
-   "published": "Fri, 06 Nov 2026 10:00:45 +0000",
-   "summary": "A new provincial law requires public libraries to pull and restrict items with “graphic visual depictions of sexual acts.” Librarians are worried.",
+   "source": "nyt-business",
+   "title": "They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.",
+   "url": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
+   "published": "Fri, 06 Nov 2026 18:58:23 +0000",
+   "summary": "Secrecy, debt and soaring fuel costs all contributed to the Odyssey’s downfall. Here’s an inside look at how the “endless cruise” unraveled.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
-   "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
-   "published": "Fri, 06 Nov 2026 10:00:58 +0000",
-   "summary": "Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country.",
+   "source": "nyt-business",
+   "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
+   "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
+   "published": "Fri, 06 Nov 2026 19:15:55 +0000",
+   "summary": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.",
-   "url": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-   "published": "Fri, 06 Nov 2026 12:28:55 +0000",
-   "summary": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
+   "source": "nyt-business",
+   "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
+   "url": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
+   "published": "Fri, 06 Nov 2026 17:38:29 +0000",
+   "summary": "Production of the electric trucks will stop in the middle of 2027 to make room for increased production of its autonomous ride-share vehicle, Elon Musk said.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
-   "url": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
-   "published": "Fri, 06 Nov 2026 09:12:27 +0000",
-   "summary": "The U.N. leader died in a plane crash in 1961. Many suspect foul play, but a lot of information still remains secret.",
+   "source": "nyt-business",
+   "title": "Here’s the latest.",
+   "url": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
+   "published": "Fri, 06 Nov 2026 16:42:38 +0000",
+   "summary": "",
+   "full_text": "Hiring was unexpectedly strong in October, when employers added workers at a vigorous pace. Employers added 165,000 jobs last month, the Bureau of Labor Statistics reported Friday, and the unemployment rate dropped to 4.1 percent. Job gains for August and September were revised upward by a total of 84,000 positions. Average hourly earnings rose 3.1 percent compared with the same time last year. The report reaffirmed the general picture of the labor market as healthy. Employers have broadly continued to hire despite President Trump’s volatile tariff policy, the war in Iran that has cranked up energy price and uncertainty over artificial intelligence. Businesses have held onto their workers, keeping layoffs at historically low levels. And employees have been reluctant to leave their jobs. Here’s what to know: Short-term strength, long-term stability: Employers have been adding workers at a slow but steady pace for months. The unemployment rate has stayed low, hovering in a narrow range for the last two years. The robust October report underscored the labor market’s resilience but did not change this overall picture. Trouble spots: Though the labor market has remained solid, people who are looking for work, including recent college graduates, have found limited opportunities. And even those who do have jobs have been losing leverage, as wage growth has slowed and inflation has continued to erode their spending power. Those factors could help explain why so many Americans are feeling dour about the economy. A.I. jitters : One big question hanging over the labor market is the impact of artificial intelligence. So far, the technology does not appear to be leading to widespread job losses. But there are some indications that the rise of the technology is depressing hiring, particularly for entry-level positions in sectors including financial services and information. Green shoots? There have been some tentative signs that the labor market may be on the verge of perking up. The Job Openings and Labor Turnover Survey this week showed that the quits rate rose in September, a sign that workers may be feeling more confident in their ability to get new jobs. Show more Nov. 6, 2026, 11:02 a.m. ET Job seekers wait in line at a job fair in New York in October. Credit... Seth Wenig/Associated Press Is artificial intelligence taking our jobs? It’s arguably the single biggest question facing the labor market right now, all the more so after Tuesday’s midterm elections showed widespread public animosity toward A.I. and data centers, in particular. The evidence, though, is far from clear. White-collar industries like accounting, legal services and finance mostly added jobs in October, but their growth has been decidedly weak over the past few years. The information sector — a broad category that includes much of tech but also media companies — has been cutting jobs steadily since late 2022. Microsoft last week announced that it was offering buyouts to tens of thousands of employees , making it the latest tech giant to cut jobs. Economists are cautious about attributing that softness to A.I., however. Other forces, such as high interest rates and shifting demand patterns following the pandemic, could also be playing a role. And despite announcements like Microsoft’s, layoffs remain low, even in white-collar sectors. Similarly, some economists have highlighted relatively high rates of unemployment among younger workers, especially young college graduates, as evidence that A.I. is displacing entry-level jobs. But that, too, could be the result of other factors, including the generally low rate of hiring and turnover, which is particularly hard on people trying to break into the job market. To the extent there is a consensus among economists, it looks something like this: A.I. hasn’t had a striking effect on employment, but it may be starting to show up in some corners of the labor market. Even if A.I. is taking a toll on hiring, it isn’t quite clear what that means. Are companies using A.I. to replace workers? Or merely pressing “pause” on hiring while they figure out where these new tools will be most useful? Or are they spending so much on tokens and A.I. infrastructure that they are looking to cut costs elsewhere? Those explanations could all look similar in the moment, but have very different implications over the longer run. The impact of A.I. is showing up clearly in one place, however: blue-collar jobs. The data center build out is helping to prop up employment in the construction sector, even as high interest rates have led to a sharp pullback in home building. Demand for chips and other A.I. equipment is also creating jobs in manufacturing, offsetting losses elsewhere in the sector. The future of that boom now looks uncertain following this week’s election results, however. The plunge in share prices for tech companies on Thursday — partly reversed on Friday — reflected investors’ concern that public backlash to data centers could lead to a slowdown in construction, which could have broader economic implications given the extent to which A.I. has been driving growth. Show more"
+  },
+  {
+   "source": "nyt-business",
+   "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
+   "url": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
+   "published": "Fri, 06 Nov 2026 16:02:34 +0000",
+   "summary": "White collar industries that are most exposed to artificial intelligence continued to add jobs in October, although that growth has been weak.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "What Homeowners Should Know About Home Equity Contracts",
+   "url": "https://www.nytimes.com/2026/11/06/your-money/home-equity-investment.html",
+   "published": "Fri, 06 Nov 2026 14:00:06 +0000",
+   "summary": "Financial tech firms promote home equity contracts as a source of money without monthly payments. But skeptics see “a loan masquerading as obligation-free cash.”",
    "full_text": ""
   },
   {
@@ -92,17 +140,17 @@
   },
   {
    "source": "nyt-business",
-   "title": "Here’s the latest.",
-   "url": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/economy-jobs-unemployment",
-   "published": "Fri, 06 Nov 2026 10:46:47 +0000",
-   "summary": "",
-   "full_text": "Gena Pemberton is a Black woman who has spent her career diagnosing a way to move forward in corporate America. She spent over two decades in leadership roles in accounting, operations and human resources at large companies such as Johnson &amp; Johnson. But now, at 50, she is not sure what is next. “We really do just remain in this low-hire, low-fire environment,” said Laura Ullrich, the director of economic research at Indeed, the job search website. The stability has allowed consumers to keep spending, buoying the economy overall. But for those without jobs, opportunities have been more limited. And even people who do have jobs have been losing leverage, as wage growth has slowed and inflation has eroded their spending power . Here’s what to watch in the report: New vigor? There have been some tentative signs that the labor market may be perking up. The Job Openings and Labor Turnover Survey this week showed that the quits rate rose in September, a sign that workers may feel more confident in their ability to get new jobs. But broadly, the labor market picture has not shifted much. A.I.’s fingerprints: One big question hanging over the labor market is the impact of artificial intelligence. So far, the technology does not appear to be leading to widespread job losses despite some recent layoff announcements from big companies including Microsoft. Trouble spots: At the same time, there are some indications that the rise of the technology is depressing hiring, particularly for entry-level positions in sectors including financial services and information. Part of the reason may be that employers are holding off on hiring as they assess A.I.’s capabilities. Companies may also be choosing to invest in A.I. rather than adding employees. A.I. may even be fueling hiring in sectors tied to the data center buildout, including construction. The labor market has not contributed to the inflation problem confronting the Fed, a dynamic expected to be affirmed when data for October is released on Friday. Monthly jobs growth has bounced around, but the unemployment rate has remained stable, at 4.2 percent, and wage growth has been subdued. This backdrop is a welcome one for policymakers at the Fed. It suggests they can afford to focus primarily on curbing inflation, which has overshot the central bank’s 2 percent target for nearly six years. The primary drivers of inflation include the war with Iran, which has unleashed an energy shock that has sharply lifted oil prices, as well as a spending boom by technology companies building out their artificial intelligence abilities. Shares in those companies have come under pressure after Democrats’ sweeping victory in this week’s midterm elections that gave them firm control of both chambers of Congress. The prospects of heightened A.I. scrutiny and a regulatory crackdown prompted a steep slide in U.S. stocks, with the S&amp;P 500 notching its worst daily decline on Thursday in more than a year. Fed officials are tracking gyrations in the stock market and the trajectory of U.S. government bond yields, which together influence the availability of credit in the economy. Kevin M. Warsh, the Fed chairman, acknowledged at the bank’s policy meeting last week that those financial conditions had become tighter. But he said he was “unwilling and unable to call them tight.” Mr. Warsh appeared to welcome the move, saying that it helped “in the direction of achieving a longer, more durable period of economic growth and price stability.” Mr. Warsh made clear that the Fed’s goal wasn’t “to throw sand in the gears of the economy and throw people out of work.” That suggests the bar is relatively high for the Fed to jettison its gradual approach to raising rates. It would take fresh evidence that price pressures are intensifying, and perhaps beginning to stem from the labor market. That would very likely necessitate a much more aggressive response from the Fed, either in terms of the pace of further rate increases or the total amount it would eventually deliver. Futures for the S&amp;P 500 signaled that the benchmark index would rise slightly when official trading opens in New York. The Nasdaq, which was at the forefront of the rout on Thursday, was set to open more than 1 percent higher, driven by a bounce in chip makers, like Nvidia. A rally on Friday would continue the week’s wrenching volatility, which saw stocks rise as the U.S. midterm election results rolled in, but then veer sharply lower as investors grappled with the prospects for the A.I. investment boom after the Democrats’ landslide victory. The shift in power in Congress led many analysts to suggest that stricter regulation of data centers could slow growth in states where the world’s largest tech companies are aggressively building out computing capacity. Phillip Wool, head of research and portfolio management at Rayliant, an investment firm, said that even if a Congress controlled by Democrats wanted to take a tougher approach on A.I. companies, President Trump still held veto power. “At best, this is probably a stalemate, and it’s just going to bring more attention to some of the risks of A.I.,” he said. Other market watchers said that the sell-off most likely represented traders resetting their positions as they assessed the implications of the U.S. elections, rather than an end to the A.I. investment cycle that had propelled markets higher for much of this year. “While we could see a period of market indigestion following the election results, we do not think fundamentals justify a prolonged downturn,” said Mark Haefele, the chief investment officer at UBS Global Wealth Management, adding that corporate earnings remained resilient. But he warned that more spells of market volatility could be ahead. The latest U.S. jobs report, due before the market opens on Friday, typically moves markets and will be another factor attracting investors’ attention. Markets across Asia, which were closed during the worst of the selling on Wall Street, had a chaotic open to trading on Friday. The severity of the initial selling in South Korea triggered a 20-minute trading halt at the exchange in Seoul. The tech-heavy KOSPI plunged 6 percent by the end of the session, pulled down by the memory chip makers SK Hynix and Samsung Electronics. Japan’s benchmark Nikkei 225 sank about 6 percent, dropping the index into a bear market, defined as a 20 percent fall from its recent peak. Shares of SoftBank, a major investor in OpenAI and a proxy for investor sentiment on A.I., plunged 11 percent. In Europe, the Stoxx 600, a broad index that tracks the region’s largest companies, shed more than 1 percent. All of the continent’s major markets, in Frankfurt, Paris, London and beyond, posted declines, but the moves were less severe than elsewhere, since European indexes are less influenced by technology companies. In fact, some of Europe’s biggest tech companies posted gains on Friday. ASML, Infineon and STMicroelectronics were among the stocks that rose between 2 and 4 percent. For Mohit Kumar, a strategist at Jefferies, the recent turmoil after the U.S. midterms was not a sign of the unwinding of the A.I. trade. “One could argue that having more guardrails makes A.I. investment more sustainable in the medium term,” he wrote in a research note. For years, Microsoft occupied a distinct position among the tech industry’s biggest companies. While its pay packages often lagged behind Silicon Valley rivals like Google and Meta, employees said, the company countered with strong benefits and a reputation for stability. As recently as September, Forbes ranked Microsoft the world’s best employer for the third straight year. But the tech industry’s A.I. race is upending many workplaces, Microsoft included. The buyout offer, said six Microsoft employees who spoke on the condition of anonymity, landed on workers strained by mounting expectations to use A.I., stagnant pay and a growing sense that their jobs were no longer secure. Though Microsoft is doing better financially than most of its peers, it is clearly shifting its spending priorities. Two days after the buyouts were announced, the Redmond, Wash., company reported a 32 percent jump in quarterly profit, to $36.6 billion, on revenue of $92.3 billion. Its capital spending, largely on data centers, rose 30 percent to $45.2 billion, and the company said it expected to spend roughly $170 billion this year. The fear among many workers now is what comes next, and some have begun organizing. Before the buyout offer, a group of current and former employees circulated an open letter among colleagues accusing the company of pursuing A.I. with a “speed-at-all-costs” ethos. It called on Microsoft to involve employees in decisions about how A.I. is built and used, and to stop tying A.I. use to rewards or reprimands. Amy Coleman, Microsoft’s executive vice president and chief people officer, said the buyouts were meant to give employees who might be ready for something new “choice and agency.” She said the buyouts were not related to how A.I. was changing work. (A Microsoft spokeswoman said “maintenance timing,” rather than a traffic surge, had briefly delayed the release of some buyout offers on the internal site.) Ms. Coleman also did not rule out future layoffs. Employees offered a buyout have until Dec. 9 to decide, and those who accept will leave on Dec. 31. They will receive a minimum of eight weeks of base pay, and the size of the payment varies by job level and tenure. The offer followed a string of cuts that had already shaken employees. Microsoft laid off 10,000 workers in 2023, and more than 15,000 in 2025. This spring, about 8,600 U.S. employees were offered a retirement-age buyout, and about 30 percent accepted it. This summer, the company cut about 4,800 more jobs. Microsoft’s head count in June was 223,000, down 5,000 from a year earlier. Microsoft’s campus in Redmond, Wash. For years, the company countered big pay pac"
+   "title": "Strong Hiring Reinforces a Sturdy Job Market",
+   "url": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
+   "published": "Fri, 06 Nov 2026 20:06:29 +0000",
+   "summary": "Unemployment fell in October, extending years of stability for a U.S. work force threatened by inflation and artificial intelligence.",
+   "full_text": ""
   },
   {
    "source": "nyt-business",
-   "title": "Stable Labor Market to Keep Fed on Track to Raise Rates Gradually",
+   "title": "Stable Labor Market Keeps Fed on Track to Raise Rates Gradually",
    "url": "https://www.nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html",
-   "published": "Fri, 06 Nov 2026 10:45:28 +0000",
+   "published": "Fri, 06 Nov 2026 13:45:01 +0000",
    "summary": "The Federal Reserve decided against raising interest rates at its meeting last week, but it is widely expected to move again in December to help tame inflation.",
    "full_text": ""
   },
@@ -110,96 +158,8 @@
    "source": "nyt-business",
    "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
    "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
-   "published": "Fri, 06 Nov 2026 13:17:13 +0000",
-   "summary": "Global markets were rattled after a deep U.S. sell-off on Thursday, but signs of a modest rally emerged at the end of a turbulent week for investors.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Swings in Farm Areas Helped Propel Democrats to Victory",
-   "url": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
-   "published": "Fri, 06 Nov 2026 10:04:08 +0000",
-   "summary": "Anger over tariffs and higher costs because of the war in Iran led many Republican farmers and ranchers to vote blue — or stay home.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "What Does the Super El Niño Mean for Ski Season?",
-   "url": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
-   "published": "Fri, 06 Nov 2026 10:00:32 +0000",
-   "summary": "The climate event is predicted to alter snowfall patterns across the U.S. and Canada. Experts are starting to see how it might play out across ski country.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
-   "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
-   "published": "Thu, 05 Nov 2026 23:09:27 +0000",
-   "summary": "The roughly $330 million deal for the cinephile community site would be part of an effort to add new products and services to the company’s portfolio.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Steve Kornacki and NBC Drew Crowds as Midterms Got a Ratings Bump",
-   "url": "https://www.nytimes.com/2026/11/05/business/media/tv-ratings-midterms-steve-kornacki.html",
-   "published": "Thu, 05 Nov 2026 22:47:35 +0000",
-   "summary": "More than 31 million viewers followed along with the Democrats’ big night on television, a 23 percent jump from the 2022 midterm elections.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Bird Flu Death in Washington State Renews Concern Over the Virus",
-   "url": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
-   "published": "Fri, 06 Nov 2026 00:26:37 +0000",
-   "summary": "The death follows reports of infections in cattle on dozens of American farms across the country over the past month and a worrying outbreak in mink.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Salon, a Pioneer of Digital Journalism, Shuts Down",
-   "url": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
-   "published": "Thu, 05 Nov 2026 23:29:23 +0000",
-   "summary": "The progressive website, founded in 1995, said its business was “no longer sustainable.”",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
-   "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-   "published": "Thu, 05 Nov 2026 23:51:09 +0000",
-   "summary": "Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
-   "url": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
-   "published": "Fri, 06 Nov 2026 00:33:00 +0000",
-   "summary": "Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
-   "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
-   "published": "Thu, 05 Nov 2026 19:27:58 +0000",
-   "summary": "A student made plans to end her life after chatting with Google’s artificial intelligence, a new lawsuit claims, amid mounting concerns about online harms to children.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times",
-   "url": "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html",
-   "published": "Thu, 05 Nov 2026 16:44:13 +0000",
-   "summary": "E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Why the Tech Right Lost Big This Week",
-   "url": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
-   "published": "Fri, 06 Nov 2026 11:00:19 +0000",
-   "summary": "“This felt like a decidedly anti-tech election.”",
+   "published": "Fri, 06 Nov 2026 19:55:34 +0000",
+   "summary": "With a lot of information to process in a short time, many market watchers said that the moves were extreme — in both directions.",
    "full_text": ""
   },
   {
@@ -212,18 +172,42 @@
   },
   {
    "source": "nyt-technology",
-   "title": "Tired of Slow TikToks? This Content Creator Gives You the Ending",
-   "url": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html",
-   "published": "Fri, 06 Nov 2026 10:00:58 +0000",
-   "summary": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
    "title": "House G.O.P. Leaders Ask Nvidia’s Huang to Speak in Closed-Door Briefing",
    "url": "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html",
    "published": "Fri, 06 Nov 2026 01:10:46 +0000",
    "summary": "The New York Times reported last week that Mr. Huang had a close relationship with an executive that U.S. officials determined was funneling information to Chinese intelligence.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
+   "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+   "published": "Fri, 06 Nov 2026 17:09:36 +0000",
+   "summary": "Some call him a doomer. Others see him as a responsible technologist. Here’s how Dario Amodei’s thinking on artificial intelligence was shaped.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Why the Tech Right Lost Big This Week",
+   "url": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
+   "published": "Fri, 06 Nov 2026 18:26:52 +0000",
+   "summary": "“This felt like a decidedly anti-tech election.”",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers",
+   "url": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html",
+   "published": "Fri, 06 Nov 2026 18:42:14 +0000",
+   "summary": "Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Tired of Slow TikToks? This Content Creator Gives You the Ending",
+   "url": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html",
+   "published": "Fri, 06 Nov 2026 10:00:58 +0000",
+   "summary": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
    "full_text": ""
   },
   {
@@ -243,10 +227,26 @@
    "full_text": ""
   },
   {
+   "source": "nyt-technology",
+   "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+   "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+   "published": "Thu, 05 Nov 2026 19:27:58 +0000",
+   "summary": "A student made plans to end her life after chatting with Google’s artificial intelligence, a new lawsuit claims, amid mounting concerns about online harms to children.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
+   "url": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
+   "published": "Fri, 06 Nov 2026 00:33:00 +0000",
+   "summary": "Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.",
+   "full_text": ""
+  },
+  {
    "source": "reuters-world",
    "title": "North Korea's army of world-class hackers is secret weapon that took down Binance",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFdzUlg5LTJNVHdsSWIyX2UycEcwbERwS29uTTVaNXhBbHY4V0ZvR0VJWktxcm5OdkxuUWE1Q3ctWVFZZ2dKclYwX21iVnl4VEJ4dWplSm84enVCallLSGdHejVrQTQ4bXUxUXBuLXZReDRpenpXQ3dIRUtiNlZva3dta2pFWV9ZeVlKU0RldWczLU0wREdvMTNkQXQ5Zzl6UzI2TkwwMVdLTnpfXzJlYUZ6UURtU01EZnRTdmI0YWdOMzZndXRmX29HWG0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 00:39:06 GMT",
+   "published": "Fri, 06 Nov 2026 00:41:06 GMT",
    "summary": "North Korea's army of world-class hackers is secret weapon that took down Binance &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -260,10 +260,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: Silver Lake, PIF have held recent talks to buy gaming software provider Unity, sources say",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzh5VFo3VUxBWThyeHFLSjIxcVU2RmJraW5QMTV4YWd4ckczTnZXTHQ1ZUxmMzduaDlpVjhwTnR5RUZsNEd6U2NtdTYwTHppZkJNYVdxNjlMMkoySHN4S0V5ZEJtRUVkLWNwLUVrMmxiREQzbTYzeTJHTTB3d0tXVHpYSkdmR0VXbERFV0NOUkJOR29YbmZHUDBQckpuU2x3WTJleW53VmUxcklIZFRSTV9Mb2VZdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 23:02:00 GMT",
-   "summary": "EXCLUSIVE: Silver Lake, PIF have held recent talks to buy gaming software provider Unity, sources say &nbsp;&nbsp; Reuters",
+   "title": "Paraguay's Peña resigns as bank collapse triggers political crisis",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGc3WWZCT3BZUUFMY3E0VW43Z244SWNKVUk4NS1RZ1RHVGVSdG1RSVNKVjFaZGdlQjktT2JvcElpNEVvMllaNTdIbWRMdmdQZ1F3RjZwMThjcVU5X1pYY20wajc0MzIyenBHX3MtaEVRRnpRTC16TWdITnA4QWZxcFhtNHh0UlR0YlZ2UkVqUmF4YXZWejdWY2xsZ0c2bm5oWUNiczZnWms4NHo2eHctcHJKSHJEMmNDQmtZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 05 Nov 2026 16:22:00 GMT",
+   "summary": "Paraguay's Peña resigns as bank collapse triggers political crisis &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -276,6 +276,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "EXCLUSIVE: Silver Lake, PIF have held recent talks to buy gaming software provider Unity, sources say",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzh5VFo3VUxBWThyeHFLSjIxcVU2RmJraW5QMTV4YWd4ckczTnZXTHQ1ZUxmMzduaDlpVjhwTnR5RUZsNEd6U2NtdTYwTHppZkJNYVdxNjlMMkoySHN4S0V5ZEJtRUVkLWNwLUVrMmxiREQzbTYzeTJHTTB3d0tXVHpYSkdmR0VXbERFV0NOUkJOR29YbmZHUDBQckpuU2x3WTJleW53VmUxcklIZFRSTV9Mb2VZdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 05 Nov 2026 23:02:00 GMT",
+   "summary": "EXCLUSIVE: Silver Lake, PIF have held recent talks to buy gaming software provider Unity, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Binance hackers used fake job interview in $6.3 billion attack",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 04 Nov 2026 13:46:37 GMT",
@@ -284,26 +292,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Doctors in England launch primary-care trial of blood tests for spotting cancer early",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 22:31:02 GMT",
-   "summary": "Doctors in England launch primary-care trial of blood tests for spotting cancer early &nbsp;&nbsp; Reuters",
+   "title": "Midterms upended Congress but Trump still commands foreign policy",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFdhWXVRZDFtNThlVzMtcUs4eU9nTlVZZHJHZzAxbUhKNVBYN3FoR0lSMHJNSzVkQVJQdXlaWTZQZXNwUzEwSkhxRjBwQ1dRZzIyMFV5QkhTaWRmWHVKWEdSQmhyR1NHaUhyMlpnV09GVkxPbmh5MTlUZEphbVE1OENqSXlNTmdEejZPbUlNdmdzRTBiRnVYTHNuWHVQUEo0VXFvODJTaElxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 05 Nov 2026 18:51:00 GMT",
+   "summary": "Midterms upended Congress but Trump still commands foreign policy &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "International politicians react to Democrats winning US midterms",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkVUcncxLUJqT2dDRWNjUTNjVUh5cmxVYmVRUUJQZkcydUhDcGNkMWdTT0lYTlBTemFEZHF5Zjc2VERfOTFyT0tIcEhFSFo5QzNvTXZlaTNmUDUxY2J4ZFhKeDN4dXlpZmtJMWJxRkVnYjFXNnJZdEM3WGRoUXg3RVlaUWN1dV9wZDE2WHp2ZGJ6MHZUbXlyZXJzT2JPZUZSZEtFMGRqMF95enlWZ2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 13:14:08 GMT",
-   "summary": "International politicians react to Democrats winning US midterms &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "From Iran to trade: how the US midterms impact the rest of the world",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 12:40:00 GMT",
-   "summary": "From Iran to trade: how the US midterms impact the rest of the world &nbsp;&nbsp; Reuters",
+   "title": "Developing countries' external debt hit record $9.4 trillion in 2025, World Bank says",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUNmTlFYQ21nN0NtVU1yNFN0ckdQT1Q4YktzMWU0eFNqY1AwRWZNandDNGZFQVRRdFFTakZ0dk5JV0p0Y2psYktKUko3enVuM19xbnNMekZpcWtJZDhtSFlwQlN0bnRCRllwUU42Ml9FVFd6T1ZIdEs5T1N0aWowbGhaT3pOYlg4akwwSllUQW1yQ01CRUhsalZ0RThjX1VfRzBLM0NYZms1QklCRGFJT2ZnVGx1aTdkVW8zRkJNVGE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 05 Nov 2026 14:39:43 GMT",
+   "summary": "Developing countries' external debt hit record $9.4 trillion in 2025, World Bank says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,26 +316,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "Paraguay bank crisis spurs lawmakers' calls to impeach president",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnVQS0hGM3R0Ynl5bHhWNDN2dkFQX1BqT3NWSnJaYzlXODRySlJ2TnNzZUdSY1FvWVBYMkxrOTQ2aDB1V2tlT1JuX3lwTVA0SzV4cTVzeGcwcHpoZUxleFpaYnFtQkhuQXJWYnoyalBmRm1pdi0wYXVuakM2c0ZLZzJ4LUN2c244MVV1a2tzd1BrZS1icjQxOFAtMXcwRXJiV2RqLV8tbnZxMEpHSlV4Uw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 23:10:00 GMT",
-   "summary": "Paraguay bank crisis spurs lawmakers' calls to impeach president &nbsp;&nbsp; Reuters",
+   "title": "International politicians react to Democrats winning US midterms",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkVUcncxLUJqT2dDRWNjUTNjVUh5cmxVYmVRUUJQZkcydUhDcGNkMWdTT0lYTlBTemFEZHF5Zjc2VERfOTFyT0tIcEhFSFo5QzNvTXZlaTNmUDUxY2J4ZFhKeDN4dXlpZmtJMWJxRkVnYjFXNnJZdEM3WGRoUXg3RVlaUWN1dV9wZDE2WHp2ZGJ6MHZUbXlyZXJzT2JPZUZSZEtFMGRqMF95enlWZ2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 13:14:08 GMT",
+   "summary": "International politicians react to Democrats winning US midterms &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm1rN0dhNG5aaDhDRVRyQVpMaXVROE8wbUFRVUJLZnYwaUQwZF9jMGtfX0doQjVZM3JaRFZHd2FSNFRvODVIUy1TeXJ3d09OZEZPMDB6cEE0eWhHdDNGa3FTRWRCRkhjaERjTnhudVNMTDV6RmdBX0ZqOTNjbDZFblljUE9INGpzN05KSV81YzdHTlVFS1lKeExydFBaaHVLV0pzR2tyQTBSbHV5SUF3VEY3STZHX0gzZzM1S1VYOWtpSEZsRXhKWjl3YzhQQUpy?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 07:46:00 GMT",
+   "published": "Fri, 06 Nov 2026 08:33:24 GMT",
    "summary": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXI0TWJjeldpYmNUM0tQR3NKcEh6bGtsaWUzOV9XQnQyaFVnNlNuaEcxakNkdjd4MzBJR2NoMWdua1RaNEVfSzNjOGRCVU5vVmc3MXRYdlkzVEpYV3JZR2JMYVVSMTJ5ZmkxY2VYM2RSWm1nb005RENwSk93NTcxa0U5X1lrMUw1cHRFV3c4b3lhc2doNHFJM012TE1yN1N5ZEo2em9pSExVcHgtQ2h1cURZOE5taVF6aFVKZU5GWVpHX0FDSGpGYmppMFUtUXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 19:53:31 GMT",
-   "summary": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook &nbsp;&nbsp; Reuters",
+   "title": "Enbridge expresses interest in building pipeline for Canada's Pathways carbon capture network",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1E5dGNkek5vUzhyS3JLV2tYOTM1allxcWMtUHZqQjJUSGloQkdCTHd4V0ZBTWw3NFRMRTUxa2VUWFBQMlIwVFZid1g0RHlrNVF4bE5XYlB2M3FENzNyOUJmTVc3UTZWeDdtUHJOR0FwSW95c1NTdmxvaGxIMTByS3lLd2paQUdYQmQzNTVhUFdFemZDVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 16:43:57 GMT",
+   "summary": "Enbridge expresses interest in building pipeline for Canada's Pathways carbon capture network &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -348,10 +348,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Box expands Nvidia partnership, unveils AI workflow builder",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2lEWV9lOTI0YTVOWDFYeGtCeEkzUThubC1qdlY3Qmdpc1NsVVZUSnNBdlR2WGdKSm1pcWprVnVQN0Y4d1N1OXRnU0h4a05wYlZyNEtLRDBDUkJ4M19qTmxQbkQ4dkVSOU9heVdIY2NPTVRHZ1pvTFYySlN4MkpoSGhNNm5KR3JBZmRXMmVjNFN4SGdBNm5kT3RuS0JiZnRHSlhnZnpB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 14:06:25 GMT",
-   "summary": "Box expands Nvidia partnership, unveils AI workflow builder &nbsp;&nbsp; Reuters",
+   "title": "Markets fret over growth and inflation, just as tech rout gains speed",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUh4V2hzQnA1Rk9zNTN6d3ZxcVZycGZQVmNUNjR3NmpXSmphZHh4LWZvaGJmTTVEWDdBc0lNWmZyUUp3MTFndk5uZl80Qnk0QXotRmo5S1g0MVhDejlwMjJlczNLVWY1eHRLZ1c4dExyOUNqdjJPaUFhVnE2WC16QUc4aTVfUlAwQUtKMktZYi1STk94cXBnSXF5OEQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 05:09:00 GMT",
+   "summary": "Markets fret over growth and inflation, just as tech rout gains speed &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -366,16 +366,8 @@
    "source": "reuters-business",
    "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 21:33:46 GMT",
+   "published": "Wed, 04 Nov 2026 12:11:00 GMT",
    "summary": "Elon Musk's business empire braces for Democratic wave as Texas flips blue &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "CVS to break up $117 billion business, separating pharmacies from insurance; shares fall",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajJWZGJKRmQ0T1UtdWxsc1Q5d2ItVmFRUjdzRmRnT2tpVjc5Q3ZobXd1bmxyMHZUMDVtVFNsQkRTYTFkMUV3SXpGRmNRel93bEl4OW12YV9yTGpnUzV0Sk01OWFJZ1BzdXhWYmdQeUR4eG02OWdqbHJhWXcwODhyN0RpS0JxMk1UdUlrTGpvRUFrRGFPcXJCcmNHV3dvb1dfOHlGWjNYYnA0TlViRGJOamdUSzMxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 04 Nov 2026 21:36:39 GMT",
-   "summary": "CVS to break up $117 billion business, separating pharmacies from insurance; shares fall &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,34 +380,58 @@
   },
   {
    "source": "reuters-business",
-   "title": "Turkey unveils 2040 energy plan built on electricity, requiring $500 billion in investments",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNalNkdnFOTFQ0RWZGdVpDbHFXSS1US2gxSmU0TkFncTlod3dxTWRxdkVFM1pDMlR3WGIxSHFEU1Y3Y3VMc0JBS1FMdi1aaG5LRjhRRUxkMkhpakllaFhHc216ME5BV0ExYkpZVjlSckRhVDhKYTdLQ3BWU2RZeS12Z2VyRFVIaHBabC01cWk3ejlnWFktRTNlOG1uMXVSQ1paRlI0U2dDV3JJUWVNcDZQenhpX1hsQThmSUlCaFNCZTFZTzVHY2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 14:39:43 GMT",
-   "summary": "Turkey unveils 2040 energy plan built on electricity, requiring $500 billion in investments &nbsp;&nbsp; Reuters",
+   "title": "Goldman Sachs promotes 109 bankers to partner ranks but omits demographic data",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORWllc3RWanRyWmRhamFsMHZRNDE4Y3BvQmVOc01wdnozRnpkNlIyTFFUcmV2SmxTZjZpSmVXVHpnWTVXcTgwUU44WE5uZkdCTllJUXcxX0llN1AwLThlSDdKOGpGeHJyREpSUFBCSXI2ZEROWVZHT3NINTlWR3JkZHN0MVUwSl9kdFV2N1EyQ0haU1RGNmk4Z0JvNnl2Vl9WbkZlYzl3c1oxTW1wTU1xYzhDN2xaSVhfRWRsVy1lWVRMYlREV0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 05 Nov 2026 19:11:12 GMT",
+   "summary": "Goldman Sachs promotes 109 bankers to partner ranks but omits demographic data &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "S Chinese firms' profit margins trail global peers as domestic demand stays weak",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMFNhUk9RU3lMSl9BdWk4T0IyaTJUS3NDMVBmcDRNNVp6WnU3V0oyeFIzcGdtajl2TTJOY3pxU3dPR2VZUHBFVkRTWDhzUEZZYmgxNzNvb3NMdW5qclJnNzU1SHpwMVRobFBZbGlhN3BfYjZ0M1Z0bnVTa29PTGN6S3g0eVp1T253VHdKVGNhRFQ3QWxFQ1hHVjlwVEpnaW5wZVR2V1RVMFp6UlFKVjZ3c2wzbDJJY1dTbUc4LXNnYWt0OWNzQ3FHZHA3cjd0N0MxajAxZkZUNmNQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 00:42:00 GMT",
-   "summary": "S Chinese firms' profit margins trail global peers as domestic demand stays weak &nbsp;&nbsp; Reuters",
+   "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 04 Nov 2026 23:54:37 GMT",
+   "summary": "Wall Street ends higher after Democrats win Congress; data center stocks tumble &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXI0TWJjeldpYmNUM0tQR3NKcEh6bGtsaWUzOV9XQnQyaFVnNlNuaEcxakNkdjd4MzBJR2NoMWdua1RaNEVfSzNjOGRCVU5vVmc3MXRYdlkzVEpYV3JZR2JMYVVSMTJ5ZmkxY2VYM2RSWm1nb005RENwSk93NTcxa0U5X1lrMUw1cHRFV3c4b3lhc2doNHFJM012TE1yN1N5ZEo2em9pSExVcHgtQ2h1cURZOE5taVF6aFVKZU5GWVpHX0FDSGpGYmppMFUtUXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 05 Nov 2026 19:53:31 GMT",
+   "summary": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Markets fret over growth and inflation, just as tech rout gains speed",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUh4V2hzQnA1Rk9zNTN6d3ZxcVZycGZQVmNUNjR3NmpXSmphZHh4LWZvaGJmTTVEWDdBc0lNWmZyUUp3MTFndk5uZl80Qnk0QXotRmo5S1g0MVhDejlwMjJlczNLVWY1eHRLZ1c4dExyOUNqdjJPaUFhVnE2WC16QUc4aTVfUlAwQUtKMktZYi1STk94cXBnSXF5OEQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 05:09:00 GMT",
-   "summary": "Markets fret over growth and inflation, just as tech rout gains speed &nbsp;&nbsp; Reuters",
+   "title": "AI rout sets off market alarm signals as traders brace for what's next",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0g1Wlg0bVFoVzN1MVhqOWt4YWlpVzJwdm8zNTRyWkVBVTRTZkJGTmk0bU9IWWg3OEN1NXVRalZESS1XVVFldWhOb25kRk1UV0J0amlHc2llRGdGVzNIdi1CWTlBZmxocXJMSzZPdHVPTWpfbi1ycXYxMlZFNGNHajZQSlhwOWFjMXV1QnNxSEdJZDBYOVhqLXZJNUZxZE11YVVuMmJxWkQyRDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 17:36:16 GMT",
+   "summary": "AI rout sets off market alarm signals as traders brace for what's next &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Nasdaq futures rise after steep AI selloff as chip stocks stabilize",
+   "title": "Trader angst pivots from inflation to growth as tech rout deepens",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYm13UzNKRG9XaWdpdHV5SGo2UHJKSFlrRW5NUXVNR21LcnpYM01JaHZvY2dTVnN4aTZIbnYxMjI1RUdDWmN6UjBaZTNOdFVNWnpPOTNtWlQ0c2RCMlFDY0VKX0lUZ0JUZHRtSVlHb2k1VENabjhMWkdncTBBUTQyaHMtWGVpaUlZcEFqVzZaVnJId2pJXzdpcm9QaU93QkRhYlZ5eFZQUFZlYmpnREhMUXU1cnE0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 15:33:52 GMT",
+   "summary": "Trader angst pivots from inflation to growth as tech rout deepens &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 19:19:50 GMT",
+   "summary": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1% &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Nasdaq rebounds as chip stocks recover from steep losses",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQang5czlMS1c0LVRiTWdNdXItcDlKcTgyOXplSVVGRHljMGVrVG1KVGJTclR0TmtjWjFob0t1QWh6OTdkNzltaDJhTi1fdUdkM2tOb01JaVVlaVRWcWVTdkZFbmdBYlgxY2ktWVh6eFdZRVczekVTdFRCSWtOSzBGVnNCWHpFNFFXWFE2WDVQUjFCa19tbUhzNzdlNksyNFBqek4tcXdrcjVIVTQxMkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 12:44:05 GMT",
-   "summary": "Nasdaq futures rise after steep AI selloff as chip stocks stabilize &nbsp;&nbsp; Reuters",
+   "published": "Fri, 06 Nov 2026 17:19:34 GMT",
+   "summary": "Nasdaq rebounds as chip stocks recover from steep losses &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,10 +444,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Analysts and investors react to AI market rout",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZldlNGFPZ1lfa0RKbWVfZllvX2drcWh5TjF2S2RuV19Gal9wTE9PVUxHb05KODcwcXlEc2hINTEzOFc2MTlCT05rUXFVVnVpbmFocFRNcFlURk1hYkRpZklJc2ZKaFotYVR0VXRMWkRTQU16QzF4dVBDLUFsODJDaDNfNnFLVUpQMV8xLVBQbXhqaGNaVld3NzlB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 01:11:00 GMT",
-   "summary": "Analysts and investors react to AI market rout &nbsp;&nbsp; Reuters",
+   "title": "VIEW Strong October jobs report sends yields higher",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnpMd1ZuR2N2T2ZIelhxU25lLVpES1EteXlqbW4zVXM1V2M3SkppUlRRZkctZ181TzNsYnhPdFV4OXhzejdscG5TRHJWbGx6M0hrMXZmLS03MDFaQ2VGU0xjaHA1UDhZQ3lsUTNyVVFGODdjR253T2ZGVlNieDZ5dWRwQ3dqa0pqR21pYi1FNUlWOFpMTjZ0VEU4VGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 14:45:22 GMT",
+   "summary": "VIEW Strong October jobs report sends yields higher &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Fed seen sticking to December rate hike after jobs data",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 16:04:55 GMT",
+   "summary": "Fed seen sticking to December rate hike after jobs data &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,50 +468,58 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Morning Bid: AI's reality check",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xWEZCT19xVnB0ZUVUZDQzWWRjTGxuUEpqQTE4OU1CZ1ZQNHJpQTR2MnNvejZteVJRZXR2eTZ5dENZX2I0MDRnb0xOUE1ranhSWG5OblJsMEZhZzZxcnNKMFdhMDlRVWVVa0pRR1FhczRCblJZLXZGdmtLMi1DTkk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 05:37:00 GMT",
-   "summary": "Morning Bid: AI's reality check &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "SoftBank credit risk jumps to 4-year high, shares tumble as AI fears roil market",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWEyYjlxaW9WTFZLanBpRjhNVnFKS1NhanJZRjl2WHk5Wm9TUDhOaFlyMXRHZTZyajFqb2RPOXUwTHN0T2VuVlNYUmZVanVGU1JRWTE5X2ZiWHY0MDdXRVltemF5cVZSZFM3b3Q5VXl6VnFlc0l1ZHptbXR4dG1Vd054ODNYVXRqOEpqLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 03:20:00 GMT",
-   "summary": "SoftBank credit risk jumps to 4-year high, shares tumble as AI fears roil market &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 23:41:00 GMT",
-   "summary": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Brent oil price benchmark set for biggest weekly drop since 2020",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 02:49:00 GMT",
-   "summary": "Brent oil price benchmark set for biggest weekly drop since 2020 &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Indian stocks buck global tech rout, post best week in 6 years",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 02:27:00 GMT",
-   "summary": "Indian stocks buck global tech rout, post best week in 6 years &nbsp;&nbsp; Reuters",
+   "title": "Analysts and investors react to AI market rout",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZldlNGFPZ1lfa0RKbWVfZllvX2drcWh5TjF2S2RuV19Gal9wTE9PVUxHb05KODcwcXlEc2hINTEzOFc2MTlCT05rUXFVVnVpbmFocFRNcFlURk1hYkRpZklJc2ZKaFotYVR0VXRMWkRTQU16QzF4dVBDLUFsODJDaDNfNnFLVUpQMV8xLVBQbXhqaGNaVld3NzlB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 01:11:00 GMT",
+   "summary": "Analysts and investors react to AI market rout &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Tesla to wind down Cybertruck production after years of poor sales in few markets",
+   "title": "Activists breach Microsoft data centre construction site as protests spread in Europe",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 17:28:19 GMT",
+   "summary": "Activists breach Microsoft data centre construction site as protests spread in Europe &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Alphabet takes $548 million stake in partner Qualcomm in data center push",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXlYcFdWcV9JU25ST013NGFEdWszTUFKS0xKNG5vYVhnVm1fbHFoa2lUWk16RGhqMmVXdzFkQ0NwRGcwaTdSdl82VjdUZWREdnhJZ1VIYXJUQzdWbVJCUTlySUJHVFFzc0M1QlNieFRSTU81bkF2MWpfbUlWQUxnUEhsUzdnUlBwRGo1a0hPcWh3VkFmYnJOX3E2UnE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 16:44:46 GMT",
+   "summary": "Alphabet takes $548 million stake in partner Qualcomm in data center push &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Democrats planning flood of AI bills when they take control of Congress",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 18:27:11 GMT",
+   "summary": "Democrats planning flood of AI bills when they take control of Congress &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "EXCLUSIVE: Apple's autocomplete restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTUR2UGkwV2c4dmhzNURLVE9HOFU0Vks4d3FkRzFBa1hWZXloRGtwaVVoUnl4WFVBU0ktdXl3eU1lclhVTC1xUjBPX2NWMG82V2IzdVZXZVd5dFEwSkhSUzdMV2I1VlB5a1R4czhndXdGQURaY3pzTVZoUC1UNm5OUXBRZXNFSXpBV3VOODc1UUZGV21oTkxtWW9fMGdsanBDV2NUUVNST3R3Zm5mUW5JQWtvdXRSem1ZSlJSaE93d0FtckdmX2c0MGlLT2I3Tjh5eXVlZlFpNW0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 18:28:02 GMT",
+   "summary": "EXCLUSIVE: Apple's autocomplete restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Protesters enter Microsoft data centre site in Amsterdam",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEdZZ1dJZWJXSEpqSFpmRDhHRDlYRURxZnROd1BFc0lFa3dJX3BTOHg4ejVuUnFMZnhOYVNHUTZDSmVCTlVBaTRiQ3Q2aHNKNmZYTkJ4RUdPT0F6MFZrRWNrcU1VWTFUVXNDZ2xpYjRuNmlRZ21zVEZiVzZ4NlJLU0hJWDAtWm53YzVPeGNPSFRjeWEydF9hNVoxZURCcHFDSFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 10:57:44 GMT",
+   "summary": "Protesters enter Microsoft data centre site in Amsterdam &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Tesla to pull the plug on Cybertruck after years of poor sales",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWnlMcV9XTE94RnhqbWNmQ1B5Y01Gd0tReURLRG5nc1VOVlBQR1RwazRSdXF0azlhbS1nTmJ5M0MxZUxMMUQxM1pxRHVjN1VVQWM5OGtOOGdWU1Fwa0llb0hxTXVHX05rV3JoRTR3eWwtTkNseGQ2eW5hcTcxUmQ5YnRYUVNwaGdwaDlhelZ5dmJoOVZhaGU1N1Fkb1RTUDFMY1lCUzlMcG9SYUNDcUlMeHBBYXBWQmM2QUloLWh5QkNuOGRvMTRVSml0dmxEN2lqaU1va09iQ0o?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 06 Nov 2026 07:04:00 GMT",
-   "summary": "Tesla to wind down Cybertruck production after years of poor sales in few markets &nbsp;&nbsp; Reuters",
+   "summary": "Tesla to pull the plug on Cybertruck after years of poor sales &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,42 +540,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Democrats planning flood of AI bills when they take control of Congress",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 11:45:13 GMT",
-   "summary": "Democrats planning flood of AI bills when they take control of Congress &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "AI data center firm IREN delays Microsoft AI deliveries, plans $15 billion spending push",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 21:35:00 GMT",
-   "summary": "AI data center firm IREN delays Microsoft AI deliveries, plans $15 billion spending push &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "US proposes space launch rule changes in potential boost for SpaceX",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzZGN0pDYmZFQllRaXVhU3dwdHFPUnp6dDc5YmsycjV3NzZVc1NqYWNjblptNFpqMlNqY2tkLXI2SzJJQ3lwZFJRdU84d0JyREdVQm1mNmpReDRfdzlLaXBOdXZScEJMS1RDclJyMXFDaVJVYkptSVJDVnlGeTZ6c29kN1FOOXNYQ0ZiWEVMRmR6MU5ibWVjMTBiUVpVY3ZyMlo4MFJsNnJIUWZMTTRDZEgzZWUzSDBYeWJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 18:20:13 GMT",
-   "summary": "US proposes space launch rule changes in potential boost for SpaceX &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "US warns of 'ongoing cyber threat' to industrial refrigeration systems",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2s2bmFfRVpxV19jRHlKYkY2NXlKbDhkbF9vVi1seHE2cDJRbi15Z0NEOEV2MjlYb1F0emRmdG9xZmRRcVY1R3VsWnRjZW9iNGlqbFQwMm1XUlRfUTVSQ3ZEbGdIRmtQQ1NrN3IzYVNiaXZ6XzJGbDUyODJzNGo1OGVSMHRqU3lfb3djN0dfY093dmYwcm5EV05wd2x4bUtJeXUxWFctcHdsM25wb0JYcS0yMGQxYllCOUczOEVKTWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 22:25:07 GMT",
-   "summary": "US warns of 'ongoing cyber threat' to industrial refrigeration systems &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 20:07:43 GMT",
-   "summary": "Anthropic's models improving nearly twice as fast with help from AI, study finds &nbsp;&nbsp; Reuters",
+   "title": "Meta pauses planned terms updates, keeps existing rules in place",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDZFbmo0bmw0TmRIZWhWSXlWX2g0bWNUMF9zeWJ1MWp2dnVrb01ZUXJiZVJqMkFfbnl3UmdnS0dLT2k3azNnTzRob1NKemJQRndYeXhfV3NwQlBFMkFHREtVSGtJLVBEM3J1RmJlN0E0RnR3eGw4X3NobWZvVmJXb1lycUJ6UEVBU041Z3EtUEk4dzAtdjVEZTBmV3FIeWdrbTBiVE54Umg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 06 Nov 2026 12:15:43 GMT",
+   "summary": "Meta pauses planned terms updates, keeps existing rules in place &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
