@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-09T20:21:02Z",
- "count": 66,
+ "generated_at": "2026-11-10T03:56:46Z",
+ "count": 64,
  "items": [
   {
    "source": "nyt-world",
-   "title": "Shipwreck Off Senegal Kills Dozens as Canaries Declare Migrant Emergency",
+   "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
    "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
-   "published": "Mon, 09 Nov 2026 19:57:02 +0000",
+   "published": "Mon, 09 Nov 2026 20:50:13 +0000",
    "summary": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
    "full_text": ""
   },
@@ -22,7 +22,7 @@
    "source": "nyt-world",
    "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
    "url": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
-   "published": "Mon, 09 Nov 2026 18:53:07 +0000",
+   "published": "Mon, 09 Nov 2026 22:29:12 +0000",
    "summary": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
    "full_text": ""
   },
@@ -30,7 +30,7 @@
    "source": "nyt-world",
    "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
    "url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
-   "published": "Mon, 09 Nov 2026 12:04:29 +0000",
+   "published": "Mon, 09 Nov 2026 21:54:46 +0000",
    "summary": "Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them.",
    "full_text": ""
   },
@@ -38,7 +38,7 @@
    "source": "nyt-world",
    "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
    "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-   "published": "Mon, 09 Nov 2026 15:08:54 +0000",
+   "published": "Tue, 10 Nov 2026 03:39:35 +0000",
    "summary": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
    "full_text": ""
   },
@@ -54,7 +54,7 @@
    "source": "nyt-world",
    "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
    "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
-   "published": "Mon, 09 Nov 2026 14:43:11 +0000",
+   "published": "Mon, 09 Nov 2026 21:26:15 +0000",
    "summary": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.",
    "full_text": ""
   },
@@ -84,6 +84,30 @@
   },
   {
    "source": "nyt-business",
+   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+   "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+   "published": "Tue, 10 Nov 2026 03:49:08 +0000",
+   "summary": "China’s exports exceeded imports by $1 trillion in the first 10 months of this year, reaching that milestone one month earlier than last year.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+   "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+   "published": "Tue, 10 Nov 2026 00:51:53 +0000",
+   "summary": "The agreement brings the biggest U.S. oil company a step closer to pumping oil again in Venezuela, nearly two decades after it left the country.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
+   "url": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
+   "published": "Tue, 10 Nov 2026 02:32:06 +0000",
+   "summary": "The suit claims that any payments to Alex Bruesewitz, a Republican strategist, could have violated federal law. He has denied ever taking such funds.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
    "title": "Boeing Will Cut 5% of Commercial Plane Employees",
    "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
    "published": "Mon, 09 Nov 2026 20:00:31 +0000",
@@ -102,7 +126,7 @@
    "source": "nyt-business",
    "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
    "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-   "published": "Mon, 09 Nov 2026 18:38:40 +0000",
+   "published": "Mon, 09 Nov 2026 23:27:05 +0000",
    "summary": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
    "full_text": ""
   },
@@ -110,8 +134,8 @@
    "source": "nyt-business",
    "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
    "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
-   "published": "Mon, 09 Nov 2026 17:02:37 +0000",
-   "summary": "The global benchmark price is now down roughly $20 a barrel since late October, when it traded for around $113.",
+   "published": "Mon, 09 Nov 2026 21:24:16 +0000",
+   "summary": "The global benchmark price is down roughly $20 a barrel since late October, when it traded for around $113.",
    "full_text": ""
   },
   {
@@ -134,24 +158,8 @@
    "source": "nyt-business",
    "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
    "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
-   "published": "Mon, 09 Nov 2026 18:38:04 +0000",
+   "published": "Mon, 09 Nov 2026 20:18:47 +0000",
    "summary": "The controversy has intensified scrutiny of Mr. Huang’s ties to Beijing and sparked mixed reactions across Asia, where he is widely popular.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
-   "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
-   "published": "Mon, 09 Nov 2026 16:24:05 +0000",
-   "summary": "The chipmaker’s size and significance to the A.I. trade means that Jensen Huang’s admission of a relationship with a businesswoman suspected of spying for China could reverberate across Wall Street.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Senator Tells Google to Let Schools Disable A.I. Features in Search",
-   "url": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
-   "published": "Mon, 09 Nov 2026 10:04:01 +0000",
-   "summary": "The request came from Senator Edward J. Markey of Massachusetts, after Google said it would not turn off artificial intelligence tools for students using its search engine.",
    "full_text": ""
   },
   {
@@ -166,7 +174,7 @@
    "source": "nyt-technology",
    "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
    "url": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
-   "published": "Mon, 09 Nov 2026 17:58:28 +0000",
+   "published": "Mon, 09 Nov 2026 17:58:29 +0000",
    "summary": "As chips became essential components for A.I., executives like Nvidia’s Jensen Huang saw their personal wealth and profiles soar in a way the industry has not experienced before.",
    "full_text": ""
   },
@@ -236,14 +244,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "Ice Hockey-Norway replaced by Russia for World Junior Championship after CAS ruling",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnpqQ3FZN0xHR3ZLalluVUtXMndBUXJ0cVVkZFAwZ3d5ZFQ4SmhSZzNDamd5VHFuLVg4QmdNc3hHaXBxcEl5eUhzWGVDamR4UnFtNTZMZWJBNHh5b0JSY2RDSHNZQ2lxZVAzcDN6enAtSnJ6Q2hTWVFORzh2UFo2SkYwd091Rmo5M3pHbjRUcXJTMmtLbjJkLWl6R0Y5b0Q3VGtSZ2twUE51eWFxSlNQVjhkTmttNnpRS0d3d2FSNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 08 Nov 2026 13:57:44 GMT",
-   "summary": "Ice Hockey-Norway replaced by Russia for World Junior Championship after CAS ruling &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "What we know about Nvidia's probe into CEO Jensen Huang",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzg0SWNIOFJSV3ZySXd6Ml9OWmdJS3ZlbDRMVWFOUVhRa1g5bE91N0VRTkJTQlVpbjhiWXJnSEt0ZlVmM3NVUVFyNk9nV2FVNG9jdXNWUFB5bnpESTd6M1Z4eGJPWGJHZUNYcEdPUDRqaVdXQlRaSjk4NEpHZVRxbkgtYnNTSERpUjJvczFDU0x3WE1CZFB6RG0zRm00SEc3RkRzMGlGend0WjdSenc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 09 Nov 2026 06:50:00 GMT",
@@ -260,18 +260,34 @@
   },
   {
    "source": "reuters-world",
-   "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 07 Nov 2026 01:13:37 GMT",
-   "summary": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "Haiti PM says gang leader Mathias Saintil is dead",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkdOZEEtMTQ5NzlLdWRCRUlzdVFsWkFoR0xPOTdIV2szN1hTWmNLQTBHejRjVUI0YTU1bDJpUXdONl9VSlQtZU9iLVRTWFhEbi1RLTZuNEJGQTFxZ1JXWVBBRk43Rjl0VXJrTnF5MXNONkM2TFRYRUM3QXVqTVBOR0R0a1o4NkNsZDhUVVNYTzRkTWNvYm4yRFpEWmVfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 07 Nov 2026 05:08:30 GMT",
    "summary": "Haiti PM says gang leader Mathias Saintil is dead &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Ice Hockey-Norway replaced by Russia for World Junior Championship after CAS ruling",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnpqQ3FZN0xHR3ZLalluVUtXMndBUXJ0cVVkZFAwZ3d5ZFQ4SmhSZzNDamd5VHFuLVg4QmdNc3hHaXBxcEl5eUhzWGVDamR4UnFtNTZMZWJBNHh5b0JSY2RDSHNZQ2lxZVAzcDN6enAtSnJ6Q2hTWVFORzh2UFo2SkYwd091Rmo5M3pHbjRUcXJTMmtLbjJkLWl6R0Y5b0Q3VGtSZ2twUE51eWFxSlNQVjhkTmttNnpRS0d3d2FSNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 08 Nov 2026 13:57:44 GMT",
+   "summary": "Ice Hockey-Norway replaced by Russia for World Junior Championship after CAS ruling &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Food industry pushes back on WHO guidance for products with added colour, sweeteners",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTGs5TkZhWXhIeWQzR1ZWQkR0aEg2TXlUMkp2NjVNNTRBVVcwZDRfWWV6UzBudFkyeVZEcHRHWmV6aGFpOVg5UVRzWERrcXhjdk5VMTVxaFNQblluMTlqTnh1S1pKN3QxclYzOTlPTDJTNU1lT1FEejFibzVYWGEtQ2FvTHJ1MlhkMF85bzdQU2pzRHZMajVOMWQybnUzXy1VWU1WZXlfSjdVUG93RDdMbklNX1l0aGZJS3B2NDFpSWZrTFBPSzJvdEF6aVZCLUhYYXJRbXFSS3pDYllUaWNPSXhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 18:29:54 GMT",
+   "summary": "Food industry pushes back on WHO guidance for products with added colour, sweeteners &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3pwXzVncjFkZFl3THF5NjBkQmFOMmpMc3RvR2ZmNmw4WnRtTHBhNkQzWlR0eE1yWW84ZnI5ZzlWSWlBRU41RkZUR2hJakpsS29VVHdhS3ZGR2NYdmg0UEtXblA3ajN1dFY2ZEJ1eGQtTG9kRDU4Sl9lcFhIMGpfUFNWYWNSUFJ0UE1SemM0ODhZRF9UUUVQZF9rdjZEMEFKQmh0MEZXdHFMRlhtSlBV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 23:10:14 GMT",
+   "summary": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,10 +300,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 06:10:00 GMT",
-   "summary": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says &nbsp;&nbsp; Reuters",
+   "title": "EU sues IBM, two European companies over border system woes",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXJPVTdRRklXWVVfcDEzUlQ4RHdINUpuei1aYnFyX3BZYWlfMFhIX3pOT3lVc25XS3FnOUhiai1obnZzQmhuSHdsOW92ZkhDV1VXakxfZFJKeFQxemtuQURkSHJxZUpuZUFBcDFqOXJIUWhkMmxneHlwZ3VFTGthdWRTNnp0RGFGQ2VjTGcxdUFsSTJFSzctT1hHUWN2U3hTY2VyaVJpSnNKVHhydkhSUldnNWFyZlg0WmNfYjBXaGdEMGVK?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 06:25:00 GMT",
+   "summary": "EU sues IBM, two European companies over border system woes &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -299,11 +315,19 @@
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "Activists breach Microsoft data centre construction site as protests spread in Europe",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 17:28:19 GMT",
-   "summary": "Activists breach Microsoft data centre construction site as protests spread in Europe &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "PepsiCo to cut some jobs in North America",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQnEyOUlVejBrX3VzNHF3YVl1TjJSbjJEZkFwZHhaWVo5R0p0dG1VN05WOU9pTWdSazE2dENZVmJTeGZlSUJkSEFXcU16VkxRMFU1akROS2V1YTFwV0lnWnBoQlBuc3h3bWlzdWZZcHJDWW5Nam1xdG1EWVFZYU9jWThiVzhtNk5DakcwamxRdjk2MmFLS2xnR2RBd0duVTht?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 20:42:36 GMT",
+   "summary": "PepsiCo to cut some jobs in North America &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRENQMlVnSU1PdXZ1cHhWUU9kRnhzSXRLaXBNZWZlR1RRV0xtZmo4aW05SjVnbXRlblJFaW9UUGxaWXE0QzVYcno2QUJuUGY4SHlUbmFzazRfMjc2Mmh5Umk1M292djBpVG9EY1FjVHJZZDlGVVAtNFdUQjFNcnZWZF9Zdl9pQWxMM0ZHQTNTSlhtRWVFQjloaUROZkJ4QUtLYkNOdkhrYXNOM3FYZ1cycTFDai1vd2FveVVBdW9xQ3FqeklOcEVfdUhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 15:43:10 GMT",
+   "summary": "Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,10 +340,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Sable Offshore sinks to record low after warning of going-concern risk",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3U2engtMzJQN2tTMU5CZEptN2JOU1FhS2I4SW8tQnNvZ0p6ZndxTVdSLTBGMFQzeXpRdXRURXhTSVF6dU02ajlCVEFpQTNyVVQ3WjI4ZWVLeWZGWGhTNjBDY3IzOE9RSC1TcVpKQk9JQ3d3V1dNZjhEQmtVMEpwdnpXR2dWTDFJZFpTdTBmOXp1ZGtENjBCaTlsSlNRbXAxaDFqaXdCenhpSWRvbk5KMzRyeWJGQTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 18:29:27 GMT",
-   "summary": "Sable Offshore sinks to record low after warning of going-concern risk &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Anthropic sends out, then retracts details of IPO filing, emails show",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 10 Nov 2026 01:22:00 GMT",
+   "summary": "EXCLUSIVE: Anthropic sends out, then retracts details of IPO filing, emails show &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Disney, Adobe to co-develop custom AI models tailored for media giant",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlk2TV9jQUFndDhlTS1XZzhXZjJFTERQaGIxamc0c09Xcnl4TlRaeDFuZ2FoTVd3Y0ZMdnVVZktNcDRzdGwxdDlnQXhFWkhUcFA0YUNIREZYTmpoTU9xV1pzeGVycHZRemRkLU1ES2pxU0NpeFVmbkVwYWVZemVJTWU0MHhiRG43b3IzNVgzZTB0bzFLN0VBUE9lZ0JKSEJ1NHdCNVJyYW84eHZyQ3NHTTJacHUtY1AwTHRiLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 13:09:38 GMT",
+   "summary": "Disney, Adobe to co-develop custom AI models tailored for media giant &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,26 +364,18 @@
   },
   {
    "source": "reuters-business",
-   "title": "Novo-backed Windward Bio targets $1 billion valuation in US IPO",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSEI5c0tBQURPd2ppdkotZktXbTVwYjB0cDM0ajhKbW9uUnZpRjl3cnpxbERCc2cwRmFlWjY3SDY3cjlIVWExazRGVi1fMGQ0ZkpQRjg4T1V2Y1NVNGZpMG0wd3RoeXRXazktNzRDdUhEbXc0NjF6c0p6OWFyeXdYQ05lSVZaTTItLUowVk5TWjJKTnNiTVdCcVJlY1FKM3ZXR1NYRnBlNkcxbmpTOFp3bTRpVXNqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 17:07:53 GMT",
-   "summary": "Novo-backed Windward Bio targets $1 billion valuation in US IPO &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 06 Nov 2026 22:46:57 GMT",
-   "summary": "US Treasury sanctions Canadian money services firms over Iran-related transactions &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "Tesla to pull the plug on Cybertruck after years of poor sales",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWnlMcV9XTE94RnhqbWNmQ1B5Y01Gd0tReURLRG5nc1VOVlBQR1RwazRSdXF0azlhbS1nTmJ5M0MxZUxMMUQxM1pxRHVjN1VVQWM5OGtOOGdWU1Fwa0llb0hxTXVHX05rV3JoRTR3eWwtTkNseGQ2eW5hcTcxUmQ5YnRYUVNwaGdwaDlhelZ5dmJoOVZhaGU1N1Fkb1RTUDFMY1lCUzlMcG9SYUNDcUlMeHBBYXBWQmM2QUloLWh5QkNuOGRvMTRVSml0dmxEN2lqaU1va09iQ0o?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 06 Nov 2026 23:11:31 GMT",
    "summary": "Tesla to pull the plug on Cybertruck after years of poor sales &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US wholesale inventories revised up in September",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1lkcU92WnpTRWNscFNDelZ5VFhIaUUxbTlnQXh3a2J3SF81b0hZQ0VIWWVSbFZsNzcyNGpQdS1fRzFpdmZ5Y1hsQWk2c3hqclhxcGpiUDhVMGVEUnIxMTVDR2lkbDg4cnRPNkVKT1R5S0s5Wld2ZXVlUmctWnlzdlVpOGUzRzdyM1RvVVpfWDhNWUx5?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 15:30:33 GMT",
+   "summary": "US wholesale inventories revised up in September &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -371,19 +395,11 @@
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "Cryptocurrencies slide to two-month lows after US midterms",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ19jb0ZtdjRvY1E4V0ltOHBXdkI0UXpfY3lNeFVhM0pxRUlUUmVhWVdRSW1Ec25SMnVvSXVxQ0hQcjJfamxSWWpRSVNoYnh4QUxaSHlHRExaWVBiNklkRUpvM1dMZENjS1RNRzJJUFNydjN2RVFpQkxfcGpSaGNUREEyX29scVBNTkoycjdRckk1ZFBIaTgybHh1NjU4eUxVUEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 08 Nov 2026 22:27:00 GMT",
-   "summary": "Cryptocurrencies slide to two-month lows after US midterms &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 05 Nov 2026 21:33:46 GMT",
-   "summary": "Elon Musk's business empire braces for Democratic wave as Texas flips blue &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "Asian stocks climb as sliding oil prices buoy sentiment",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 10 Nov 2026 02:23:00 GMT",
+   "summary": "Asian stocks climb as sliding oil prices buoy sentiment &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -396,6 +412,14 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVZsYWtjTnU4dVhYU3o4LWJCeVdPOUNhNGdUVUhLdG1iZTE3REw3QmR6RHRzblFjc3RKYmlvS1JkRlFJakFpMExqdGx2ZDU1OGcxME5OazNFVTVGYTRQLTlSTjFhTk5Wc041TnV5dUtRdGdWWVQwWXRhMzdMaE9sdmdWOFROSGVoOTR1Z201THNOb25PTmdzWkdraGNkWEg2bFljcld6SDM0MzJvdG84amJkNGRBYjJyMDRCemVFMVhUMzZvcTZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 17:23:42 GMT",
+   "summary": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "PODCAST: Huang faces scrutiny",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbURYeFlSLXpKeGxuMFBtLVRHcU9WbWR0NEc1M25qU0FFSVZuMTR4RHlSTkpobG9tWk9pcnFCbmg3Q2NjRzdrTG8zUTc0aTZqVW43TEZfZUZycm1VRWw0VEg5UTdZenRscktjTEg2UkM2TkZyaHRjekRROUtFbFBQMm5kWUpFRzl1V0ZrZzNn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 09 Nov 2026 14:36:54 GMT",
@@ -404,18 +428,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St jumps back as oil slide eases inflation worries; Nvidia slumps",
+   "title": "Wall St jumps as oil slide cools inflation worries; Nvidia slumps",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNldnOF8ybWVHdkNyWXAxOG1mSFRERGpWNlpaM2N6R1ctTUk1MDZEWlR4aEtWZ1RlT092T1NtaVBfbDRtWmItVi01TWpzV3BIdTRDUDJUblRwSkFSZDl6S0J1NE42bzE4bEsxVGMyeURKR3lTbmlYNTRLQnM2TmFCQ1JUZkJ1aFppVURGQjkxSk1PVWtCcEF1Sy12SlB5a3UyaW5lVkhkMWZtTktaclE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 19:24:45 GMT",
-   "summary": "Wall St jumps back as oil slide eases inflation worries; Nvidia slumps &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVZsYWtjTnU4dVhYU3o4LWJCeVdPOUNhNGdUVUhLdG1iZTE3REw3QmR6RHRzblFjc3RKYmlvS1JkRlFJakFpMExqdGx2ZDU1OGcxME5OazNFVTVGYTRQLTlSTjFhTk5Wc041TnV5dUtRdGdWWVQwWXRhMzdMaE9sdmdWOFROSGVoOTR1Z201THNOb25PTmdzWkdraGNkWEg2bFljcld6SDM0MzJvdG84amJkNGRBYjJyMDRCemVFMVhUMzZvcTZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 17:23:42 GMT",
-   "summary": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts &nbsp;&nbsp; Reuters",
+   "published": "Mon, 09 Nov 2026 10:35:00 GMT",
+   "summary": "Wall St jumps as oil slide cools inflation worries; Nvidia slumps &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -428,26 +444,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRENQMlVnSU1PdXZ1cHhWUU9kRnhzSXRLaXBNZWZlR1RRV0xtZmo4aW05SjVnbXRlblJFaW9UUGxaWXE0QzVYcno2QUJuUGY4SHlUbmFzazRfMjc2Mmh5Umk1M292djBpVG9EY1FjVHJZZDlGVVAtNFdUQjFNcnZWZF9Zdl9pQWxMM0ZHQTNTSlhtRWVFQjloaUROZkJ4QUtLYkNOdkhrYXNOM3FYZ1cycTFDai1vd2FveVVBdW9xQ3FqeklOcEVfdUhn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 15:43:10 GMT",
-   "summary": "Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Tech set to still sway US stock market's course despite AI-driven swoon",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXdISHo5SVE3RnA1bXZ4V05tYlAzSk5ZcUgwRUpycnVmOHlPeHQwbURpeHF2am5xQjU3ZVhMY0tweVVndXNjMUVpQUdCcXEyZlg5a1ZFVW9TNkkxdGJLaGllT3ZiM3pqLUxYVnRaNDVWZG1USmItMlJkU0pnc3Z0U2Zwd0l3UnowbDQ0UVN5cEJDQU9nS3FxbDFEc2RJRjV3NkpSeEdUNDEwWXJIUkVwR2ZB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 16:55:16 GMT",
-   "summary": "Tech set to still sway US stock market's course despite AI-driven swoon &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "COMMENTARY: Morning Bid: I spy AI",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbTdfWTRfTE0za3lvb3VFZjUxenRITlpIeGJTQzduNW9Dem5SM3BhTVJncjNsdVA3Qm43OGpBUTJVM0R4MzJ5RFItRXBJVzVFT0VlaWJKTlJ6S2RYazlJRGw5TzhVazNrWUlYelpyX1YxY1pGclpGc2JYWXljLUdFLVg3QUw2dW1BUl92M1R6SUJLWXhqbm5F?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 09 Nov 2026 12:34:41 GMT",
    "summary": "COMMENTARY: Morning Bid: I spy AI &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "COMMENTARY: Middle East oil price war heralds post-conflict glut",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWdUbTZOMkxOdnRzOHBPdHRWSFBmNG1jZnFISWQ0MVFaWEc1MUlkTjRuNlhSQzdMQWQxaXQzYTBOTGtBd0NkYnRNTFNHaDlNZ0xwVU1JODVSMFdLZnREeGttWWlEdmE3ZnJwODdnMG5iQnJwRlZBbDZvOEU5UjczRC1UcGo5S0p4U01KZWMzcVBjNEdnWW42clRaR1U5QXpoMHh1bnE0T2phU1I1OEpUVFJJUHN2LThoMFd3WGJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 07:00:00 GMT",
+   "summary": "COMMENTARY: Middle East oil price war heralds post-conflict glut &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -459,35 +467,43 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Morning Bid: Fragile calm after AI whiplash",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNFFqYzRzRm1EWVdXeFFaRUtfazI2a2dQVEFKVlVBcGt0S3pMN19wNmVuR1Vwal9yeHJQSFVYeU80SjdWc0hsM1V1ZDhGUjJZbDJ4Zlo3SVM0eHAxWEVTZGdFRHdRdnZsRTF2ZC1GM19ZTi1SWUYwZGtiSjkwTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 05:45:00 GMT",
-   "summary": "Morning Bid: Fragile calm after AI whiplash &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "China seeks high-tech upper hand in industry carrying 80% of global trade",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 10 Nov 2026 01:50:00 GMT",
+   "summary": "China seeks high-tech upper hand in industry carrying 80% of global trade &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Nvidia spy allegations likely to spur laws to tighten China's access to AI chips",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3I1WGxHazNEeGdYc1VaNnZPbWZwN2xOQjVRZFhEbHBXVU9iYUNxQzRpZ0wtaktjcjV5NHFBNDgyWTN5OEkyRlcwMFhEbFRSZTc3ZUhjbm5nRkFrRmNQQnlIWk5WeE5RYWNPbDZlLWFWdkhuY1puVDNqaFVySUN6WWRoUWxOaDJYNGtPRVZncGh6cENyNjU5NkVSU3VnTFM3d29iOE9LZGp5TTlKclhiVUtfUzZKMWwwdnVOZ2Y2SF9PaEUt?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 22:04:30 GMT",
+   "summary": "Nvidia spy allegations likely to spur laws to tighten China's access to AI chips &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzhYdUhsNzNPQkZ3aVh2eGJ4NEgtNlpiX0tRaDA3UFpFclkzMWRycGVrQlhaZVRNSnVoSlFBY2tWR0dyV2JTWWRBcy1qVnZyQ0VFWWE4SkozSFgyMmdzSXdQMkVLaXVJS0dFUUh5WXd6N1UyRjFGczJvU2VycHVEemxlZkRKQk5PRWtyakNiM0dSdzllZ1ItcjlJRzcyWnhkVE0zTy1paTZpWmJhLWZPaFVpeVFvWjMwNDdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 20:21:57 GMT",
+   "summary": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMERscVA0bmtmSTlEYWRSTzV1bzVFVnFOQnR4ZjMtMzgyR0o0aFpzVmZDTklKMjUxZ2ptTTU2ZlA3UzRiNU1HUFIzd2gycHliSlo3ZkpOMk93akxqcjdQX05iSWZuQU9ZWlV2Q2o5cV80TTBqckFzOFlOREtOTHR4dVpFb29ZRkRTbDl3RGJrN0FrNEp1aGdTeVN2bkR3UlNYa0padDRqTTNINlNNdzVzTG9CcjlZV2tUaFV2SHlxcENUS28?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 09 Nov 2026 18:09:43 GMT",
+   "summary": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
    "title": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 18:43:31 GMT",
+   "published": "Mon, 09 Nov 2026 21:23:10 GMT",
    "summary": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Google unveils new AI chip variants as cloud demand surges",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1JDNDVNcnh0MU5wSzdrUVhVY3FpSklfazJZVWEtbGwyUkxydzhTcUVhV2F5aHdHV29OUE9Ea1JkZm93d2xVcU1VMEdEZE1xamt3RlktMVlqLUNGRVlIalpNd3ZRS2Z2LVN3b24yNUcyV1lkQm01MmJ3eHJLZVk3a3ZDSkhHcllvVHVxX1c1d3YtRHV3Q1g5d241UGNpLXJpSXRwTUYzcEdPcUhmN2FqdnBRNVZUYlM1WmJF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 15:24:44 GMT",
-   "summary": "Google unveils new AI chip variants as cloud demand surges &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEh1SWhQYVpodTlET20tR1AyNUVzQmdZTzNpclljYmdIT21OTXpiNHVOQUE1RFdaUkdydnpkOWp6Z0xONUluTkpzR0ZXbk9ld24zZlpQekhFakdPYy1DU2NJVUhpdnBRRTlRY1FOeUdOdElRMFo5dmxzQW8tMnY0MFpwN080NjFRbXgzODBudmU0MldDU1g0OGhqVFV4SWMyR1JNRFREUGd2MWJjR09R?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 15:20:05 GMT",
-   "summary": "Meta expands AI age checks for Instagram teens as lawsuits mount &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -496,38 +512,6 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVhSV24tejNOTWRUTlhYX2NjeVZDUng5dzBSNGZWR3VkODRZUkdyT1hFbU53WEgxQnZBcC15YXVGUFNJWmkxRTdkVEltakQzSlU5clN0c2U2bjZHZ3ZlZ0I2dmFoRjZMOUdmVmNRQWtPdlBqMUJHejlrSjB0U1pWVGdabmJ4UUlPVVZuZ2JCYktiOXhWX2FlUS1jUjc4UHZxYXRISDl4OXA4eF80UVF6Mm1xU2FCQWpKdVZuOFk3c0Z0Q3RrZm9xOTVn?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 09 Nov 2026 19:09:56 GMT",
    "summary": "US Congress gets first post-'Blue Wave' crack at data centers with permitting bill &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQanptRUNhdmdrV2x6Y01qWFNCU3BlRTZTN1FyZ2hubTNralRKUE8yWWVpNUd0NERlVngtNS00dG1JYmd0bzVobkNjcDl4X0lXUFdKdnhwQU5ZbW1mMWh1dGZHS3N4Mmk5UGozTzdBdEpwZi1lNl9HUEJXUFYxaGtua2cyUWNVNC1EQjE4M2FJQURmQU4xUjhzR281UkpZa3V2VTVXRmhJOHNFRjJXS1VpUENObEpId0x6VFFSUjh6c01jdEFCUGhVM0xwaEZtM2NG?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 12:54:20 GMT",
-   "summary": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "US opens new probe into Waymo vehicles over school bus safety violations",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNEhWeV9XY2oweHpKMUdtT1hBa1RzRTF0Slp5eVA2VWx6QkZlRldpVDFGYXR4OHZxaFNfWVRaT1hYNzNQb2JCMlVuWmRaZm5PLVU3aXpwSFBPd0E0bzVUYjkteDRoN1BhYXYtcXNYYnVHRUVCazRDQkphRm5vejg5clNJb2tUV0RBa2pzVW9kQmZxX1J2Nm9pMmhWalVMcGJHR0xRVWRpcVJBTkUtOEJqUlBGaDltcXRqNTREbng5bXlQTUpK?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 19:56:07 GMT",
-   "summary": "US opens new probe into Waymo vehicles over school bus safety violations &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdmxXd1NfTG9yQmRhOEhTQ3FqcE9pRjVMNmF3bjBRSjJnLVgzWTlVOGo1SjVUMGQ4NjVoMDkwZENLb0pQUmlmYjZ2NVJIQkZ2dGVON2N4SUt0MlhPVHpaVl82SFU3QVJ4aVJ3bWNtdE5zcEdzVkZYWDdnblg1YXVRdnZGTkw5X0lQbmYwYjFteklUZ1dKR3RDbndXSEJVX24yVmFlVk9WOU1GVlBvT0sxRlJGSlZiS3MyS1J5cHRFN1ZXbmdIcFEyYU9LUHo4MDNGSGdZbGVn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 07:36:00 GMT",
-   "summary": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "AI power rush sends data centres hunting for used turbines and jet engines",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFFRQWRkVjczS1ZIelZTc0pKUVhEVzFLaWFDSS1GcnNCMEZld21WVEM3UDJ5U2h5MDhwdDVPLTliSnhjX1lfUi1XR3VhQ0tJS3hscF9PbXpLMjY5dm1FWDhiOGtnUERDNUZ4NjdEZXI1bEszeFpPVThMQTJiRkRRQzNpWGpQcjBMZFJVY2FFTUFwajFlbWZOX2MwNTZXWmNQRGFiV0F1RUVnRmo0eWdTdzF2MUVzSkxhUlBweXZJZC1WMkZwRkZRSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 09 Nov 2026 06:13:00 GMT",
-   "summary": "AI power rush sends data centres hunting for used turbines and jet engines &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
