@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-11-14T16:18:27Z",
- "count": 63,
+ "generated_at": "2026-11-14T21:53:45Z",
+ "count": 65,
  "items": [
   {
    "source": "nyt-world",
    "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
    "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-   "published": "Sat, 14 Nov 2026 05:01:07 +0000",
-   "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
+   "published": "Sat, 14 Nov 2026 18:39:59 +0000",
+   "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
    "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-   "published": "Fri, 13 Nov 2026 20:10:37 +0000",
+   "published": "Sat, 14 Nov 2026 19:23:20 +0000",
    "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
    "full_text": ""
   },
@@ -32,6 +32,14 @@
    "url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
    "published": "Sat, 14 Nov 2026 10:10:01 +0000",
    "summary": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "South Sudan’s National Election, Its First, Will Be Delayed",
+   "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
+   "published": "Sat, 14 Nov 2026 16:51:55 +0000",
+   "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
    "full_text": ""
   },
   {
@@ -75,11 +83,27 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
-   "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
-   "published": "Fri, 13 Nov 2026 22:47:13 +0000",
-   "summary": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.",
+   "source": "nyt-business",
+   "title": "She Was a CBS News Producer When Few Women Were",
+   "url": "https://www.nytimes.com/2026/11/14/business/media/linda-mason-dead-cbs-news.html",
+   "published": "Sat, 14 Nov 2026 20:21:11 +0000",
+   "summary": "Linda Mason started in an entry-level job at CBS Radio in 1966 and rose through the news division’s ranks to senior vice president. She was 84.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "How Some Flights Were Exempt From the Ground Stop",
+   "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+   "published": "Sat, 14 Nov 2026 20:21:13 +0000",
+   "summary": "Dozens of international flights departed from the United States during Friday’s nationwide ground stop. Some planes also left for Hawaii from the West Coast.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+   "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
+   "published": "Sat, 14 Nov 2026 21:21:42 +0000",
+   "summary": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.",
    "full_text": ""
   },
   {
@@ -126,48 +150,32 @@
    "source": "nyt-business",
    "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
    "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
-   "published": "Fri, 13 Nov 2026 22:46:15 +0000",
+   "published": "Sat, 14 Nov 2026 17:25:50 +0000",
    "summary": "As market uncertainty deepens, investment banks are on a roadshow to sell investors on what could be the largest public offering ever.",
    "full_text": ""
   },
   {
-   "source": "nyt-business",
+   "source": "nyt-technology",
+   "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+   "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+   "published": "Sat, 14 Nov 2026 11:55:40 +0000",
+   "summary": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Tech Leaders Rally Behind Jensen Huang",
+   "url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
+   "published": "Sat, 14 Nov 2026 20:57:38 +0000",
+   "summary": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
    "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
    "published": "Fri, 13 Nov 2026 21:28:58 +0000",
    "summary": "A prolonged outage left many without email and other services, the most recent reminder that the world’s technological underpinnings rely on just a few companies.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
-   "url": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
-   "published": "Fri, 13 Nov 2026 20:14:05 +0000",
-   "summary": "Jensen Huang was the driving force at Nvidia, with 60 direct reports and no clear succession plan. Tripp Mickle, one of our technology reporters, examines Mr. Huang’s central role in the company and the artificial intelligence industry.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Microsoft’s Global Outage and Fixes: What We Know",
-   "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-   "published": "Sat, 14 Nov 2026 13:15:55 +0000",
-   "summary": "Disruptions to the company’s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Nvidia Lost Its Founding C.E.O. Can It Keep Its Momentum?",
-   "url": "https://www.nytimes.com/2026/11/13/technology/nvidia-ceo-jen-huang-loss.html",
-   "published": "Fri, 13 Nov 2026 15:31:06 +0000",
-   "summary": "Throughout the years, tech giants have had mixed records after losing visionary founders who propelled their success. Successors with tech expertise helps.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
-   "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
-   "published": "Fri, 13 Nov 2026 16:36:28 +0000",
-   "summary": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
    "full_text": ""
   },
   {
@@ -180,6 +188,22 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Microsoft’s Global Outage and Fixes: What We Know",
+   "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+   "published": "Sat, 14 Nov 2026 13:15:55 +0000",
+   "summary": "Disruptions to the company’s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
+   "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+   "published": "Fri, 13 Nov 2026 16:36:28 +0000",
+   "summary": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Wall Street Braces for Anthropic’s Spending",
    "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
    "published": "Fri, 13 Nov 2026 18:52:43 +0000",
@@ -188,10 +212,10 @@
   },
   {
    "source": "nyt-technology",
-   "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
-   "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
-   "published": "Sat, 14 Nov 2026 11:55:40 +0000",
-   "summary": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?",
+   "title": "Nvidia Lost Its Founding C.E.O. Can It Keep Its Momentum?",
+   "url": "https://www.nytimes.com/2026/11/13/technology/nvidia-ceo-jen-huang-loss.html",
+   "published": "Fri, 13 Nov 2026 15:31:06 +0000",
+   "summary": "Throughout the years, tech giants have had mixed records after losing visionary founders who propelled their success. Successors with tech expertise helps.",
    "full_text": ""
   },
   {
@@ -211,35 +235,11 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Jensen Huang Is Out at Nvidia",
-   "url": "https://www.nytimes.com/2026/11/12/podcasts/hardfork-jensen-huang-resigns.html",
-   "published": "Thu, 12 Nov 2026 23:07:18 +0000",
-   "summary": "In a shocking turn of events, Nvidia’s co-founder resigns amid multiple scandals.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates.",
-   "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html",
-   "published": "Thu, 12 Nov 2026 23:02:51 +0000",
-   "summary": "President Trump suggested Tim Cook, Apple’s former C.E.O., to replace Jensen Huang at Nvidia. Here are others with experience in chips or A.I.",
-   "full_text": ""
-  },
-  {
    "source": "reuters-world",
    "title": "US to resume flights after air traffic network failure sparks chaos",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 13 Nov 2026 21:38:00 GMT",
    "summary": "US to resume flights after air traffic network failure sparks chaos &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Irish police discover explosive device near where world leaders dined day earlier",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUpkRk1MdkJfLTRIRE9VMkZuS00zN2pZZnFSTWEwZGo0VGFZNDlNV3JqVlhtNkRsTmhUbjVnckVpemd5MnFQRnl2Skd4VU5tVm5LU1JQeU12NFZJaDg1QnFhdTlHcGdPcFpzMlh5NkFSM2owQzdERk80OW5NMzN4eWRQaEpsUzF1cnd4cm1sWkwzNzJQTlNQM2h6YXA2Z00zNFRLNTN0OEFkU09TQ0lQSUxtblRJUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 22:04:51 GMT",
-   "summary": "Irish police discover explosive device near where world leaders dined day earlier &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -252,10 +252,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "World oil market is returning to surplus as Gulf exports recover, IEA says",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWtzQXhRVUlUbWQ0VVloOTVjekFCcC1XQlNXNWNRcERHNDFEbnBNTTFhZjV3Qjk5bGxCaDhoRFE1Yi1mdGNoR3JCVXY5MmQ0ODVnUWRabHowUDhYSUNKOXV5X0lLQzRBbWNabUFMTzVlMzBNOUUyWTgyeUg1cW5sRjJtUHo3TldPOEY4S19xOGwwYjlkemFibktTVTltVF94WUg5ekdJczcyUlBHOHZ0V3EtdWdjU0JOVkY4?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 11:34:59 GMT",
-   "summary": "World oil market is returning to surplus as Gulf exports recover, IEA says &nbsp;&nbsp; Reuters",
+   "title": "Irish police discover explosive device near where world leaders dined day earlier",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUpkRk1MdkJfLTRIRE9VMkZuS00zN2pZZnFSTWEwZGo0VGFZNDlNV3JqVlhtNkRsTmhUbjVnckVpemd5MnFQRnl2Skd4VU5tVm5LU1JQeU12NFZJaDg1QnFhdTlHcGdPcFpzMlh5NkFSM2owQzdERk80OW5NMzN4eWRQaEpsUzF1cnd4cm1sWkwzNzJQTlNQM2h6YXA2Z00zNFRLNTN0OEFkU09TQ0lQSUxtblRJUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 22:04:51 GMT",
+   "summary": "Irish police discover explosive device near where world leaders dined day earlier &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 14 Nov 2026 00:22:00 GMT",
+   "summary": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -276,10 +284,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 03:56:00 GMT",
-   "summary": "Delhi overtakes Lahore as world's most polluted city as air quality drops &nbsp;&nbsp; Reuters",
+   "title": "World oil market is returning to surplus as Gulf exports recover, IEA says",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWtzQXhRVUlUbWQ0VVloOTVjekFCcC1XQlNXNWNRcERHNDFEbnBNTTFhZjV3Qjk5bGxCaDhoRFE1Yi1mdGNoR3JCVXY5MmQ0ODVnUWRabHowUDhYSUNKOXV5X0lLQzRBbWNabUFMTzVlMzBNOUUyWTgyeUg1cW5sRjJtUHo3TldPOEY4S19xOGwwYjlkemFibktTVTltVF94WUg5ekdJczcyUlBHOHZ0V3EtdWdjU0JOVkY4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 11:34:59 GMT",
+   "summary": "World oil market is returning to surplus as Gulf exports recover, IEA says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,18 +300,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "US denies Iran's claim that it attacked early-warning radar in Bahrain",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 02:51:00 GMT",
-   "summary": "US denies Iran's claim that it attacked early-warning radar in Bahrain &nbsp;&nbsp; Reuters",
+   "title": "Inspired Wales beat New Zealand for first time in 73 years",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVThfc1FEa2JYVEhSMDZMMnhNcXI3UnFjS2VWSDlveWU3SmF3YVB3REtUd1NWOTF5bDRRamZqQlZ6RElRVmt0eG9uQ3R4NnEwamtMcWVPRmZ6dl9VUnRaaFltVDh6ZXFYaXNJdjliVW8zNEZObmtIdWNmXzR5cklEWTV2Z3VsbDl1YkZGTUxidHFFcTBBWkE1VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 14 Nov 2026 17:03:20 GMT",
+   "summary": "Inspired Wales beat New Zealand for first time in 73 years &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "US Air Force responds to suspected drone activity over UK airbase",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkFnODI2ZmFiRTJzS3N4eXI5TzJqbXpFV3lUM29neFFnSFJJOVlQcDNZR3B3MmczQWlTNDA4ZE13bXpQcm9yQXdROXIzWjBCRnZHNzhwQkxldWtuREJ2Q1BvOFEzcTZRN2tpQkxwb3dCLUtvdzZiUEsxbGNvXzVmWTUzMTVvdHl5cjZBX2Y1VTJzZlFjUnZrMjFrVWZXTWltM1hoSkxDMThmdDdEckQ1NVJMbTE0dXFQYXJMM3NEVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 22:34:42 GMT",
-   "summary": "US Air Force responds to suspected drone activity over UK airbase &nbsp;&nbsp; Reuters",
+   "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 03:56:00 GMT",
+   "summary": "Delhi overtakes Lahore as world's most polluted city as air quality drops &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,26 +340,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUY1ZVU4V1FfVjg4bkIxMkpIVWJqQ0tVeDRsb1ZOSGRkWlo5THVweFduVWVjTXloTWVRZnhhdGJqX0I3RnlHRlkxd3MzNzFUcFBibFd2bUJKNkI2RXdPVE5FeXJRNGZLQzZDcnZXQ0pRcGdPRjBvZWs1Xzd6VTlfLXJXb1dNUjZuM0N1LWZpaUExWmk1ZXpIdlhCM29RTkpLWE9YSXdIM3hLQk41c2M5ZFJCWExESUhabjl6Mjg2dTU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 14:31:48 GMT",
-   "summary": "Goldman Sachs sees S&amp;P 500 rising to 8,700 next year despite slower earnings growth &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 12 Nov 2026 20:35:49 GMT",
    "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "EXCLUSIVE: Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHpSM2d5bFdOQ0pfSU9rT3FuUjU3RmQ4aGxYTENXOC1Yak5CVUZfNndFOHdBRWxUb0p0OWpTd3l3OXVQZ2MzdEZPZ3hMbElJTlhhS3AzNXBfTk1nOUpfZHVWZjhnX3hFdVJRYWhUcTI2Q3hyVEltTTlON2FSeWNXQk12RTZZdFZGMm91WFV6SER0aXFweWNNUmQyZ0gyd3prcmVvNTBuXzJyTlNNbTZ1blpCc2FVNVRmd0hDeXBwOXJqajQ2d2J6cEQzNV8yRXdaeXJMc2d1aw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 00:44:00 GMT",
-   "summary": "EXCLUSIVE: Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -364,6 +356,14 @@
   },
   {
    "source": "reuters-business",
+   "title": "EXCLUSIVE: Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHpSM2d5bFdOQ0pfSU9rT3FuUjU3RmQ4aGxYTENXOC1Yak5CVUZfNndFOHdBRWxUb0p0OWpTd3l3OXVQZ2MzdEZPZ3hMbElJTlhhS3AzNXBfTk1nOUpfZHVWZjhnX3hFdVJRYWhUcTI2Q3hyVEltTTlON2FSeWNXQk12RTZZdFZGMm91WFV6SER0aXFweWNNUmQyZ0gyd3prcmVvNTBuXzJyTlNNbTZ1blpCc2FVNVRmd0hDeXBwOXJqajQ2d2J6cEQzNV8yRXdaeXJMc2d1aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 00:44:00 GMT",
+   "summary": "EXCLUSIVE: Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "EXCLUSIVE: How a Vitol trader's ties to JD Vance helped land a prized Venezuela oil contract",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXBjUHpKN20yZk5xM1RsTDlpZUtVZ2FwZ0J3RHBfQkNBZW41cS1hWHJKeGZUcEFuLTFrUFo0MndIV0lxb2pmb0I1VGUzU0J6R2JQTl9sTUs2UHNYMmhwNkpPZ1YzRVkzTExhMFhzc2ZpT01GbTU4UURERTBMYkdUbFg3NVR2NjB3TEJfbEtBdDRrcGNadW5JczBGZVE1cjQyYUJnYXJUb1hrVG9jLXBheGduWEoyUWRMbVRyVHhKYzNhVUE4?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 11 Nov 2026 18:26:12 GMT",
@@ -371,19 +371,27 @@
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Morning Bid: Jensen hangs on as Nvidia tumbles",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUNBZ1ptWWtYYURvcjJIZE44TjJYblFDYjNDUHlVRHVKaGhpNGZHMDZrVnlob3RtN05VaFJsVXZiR3VxZ2dkaGduSHNPYi15YUJNSFh3ZXRxRDlzd3kxcVVzMDNZMXpzc01ZY2RIOGRsM2pmZExNZ1FUT1FUemd3U3hGNkgxVUkxQnl5U2FqU0o?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 12 Nov 2026 05:37:00 GMT",
-   "summary": "Morning Bid: Jensen hangs on as Nvidia tumbles &nbsp;&nbsp; Reuters",
+   "source": "reuters-business",
+   "title": "Fed's Jefferson says he is taking his policy cues from inflation",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 14 Nov 2026 00:03:00 GMT",
+   "summary": "Fed's Jefferson says he is taking his policy cues from inflation &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Mapping the Market: Oracle shares may be in for a rally",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2dpVHdXWmxBWnBNSHBlalUwY2VRYmlldE40TV9HQ2xHSnV6ZzZnaGZTbURMYzZqOGxyY1NFRFJNaWZFZXNUV2l3ajJKTjJRQnJaWEpBbHlQclVzbmpmcV9VZlZ5cHhXTUljdGRaV2h5NFNQal9lQnN5TmtGcDNLOUc4SXdzS28?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 12 Nov 2026 11:07:19 GMT",
-   "summary": "Mapping the Market: Oracle shares may be in for a rally &nbsp;&nbsp; Reuters",
+   "title": "Huang's exit, Anthropic's entrance",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbi0xME1PaWtsZm1QMk1qak5iWnlBOHU0eWRSSVBMN2xmZU1jMnhlZVZVRVhVeHQzVURjWVAwMUJGMVluUFJKSVlYbWFDTnpGUUhnYzBuQTZLeDc4VGpqQUdhS1RtZ3Vab21EaWRFdHRoUlJJVThSd2tqTmppQ0dSWF85X2o1bWVxTUhpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 08:51:13 GMT",
+   "summary": "Huang's exit, Anthropic's entrance &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUY1ZVU4V1FfVjg4bkIxMkpIVWJqQ0tVeDRsb1ZOSGRkWlo5THVweFduVWVjTXloTWVRZnhhdGJqX0I3RnlHRlkxd3MzNzFUcFBibFd2bUJKNkI2RXdPVE5FeXJRNGZLQzZDcnZXQ0pRcGdPRjBvZWs1Xzd6VTlfLXJXb1dNUjZuM0N1LWZpaUExWmk1ZXpIdlhCM29RTkpLWE9YSXdIM3hLQk41c2M5ZFJCWExESUhabjl6Mjg2dTU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 14:31:48 GMT",
+   "summary": "Goldman Sachs sees S&amp;P 500 rising to 8,700 next year despite slower earnings growth &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -396,10 +404,18 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Meta employees test prediction-market app, WSJ reports",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTcyY1cyNndLWl9FbHBQV2hDU0NZYmxvcVpfTzBqU2poV1Z3c1pIVGpKN2FJQnJiX0hMd216QzFDX3NPVXJxSElmSGtLckQzU0JUMTI1R2k0eHdkcjNVNlE4LUdyYUs3TnRrREpOcWtTUTdwRUQyTXVZOHBQS0RaZEE5NXRGcnhHcE91anY5S3g5NmVTalNQQ3ZOWVh5MTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 20:29:43 GMT",
-   "summary": "Meta employees test prediction-market app, WSJ reports &nbsp;&nbsp; Reuters",
+   "title": "Mapping the Market: Oracle shares may be in for a rally",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2dpVHdXWmxBWnBNSHBlalUwY2VRYmlldE40TV9HQ2xHSnV6ZzZnaGZTbURMYzZqOGxyY1NFRFJNaWZFZXNUV2l3ajJKTjJRQnJaWEpBbHlQclVzbmpmcV9VZlZ5cHhXTUljdGRaV2h5NFNQal9lQnN5TmtGcDNLOUc4SXdzS28?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 12 Nov 2026 11:07:19 GMT",
+   "summary": "Mapping the Market: Oracle shares may be in for a rally &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Morning Bid: Jensen hangs on as Nvidia tumbles",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUNBZ1ptWWtYYURvcjJIZE44TjJYblFDYjNDUHlVRHVKaGhpNGZHMDZrVnlob3RtN05VaFJsVXZiR3VxZ2dkaGduSHNPYi15YUJNSFh3ZXRxRDlzd3kxcVVzMDNZMXpzc01ZY2RIOGRsM2pmZExNZ1FUT1FUemd3U3hGNkgxVUkxQnl5U2FqU0o?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 12 Nov 2026 05:37:00 GMT",
+   "summary": "Morning Bid: Jensen hangs on as Nvidia tumbles &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -412,18 +428,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "How US tech pain is European stock markets' gain",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 17:03:44 GMT",
-   "summary": "How US tech pain is European stock markets' gain &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "PODCAST: Chips down after Huang exit?",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZF81TVZIV1dYTDNRVmdFNXRrRWoxa2xqX294U2tXYlo0WEpvODY5U2pQS3ZXZlpTeW9mb05xOEFOQjY1dXQzQ1pQeEVpMFdFd1JvaGQ4MXRHSEh4ZDdKTmVVTEhvbjFpVTNzN2ROOC1mbFBNS1NINTBpNVcwT1J4TWZEbUdKOTNGUU1DTUZLby1UeFIwS3BB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 14:33:34 GMT",
-   "summary": "PODCAST: Chips down after Huang exit? &nbsp;&nbsp; Reuters",
+   "title": "Meta employees test prediction-market app, WSJ reports",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTcyY1cyNndLWl9FbHBQV2hDU0NZYmxvcVpfTzBqU2poV1Z3c1pIVGpKN2FJQnJiX0hMd216QzFDX3NPVXJxSElmSGtLckQzU0JUMTI1R2k0eHdkcjNVNlE4LUdyYUs3TnRrREpOcWtTUTdwRUQyTXVZOHBQS0RaZEE5NXRGcnhHcE91anY5S3g5NmVTalNQQ3ZOWVh5MTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 20:29:43 GMT",
+   "summary": "Meta employees test prediction-market app, WSJ reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -435,11 +443,35 @@
    "full_text": ""
   },
   {
+   "source": "reuters-markets",
+   "title": "PODCAST: Chips down after Huang exit?",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZF81TVZIV1dYTDNRVmdFNXRrRWoxa2xqX294U2tXYlo0WEpvODY5U2pQS3ZXZlpTeW9mb05xOEFOQjY1dXQzQ1pQeEVpMFdFd1JvaGQ4MXRHSEh4ZDdKTmVVTEhvbjFpVTNzN2ROOC1mbFBNS1NINTBpNVcwT1J4TWZEbUdKOTNGUU1DTUZLby1UeFIwS3BB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 14:33:34 GMT",
+   "summary": "PODCAST: Chips down after Huang exit? &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 14 Nov 2026 15:08:32 GMT",
+   "summary": "Musk says Nvidia will lose 'critical' deals without Jensen Huang &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-tech",
    "title": "Italy fines Meta $887 million over Android users' data access",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 14 Nov 2026 13:08:10 GMT",
+   "published": "Sat, 14 Nov 2026 18:12:20 GMT",
    "summary": "Italy fines Meta $887 million over Android users' data access &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Tesla invites select customers to buy Cybercab for personal use",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWE9RSGUwWDAzVms5ZGZVZlpvTFhDUno1ay0tOTVIT1VNbjBWVkhsdzRTRWtaSWhjeF9mUFlsNTVQLTVPVEt1RGVlZzFDcDJZU0lQdTQwREtrOTkxanBwSnhMcTBNYzV4UHlacWZXZUpMTVNvMEYtMm5lWDR4UFVOZUJHcXV6TmJ0R2NrelM0Q1Y1OVVCbUNlT3dLdnUwZnZvSzhnWk1lVDlzLXhBVnBqMFZJdDVtaFVrOWl5bUtYbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 14 Nov 2026 08:02:12 GMT",
+   "summary": "Tesla invites select customers to buy Cybercab for personal use &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -488,22 +520,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 13 Nov 2026 17:19:01 GMT",
    "summary": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 15:45:24 GMT",
-   "summary": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Jensen Huang's tech superstar status made Taiwanese feel special",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY192cTlCOWxDZ0hrSElvMG1qUnNxbGdxQUw3UnFLVURSaU5tRUpCelowdW53V2l6NFUyR1g0QlJMbktsMllabVhPM21nX3hDUHJUcWdHSDNyemZkQjJEMjYyLVJpRDAzSzVnMmtvM0dvMmwyek1pa09RMXlqdHFDanlha2ozTW1ob0ZBQXpYZEExTUJoX1ppcWlNenhGUjM0TjN4dHlDN0Ftbm9ZTU1GOWRSZ3dwUW1yS2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 11:00:53 GMT",
-   "summary": "Jensen Huang's tech superstar status made Taiwanese feel special &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
