@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T00:37:07Z",
- "count": 66,
+ "generated_at": "2026-11-14T08:26:12Z",
+ "count": 61,
  "items": [
   {
    "source": "nyt-world",
@@ -84,9 +84,17 @@
   },
   {
    "source": "nyt-business",
+   "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+   "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
+   "published": "Sat, 14 Nov 2026 05:01:06 +0000",
+   "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
+   "full_text": "Sébastien Ducros, a French data analyst who supports the widespread student protests in his country, has identified an obvious culprit for the lack of government funds for dilapidated schools. “A huge portion of the money is going toward retirees, while many other things are being neglected,” said Mr. Ducros, 36. “I honestly think — even if it feels strange to say — that people like my parents are in a position where they should and could” surrender some of their pension payments, he added, saying that they were about to retire. But Laurent Grinwald, 72, who retired recently after decades as a postal worker, isn’t eager for his pension to be reduced, particularly to pay for other state-funded services. Especially, he said, as rents and the cost of living have shot up. “We’ve been working all this time,” Mr. Grinwald said, “and now, suddenly, the stance is, ‘Well, no, we’re going to start taking a bit more?’” This disagreement embodies a broader question for Europe, one that is at the heart of mass antigovernment demonstrations planned for Saturday in France, as well as recent protests driven by frustrated young people in countries including Belgium, Germany, Greece, Italy and Portugal. As Europeans live longer, should the needs of the young be eclipsed by their parents’ and grandparents’ pensions, routinely the largest items in Europe’s national budgets? “It’s a generational clash,” said Jorge Galindo, the director of EsadeEcPol, an independent think tank in Spain, which has some of the most generous pensions in Europe. Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times. Thank you for your patience while we verify access. Already a subscriber? Log in . Want all of The Times? Subscribe ."
+  },
+  {
+   "source": "nyt-business",
    "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
    "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
-   "published": "Fri, 13 Nov 2026 23:10:21 +0000",
+   "published": "Sat, 14 Nov 2026 02:22:25 +0000",
    "summary": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
    "full_text": "The Trump administration will allow states to delay enforcement of new rules requiring low-income adults to work in order to receive Medicaid coverage, according to a letter it sent on Friday to state Medicaid directors. The announcement, which followed a recent loss in court over a key element of the work requirement, represents a major setback for a long-sought Republican reform. It comes less than two months before the work requirements were set to begin, on Jan. 1. States can now wait until July before ending coverage for people who do not meet the work requirement, the letter said. In the letter, Dan Brillman, who oversees Medicaid at the Centers for Medicare and Medicaid Services, acknowledged the significant burden states faced in building out new, expensive software systems to track the employment of enrollees. Hospitals have prepared massive education campaigns to help patients navigate the additional paperwork. “We have heard directly from states about their implementation timelines, impediments to successful launches at scale,” Mr. Brillman wrote in the letter. He added that the federal government still expected states in January to begin checking whether Medicaid enrollees are working. But for six months, they will not be required to cancel coverage for people who fail to comply, Mr. Brillman said. The work requirement was enacted in the summer of 2025 as part of Republicans’ major tax and domestic policy legislation. It requires Medicaid enrollees without disabilities or young children to prove they worked, volunteered or attended school at least 80 hours a month in order to qualify for the program or continue enrollment in it. Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times. Thank you for your patience while we verify access. Already a subscriber? Log in . Want all of The Times? Subscribe ."
   },
@@ -118,7 +126,7 @@
    "source": "nyt-business",
    "title": "Microsoft’s Global Outage and Fixes: What We Know",
    "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-   "published": "Fri, 13 Nov 2026 22:30:39 +0000",
+   "published": "Fri, 13 Nov 2026 22:30:40 +0000",
    "summary": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
    "full_text": "Microsoft is reporting widespread improvements to its services after a global outage took them offline on Thursday, disrupting communications and work at schools, government agencies and offices around the world. The company, headquartered in Redmond, Wash., said on Friday that it was seeing “encouraging recovery progress, with service availability and email delivery performance improving across a growing portion of affected infrastructure.” “We remain focused on addressing residual impact and ensuring reliable service restoration,” the company added. Here’s what to know as of Friday afternoon. What happened? Outages started disrupting Microsoft tools and apps around noon Eastern time on Thursday and quickly spread to more than 70 countries and territories, affecting millions of users, according to Downdetector , an outage-tracking site. Some of Microsoft’s most popular products, including the email manager Outlook, the workplace messaging and video calling app Teams and the artificial intelligence assistant Copilot, stopped working. Was this a cyberattack? Microsoft said in a statement on Friday that “for now, we can confirm that there is no indication this is the result of malicious or cyber activity.” It added that the problem was “a technical issue not related to cyber or A.I.” agents. Is the F.A.A. ground stop linked to Microsoft? The company said it had no indication that a Federal Aviation Administration ground stop issued on late Friday afternoon and affecting air travel nationwide was related to the outage. Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times. Thank you for your patience while we verify access. Already a subscriber? Log in . Want all of The Times? Subscribe ."
   },
@@ -155,14 +163,6 @@
    "full_text": "For years, Jensen Huang was a frequent presence at Silicon Valley start-up events, networking with founders, judging pitch competitions and showing up at “demo” days. The Nvidia chief executive became a godlike figure in the start-up ecosystem, not just because the industry idolized him as one of the world’s most successful entrepreneurs. Mr. Huang, 63, also made it his mission to help start-ups gain a foothold against the industry’s biggest and most powerful tech companies, providing funding and computing power. “As many good ideas as we have, you don’t have all the world’s good ideas,” he said on the Acquired podcast in 2023. So Mr. Huang’s abrupt resignation from Nvidia on Thursday has investors and start-up founders nervous that they have lost a powerful ally. “Nvidia is the central bank of A.I. and all of a sudden, the Fed chairman is out,” said Tomasz Tunguz, an investor at Theory Ventures, which funds young start-ups. Nvidia held $48 billion worth of stakes in 229 private companies, including large stakes in OpenAI and Anthropic, at the end of July, according to securities filings. It more than doubled its start-up investments in six months. Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times. Thank you for your patience while we verify access. Already a subscriber? Log in . Want all of The Times? Subscribe ."
   },
   {
-   "source": "nyt-business",
-   "title": "Fewer Fed Meetings Raise Stakes of Warsh’s Communications",
-   "url": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
-   "published": "Fri, 13 Nov 2026 15:45:40 +0000",
-   "summary": "The Federal Reserve will vote on interest rates less frequently beginning next year as part of a plan by the central bank’s chairman, Kevin M. Warsh, to overhaul how it operates.",
-   "full_text": "When officials at the Federal Reserve meet next month to vote on interest rates, they will have only a partial snapshot of the economy in hand. Fresh inflation data comes out the day after policymakers finalize their rate decision, leaving them without insight into whether price pressures in November continued to accelerate or showed signs of easing. This predicament underscores why officials at the central bank broadly appear on board with a plan hatched by Kevin M. Warsh, the Fed chairman, to reduce the number of meetings convened each year to vote on interest rates. The changes will be ushered in gradually, beginning next fall. In a revised schedule released on Thursday , the Fed confirmed that its policymakers will meet eight times in 2027, but that the Oct. 25-26 gathering will be “dedicated to the discussion of broad monetary policy strategy issues.” By 2028, there will be just six meetings accompanied by policy votes, with two others focused on strategy. Meeting less frequently, and at more evenly spaced intervals, has the clear benefit of giving officials a more consistent flow of economic data to parse when they gather to debate their policy settings. But there are trade-offs that will put more onus on Mr. Warsh to communicate openly about how the Fed is approaching its rate decisions and its thinking about the outlook, something he has so far resisted even as the central bank has embarked on raising rates this year. “The decision process is more important than the timing,” said Esther George, who served as president of the Federal Reserve Bank of Kansas City from 2011 to 2023. “And this committee is struggling a bit with how to communicate what exactly they mean.” Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times. Thank you for your patience while we verify access. Already a subscriber? Log in . Want all of The Times? Subscribe ."
-  },
-  {
    "source": "nyt-technology",
    "title": "Nvidia Lost Its Founding C.E.O. Can It Keep Its Momentum?",
    "url": "https://www.nytimes.com/2026/11/13/technology/nvidia-ceo-jen-huang-loss.html",
@@ -174,7 +174,7 @@
    "source": "nyt-technology",
    "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
    "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
-   "published": "Fri, 13 Nov 2026 23:20:10 +0000",
+   "published": "Fri, 13 Nov 2026 23:20:11 +0000",
    "summary": "Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way.",
    "full_text": "Dario Amodei, the chief executive of Anthropic, was becoming a nuisance for his fellow technology industry executives. Anthropic and OpenAI, the leading artificial intelligence companies, were lobbying the White House to prevent some A.I. models from being developed and widely shared because, they argued, they were too dangerous. But companies like Nvidia and Microsoft saw those A.I. models as a big business opportunity. At the end of July, Satya Nadella, chief executive of Microsoft, and Jensen Huang, then Nvidia’s chief executive, intervened. They emailed each other drafts of a letter saying those A.I. models should remain open, according to four people familiar with the discussions. When they asked other technology executives whether they’d like to sign on, two dozen companies quickly agreed before the letter became public. Over the next week, 200 more companies — including a chastened OpenAI — signed onto the letter . Dr. Amodei refused. Dr. Amodei has for years exasperated his peers with warnings about extreme risks of A.I., even as his company has built some of the most powerful A.I. systems in the world. Frustration has turned to hostility as Anthropic leaped into the lead in A.I. development, experienced stunning revenue growth and moved toward what is likely to be one of the largest initial public offerings ever later this month. Along the way, Anthropic — which has cultivated an image as a company that tries to do the right thing — has also gained a reputation for playing hardball with customers and competitors. It has cut some off from its service and lobbied against other companies’s free alternatives to its A.I. Over the last year, other technology companies and investors have organized to push back, according to more than 20 people in the technology industry, many of whom spoke on the condition of anonymity to preserve their relationships with Anthropic. Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times. Thank you for your patience while we verify access. Already a subscriber? Log in . Want all of The Times? Subscribe ."
   },
@@ -228,10 +228,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Flights grounded across US after air traffic communications outage",
+   "title": "Irish police discover explosive device near where world leaders dined day earlier",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUpkRk1MdkJfLTRIRE9VMkZuS00zN2pZZnFSTWEwZGo0VGFZNDlNV3JqVlhtNkRsTmhUbjVnckVpemd5MnFQRnl2Skd4VU5tVm5LU1JQeU12NFZJaDg1QnFhdTlHcGdPcFpzMlh5NkFSM2owQzdERk80OW5NMzN4eWRQaEpsUzF1cnd4cm1sWkwzNzJQTlNQM2h6YXA2Z00zNFRLNTN0OEFkU09TQ0lQSUxtblRJUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 22:04:51 GMT",
+   "summary": "Irish police discover explosive device near where world leaders dined day earlier &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "US to resume flights after air traffic network failure sparks chaos",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 13 Nov 2026 21:38:00 GMT",
-   "summary": "Flights grounded across US after air traffic communications outage &nbsp;&nbsp; Reuters",
+   "summary": "US to resume flights after air traffic network failure sparks chaos &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -254,32 +262,16 @@
    "source": "reuters-world",
    "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 03:56:00 GMT",
+   "published": "Fri, 13 Nov 2026 05:16:56 GMT",
    "summary": "Delhi overtakes Lahore as world's most polluted city as air quality drops &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Tim Cook for Nvidia CEO? Trump and the world ponder who's next",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2otbkdEb3FkYXpTSlFhcnBmRk9lNDZzOHpKQnpUd0dyR3dqWWhqcy02c016NGpfNVRNeGNKQVFfUTZhc2taTHBfWGJ0WWNwTGxlWG5tSW9NUk55R2l0dTNrMFlhemdQaXFWWnNmamhrYWdNaUJlcTc0UWVObjQ2cVp4cC15anFUVXJ0dHc4N1ZuOEFjWGJra3BKUmVGTmR2VGlQSFVHUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 12 Nov 2026 20:35:54 GMT",
-   "summary": "Tim Cook for Nvidia CEO? Trump and the world ponder who's next &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Microsoft Outlook, Teams outage eases after over a day; recovery timeline uncertain",
+   "title": "Microsoft restores service to Outlook and Teams after global outage",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 12 Nov 2026 18:32:00 GMT",
-   "summary": "Microsoft Outlook, Teams outage eases after over a day; recovery timeline uncertain &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 11 Nov 2026 10:12:00 GMT",
-   "summary": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks &nbsp;&nbsp; Reuters",
+   "summary": "Microsoft restores service to Outlook and Teams after global outage &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -292,6 +284,14 @@
   },
   {
    "source": "reuters-world",
+   "title": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 11 Nov 2026 10:12:00 GMT",
+   "summary": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "Putin lets Europe join Ukraine peace talks, Zelenskiy welcomes prospect of European participation",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQXpLT0g0Um9oM0IwWXhmckNTNThucTRnRDlxT1ZZX0d6QVlPbDV6NzlBekFubnZXWHhHTlhHZGtLbHlzNVJVTERKbmVhei00RTEwY0RjdGg1RklvVXVCa3hGdmQ2VGlrU1pmZ3E4TmV0UVVjd3hCY0diSmtBTDZnbjYxRGpkU3lDUFA1SVVJQWJ5ZFoxYVNZMGhMaGxOZWx4T0s0amlBMnZjdWIwcHhOX25NNjlXTlRFUlE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 12 Nov 2026 07:25:00 GMT",
@@ -300,10 +300,18 @@
   },
   {
    "source": "reuters-world",
-   "title": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 12 Nov 2026 13:39:00 GMT",
-   "summary": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 12 Nov 2026 10:58:36 GMT",
+   "summary": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Microsoft says consumer products services recovered; still monitoring enterprise services",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 14 Nov 2026 05:40:47 GMT",
+   "summary": "Microsoft says consumer products services recovered; still monitoring enterprise services &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,14 +324,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUY1ZVU4V1FfVjg4bkIxMkpIVWJqQ0tVeDRsb1ZOSGRkWlo5THVweFduVWVjTXloTWVRZnhhdGJqX0I3RnlHRlkxd3MzNzFUcFBibFd2bUJKNkI2RXdPVE5FeXJRNGZLQzZDcnZXQ0pRcGdPRjBvZWs1Xzd6VTlfLXJXb1dNUjZuM0N1LWZpaUExWmk1ZXpIdlhCM29RTkpLWE9YSXdIM3hLQk41c2M5ZFJCWExESUhabjl6Mjg2dTU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 14:31:48 GMT",
-   "summary": "Goldman Sachs sees S&amp;P 500 rising to 8,700 next year despite slower earnings growth &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "How AI has become a utility bill for Gen Z",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWtZTE1HcjQ3dmptT2ZPRzlZQUYxUkVIWDRqbVJGOTVCYllMVVZoN1ptMk5EcEoxTWVLZEVDQUdwUlVwZWwxYlk5UzA2blVKNHNSQVdnOS1Uck5wSjhxN2xGZXpNaGR3WXRDUF9IbzlOVkEyOHZkY0hFdUNjQ1d5ZGJFUHRHamV1c0ZaOURIU0hpVjVqSktsTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 13 Nov 2026 15:46:37 GMT",
@@ -332,34 +332,26 @@
   },
   {
    "source": "reuters-business",
-   "title": "EXCLUSIVE: India to ban private equity firms from controlling multiple non-bank lenders, sources say",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUotYjFJTTF3amV0VWJmdDl3V00xWlVZdTd2VkFzek1GZ2hQbndleXV5XzMxOVdFRU03dmNWWDFXbHVtQ3daOEM3WFV1VHJoc0V0d3pYMEN5VU9vR1p5dmJwaDNBRWlVLWcxeEVSSHBrX2lSQVphdHJSdjM1b1Z6QlY0YjVmRlBtT2dWM1pocm1nclI3SXVISkpqakVJb1Bpb25LRTBEZTVNbl84WmtyRko1YWdkazJZcHFRbVBTejk0bjE3SF9JeG9KOTU5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 12 Nov 2026 08:14:21 GMT",
-   "summary": "EXCLUSIVE: India to ban private equity firms from controlling multiple non-bank lenders, sources say &nbsp;&nbsp; Reuters",
+   "title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUY1ZVU4V1FfVjg4bkIxMkpIVWJqQ0tVeDRsb1ZOSGRkWlo5THVweFduVWVjTXloTWVRZnhhdGJqX0I3RnlHRlkxd3MzNzFUcFBibFd2bUJKNkI2RXdPVE5FeXJRNGZLQzZDcnZXQ0pRcGdPRjBvZWs1Xzd6VTlfLXJXb1dNUjZuM0N1LWZpaUExWmk1ZXpIdlhCM29RTkpLWE9YSXdIM3hLQk41c2M5ZFJCWExESUhabjl6Mjg2dTU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 14:31:48 GMT",
+   "summary": "Goldman Sachs sees S&amp;P 500 rising to 8,700 next year despite slower earnings growth &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 12 Nov 2026 20:35:49 GMT",
-   "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHpSM2d5bFdOQ0pfSU9rT3FuUjU3RmQ4aGxYTENXOC1Yak5CVUZfNndFOHdBRWxUb0p0OWpTd3l3OXVQZ2MzdEZPZ3hMbElJTlhhS3AzNXBfTk1nOUpfZHVWZjhnX3hFdVJRYWhUcTI2Q3hyVEltTTlON2FSeWNXQk12RTZZdFZGMm91WFV6SER0aXFweWNNUmQyZ0gyd3prcmVvNTBuXzJyTlNNbTZ1blpCc2FVNVRmd0hDeXBwOXJqajQ2d2J6cEQzNV8yRXdaeXJMc2d1aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 00:44:00 GMT",
+   "summary": "EXCLUSIVE: Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 12 Nov 2026 20:23:24 GMT",
-   "summary": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Thousands of hectares burnt on land owned by listed Indonesian firms, study shows",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUQwZEhZYXNKdm1iUUtTNzZEeWdQYkdRLVd2bzFnWXZ4RDRIM2I0TWRUaEZXWDI0Rlg2S1MtN0xscnBZb0VpeDhMcXgyemlXd3k2SDB2Ul90N056Qmd2MUQwRTZpZUEweVBKRUpXbWVTNmFyZDR3SGhaM1VZRTh3N1J5U19UV0RKV3JiMXdBNlctNXVMd3Jva0ZZRkM5TmhHc3JHaDBNMVUzOGlJV00zUVJoTG9sZnFCN1BCd0pLQ3dTREptZ0lTYW84MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 05:29:00 GMT",
-   "summary": "Thousands of hectares burnt on land owned by listed Indonesian firms, study shows &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 23:30:55 GMT",
+   "summary": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -372,18 +364,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "EXCLUSIVE: CD&R, GTCR drop pursuit of Global Payments, sources say",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3dpSHM2Qk5GaUZoRm0xeVBTaXhUUnkwU3lTY21HYW55cDVVWnN0NVZ2ODJEM2xucl90UTI0Nmlab3lMbWVjWGF6WGZ2c2loNVlaUE85ZWVrWVVRNGxjQ1ZPdkVZUFlxa2JreW5GUEhYTnY2SnVhOHE1d1Bqdi03dGJHeW8zMDFwTDBMU1FfaGl4MDFWYXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 12 Nov 2026 17:15:00 GMT",
-   "summary": "EXCLUSIVE: CD&amp;R, GTCR drop pursuit of Global Payments, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "How US tech pain is European stock markets' gain",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 17:03:44 GMT",
-   "summary": "How US tech pain is European stock markets' gain &nbsp;&nbsp; Reuters",
+   "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 12 Nov 2026 20:35:49 GMT",
+   "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -396,38 +380,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Morning Bid: Scandal topples the AI star",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GOFRsaDEtWVBzYU96UkZKNEM5cWJ1cWF6bVZmM2JQeVR5bWkyU0Vxald4ZlVVN0RqTzZrNlN3TXU2MHdqQV9ISllvaklNUWxibU9zamZqUHQ5blppNnRveUEzODBLUnI0bG5YVkx1eDI0M0JiWnd1R3pSMk5OSWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 05:32:00 GMT",
-   "summary": "Morning Bid: Scandal topples the AI star &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Stocks fall with tech, Nvidia concerns; US dollar climbs",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0cyVmdPTTRkWGt3UlMtUFRyOGhvdDNlM1FYVy1MSVN0elpQZHgtWXctVEE1M2RjQm9IcmwzUGU4cEhEQnhsQWlOX2RhUFk1NzBXeFkwM3lMek16ajB1ZmozdGpLR0cwQ2JTcGVlTTJwMEc2ZFZ3bklxeTk4eElFaHZLaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 01:55:00 GMT",
-   "summary": "Stocks fall with tech, Nvidia concerns; US dollar climbs &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Oil prices set for second straight weekly drop on signs of growing supply surplus",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 03:01:00 GMT",
-   "summary": "Oil prices set for second straight weekly drop on signs of growing supply surplus &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Huang's exit, Anthropic's entrance",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbi0xME1PaWtsZm1QMk1qak5iWnlBOHU0eWRSSVBMN2xmZU1jMnhlZVZVRVhVeHQzVURjWVAwMUJGMVluUFJKSVlYbWFDTnpGUUhnYzBuQTZLeDc4VGpqQUdhS1RtZ3Vab21EaWRFdHRoUlJJVThSd2tqTmppQ0dSWF85X2o1bWVxTUhpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 08:51:13 GMT",
-   "summary": "Huang's exit, Anthropic's entrance &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "AI rockets to top of worries about financial system in latest Fed survey",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 13 Nov 2026 22:26:58 GMT",
@@ -436,18 +388,42 @@
   },
   {
    "source": "reuters-markets",
-   "title": "EXCLUSIVE: Kalshi says it ended Donald Trump Jr's advisory contract over Polymarket conflict",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYlQ3N0FyWHE3WUp4cHZOWWJRVUFVWFJuT1Jic05nVVBBWFNsYkFzbk1zeWRTbDA5c2k1Wk55UGFVdDBYeF9CY1U2YjhNV1pKd1h3aThoSm1jVEpmcEZtRDE5RldpeHhZaEphT1VfREFGd2Y1NG5BWVBiWFdQREFHeHQ4UjEtT2w4ZksyVldLNkpTRGpfYkdTZXpTblZFdEpNbGUta25VM2RpbDYzb0NWSkdCV3h2ZUhPamJBXy1iYzA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 12 Nov 2026 22:56:00 GMT",
-   "summary": "EXCLUSIVE: Kalshi says it ended Donald Trump Jr's advisory contract over Polymarket conflict &nbsp;&nbsp; Reuters",
+   "title": "Morning Bid: Scandal topples the AI star",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GOFRsaDEtWVBzYU96UkZKNEM5cWJ1cWF6bVZmM2JQeVR5bWkyU0Vxald4ZlVVN0RqTzZrNlN3TXU2MHdqQV9ISllvaklNUWxibU9zamZqUHQ5blppNnRveUEzODBLUnI0bG5YVkx1eDI0M0JiWnd1R3pSMk5OSWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 05:32:00 GMT",
+   "summary": "Morning Bid: Scandal topples the AI star &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Dollar set for best week in two months, yen weakens toward 160",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 01:58:00 GMT",
-   "summary": "Dollar set for best week in two months, yen weakens toward 160 &nbsp;&nbsp; Reuters",
+   "title": "How US tech pain is European stock markets' gain",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 17:03:44 GMT",
+   "summary": "How US tech pain is European stock markets' gain &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Meta employees test prediction-market app, WSJ reports",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTcyY1cyNndLWl9FbHBQV2hDU0NZYmxvcVpfTzBqU2poV1Z3c1pIVGpKN2FJQnJiX0hMd216QzFDX3NPVXJxSElmSGtLckQzU0JUMTI1R2k0eHdkcjNVNlE4LUdyYUs3TnRrREpOcWtTUTdwRUQyTXVZOHBQS0RaZEE5NXRGcnhHcE91anY5S3g5NmVTalNQQ3ZOWVh5MTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 20:29:43 GMT",
+   "summary": "Meta employees test prediction-market app, WSJ reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVBKOUFhVENlOHhiWWtwTlhGOEdkTXJLaWRrV0I0a19lOGhsVWp6RFNkVHJVdWVYMUk5N3RkX1BueVUtcGV3dkRFeFdrZmdqR0tNWFViY01SZlhkcExlN3BTV1JWcDFTR3NXZDdURDBMY2tsN1U5bXRwOXRWY1BfZTFyTGlGMnhXT1N2SVRXX05UVV9oSmFSdlVBRnBaV1QzcFkwdnhzaS0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 04:39:09 GMT",
+   "summary": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Nvidia's Huang turns to Paul Weiss, law firm that inked deal with Trump",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGw1N002MEg5dkpaaGZfeDVtSEd0dWswbERkbFZ3TEQtclVqNDNiTUdnZmUzSFF2Yms4TXctSmZTYXB1NGUwbUxXMmtKaDJhbTNsLW5DUmRiNFkwOEEtT1FwejgybEs5TF8tOHJoY2swRGVUOU12MzhJTGd0cFZraVFnamFRTzVLRE9WU21NZ01zRnJtSXNJOHgwU0JBQ1drVDhjSVF6bzBoQlpjTGsyeFVWejhXTDNkQkg4TFJfOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 19:04:27 GMT",
+   "summary": "Nvidia's Huang turns to Paul Weiss, law firm that inked deal with Trump &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -470,7 +446,7 @@
    "source": "reuters-tech",
    "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 23:30:44 GMT",
+   "published": "Fri, 13 Nov 2026 11:07:00 GMT",
    "summary": "SpaceX launches 15th Starship flight with hopes of achieving first round trip &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
@@ -484,14 +460,6 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Australia's spy agency, federal police hit by Microsoft outage",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0x3UHpOT2FfZW9tc1Zia0F3NmNsZzUzUUJqd25Kcl9JdUFlOVhOMEFXR2ctazRoVXlkMFF4V1hIbGlLdnNQc3ZMRlBTeGZBVmxwSGx6a2cxVXgtZDhFUE80WFkxLUhfRjNMRmhtcGZvaGxlWjItSXpibmVXSkxrT1N4eWI4U3JzRDJnTXQ0SzBTMkFTYnBKT3JBWEQ1V0RMNzFoRDR6ckdvSTVRekw1SlU5SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 03:08:00 GMT",
-   "summary": "Australia's spy agency, federal police hit by Microsoft outage &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Jensen Huang's tech superstar status made Taiwanese feel special",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY192cTlCOWxDZ0hrSElvMG1qUnNxbGdxQUw3UnFLVURSaU5tRUpCelowdW53V2l6NFUyR1g0QlJMbktsMllabVhPM21nX3hDUHJUcWdHSDNyemZkQjJEMjYyLVJpRDAzSzVnMmtvM0dvMmwyek1pa09RMXlqdHFDanlha2ozTW1ob0ZBQXpYZEExTUJoX1ppcWlNenhGUjM0TjN4dHlDN0Ftbm9ZTU1GOWRSZ3dwUW1yS2c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 13 Nov 2026 11:00:53 GMT",
@@ -500,34 +468,26 @@
   },
   {
    "source": "reuters-tech",
-   "title": "South Korea says Google has removed Korean coordinates from maps under export permit",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUpMbFNmT29BbW5JbGN1ZUxPZFV6ZmNTUnJJeHF3RE5YRHZzbFZoYzdWM2pjdFU2Q1VacjNTN214cURoN3FsTUFkdUhVcm9aTkdRcHRjdEdqTTd0cm55MDNDaUwxeS1QUEx5akdmanpEZGZudGRlbGQtNktuNWlfZThFd29ENDJMVnE1VENTQXlFb3lnMEZSN2xVUXRMcER0bHFVZHE5TVJiVXNnbWV5M2lTZnJYcUVObUEtZ0lR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 03:18:00 GMT",
-   "summary": "South Korea says Google has removed Korean coordinates from maps under export permit &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
    "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 23:33:25 GMT",
+   "published": "Fri, 13 Nov 2026 02:08:00 GMT",
    "summary": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "China's $3 billion-plus pipeline of Nvidia-powered AI data centres",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkFHQnE4ZWppRXAxMGVYOUZXa1F1YnhLeUdVbVNlWTNQZjNyWnJCX05YbVVrT3AtNUxaVGUyYW1hVUNHanBNc2Q5ZmpnOXo0Y2lmeHBXOVRVQ3Fna21VWi1ScEQ5WGlmTEoyZ2Q5cGlobEMtQzhQclEwLWtJVzZvS1NXYU9GaFlHeFVhaW1Zc1RaRGlkSC1qZXowTXljV0Via1Y3V25wQkliTmN0bHpqZHdNQU1BV2tZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 13:00:03 GMT",
-   "summary": "China's $3 billion-plus pipeline of Nvidia-powered AI data centres &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 12 Nov 2026 19:27:00 GMT",
+   "summary": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "North Korean hackers steal more than $400 million using video images, FBI says",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUJYTGpUb1lrNXVCaVFFUjN3all5a2w1cF9HdW51OWROWC1taVFOOFozQ0pkYmpReklqTEhtNm1McUhtYVBvWTVMM2tHczJlUFZaem14Q1U0VndNaWk2Z3AxdzFvVThleTFNUXpPd3E0WlU2ZkdPSFFXeXJqNktka05TYUZmTER4TExyS3dOVTFLVWNLcVVHejdkVTk3UXVkRnUtNmNrQ3B3anBHelhIaGlka0RFMTZ0bnNWUWREeU0xV0tRNXp1THBIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 12 Nov 2026 21:41:44 GMT",
-   "summary": "North Korean hackers steal more than $400 million using video images, FBI says &nbsp;&nbsp; Reuters",
+   "title": "Anthropic's IPO is about six times oversubscribed, Bloomberg News reports",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0pUQzVjV3ltd2hkZ29PSjdjWElOb3dmUlNPSG5HMC01V1EzSnlQdUl0Tm9WNnhJdktOamVLa1JWOTF5SGJZYTFrNWpBbElkc1lGUklCUUNVLXhHNWM1M0JmaHZTTmVaODlldER3Ulc3Q19zVGtOUDl1NzdCQWNuYkR5LWRVcXFUOGFTQXFDUDlTb2VLVzE3Z1M2dnlfeFFwSVV0MEpNNzExRHNxTlpsZGcyTlE1bE5LbEdLNGVtczd3M2hra1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 12 Nov 2026 21:31:07 GMT",
+   "summary": "Anthropic's IPO is about six times oversubscribed, Bloomberg News reports &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
