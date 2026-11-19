@@ -1,22 +1,46 @@
 {
- "generated_at": "2026-11-19T01:42:31Z",
- "count": 66,
+ "generated_at": "2026-11-19T09:44:13Z",
+ "count": 64,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Live Updates: Trump Holds First Summit With Xi and Putin, Whom He Calls ‘Friend’",
+   "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+   "published": "Thu, 19 Nov 2026 09:39:52 +0000",
+   "summary": "President Trump said that he would bring up the war in Ukraine at the first-ever meeting of leaders of Russia, China and the United States.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
+   "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+   "published": "Thu, 19 Nov 2026 06:42:09 +0000",
+   "summary": "Zammona’s erasure was part of a wider campaign of violence against Rohingya Muslims. An international court will rule whether Myanmar is culpable for the atrocities.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast",
+   "url": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
+   "published": "Thu, 19 Nov 2026 05:01:08 +0000",
+   "summary": "As an election nears, a railway disaster in Spain has set off debate over whether maintenance of its infrastructure kept pace with its booming population.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
+   "url": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+   "published": "Thu, 19 Nov 2026 08:31:48 +0000",
+   "summary": "After a historic result for Israel’s Arab-led parties, Prime Minister Benjamin Netanyahu said the vote was rigged, pointing to the detention of three opposition activists. His chief of staff has admitted being involved with the initial outreach to police.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
    "url": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
    "published": "Wed, 18 Nov 2026 14:16:41 +0000",
    "summary": "An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-world",
-   "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-   "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-   "published": "Thu, 19 Nov 2026 00:57:45 +0000",
-   "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-world",
@@ -24,7 +48,7 @@
    "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
    "published": "Wed, 18 Nov 2026 20:29:31 +0000",
    "summary": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-world",
@@ -32,23 +56,23 @@
    "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
    "published": "Wed, 18 Nov 2026 15:37:11 +0000",
    "summary": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+   "title": "After Crippling Crimea Bridge, Ukraine Attacks It Again",
    "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
-   "published": "Wed, 18 Nov 2026 18:38:15 +0000",
-   "summary": "The steel arch that is now gone took about two years to produce, assemble and install. Replacing it will be complicated, if possible at all in wartime.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "published": "Thu, 19 Nov 2026 09:24:04 +0000",
+   "summary": "Russia has vowed to quickly restore the structure, but engineering specialists say the work could take years.",
+   "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
    "url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
-   "published": "Wed, 18 Nov 2026 17:23:46 +0000",
+   "published": "Thu, 19 Nov 2026 03:58:57 +0000",
    "summary": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-world",
@@ -56,39 +80,31 @@
    "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
    "published": "Wed, 18 Nov 2026 13:46:45 +0000",
    "summary": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
-   "url": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
-   "published": "Wed, 18 Nov 2026 05:01:06 +0000",
-   "summary": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "nyt-business",
+   "title": "Have High Gas Prices Made You Change How You Drive? Tell Us About It.",
+   "url": "https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html",
+   "published": "Thu, 19 Nov 2026 05:00:13 +0000",
+   "summary": "Are you driving less? Car pooling? Using a different vehicle? Tell us how the 2026 energy shock has affected you.",
+   "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Rio Tinto to Pay $250 Million to Address Mine’s Environmental Damage",
-   "url": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
-   "published": "Wed, 18 Nov 2026 07:46:33 +0000",
-   "summary": "The landmark deal will also go toward remedying human rights problems caused by the long-closed Papua New Guinea mine.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-world",
-   "title": "What to Know About the Myanmar Genocide Case at the World Court",
-   "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
-   "published": "Wed, 18 Nov 2026 10:03:51 +0000",
-   "summary": "The International Court of Justice is issuing a landmark verdict on whether the state of Myanmar committed genocide.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "nyt-business",
+   "title": "How the War in Iran Will Remake the Global Energy Order",
+   "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+   "published": "Thu, 19 Nov 2026 09:25:56 +0000",
+   "summary": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.",
+   "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "Takeaways From the 2026 DealBook Summit",
    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
-   "published": "Thu, 19 Nov 2026 01:05:04 +0000",
+   "published": "Thu, 19 Nov 2026 03:12:43 +0000",
    "summary": "Leaders in artificial intelligence and governments discussed America’s shifting politics, the reverberations of Jensen Huang’s ouster at Nvidia and more on Wednesday.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-business",
@@ -96,7 +112,7 @@
    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
    "published": "Thu, 19 Nov 2026 00:58:47 +0000",
    "summary": "The C.E.O. of SpaceX, who spent millions to back Republican candidates, sought to portray himself as a political moderate.",
-   "full_text": "Title: Elon Musk Plays Down G.O.P. Support After Midterm Loss - The New York Times\n\nURL Source: https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html\n\nPublished Time: Thu, 19 Nov 2026 00:59:36 GMT\n\nMarkdown Content:\nIn the run-up to the midterm elections, Elon Musk deployed both his wealth — to the tune of [nearly $500 million](https://www.nytimes.com/2026/11/02/us/politics/elon-musk-midterm-spending.html) — and his public influence to help Republican candidates win.\n\nBut in the wake of Democrats’ resounding victory at the ballot box, Mr. Musk is seeking to portray himself as more of a political moderate, saying, “There are positives and negatives in both parties.”\n\n“I’m not MAGA,” Mr. Musk, the chief executive of SpaceX and Tesla, said at the DealBook Summit on Wednesday. “If that means sort of blind adherence to a set of policies by the Republican Party, then I certainly don’t have that.”\n\n(Mr. Musk has previously declared himself MAGA — and even “[dark gothic MAGA](https://www.wsj.com/style/fashion/elon-musk-dark-maga-hat-cap-gothic-trump-81e963cf).”)\n\nMr. Musk’s remarks were his most extensive to date after his [midterms spending spree flopped.](https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html) He bluntly said his effort “failed, by the way, obviously.” And it had him questioning, at an existential level, whether spending money on politics even worked.\n\nMr. Musk spent more money on the election than any person ever has in a cycle where they themselves were not the candidate.\n\nWhat about his spending millions in support of losing candidates [like Ken Paxton](https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html), who ran for the Senate in Texas? “I feel pretty foolish about having spent so much money and not seeing much for it,” Mr. Musk conceded. “Probably if I could rewind the clock, I would have spent less money.”\n\nThe pivot by Mr. Musk was the latest effort by business leaders to [grapple with the aftermath of the midterms](https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html), particularly as newly empowered Democrats took aim at billionaires and businesses like data centers.\n\nThroughout the interview, Mr. Musk largely avoided the often fiery (and [sometimes profane](https://www.nytimes.com/2023/11/29/business/dealbook/elon-musk-advertisers-blackmail-iger.html)) declarations that punctuated his last appearance at the DealBook Summit, in 2023. He predicted that things in Texas would be “fine” under Gina Hinojosa, the incoming Democratic governor, who supports maintaining a moratorium on new data centers in the state. Mr. Musk, a Texas resident, called her “quite moderate” and “not a far-left governor.”\n\nMr. Musk spoke at length about less politically divisive topics, like potentially merging SpaceX and Tesla and helping humanity achieve interstellar travel.\n\nHe also defended Jensen Huang, the former chief executive of the chip maker Nvidia, whom he described as “a friend of mine” and whom he supported returning to that role. Though American intelligence considers that an executive whom Mr. Huang had an affair with was a Chinese intelligence asset, Mr. Musk said, “I don’t think he’s disloyal to the United States.”\n\nStill, Mr. Musk was willing to be combative, particularly when it came to Ukraine.\n\nAddressing restrictions on the Ukrainian military’s access to the satellite communications network that SpaceX runs, Mr. Musk said that the system, Starlink, was never meant to be used for offensive strikes in war.\n\n“Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives,” Mr. Musk said.\n\nWhen asked about claims by Volodymyr Zelensky, Ukraine’s president, that his country’s forces were using the military version of Starlink — which can be used for attacks — Mr. Musk shot back, “He’s not always truthful.”"
+   "full_text": ""
   },
   {
    "source": "nyt-business",
@@ -104,7 +120,7 @@
    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-christine-lagarde-wants-to-fight-fake-news.html",
    "published": "Thu, 19 Nov 2026 00:54:27 +0000",
    "summary": "In an interview at the DealBook Summit, the president of the European Central Bank explained her decision to step down early and said that trust is “in short supply” around the world.",
-   "full_text": "Title: Watch: Christine Lagarde Wants to Fight Fake News - The New York Times\n\nURL Source: https://www.nytimes.com/2026/11/18/business/dealbook/watch-christine-lagarde-wants-to-fight-fake-news.html\n\nPublished Time: Thu, 19 Nov 2026 00:59:13 GMT\n\nMarkdown Content:\n_DealBook Summit includes conversations with business and policy leaders at the heart of today’s major stories, recorded live at the annual DealBook Summit event in New York City._\n\n**Follow DealBook’s reporting at**[https://nytimes.com/dealbook](https://nytimes.com/dealbook)\n\nHosted by Andrew Ross Sorkin, a columnist and editor of DealBook, a daily business and policy report from The New York Times, DealBook Summit features interviews with the leaders at the heart of today’s major stories, recorded live onstage at the annual DealBook Summit event in New York City.\n\n* * *\n\nThe DealBook Edit and Events team includes: Andrew Ross Sorkin, Brian O’Keefe, Bernhard Warner, Sarah Kessler, Michael de la Merced, Niko Gallogly, Sri Muppidi, Julie Zann, Melissa Tripoli, Chantale Regnier, Marisa Fariña, Caitlin Roper, Dana Pruskowski, Ezra Lee, Jessi Brattengeier, Haley Duffy, Hillary Kun, Jennifer Feeney, Kirsten Birmingham, Matthew Kaiser, Morgan Singer, Sarah Cheever, Natalie Green and Nikki Elechi."
+   "full_text": ""
   },
   {
    "source": "nyt-business",
@@ -112,54 +128,38 @@
    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-the-biggest-interviews-at-the-dealbook-summit.html",
    "published": "Thu, 19 Nov 2026 00:47:24 +0000",
    "summary": "See the full conversations with Prime Minister Mark Carney of Canada, OpenAI’s Sam Altman and Greg Brockman, Mayor Zohran Mamdani of New York, SpaceX’s Elon Musk and more.",
-   "full_text": "Title: Watch the Biggest Interviews at the DealBook Summit - The New York Times\n\nURL Source: https://www.nytimes.com/2026/11/18/business/dealbook/watch-the-biggest-interviews-at-the-dealbook-summit.html\n\nPublished Time: Thu, 19 Nov 2026 00:52:08 GMT\n\nMarkdown Content:\nAt the 2026 DealBook Summit in New York on Wednesday, Andrew Ross Sorkin spoke with more than a dozen prominent figures from the worlds of business and politics, including Elon Musk, Sam Altman of OpenAI and Mayor Zohran Mamdani of New York. Vice President JD Vance was scheduled to appear but was called to stay in Washington as a series of meetings were convened to address tech outages across the United States.\n\nClick on the videos below to watch the full conversations, or find [all the interviews here](https://www.nytimes.com/video/dealbook-full-videos).\n\n## OpenAI’s top executives talk rogue agents and A.I. security\n\nSam Altman and Greg Brockman, two of the company’s co-founders, discussed how to strike a balance between safety and risk on artificial intelligence, and their plans for an I.P.O.\n\nVideo\n\n[Video 11](https://vp.nyt.com/video/hlsfmp4/2026/11/18/183859_1_18vid-db-summit-altman-brockman2-49921_wg_av1-1080p/master.m3u8)\n\n![Image 1](https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-video-altman-zwtm/18dealbook-video-altman-zwtm-videoSixteenByNine768.jpg?auto=webp&quality=30&disable=upscale&format=pjpg)Watch: Why Sam Altman and Greg Brockman Say Humans Must Stay in Control of A.I.\n\n39:33\n\nSam Altman and Greg Brockman, two of OpenAI’ co-founders, speak with Andrew Ross Sorkin at the DealBook Summit about the future of artificial intelligence, the Hugging Face hack and the Anthropic I.P.O.s Credit Credit...Shuran Huang for The New York Times\n\n## Canada’s Prime Minister on negotiating with President Trump\n\nHe “listens a lot more in private,” said Mark Carney, but progress has been elusive. Trade talks with China are “going exceptionally well.”\n\nVideo\n\n[Video 12](https://vp.nyt.com/video/hlsfmp4/2026/11/18/183745_1_18vid-db-summit-carney_wg_av1-1080p/master.m3u8)\n\n![Image 2](https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-carney-hcqg/18dealbook-carney-hcqg-videoSixteenByNine768.jpg?auto=webp&quality=30&disable=upscale&format=pjpg)Does Canada Still Want a Trade Deal With the U.S.? Mark Carney Responds.\n\n22:23\n\nPrime Minister Mark Carney of Canada speaks with Andrew Ross Sorkin at the DealBook summit from China about trade negotiations and the future of a tariffs deal with the U.S.Credit Credit...Shuran Huang for The New York Times\n\n## David Ellison confirms that Elon Musk invested in Skydance\n\nThe chief executive of the media giant, formed by the $110 billion merger with Warner Bros. Discovery earlier this year, said it was an “honor and a privilege” to have the SpaceX founder’s backing.\n\nVideo\n\n[Video 13](https://vp.nyt.com/video/hlsfmp4/2026/11/18/183771_1_18vid-db-summit-ellison_wg_av1-1080p/master.m3u8)\n\n![Image 3](https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-ellison-cpfv/18dealbook-ellison-cpfv-videoSixteenByNine768.jpg?auto=webp&quality=30&disable=upscale&format=pjpg)Watch: David Ellison Confirms Elon Musk’s Investment in Skydance\n\n36:20\n\nThe chairman and chief executive of Skydance, David Ellison, speaks with Andrew Ross Sorkin at the DealBook Summit about the company’s future and Elon Musk’s $1 billion investment.Credit Credit...Shuran Huang for The New York Times\n\n## Zohran Mamdani explains his working relationship with President Trump\n\nThe mayor of New York also stood by his positions on Israel and Gaza. “I have a politics of universality,” he said.\n\nVideo\n\n[Video 14](https://vp.nyt.com/video/hlsfmp4/2026/11/18/183744_1_18vid-db-summit-mamdani_wg_av1-1080p/master.m3u8)\n\n![Image 4](https://static01.nyt.com/images/2026/11/18/multimedia/18vid-db-summit-mamdani-cover-pcvm/18vid-db-summit-mamdani-cover-pcvm-videoSixteenByNine768.jpg?auto=webp&quality=30&disable=upscale&format=pjpg)Can Zohran Mamdani Fix the Cost of Living in New York City?\n\n35:24\n\nMayor Zohran Mamdani of New York speaks with Andrew Ross Sorkin at the DealBook Summit about his relationship with President Trump and affordability.Credit Credit...Shuran Huang for The New York Times\n\n## Elon Musk on Jensen Huang, the midterms and why he’s not MAGA\n\nAfter spending heavily to support Republicans over the past three years, the SpaceX C.E.O. described himself as a political moderate.\n\nVideo\n\n[Video 15](https://vp.nyt.com/video/hlsfmp4/2026/11/18/183741_1_18vid-db-summit-musk_wg_av1-1080p/master.m3u8)\n\n![Image 5](https://static01.nyt.com/images/2026/11/18/multimedia/18vid-db-summit-musk-cover-gvfb/18vid-db-summit-musk-cover-gvfb-videoSixteenByNine768.jpg?auto=webp&quality=30&disable=upscale&format=pjpg)Elon Musk Says He’s ‘Not MAGA’\n\n46:40\n\nIn an interview at the DealBook Summit, Elon Musk speaks from China with Andrew Ross Sorkin about his midterm election spending, Starlink and whether SpaceX and Tesla will merge.Credit Credit...Shuran Huang for The New York Times"
+   "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "Watch: Elon Musk Says He’s a Political Moderate, ‘Not MAGA’",
    "url": "https://www.nytimes.com/2026/11/18/business/watch-elon-musk-dealbook-summit-not-maga.html",
-   "published": "Thu, 19 Nov 2026 00:42:19 +0000",
+   "published": "Thu, 19 Nov 2026 00:42:20 +0000",
    "summary": "Despite his heavy support of Republicans, the SpaceX and Tesla C.E.O. said in an interview at the DealBook Summit that “there are positives and negatives in both parties.”",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/business/watch-elon-musk-dealbook-summit-not-maga.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "Watch: Robinhood’s C.E.O. Says He Shouldn’t Decide What You Can Trade",
    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/adena-friedman-vlad-tenev-shayne-copland-dealbook-summit.html",
-   "published": "Thu, 19 Nov 2026 00:39:41 +0000",
+   "published": "Thu, 19 Nov 2026 01:37:25 +0000",
    "summary": "Speaking alongside the Nasdaq chief Adena Friedman and the Polymarket founder Shayne Coplan, Vlad Tenev said regular investors should have access to more opportunities.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/business/dealbook/adena-friedman-vlad-tenev-shayne-copland-dealbook-summit.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "How Nvidia Chips Ended Up Within Reach of China’s Military",
    "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
-   "published": "Thu, 19 Nov 2026 00:37:13 +0000",
+   "published": "Thu, 19 Nov 2026 04:13:05 +0000",
    "summary": "Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I. computing technology to aid a lab with links to China’s military.",
-   "full_text": "Title: How Nvidia Chips Ended Up Within Reach of China’s Military - The New York Times\n\nURL Source: https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html\n\nPublished Time: Thu, 19 Nov 2026 00:47:19 GMT\n\nMarkdown Content:\nIn 2023, as the artificial intelligence boom took off, Alice Huang and her husband, Kang Wei, were pitching investors in Shanghai on a plan to build an A.I. business in Southeast Asia.\n\nWorking from a colonial mansion in the city’s former French Concession neighborhood, the couple boasted about Ms. Huang’s relationship with Jensen Huang, then Nvidia’s chief executive, who they said would guarantee a supply of powerful computer chips.\n\nThey also hinted at a deep-pocketed customer that would pay for access to those chips and anchor the business, according to two people who attended the meetings. The company created after those pitch sessions, a Singapore firm called Megaspeed, purchased more than $4 billion in Nvidia chips over the next few years.\n\nMegaspeed’s customer and financial backer turned out to be Alibaba, the Chinese internet giant, according to three people familiar with the relationship. Alibaba is a colossus, with a wide range of businesses. It also co-founded an A.I. lab with strong ties to China’s military, where researchers have worked on tasks such as automating cyberattacks and simulating war games.\n\nFor the past several weeks, [Nvidia has been convulsed](https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html) by revelations that Mr. Huang had an [extramarital relationship](https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html) with [Alice Huang](https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html?searchResultPosition=4), whom U.S. officials say is an asset for Chinese intelligence and was passing information to Beijing. But beneath the scandal is a geopolitical tug of war over access to the advanced Nvidia chips that help power the global A.I. boom.\n\nThe web of relationships between Megaspeed, Alibaba and Nvidia exposes a supply chain that often circumvents efforts by the United States to keep those chips out of China’s reach. The fact that Alibaba has access to the Nvidia chips and is only one step removed from the military-linked A.I. lab is exactly what intelligence officials in Washington have long feared. The technology could help China develop more sophisticated weapons, carry out cyberattacks and integrate A.I. into the battlefield.\n\nThe facility, called Zhejiang Lab, has another important link to Nvidia. Its current director, Wang Jian, was Alibaba’s chief technology officer and has had a long friendship with Nvidia’s Mr. Huang.\n\nWhether Nvidia chips supplied by Megaspeed went from Alibaba to the lab is unclear. But the ties show how advanced computing reaches sensitive Chinese institutions through layers of contractors and resellers that obscure the origin of the chips. It also underscores how closely Alibaba, the company that anchored Ms. Huang’s business, was bound to the Chinese state.\n\nThe lab’s ties to Megaspeed and Ms. Huang’s business network, which ran through Alibaba and another smaller company, have not been previously reported, and raise the possibility that Megaspeed is providing Nvidia chips to support research for China’s military, which would violate U.S. law.\n\nMegaspeed would buy chips for an offshore data center. Alibaba was its biggest customer. Together, the arrangement let Alibaba tap the powerful A.I. chips that American rules were meant to bar from China.\n\nThe complex ties, some of which were formed over the course of Mr. Huang’s roughly two decades doing business in China, raise questions about the checks Nvidia was supposed to conduct of its customers. The chips flowed to one of China’s largest tech companies at a moment when the Chinese leader Xi Jinping was pulling such companies closer into the orbit of the security state.\n\nIn 2022, Nvidia’s sales team introduced Alibaba to Alice Huang, according to a person familiar with the relationship. The introduction was first reported by The Information.\n\nIn Washington, the Nvidia scandal has inflamed an ongoing debate over access to powerful A.I. chips, as the fallout grows for the chip-making giant. [Mr. Huang resigned](https://www.nytimes.com/video/business/economy/100000011279681/nvidia-jensen-huang-ceo-resigns-affairs.html?searchResultPosition=9) last week after revelations that he also had another affair with an employee, and the U.S. government is investigating whether Megaspeed smuggled chips into China.\n\nMr. Huang has regularly dismissed the possibility that China’s military was interested in his product. He has argued that the Chinese military would never rely on American chips because Washington could block their export at any time, even as China’s military [issued hundreds](https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html) of public tenders seeking them. Mr. Huang did not respond to an emailed request for comment.\n\n“Nvidia works across the industry to comply with the evolving rules regarding cloud services, while competing to build American infrastructure in every approved region,” said John Rizzo, a spokesman for Nvidia.\n\nJames Tan, the chief executive of Megaspeed, declined to comment on the connections between Alibaba, Megaspeed and military-linked institutions, saying in an emailed response that “this matter remains under independent review and that the company has not reached any conclusions.” Compliance with U.S. law is extremely important to Megaspeed, he said.\n\nEvidence linking Chinese companies like Alibaba to the government and military often hides in plain sight, in academic journals, public procurement documents, government statements and patent filings. The New York Times also analyzed hundreds of Chinese records and interviewed a dozen people close to the process.\n\n“Any suggestions that Alibaba provides services to the military is groundless. Alibaba Cloud’s service agreement strictly prohibits the use of our products and services for any military purpose,” an Alibaba spokeswoman wrote in a statement. In June, the company sued the U.S. government after the Pentagon put it on a list of companies it said are contributing to China’s military. The case is ongoing.\n\nA spokesperson for the Chinese embassy in the United States said “the ‘Chinese spy’ allegation is purely unsubstantiated and directed at smearing China. China opposes politicizing and instrumentalizing trade and tech issues.”\n\nZhejiang Lab did not respond to emailed questions.\n\nImage\n\n![Image 1: A glass door opens to a lobby with the sign Megaspeed.](https://static01.nyt.com/images/2026/11/16/multimedia/00-Alibaba-Spy-2-03-wtml/00-Alibaba-Spy-2-03-wtml-articleLarge.jpg?quality=75&auto=avif&disable=upscale)\n\nMegaspeed quickly became a major buyer of Nvidia’s powerful A.I. chips.Credit...The New York Times\n\n## ‘An incredible hero’\n\nDuring a visit to Beijing in 2025, Mr. Huang spoke at an event with one of China’s most revered technologists, Wang Jian.\n\nMr. Wang created Alibaba’s cloud unit and pioneered some of its biggest A.I. projects. In more recent years, he had also been pulled deeper into China’s security state. By the time the two met onstage, Mr. Wang was the director of the military-linked Zhejiang Lab.\n\n“He is the hero. He’s an incredible hero. A superhero,” Mr. Huang said to Mr. Wang onstage, noting his work with young people. It is not clear if he knew of the lab’s military ties.\n\nImage\n\nJensen Huang, right, the former Nvidia chief executive, with Wang Jian, the founder of Alibaba Cloud and leader of Zhejiang Lab, in 2025 in Beijing.Credit...Zhao Wenyu/China News Service, via VCG, via Getty Images\n\nMr. Huang’s relationship with Mr. Wang stretched back more than a decade. After Mr. Wang built Alibaba’s cloud unit, it became one of Nvidia’s biggest customers, buying chips for a cloud service that was used by businesses and government.\n\nThe warmth between the two was reminiscent of an era when U.S.-Chinese relations were far better and China’s leaps in technology were viewed positively in Washington and Silicon Valley.\n\nBut over the duration of Mr. Huang’s long friendship with Mr. Wang, relations between their two countries darkened as Mr. Xi drew private technology companies into the sphere of state security.\n\nThings changed for Mr. Huang, too. He had become a tech industry kingmaker, and his chips a strategic asset for governments. The U.S. government had begun restricting the sale of some Nvidia chips to China.\n\nAt the end of the 2025 meeting, Mr. Huang called Mr. Wang a “good friend,” and put an arm around him as they walked off the stage.\n\nA few weeks before, Mr. Wang had taken a role even closer to the military as an expert adviser to the People’s Liberation Army’s National University of Defense Technology, according to a public announcement not widely reported. The institute was placed on a United States trade blacklist in 2015 over supercomputers that were believed to use American chips to simulate nuclear explosions.\n\nCo-founded by Alibaba in 2017, Zhejiang Lab is the epitome of recent Chinese government efforts to blend civilian and military science. Some of its researchers probe the origin of radio bursts from distant galaxies. Others partner with counterparts in the Chinese military. One area of focus was combining A.I. with hacking techniques, according to a job posting. Other topics of research included remote sensing, automated cyberdefense and vulnerability identification, and information campaigns.\n\nA postdoctoral researcher who listed the lab as her affiliation co-wrote a paper with scientists at a Chinese air force academy that described how to use computer simulations to war-game how to destroy or force away a foreign aircraft carrier group that had come to support an island’s bid for independence.\n\nImage\n\nZhejiang Lab in Hangzhou "
+   "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "Watch: Hailey Bieber Says Social Media Has Affected Her Mental Health",
    "url": "https://www.nytimes.com/2026/11/18/business/watch-hailey-bieber-social-media-mental-health.html",
-   "published": "Thu, 19 Nov 2026 00:41:12 +0000",
+   "published": "Thu, 19 Nov 2026 00:41:13 +0000",
    "summary": "The model and entrepreneur, who last year sold her Rhode beauty brand for some $800 million, said in an interview at the DealBook Summit that online comments can be “distorting to the mind.”",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/business/watch-hailey-bieber-social-media-mental-health.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "Watch: Palmer Luckey Warns of Falling Behind in A.I. Race",
-   "url": "https://www.nytimes.com/2026/11/18/business/watch-palmer-luckey-ai-dealbook-summit.html",
-   "published": "Thu, 19 Nov 2026 00:21:00 +0000",
-   "summary": "The founder of Anduril Industries, a defense tech company, is advising the Pentagon on how to map out the future of war.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/business/watch-palmer-luckey-ai-dealbook-summit.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "Watch: Satya Nadella on A.I.’s Threat to Global Infrastructure",
-   "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-satya-nadella-dealbook-summit.html",
-   "published": "Thu, 19 Nov 2026 00:20:49 +0000",
-   "summary": "In an interview at the DealBook Summit, the Microsoft chief executive said A.I. tools were finding bugs at a breakneck pace.",
    "full_text": ""
   },
   {
@@ -168,7 +168,7 @@
    "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
    "published": "Sun, 15 Nov 2026 12:40:04 +0000",
    "summary": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -176,7 +176,7 @@
    "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
    "published": "Sun, 15 Nov 2026 22:53:53 +0000",
    "summary": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -184,7 +184,7 @@
    "url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
    "published": "Sat, 14 Nov 2026 20:57:38 +0000",
    "summary": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -192,7 +192,15 @@
    "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
    "published": "Fri, 13 Nov 2026 21:28:58 +0000",
    "summary": "A prolonged outage left many without email and other services, the most recent reminder that the world’s technological underpinnings rely on just a few companies.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/13/business/microsoft-outage.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
+   "url": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
+   "published": "Thu, 19 Nov 2026 08:53:03 +0000",
+   "summary": "The highly anticipated release of Grand Theft Auto VI is expected to prompt a wave of students and employees to stay home on Thursday.",
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -200,7 +208,7 @@
    "url": "https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html",
    "published": "Thu, 19 Nov 2026 00:16:04 +0000",
    "summary": "A cascade of recent tech failures has rattled Americans and prompted many to look for ways to prepare for a prolonged digital disruption. Experts say it’s much like preparing for a storm.",
-   "full_text": "Title: What to Do Before the Next Big Tech Outage? - The New York Times\n\nURL Source: https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html\n\nPublished Time: Thu, 19 Nov 2026 00:48:15 GMT\n\nMarkdown Content:\nAfter a series of unsettling tech failures rattled airline passengers and other consumers in recent days, people may be wondering if there is anything they can do to prepare for the next outage.\n\nOf the most recent disruptions, the longest — [a global outage of Microsoft’s services](https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html) — was resolved on Saturday after about 36 hours. A [rare national ground stop](https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html) that stranded thousands of airline passengers on Friday was lifted after more than four hours, but its aftershocks lingered. On Monday, some [Chase Bank customers](https://www.nytimes.com/2026/11/16/us/bank-outages-down.html) were briefly unable to use their A.T.M. cards or complete transactions.\n\nSecretary of State Marco Rubio said [on Wednesday](https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html) that there was “zero” evidence that the failures were related or that they were the work of a foreign power or hackers.\n\nBut whatever the cause, what if the next one tests our dependence on digital services like phone-based payment systems or online banking? And what if it persists for days?\n\nHere are some steps people can take to prepare.\n\n## Keep cash on hand.\n\nImage\n\nIt’s smart to have small bills at home, along with bank account numbers written or printed on paper, said Chris Krebs, a cybersecurity expert.Credit...Anna Watts for The New York Times\n\nOne habit people should embrace again is having a little cash on hand, said Chris Krebs, a former director of the Cybersecurity and Infrastructure Security Agency at the U.S. Department of Homeland Security.\n\nMr. Krebs, who now runs the Krebs Group, a cybersecurity and geopolitical risk management consultancy, said he was “as guilty as anybody of not having any cash” around. But he said it was good to have small bills at home, along with bank account numbers written or printed on paper.\n\n“Folks need to be thinking: Hey, the last couple of days with all these disruptions, these were the things I wasn’t able to do because of a short-term disruption,” he said. “How do I build personal resilience around that? What’s the thing that, if that fails, even if it’s just an hour or two, is there anything I can personally do?”\n\n## How many phone numbers have you memorized?\n\nThe federal government’s disaster preparedness initiative, Ready.gov, [has a guide](https://www.ready.gov/sites/default/files/2020-03/family-emergency-communication-planning-document.pdf) for creating an emergency communication plan with your family. The first tip is to create a paper copy of contact information for relatives and close friends, as well as a list of other important numbers, such as for schools and doctors.\n\nIf this guidance sounds familiar, that’s because it is in line with what disaster preparedness experts advise for other kinds of disruptions, including power outages and wildfires.\n\nWhy so similar? Because, Mr. Krebs said, in a natural disaster, services that people depend on, such as water, electricity and gas, may go down and may take time to restore. “It’s not that much different to expect that, as everything is becoming digitized, that some of those digital services could have temporary outages,” he said.\n\n“Everybody’s feeling this personally because every aspect of our lives is riding on some digital dependency, whether it’s checking the bank, talking to your loved ones, figuring out schedules for your kids on the weekend, whatever,” Mr. Krebs said. “And so when there’s a disruption to any of those services, you feel it, you feel it immediately, and you realize that you don’t have a fallback plan. There’s no analog version anymore of your iPhone.”\n\n## Prepare for an outage as you would a storm.\n\nImage\n\nThe federal government’s disaster preparedness initiative, Ready.gov, suggests creating a paper copy of important phone numbers.Credit...Justin Sullivan/Getty Images\n\nIt’s smart to have a three-day preparedness plan, just like the one people should have in case of a physical emergency.\n\nChetrice Romero, a senior cybersecurity adviser at the law firm Ice Miller, suggested that people keep one gallon of water per day for each member of their household and three days of nonperishable food, charged power banks and flashlights.\n\nThe federal government has a number of [resources](https://www.ready.gov/be-informed) for creating plans for a range of emergencies, including avalanches, cyberattacks and wildfires, including [no-cost or low-cost preparation tips](https://www.ready.gov/low-and-no-cost) and tips specific to certain populations, such as [caregivers](https://www.ready.gov/caregivers).\n\nOne difference with tech outages is that they happen suddenly, whereas bad weather is often preceded by hours or even days of warnings, Ms. Romero noted.\n\n“These outages, I think, create a lot more anxiety because you think you’re fine and then you’re not,” she said. “And then it’s hard to explain what’s wrong, right? We know bad weather is bad weather. It’s hard for people to wrap their heads around ones and zeros they don’t understand.”\n\nShe said she hoped the recent outages would get people thinking about being prepared for tech outages as they would for a storm.\n\n## Be alert for scams.\n\nWhen technological failures happen, Ms. Romero said, one immediate concern is that bad actors will prey on the anxieties in order to scam people.\n\nIf you receive an email or text claiming to be from your bank or a company whose services you use and it asks for private information, like a Social Security or account number, do not respond, she said. “Go straight to your bank, communicate directly with them,” she said, adding, “verify, verify, verify.”\n\nAlso, voices can be imitated, so if a loved one calls and claims they need money to be transferred to them immediately because their bank is down, hang up and call them at a number you know is theirs."
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -208,23 +216,23 @@
    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html",
    "published": "Wed, 18 Nov 2026 23:58:15 +0000",
    "summary": "Satya Nadella said that A.I. tools were finding cybersecurity bugs at a breakneck pace, and that companies were having to create fixes and deploy them “instantaneously.”",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "How We Broke Open the Nvidia Investigation",
-   "url": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
-   "published": "Wed, 18 Nov 2026 23:52:05 +0000",
-   "summary": "A global reporting effort by The New York Times included many twists and turns, from surprising photos and shipment records to a big break through astonishing tips from sources.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "reuters-world",
+   "title": "Islam forecast to soon exceed Christianity as world's biggest faith",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzhzMHplMEVtRTFScDNDeERNU05DOVY1TXVIeDl3Uko3bkcyU3NLYlJPRTVITEIyNHg1TGtZVVJhOWVlUFNYU1hTUk5CaldhMW04UXM4MEJsNjJ2WG02bG56bGJjQW91b2dBUDlHSm5WMnpxbkp6WkFqbjBiUk1tLXczSm9FWEMzZE1YNDRCdU54ME1LS3B5YmhZNVBSeUZ4WXZwN2hvbTBvcjRsQUpCNjBjNDM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 01:34:00 GMT",
+   "summary": "Islam forecast to soon exceed Christianity as world's biggest faith &nbsp;&nbsp; Reuters",
+   "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
-   "url": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
-   "published": "Wed, 18 Nov 2026 21:41:35 +0000",
-   "summary": "A Glossary of AI Terms You Should Know",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "reuters-world",
+   "title": "World marathon champion Jepchirchir banned for three years over EPO use",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUF5TG5sV3YycV9xaGh5YXF5Z0pDVUFEaWVZVWRWRFpEMlRsVlFoTWY4Rm9ndHI0WUk3ZVNMWmpzaGwtemwzYVh4cnROTkljTllEM2FhQ2FudGhlaTdIQjFRY2t6QS1lSDNqTzUxV0JLV2NWekkzMURqaUgwaVNHLUpnUFoyc1A4REFoMHFoQnYzUVRBYzJiTXlrV1o5TEp6ZVlUbW45Y0RUUFF0Y0dHaWhkWGJiMGVLMnE1YQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 06:14:00 GMT",
+   "summary": "World marathon champion Jepchirchir banned for three years over EPO use &nbsp;&nbsp; Reuters",
+   "full_text": ""
   },
   {
    "source": "reuters-world",
@@ -236,18 +244,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 17 Nov 2026 09:50:00 GMT",
-   "summary": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "UK's William says world must act urgently on climate at Indian awards ceremony",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkc3ZGFYRXREU3BPNVJ0bHhKQUFkdklCZ0pnM0ZYOXMzMU0yU05ZV1lZdzZWdWlKNmVoTHFXam1MWDJVdGNwYXUtN2xSYTFkdnNJRUg0ZllaWk9jcjF6RXlxOEpPVHNyVnNESVVTR0MwYzRPTmlmeDVPSXA2Y3VjUWdYOGdXTTZuWGkxRWxqa2hPZENMOGZfakQyQWpkWEhfX3VIbkxJVVoxRTB2ME03c19iai1mR0RpUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 17 Nov 2026 08:17:00 GMT",
-   "summary": "UK's William says world must act urgently on climate at Indian awards ceremony &nbsp;&nbsp; Reuters",
+   "title": "Russian military transport aircraft crashes in Siberia, 19 dead, defence ministry says",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXdUMzJNWXItalNlM2xFWFlCdUM3X1lqTllNY0htY2lQZl8tYUYybkE4bFlwRWlaUFBJZ3NBcnVfSUY0cmtyeS1ZSHpNN2dKdHU2S19RVF9nbTBnY3VkaWpRMFdCSzFWbDdReFV0RzJaRXprS1ZaZmNFLVNiWTRZb0JlUzE5MGtMbWF5eUJwM0pwY2FQcEpBTFBzRW9HVXdTRUpQYi03Nk9uOXpUUTFMYUxLM05UR3VCY2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 17 Nov 2026 21:15:32 GMT",
+   "summary": "Russian military transport aircraft crashes in Siberia, 19 dead, defence ministry says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,10 +260,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "Russian military transport aircraft crashes in Siberia, 19 dead, defence ministry says",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXdUMzJNWXItalNlM2xFWFlCdUM3X1lqTllNY0htY2lQZl8tYUYybkE4bFlwRWlaUFBJZ3NBcnVfSUY0cmtyeS1ZSHpNN2dKdHU2S19RVF9nbTBnY3VkaWpRMFdCSzFWbDdReFV0RzJaRXprS1ZaZmNFLVNiWTRZb0JlUzE5MGtMbWF5eUJwM0pwY2FQcEpBTFBzRW9HVXdTRUpQYi03Nk9uOXpUUTFMYUxLM05UR3VCY2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 17 Nov 2026 21:15:32 GMT",
-   "summary": "Russian military transport aircraft crashes in Siberia, 19 dead, defence ministry says &nbsp;&nbsp; Reuters",
+   "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 17 Nov 2026 09:50:00 GMT",
+   "summary": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,50 +284,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "QatarEnergy's LNG expansion may leave it bigger but not less exposed",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaDhzZEk3LWh5X255cUFCZWFpNExoVzBXQk1idWhGakprTjQtQ0xMbkhPZjluaThIeFF5NjVVYWcxNzExaVNpdHNLX1oxRlM5ejhYaU8xS0FYbW00LVZxdDI2M2JXRktNRmRjcEx0TjhwQy1DV0lYWHhzZ29FR1RoejJxeEVSZXNGdDVNU0F6REFKcnk2M3BOOU4zdnhkWUFEZ3BFdUJEM2ZPMk00NjFjNURWSTRydw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 06:06:00 GMT",
-   "summary": "QatarEnergy's LNG expansion may leave it bigger but not less exposed &nbsp;&nbsp; Reuters",
+   "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 18 Nov 2026 03:21:00 GMT",
+   "summary": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Woods to make competitive return at December's Hero World Challenge",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmpnX05nZG83a21ucDRZa2luanphcW9QaDJESUVjUzdoVjNYTGVoVjcxOWMtcy1LeDMyTHJzTTdfOHktVjNsdDVQVHhiS0VvSWtjcXpib0xUUV9odm9UUTNhUjRrMUJQaC1NdUxaSEFZc0NydEdCSHJsREQxNld6N1dFdnpvMUtTWGtzYlJySnI3b1UzaG9hQXJfZTdad3c4cHdSbF9EQUdSd3Vtd3ZZYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 17 Nov 2026 16:41:10 GMT",
-   "summary": "Woods to make competitive return at December's Hero World Challenge &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Amazon's Bezos says he helped pick Pattinson as Bond",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3p6MHo0c2dTQkhmV0N0dlRRWGROWXp4NFpXVU96bkVYc1ZxRHRWeUZyTXdNeE9NQTZ1S3c0clBDNHk4TzZ6R0ZpV19LaGNfcVhFNkpJV21FUnJacWJ5ZEd3S21tQXJxdFFWNzY5WFlnUFBxTHFhZEdXbWNqa0Z6WFcyNzRyR1dJRWIzbl8yT3ZpQlg1UGpxZDJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 00:56:00 GMT",
-   "summary": "Amazon's Bezos says he helped pick Pattinson as Bond &nbsp;&nbsp; Reuters",
+   "title": "UK's William says world must act urgently on climate at Indian awards ceremony",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkc3ZGFYRXREU3BPNVJ0bHhKQUFkdklCZ0pnM0ZYOXMzMU0yU05ZV1lZdzZWdWlKNmVoTHFXam1MWDJVdGNwYXUtN2xSYTFkdnNJRUg0ZllaWk9jcjF6RXlxOEpPVHNyVnNESVVTR0MwYzRPTmlmeDVPSXA2Y3VjUWdYOGdXTTZuWGkxRWxqa2hPZENMOGZfakQyQWpkWEhfX3VIbkxJVVoxRTB2ME03c19iai1mR0RpUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 17 Nov 2026 08:17:00 GMT",
+   "summary": "UK's William says world must act urgently on climate at Indian awards ceremony &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
    "title": "Anthropic IPO to mint thousands of millionaires",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 23:06:33 GMT",
+   "published": "Wed, 18 Nov 2026 20:48:00 GMT",
    "summary": "Anthropic IPO to mint thousands of millionaires &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 00:47:16 GMT",
-   "summary": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDZYbWdKS2hHRWRxVU9jRTZmUW5GdUZXdXNnMW43cnNKNmV1d2JIcnByM0dBWVBKbkd0TkkydWpQSkdZVkNWQ1RnS2JRQmI1TFE0ODRrX1lCdXkwejVvN3Qwa0taTDZtMkt2VWlTblJqZ0FQeVlMajlocTZ5UE95V29GQ19xQUlkNDh6WVRKVXJDbjM2ZUdaM0c4X25lUlFWRk1qakhGSkwzMGhKdWxFNlBsSnVhVE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 21:53:07 GMT",
-   "summary": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -356,18 +332,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "Huawei says US put 'sinister spin' on business activities, failed to prove charges at trial",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVVveXpzZzZ1WTlmc0UwUmFfa2dmaWxTVGdLYWJkd0hkVVhlUjVzZTFCOU8zTV8tSGVlaFVuTnN4RVlaSy01SlVZNmdlaFJWMTU0YjZvUWR3a3hfamJBN0s1QTI1WFhPRmtiR0VYNXkzR2NtblFtMy1jRjh1SlowMVpMd2RQcmlCY1oxUXZhVkFDYi1INU54QmhMZU02a2ZoVnZMSTZWazVrdGhoMFNvMGVHckxWZDdxdEkyS3Yta3A5bnhzNkE1TVpTTGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 00:24:00 GMT",
-   "summary": "Huawei says US put 'sinister spin' on business activities, failed to prove charges at trial &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "EnQuest exits UK North Sea in $960 million sale to NEO NEXT+",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONXF4aE9JamNHQ2FQTVQtMXpUTXROX1dkRjRHLWN3TjAzX0hvNTdGTVJuRHF1LUluT045cDZTVHFLMmE5UHJEd1dZUUE0cGdXMDVQLUwyWHJFTEF4ZFZZQnQzNVROa3pwN2Y4d0oxWGxKX2lOR29VT05YMlJzbHNrb0k1SlpFVG5MbWl3S2JQUXFDQ1JGb2pVajdlbmp3TVFHek1PYVJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 07:22:00 GMT",
-   "summary": "EnQuest exits UK North Sea in $960 million sale to NEO NEXT+ &nbsp;&nbsp; Reuters",
+   "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjNVcUhFb0FnR0xEdkR6TWNoMWtqcXRQM3pqazFnUWNqYVpGelR5UE5STnotdW5INnNDVVN6TU94SVdyRnNLLXA3Wm9faWU5clg1YTBnVkhFZEJLTVNXS3puUFp1MFduSTJqNUJ0djE5QXhDa0RzRmNIbTJpTmVkaklnaldyamNQVkptRUo1X3ZEX3UwWjI0NzlkNTBfZzJTc042OTRBYnNZMlFLTkZ4UlZ0QTJyMEhSZ3lJVlk4QjRueVp5bTJLbG81bjBaYlJs?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 16 Nov 2026 22:51:43 GMT",
+   "summary": "Pentagon fails ninth straight audit despite progress in organizing finances &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -380,18 +348,74 @@
   },
   {
    "source": "reuters-business",
-   "title": "Malaysia says data centres must comply with US AI chip rules",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUFnczFGX2xRSlVqVVVmazE1Zks1SDMySV9wNjM0aWRrQVQ2czRaOUdUVDZjVk9melJxR2NQSGhGNkY2MEVCVTQ3dEp1WTRHUUo4c2hINFFlSGJXWkliMXBtcFJHZjhvdVdtVUxxV29Pc2lnNXBqdkU4bUV5cnNjX0xOT0d4Y24xakt1TlFDOFVqY0lKbVQ2dm5fUFJjZ3piWHdhVWZuLVJiQzllR2ZzbDEzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 12:22:19 GMT",
-   "summary": "Malaysia says data centres must comply with US AI chip rules &nbsp;&nbsp; Reuters",
+   "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 18 Nov 2026 05:22:00 GMT",
+   "summary": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 15 Nov 2026 20:26:00 GMT",
+   "summary": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "UK says ministers urgently working with India on tariff dispute for Scotch whisky imports",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1hmb256SjVmcVJudTZkZ0ZEbWtFZF8zamktckplMjBFUjVUMVVQUzRnaXFpSXJzdFZyVlJUcFlybkNvcXlQc3ZTTzgySXpybDZBb051Y0hEWjhnbVJybklIMUNVRDlCOGpLSXU3NU9YV0dmV21hS3otUlFQbTdjc3kzNG1EajhOX3k1NzVFd042d3AybDNFdkMxUUtfVVc5OEtNMjU2THprSGFkNjJPZm9yUUY0R3YxRGkw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 18 Nov 2026 18:14:00 GMT",
+   "summary": "UK says ministers urgently working with India on tariff dispute for Scotch whisky imports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "US Treasury issues rules for automatic retirement plan enrollment years after law passed",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNVZwRmxlR0stNHJRSVhPZE9HMDRzUWpXQmh1V0xDLXNzN3Q4RW92djBJZURJRHVadTNnelpoTmtJankxTDFTQndJczV4Tl94TlBJLVl6a0FwYlhrcnhjWU1TN3IwUnlhZzhFMW9LMjBweUU3UWRIcE5oWEd1NHpncGRidUVWanlidW96WDVFLW5EeGtuQjY3aUcxRGlCRWk3VHdGTnRtVkdQWHRTdmtfVnMzVVh4X3VRNFVkSVVGbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 17 Nov 2026 14:17:44 GMT",
+   "summary": "US Treasury issues rules for automatic retirement plan enrollment years after law passed &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Anthropic prices blockbuster IPO at $83 a share, source says",
+   "title": "Gold edges up from 14-month low as markets assess Fed rate outlook",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 06:53:00 GMT",
+   "summary": "Gold edges up from 14-month low as markets assess Fed rate outlook &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Asian stocks fail to get a lift from Anthropic's IPO pricing",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVlNYZ0xucjVqQUMzV3BSemlBQ2ZPcmxTejY2bXF6bzUyZTR3OEhOc3FoQW5JS095Uzl2LWhJcDdpVXpoeWF3c245cllBNFRjeks3eTdta3kxU3BiWm1IcG1ScWIweFVBdTk0eFpURlFDZi1kUmVIQ0dVTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 01:53:00 GMT",
+   "summary": "Asian stocks fail to get a lift from Anthropic's IPO pricing &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Dollar eases after seven-session rally, rates and equities in focus",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0NIbEViM181TUJsZHFhV2J5d0lLbkVXVlBRYVJlb3YtMC1wVTlyc1NBV0RMQ0dBTXZlcHFvdnkzQm1SUWo3NFl3eGZ0SzgwTXhxTVQ3Y2VYSHg5LXZtRG9vUUp3eVlEQktJMk9JSllaQ1hRRjRuWmx0WGNJSFBLTHRpUS1tTVFoakw2dHlVRExKTU1jWE9McGswRWc5V05CYU4zR3JDdm9Jam4wTDlyNTlXRno0cXc4NVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 02:01:00 GMT",
+   "summary": "Dollar eases after seven-session rally, rates and equities in focus &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 02:47:00 GMT",
+   "summary": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Anthropic raises record $81 billion in IPO at $1.5 trillion valuation",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 18 Nov 2026 21:26:00 GMT",
-   "summary": "Anthropic prices blockbuster IPO at $83 a share, source says &nbsp;&nbsp; Reuters",
+   "summary": "Anthropic raises record $81 billion in IPO at $1.5 trillion valuation &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -420,14 +444,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "After $6.3 billion crypto heist, Binance plans Asia expansion",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnZiblFkQkE2ci1kNUpEUVB1YnE1SFZmSmV1VzEyUVN2ZmZkVVlvZW1UbEIwOVFMUi03OUVUQlFZYlViSy03WlFWd2JwTlpDaHhiMXJzMXJ0NUd1c0o0bUpsMENLMFNlbnRGT0NfbmNNZXg5ci1ybXVHRjNrcjN2LTNGaHJLZGRqU3B3bUVaM3dyeTc4SWowSzRYbF9QNVh2eTVnNnRQc3p4ZUxRa3VEZGRvbGtLWnNSYVB3d2Fmeno?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 07:40:00 GMT",
-   "summary": "After $6.3 billion crypto heist, Binance plans Asia expansion &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Stocks slip with Nvidia, dollar ticks higher",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 18 Nov 2026 01:46:00 GMT",
@@ -436,66 +452,50 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Oil prices settle lower as traders weigh surplus supply outlook",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmp3REJQam1xdjkyMkpCN1JlSkotTnJNM0JEWDVFNmJqZ2FHbmNIN2E0V2twa2N3djBLTXlNNVJvcDJmZVNXMlBlQnk2VG1FTThnX0hQbVRqS2dKbVVBdXl6MWR5ZHo0S2VneWt2bUdwVjE4TnNxaHFLN0hHNU9IUVljVnNXLWJTeHdORFFJX3BfQXhPTThEbGFYQXhYaGNneHRHcVRGS2NyOFhxTzVN?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 02:16:00 GMT",
-   "summary": "Oil prices settle lower as traders weigh surplus supply outlook &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: What the last two bubbles tell us about the AI boom",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDdsUjlxY1dzNFk4ZDNDZFRFQWdTTVRiTlZYOW44MEZtNXVORUVyMnN0d3R6ZXd6b29uLWtreVczVzg3Q0dDcnJFTmFsNURNSGcyMm9aQmNiSkdoRVNPeGhxZ1A4VThody14Z3QxVDc1X3Y2U2hTV3BGdkhZS3AtdGJpcGN1NlpDSXZvNmFiZ0ota0lHOEZOQ3NGQko2d1RhU0lfV1REYzRFVTRvVFVUb0tfVVYyR0Zua21lam9CWm5rTXVFZzBr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 07:00:00 GMT",
-   "summary": "COMMENTARY: What the last two bubbles tell us about the AI boom &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "UBS sees S&P 500 at 8,200 by end-2027 on earnings strength, resilient economy",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0lINnoxcGVVcHJmRzZnclQtZ2VMaXE0d1ltZjVGUDRtMnhfMUNzRWdVNDNoallwTjM1Sm1qUHVCblJFV2dpQkNPRFV0QnlNYnN1S2N6ckQ0SnNxNmY1bmU2N015SWF3ekpPUkU1dmx0cGhhd1kwQ2VYTEprYUxTbkVSZFNSMnJ6bjEwTE1BZXM5TWJablh5Rk5ua3ZTdGQ1amZUV3dyRDJIOGozYVA2STcyWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 11:46:09 GMT",
-   "summary": "UBS sees S&amp;P 500 at 8,200 by end-2027 on earnings strength, resilient economy &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "EU governments authorise signature of trade deal agreement with Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXJIdmxPSUc3bmRtUGRnWk5CZUFYcG9vaHh5bUpHNnZZYmpSd0ZiR0lYV2FIZGdxeXhSR25rWkE1MjNYbkNTeC1KNlpNWEg5UGtMX1h0djhUXy1vZW9wQjk3WV85UHQyWmRCeXYxWE96aFZCRnViUFd6dmRnVVU5V09FekktbVNzT0RObXg1S0hPSHdSVzM3a292OEpJRzhzTHN1UzBEbm9paFlRbXlIRGVyNkVYbkY1c0N0UVdCT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 18:31:23 GMT",
-   "summary": "EU governments authorise signature of trade deal agreement with Indonesia &nbsp;&nbsp; Reuters",
+   "title": "After $6.3 billion crypto heist, Binance plans Asia expansion",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnZiblFkQkE2ci1kNUpEUVB1YnE1SFZmSmV1VzEyUVN2ZmZkVVlvZW1UbEIwOVFMUi03OUVUQlFZYlViSy03WlFWd2JwTlpDaHhiMXJzMXJ0NUd1c0o0bUpsMENLMFNlbnRGT0NfbmNNZXg5ci1ybXVHRjNrcjN2LTNGaHJLZGRqU3B3bUVaM3dyeTc4SWowSzRYbF9QNVh2eTVnNnRQc3p4ZUxRa3VEZGRvbGtLWnNSYVB3d2Fmeno?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 18 Nov 2026 07:40:00 GMT",
+   "summary": "After $6.3 billion crypto heist, Binance plans Asia expansion &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Surge in software patches likely behind recent tech outages, experts say",
+   "title": "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGVNM0xjMGtxNjE0aEFnRWU2QURJZy1TSzZGSkFXNVk0eTM0bkhOZWF4cXJjWGhyZEVfZjNuWjZxVVlqUWh5cDUzckE2QTdISldZeThRZG9sZTB3dzdIU1ZOX2RJV0FMQXJ4V2dKS0U3V0t1YWNpcXE4R2FuZVVRVFJaUUNnYmZkS1pQXzluQ25WaUROQ2NVQk5wNHpPa2NheXhUZFFiQ3o5cjNxcHFWUWRVS3FCNm1meTltX0xiMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 01:46:00 GMT",
+   "summary": "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEpRTFc4Q3Nsa085U2xoZldyY1BXSmlhSy0yT00tRzF4eU5QekdiUENlSTQyajA0eU5PVWl0MUpoejlXdXJMVVFPbHRVaGFlZmxoWFA5SHN5VXBpWHJvLUFLMjZISk96bVRuWWs0V3NSblpmWTM3VVZNQ3VHQVNpQTNUOFM5VzdwZ0ZOcHlFX3hmcEJ5ZDhRVXlCS0dCZEwxbXZ3Z09zVjB4N1FGMHo4Qkc4WWEwTG5LdHNWbk14NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 18 Nov 2026 23:13:48 GMT",
+   "summary": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Surge in software patches likely behind recent tech outages; bank regulators on alert",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 22:43:02 GMT",
-   "summary": "Surge in software patches likely behind recent tech outages, experts say &nbsp;&nbsp; Reuters",
+   "published": "Wed, 18 Nov 2026 17:11:00 GMT",
+   "summary": "Surge in software patches likely behind recent tech outages; bank regulators on alert &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "'GTA VI' publisher Take-Two jumps as gamers relish blockbuster release",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTms1VVZUOTUyUjBnS3VLVjFBZU5SeW1UWDZNRDJqY2w1N3dlT2Z6OEU2MDNIdGRaMG9XRzZMZVZZWDhERVRWbVpSVnkxZFVtUU9wVmxhVTl4akNIN2p6d0JWSHJ1RzlpNnljZkFXTjBySlRHMVNaRXMtbDM5eFctekpJay03M1ZJM0JzdkpfTml3MWJOcVh6YnBvaVk3QTYyS2Rha2cxYUtpWF9TWjdr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 18:31:56 GMT",
-   "summary": "'GTA VI' publisher Take-Two jumps as gamers relish blockbuster release &nbsp;&nbsp; Reuters",
+   "title": "Lenovo posts 48% revenue jump on AI-related sales, beating estimates",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakF2dUtyWGhnNzlUeGQ4cWxIb3hGSjFWWU5Qb05STXdtelBYV1ppOE1nX05nbDdvbmk0ekNNYmJnODFHYndqVXRlX2dkWW9ucldzdFBCdTVIcW01WjhaR08tVjFrMHhxZnFCR0taQV9pY2pnMFh2X0RVX2ItZENzcjB2TVJ2RXZBNXdfRDNTOVQ2Z2FFSmM1cGhQVTNad1FneE9PRHNNTUp4ZHpBZVd4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 05:47:00 GMT",
+   "summary": "Lenovo posts 48% revenue jump on AI-related sales, beating estimates &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Ford ships first battery cells using CATL technology",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 19:25:15 GMT",
-   "summary": "Ford ships first battery cells using CATL technology &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Italy set to introduce social media curbs for teenagers",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTMxUFZ4ZGV6NlFxTmZLUUVpcVc5ZFNzaVJUZ0VJbVc0VkNhWUtiSDhmbEZMX1dlU1Y1MFFIbFM3dEZJUVZEUkd2dDBkaVg3STJlTE5qU0hORXYtN28zQnpjalpvYS1tQTFZeXJPR01zLWFDOXFjYlRacXl3OFktMzZfZkdJTWFWVmYxZXNHYXlpTXdERVotaDlOYnNocU1ORGZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 12:02:30 GMT",
-   "summary": "Italy set to introduce social media curbs for teenagers &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDZYbWdKS2hHRWRxVU9jRTZmUW5GdUZXdXNnMW43cnNKNmV1d2JIcnByM0dBWVBKbkd0TkkydWpQSkdZVkNWQ1RnS2JRQmI1TFE0ODRrX1lCdXkwejVvN3Qwa0taTDZtMkt2VWlTblJqZ0FQeVlMajlocTZ5UE95V29GQ19xQUlkNDh6WVRKVXJDbjM2ZUdaM0c4X25lUlFWRk1qakhGSkwzMGhKdWxFNlBsSnVhVE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Wed, 18 Nov 2026 21:53:07 GMT",
+   "summary": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -512,22 +512,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzI5cndBYkVfZHo2YU9EX19XUklYMzg0TWwySGlMeDV6Z2NBZlZsd1BTVTFmVm8tNllyaUdIdjM3TUFnVDFBaU4zWENEWW95ckJvZWo3M0lhSDBJOUlNT0xsZVpqelJSZVQ4MjR2NEJ5U1BLc082bTF5UlRPTGhuVUhFUUU2OTk4Qy1sb3psUGNONkFpRWtSUkdlSGlpOXR2ZkV1c1pMclp2SFgweEhIODFLTEJxdG1ZY29nQ2xWZDAxOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Wed, 18 Nov 2026 10:47:09 GMT",
    "summary": "US senators warn White House that AI-enabled cyber threats are outpacing defenses &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0Vsd0FkMFJLZl8zbklveDFFQW9XSEc3Q3dHMEZ6NjJFZ0dyYUIzOVdkam50a0lSYy00NEt5OGpCaG8wQTZ4RDlyTGVvaU1VMTlGNjk3aTdiZHVXcnloamEyTUZqbEhJWTlHbFJqTHNDWmVGN2JBT2FYTG44bWRIVXFfQ1E3LVdmeGRlczZETDFIUXlUSy04RXk0bDBlTHlIVm1ld2V3TnltenZZSXdBTm1ZV3NxUFVnTTRZWWRn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 12:25:43 GMT",
-   "summary": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Rockstar promotes GTA VI in China despite lack of sales approval",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmEzTWFRSTRmdDg5emtqSER1aTNfQVNMd1pWV3FzVFRZR0xGSzRBTzZ3aV9WRmN3Q2F1eDdHTlp6OW9vS0FrZll2MldBVzFaa1hFVURoSjA5cFc0cGhZN21DV2RGdTFEdHpILW5kVk5JdFNuaEdzbEhfdzJVVDY1eVpkbTRmLUxrYmliYURCSU81NV92Q2c1VF9NeHFYamQxSkF0c0x1a28?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 07:57:00 GMT",
-   "summary": "Rockstar promotes GTA VI in China despite lack of sales approval &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
