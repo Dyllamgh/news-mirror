@@ -1,12 +1,20 @@
 {
- "generated_at": "2026-11-20T18:13:26Z",
- "count": 69,
+ "generated_at": "2026-11-21T01:01:20Z",
+ "count": 46,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+   "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+   "published": "Fri, 20 Nov 2026 20:22:14 +0000",
+   "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
    "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-   "published": "Fri, 20 Nov 2026 16:05:55 +0000",
+   "published": "Fri, 20 Nov 2026 23:05:46 +0000",
    "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
    "full_text": ""
   },
@@ -22,7 +30,7 @@
    "source": "nyt-world",
    "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
    "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-   "published": "Fri, 20 Nov 2026 15:49:30 +0000",
+   "published": "Fri, 20 Nov 2026 20:30:59 +0000",
    "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
    "full_text": ""
   },
@@ -75,18 +83,50 @@
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-   "url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
-   "published": "Fri, 20 Nov 2026 09:17:27 +0000",
-   "summary": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
+   "source": "nyt-business",
+   "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
+   "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
+   "published": "Fri, 20 Nov 2026 21:21:40 +0000",
+   "summary": "Anticipation was high after a 13-year gap in the game franchise. No movie has ever made more than $3 billion at the box office.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
+   "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+   "published": "Fri, 20 Nov 2026 21:50:44 +0000",
+   "summary": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
+   "url": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
+   "published": "Fri, 20 Nov 2026 19:39:27 +0000",
+   "summary": "The outage, which began a week ago, could delay repairs involving vehicle electronics and key fobs.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+   "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+   "published": "Fri, 20 Nov 2026 18:51:22 +0000",
+   "summary": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+   "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+   "published": "Fri, 20 Nov 2026 18:05:36 +0000",
+   "summary": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
    "full_text": ""
   },
   {
    "source": "nyt-business",
    "title": "Inside the Fight Between Native American Tribes and Kalshi",
    "url": "https://www.nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html",
-   "published": "Fri, 20 Nov 2026 17:09:16 +0000",
+   "published": "Fri, 20 Nov 2026 19:25:32 +0000",
    "summary": "For decades, many U.S. tribes have relied on casinos and other gambling revenue for survival. Prediction markets have threatened their sovereignty, they have argued in court.",
    "full_text": ""
   },
@@ -123,46 +163,6 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
-   "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
-   "published": "Fri, 20 Nov 2026 17:39:07 +0000",
-   "summary": "The S&amp;P 500 and Nasdaq were on course for their worst weekly performances in over a year. Anthropic’s shares tumbled on their second day of trading.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "How the U.S. Economy Is Tied to A.I.",
-   "url": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
-   "published": "Fri, 20 Nov 2026 11:01:37 +0000",
-   "summary": "Artificial intelligence has become a huge piece of the U.S. economy. Ben Casselman, the chief economics correspondent for The New York Times, explains why that is and how it might be risky.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
-   "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
-   "published": "Fri, 20 Nov 2026 10:02:23 +0000",
-   "summary": "The stock value of a top executive is often less important than it initially seems. But Nvidia’s entanglement in U.S.-Chinese relations poses special problems.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Is an ‘A.I. Agent’ Coming for Our Sourdough Starter?",
-   "url": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
-   "published": "Fri, 20 Nov 2026 10:02:12 +0000",
-   "summary": "A lab-grown shortcut named Leaven is wooing many high-end bakers and pizza makers who’ve prided themselves on their painstaking use of live cultures.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-   "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-   "published": "Fri, 20 Nov 2026 17:13:20 +0000",
-   "summary": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-   "full_text": ""
-  },
-  {
    "source": "nyt-technology",
    "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
    "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
@@ -196,14 +196,6 @@
   },
   {
    "source": "nyt-technology",
-   "title": "Spying Suspect’s Chip Network Has Ties to Chinese Military Suppliers",
-   "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-   "published": "Fri, 20 Nov 2026 18:05:36 +0000",
-   "summary": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
    "title": "The Internet Broke Our Taste. Will A.I. Destroy It for Good?",
    "url": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html",
    "published": "Fri, 20 Nov 2026 10:00:38 +0000",
@@ -227,27 +219,19 @@
    "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "What are Anthropic’s financials?",
-   "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/what-are-anthropics-financials",
-   "published": "Thu, 19 Nov 2026 19:30:04 +0000",
-   "summary": "",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Anthropic’s unusual corporate structure mandates it balance safety and profit.",
-   "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/anthropics-unusual-corporate-structure-mandates-it-balance-safety-and-profit",
-   "published": "Thu, 19 Nov 2026 18:53:18 +0000",
-   "summary": "",
+   "source": "reuters-world",
+   "title": "Why China is unwilling to be the world's next climate leader",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjV0OVRhWXlWUnlTSnFPZjlkRjUwdWV1bXpUbUVnTmhMa1pNTVpHVDNHMFhsaXVBeHVKV1o5eEJqejU2TDZ0YktveWEtNnV4NldXQVUxSkhwTlFjTlc2R01qNTM1dE1sY2F5NlpjVVVNcWpUWVRQVmFBZWFaWVlIYUtaVXBaSXNkUTZ0dFM5aGpzNE1XUmtFNVFIam0wV3FRUUtlMkJwV1QwNE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 13:49:05 GMT",
+   "summary": "Why China is unwilling to be the world's next climate leader &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Islam forecast to soon exceed Christianity as world's biggest faith",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzhzMHplMEVtRTFScDNDeERNU05DOVY1TXVIeDl3Uko3bkcyU3NLYlJPRTVITEIyNHg1TGtZVVJhOWVlUFNYU1hTUk5CaldhMW04UXM4MEJsNjJ2WG02bG56bGJjQW91b2dBUDlHSm5WMnpxbkp6WkFqbjBiUk1tLXczSm9FWEMzZE1YNDRCdU54ME1LS3B5YmhZNVBSeUZ4WXZwN2hvbTBvcjRsQUpCNjBjNDM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 01:34:00 GMT",
-   "summary": "Islam forecast to soon exceed Christianity as world's biggest faith &nbsp;&nbsp; Reuters",
+   "title": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2lFRzhLTFFzUDAyQlFERWhQTjQwbzExSnlMaEVMYnhnOEdTRm9yNTJxWWgwRjluUHkxZVFWUnJYTXVOaVhoRGtGRE5PRXhiRF9WX3RtVVJGTkVIV3BLRDZPWVJQUFN0RjY3UXBpUktQSlNHQzlmS1N5Q0lCQkpLSjU4c29PQTM3bXI1cDlzSjAwTG95Vkt1Sk90NGlid0ptUG1v?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 18:37:42 GMT",
+   "summary": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,10 +244,10 @@
   },
   {
    "source": "reuters-world",
-   "title": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2lFRzhLTFFzUDAyQlFERWhQTjQwbzExSnlMaEVMYnhnOEdTRm9yNTJxWWgwRjluUHkxZVFWUnJYTXVOaVhoRGtGRE5PRXhiRF9WX3RtVVJGTkVIV3BLRDZPWVJQUFN0RjY3UXBpUktQSlNHQzlmS1N5Q0lCQkpLSjU4c29PQTM3bXI1cDlzSjAwTG95Vkt1Sk90NGlid0ptUG1v?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 18:37:42 GMT",
-   "summary": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure &nbsp;&nbsp; Reuters",
+   "title": "Islam forecast to soon exceed Christianity as world's biggest faith",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzhzMHplMEVtRTFScDNDeERNU05DOVY1TXVIeDl3Uko3bkcyU3NLYlJPRTVITEIyNHg1TGtZVVJhOWVlUFNYU1hTUk5CaldhMW04UXM4MEJsNjJ2WG02bG56bGJjQW91b2dBUDlHSm5WMnpxbkp6WkFqbjBiUk1tLXczSm9FWEMzZE1YNDRCdU54ME1LS3B5YmhZNVBSeUZ4WXZwN2hvbTBvcjRsQUpCNjBjNDM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 01:41:28 GMT",
+   "summary": "Islam forecast to soon exceed Christianity as world's biggest faith &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -284,6 +268,22 @@
   },
   {
    "source": "reuters-world",
+   "title": "The snowballing selloff in global markets",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 15:13:44 GMT",
+   "summary": "The snowballing selloff in global markets &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 21:37:28 GMT",
+   "summary": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "COMMENTARY: Trading Day: World's biggest IPO? Pfft",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUndDVXJzaEZ0enJ4cWJtdTlhUWQ1YXFsWHM5RHVMdmF3N2FUVDlmcWtFNHAzczdBenNUTGN6aWR4bkdyTjEtNTByYng2OWh4d0VkYTBzSFlTNmxTcG1jS25VV1hWMEV6REFmaFhIYkVrczF1RUxvb0xsaTRfcC05YzRGZ1IwNmVFczlnQnFiNzhHWUJ5NVBVRDNOZEtZclZUNVpseURB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Thu, 19 Nov 2026 22:00:00 GMT",
@@ -299,115 +299,27 @@
    "full_text": ""
   },
   {
-   "source": "reuters-world",
-   "title": "Putin defends his 'Yalta', as 3-way summit draws parallels to post-war carve-up",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS2RyVUFBbDcxYWtIYjFjd0NtUmhUMzJDSXZqbWhkTFNYYXkzU3kzRF9WZnBTTGphWmI0UmQzUFFMRk9WODN6ZmlGVk1QSXNBR01hdk93RG9SbWJrb3RObU40aWFNUjFNX1JLTnlXbmdqSmlZLUVOaWdtMFBqZVYwV3BhbmFlcS1TRTFRUnZ3YXlzN190M3dXa0QtazJ5d1NVT2huaDFGR29OSTgtVnNmLUxfVWx0R1BVeEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 15:25:08 GMT",
-   "summary": "Putin defends his 'Yalta', as 3-way summit draws parallels to post-war carve-up &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnpTTEM4UUNIZi1KbDViNGdmVlV2MTgxSUVGWjdra045RXVoZWhYbnNGcUFob1d1OUljd01LNGo1NGV5UDN6emRwVlZ2R0dtamU5RFo0SVBVSmVGR1MyUF9aSmlqZVRST0V2eE5vVGE1QS1sb2oyV05VVWF5T25XQ1lBVjhhN1FRV2VHMFVKak00TkluZzdrbzk0Q1BXOENRbjNHLXE1S3F6LWpYeHlXOVk0QWhpcE1vY1pObkxpT1FNV2xYSkZr?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 18:18:17 GMT",
-   "summary": "World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "PODCAST: Anthropic IPO, Europe bristles over Trump-Xi-Putin meeting and Meta's muse",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW5FRmZabmpDZzNyS1BwaUNycnNRXzBhVHlURXQxTk9ocEZ6bnZPRGJuWGdYZTlLWlhHd2JrNU5vandDSF9ZdGpMZG0zWmxYcWJsSWlOQmVoQVZRX2dkNWVQWWUtZldyclZOTHBQZWUwaDNGOGFDNFdSSnpaaDgtTGxvVlZ2WW1WWjVORkl6OFRzNHpUZDY1WGQ2Nm5jUmVzUHh0RDlPQ2tud19CcjdmZDRRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 11:32:46 GMT",
-   "summary": "PODCAST: Anthropic IPO, Europe bristles over Trump-Xi-Putin meeting and Meta's muse &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Germany backs new Ukrainian drone production venture with Auterion, Skyfall",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnR4ZE8zTWF6bFczSk1uQjVOMWNFenlLeEhJUnNXS2JwSXh3MGRVRUh1TVlXY01ibEpHTFhXSDBpNkpjdjdLX3UtZEZ2U2EwdWFWU0x4cmVSd3NrOTIxdjdPQnh6X1RoMWJKeHN1QTl1LThhaW9FYTFueUpSZVZnMThSdUV1aC11YjdOM0NoX2swbjlMSlFvTVJwRmhWTElQVC1FeF9KZE1IY1hJLVl1TFRKN0VibzJPaWlN?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 10:04:13 GMT",
-   "summary": "Germany backs new Ukrainian drone production venture with Auterion, Skyfall &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Trump unveils $17 billion of Southeast Asia deals for US firms, White House says",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlRBdU1MbG9haFIzV3RrZEx0YkN0R0FvdEtnaWVrdWV1Q0FRUFRiVTdQalV4d3p2UDVrUWFHZUZsMV9QMGtTM2VnUHUtSzhtZXlRXzhFbEdocGExeXhKRXZZbU91NjNSNVlVNklWQS1pcGlzeDdSOWxJaWFPQ1hMT1c0a2pyU01jU0pfUzR0WXByakIyYU01eVNJaTFURWZaeVFTYnBLV3lrMmpGWi1peUVOUnlTeldYcGgzeVU1WjhwSXFmQThNMW43RV9VVXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 18:33:19 GMT",
-   "summary": "Trump unveils $17 billion of Southeast Asia deals for US firms, White House says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 11:08:00 GMT",
-   "summary": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Anthropic IPO to mint thousands of millionaires",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 20:48:00 GMT",
-   "summary": "Anthropic IPO to mint thousands of millionaires &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Samsung Electronics appoints new head for its memory chip business",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1VSN1FCcWtKdGI4bkxWTHJNMWRscnlRM2ZRV3hNYjdSWmJ4eU5xU2VYZTBmdDc4R3VGOEgwTkdkWERXSW90QVpPSzFpUjEzQWUzSXJuNS1CcDB5YTRHb2libUlIcm8xRFlVeXJNckZPa2JTSl9FTmxOdXFiUnNiZV9reEljeS1BcE9HeWRmeElDdEpTd0FzMEs4TllseGNkRWdmaWc3bzg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 00:11:00 GMT",
-   "summary": "Samsung Electronics appoints new head for its memory chip business &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Walmart says US shoppers stocked up after tech outages",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2xQTy03dlU5bzBXZEhoMTh3S0FVLW1xSVZxbktMcVJsSW9RRENvVUx2TU9IU2FEWWlnU1QwNk5JaVR3SUwyd2pSYl9UUTNBdXRXSVFScXRZOW5vcS1SX2tPRWhVOEZ1cmFHS2tfS3VsU0ZrbG5sYkw2SW9fR1NMRTJiblgwb3lEcFk2YjJMY0c0TFhVMk1CaFBIa2tVeVlYQ21vbVZJM3VqOVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 18:53:43 GMT",
-   "summary": "Walmart says US shoppers stocked up after tech outages &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "IPO-bound Aragen plans to spend 1.5 billion rupees over 2 years for expansion, MD says",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObHc3UHk3bWFLQnJCYTZkUEhOYmpBc21ia2dIaFRKdXV0UzVfTUVkdU1mdFhNd2dpWjBqWEZJSEFvVjRhaHFXZzdWZWtTbU5lNlp6dnZxWWcxdFRNNXIzS2JNZDlReF9WOGduV19Qc0dzbmd3SVlxeFUxZnR2ODJEdEVlWDNmNmw5czZJQlBrTGhmcjNWWG5lNHZ1Z1JheVAzcUFEOUpXb3JVdVllcjN5MW9HbVBDUmxHb09tR25seVI3ajBYTUpSRFFkY1dZV2xJMWZPX0RpOU1mU2M3Y0VUOUliUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Wed, 18 Nov 2026 18:01:49 GMT",
-   "summary": "IPO-bound Aragen plans to spend 1.5 billion rupees over 2 years for expansion, MD says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Businesses urge faster action on electrification as COP31 enters final hours",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGpudV9YSEhCSmRDMENwQUU4OXlEUEtPd0RlcEFLR2xPZHhRUXV3S21oTDZtWFZXUEVKb0VfODJrRkU4WnlEVDJaWkt2VG1ZSW9nYmFuemRIRnRaM05mb0RTb2ZlMlZlUDlLaDF4VFQ3b1FaUE1iVVVkRXZ2R0dnUUtRVS1ERmlIYTh0MlVIZVlWTHdpWHpOd0NYYjNvWXh0bUtVMXE0UGVDa01fajE2UElCeWlHdDJrMF9saEF4bGppZ00?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 21:07:43 GMT",
-   "summary": "Businesses urge faster action on electrification as COP31 enters final hours &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US bankruptcy judge approves Spirit Airlines data sale to Google",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0NfLTdnMktRek1KYml0RlYtSmhsVE1RRXRIaXBCZDQ0SXppVF9WcnZwak1qSFRIbDVRck5iZ2FEcVVNZU9tVVY0LUlLQnItelVvZE81YUZSNW03clhtazNMTEd2SnNHQzhWQWlDVDIwVFgtSkFYVkVNYnQ4alE5S1dUX0lKcG9RUDFBWDh3eThQRWhBV2NtN3NJQ0tlVE5MZXVZVmVuc1gtQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 17 Nov 2026 22:59:31 GMT",
-   "summary": "US bankruptcy judge approves Spirit Airlines data sale to Google &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Magnitude 5.1 earthquake strikes near California's Monterey County, USGS says",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0JQZlN6SGkwam1OZkRINnJITDdYX25FenEyTmlOYWFtRy0yRXE0Uk5LcWs3ZldQMGo1ZXlrbXd2elJjM19pOEg0cW1lVVZXdU5VS19vd3pOQWFkTXNoSmFvRTRqUFBBbVE2TWZKRC1qUTF0VUdmdUU1OFhZMXlZZTNmZXN5a1FQU0IwUUw1ZTVOSk9MeENkQ3UyVlpMUmRydFdEWHZCLVVuSjN6dENGSDNiOENWdDNONkVyQkR4ZmxpLUV5SmoyOVMtWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 07:07:00 GMT",
-   "summary": "Magnitude 5.1 earthquake strikes near California's Monterey County, USGS says &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "AI tech rout prompts US investors to rush into value stocks",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDhJbUROT2pNZjBobFFBeFlGWU5HRS1PZFNydV9OdHpJbEttV2ZDVElPaGNhNnE3cGlnYUlZOTR3ZC1KZGNIX0pJbExiMzBWa3lxTHpZeUtBYjFtSXJwN3FpZWhjNnUwSklvVmZlRGdEQmNFSlFVcldhXzJsbk1hUlNUMXY0Q0Fjajc0c1ZlQTY0a0FFdUlyRzg4UWQ3M1d5WjFMTjhzRWtlS2VxMnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 22:16:35 GMT",
+   "summary": "AI tech rout prompts US investors to rush into value stocks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "The snowballing selloff in global markets",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 15:13:44 GMT",
-   "summary": "The snowballing selloff in global markets &nbsp;&nbsp; Reuters",
+   "title": "Instant view: Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSi1oZG9URHdnSVhJWWs1THZ6b1JBVWJHODR5ZE5fajVzaS1zZGhfdGlfajJkTUpmeUduODNlNTN0bTFSUEZCZHROd1IzSF9DeWxKUmYyT0IyVTh6Zy1ab1ZXd1BfSjFQcC1paFhiS3NTM1NSQUlMNmhDa1pUNl9WMW9xM3NTTzI5aF95NXNaVnI2WXV6TlhxZ3h3WHh2NldhZzhvekxPb1dQczVXcXZYT2tkWjAxNS1uYmhF?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 21:30:13 GMT",
+   "summary": "Instant view: Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Anthropic retail traders face losses as shares dive 13% the day after debut",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnI5ZjRqcHhFQXkycDMySHZ1Tkl4V2RKdzNIcTlPdFhCMlJhZEkzX2RSZ0F0cjgteE9RX3JQejRRWHV6RnMtdXA3b3RKczRka0dxSEsyZU5SNFhUbTRZMU00NTVOdXE4RTI0OURfdE41aGIzc2N3ZnpsRFBxNkdsOUYzOGFnNEFGVkppNTVlTkR0OUstdU5jZWwyRUtOWGxVeEJBMWpiZ3FWRzVDdG8tUG1va3VWS2U0a3pWcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 18:16:23 GMT",
+   "summary": "Anthropic retail traders face losses as shares dive 13% the day after debut &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -420,6 +332,30 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Anthropic's IPO bank closed position meant to stabilize stock, removing source of support",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVpRUnlwbWF4cmpjRkg1N1ZnRU9Dc1ZIRFFQU3pyMHNac0tJSXlINUg5YUdLRl9mMUEzQTRkZTdQWHJwRkhJbmYyWV9VYkt4dDVTSGRib3VzbVVENWd1WWllZkhzR2E5SGhrNm5xOUM1QzBfdFFqZlNvNmJDUHFNeU1IdnRMclVkRmdsNTRxTWVZY0hQYWJHN05EZ2xxZTFORDZ0V1g2eWZEWnBGRnVEVVNROURGMVFCTzkwbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 17:10:35 GMT",
+   "summary": "Anthropic's IPO bank closed position meant to stabilize stock, removing source of support &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
+   "published": "Fri, 20 Nov 2026 22:55:43 GMT",
+   "summary": "Wall St ends sharply lower on AI selloff, S&amp;P 500, Dow in correction &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 22:06:58 GMT",
+   "summary": "Anthropic's post-debut stumble delivers reality check for AI trade &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "COMMENTARY: Morning Bid: AI’s last stand?",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdG9oSTY3R1dNX0JDZnh6bm9jOVkzam5IT1JjS1paS3I5eFhMMk9aeFpEUmVESFZjNjRiWXJFQXRkU0U5VWk2aVoxQkVfTmpHQk1ZUGFVWm1YUTN1bzBKc0JCODFSUU9wWkExcmI2eUptcFlOUkZ0OU1qUzhuRWdRUVhsd3djRldUdzFfSW1lYlBJeUhFUWppaS1HM2lpdnRqWWUzUnFB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 20 Nov 2026 12:04:50 GMT",
@@ -428,130 +364,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 17:18:35 GMT",
-   "summary": "Anthropic's post-debut stumble delivers reality check for AI trade &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Nasdaq falls as Anthropic fails to rekindle AI optimism",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 15:33:56 GMT",
-   "summary": "Nasdaq falls as Anthropic fails to rekindle AI optimism &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Morning Bid: Anthropic's splashy IPO fails to lift AI boat",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2RGU3lYLUtMZ2FwZzBEU2hlcmRDbWV6c3dDRU9OYTVzU0pSa0xzeUpuVk9McG9lYTBKdEcxZEtRY0JXbmZ3dDJlZ2xiVG5Ba3pDdkotNXBIN3Z2a3hqcHdlUlNFekh6REp6bWo2bW1sS25mTUJWUDlqU3UtMU5DRlpERQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 05:53:00 GMT",
-   "summary": "Morning Bid: Anthropic's splashy IPO fails to lift AI boat &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Bitcoin falls below $60,000 level",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEJfUmdFQ0ZvVC1TbUh4dXZxdzlrTVZYenFybjM0RnpESDZ2aFRsMmRsWHpjbEF4cjlCWWJtQnZiWXhINVZhUng3YW9ILWZXejhNY3BJelJKRWw1TDRzaDRtdU92ZlhRUXRMdVpzYXlWaUQ3MUx2aWtEU2VaVlhLOHlqV2Q?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 20 Nov 2026 16:26:27 GMT",
    "summary": "Bitcoin falls below $60,000 level &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "India's AI-free appeal draws record foreign buying, earnings will decide if it lasts",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU21DUWtpTjhoc0dIZjQzWWxidVJxMTFackxWYktTUTBWc0xqMVRqMHpTTWlVZ05XSjVNZm90bjE5ektHd3l1MDNyeFFCdDkzb0hZMDI3aDNSOWg3QW1GWmhfMGtpRVNTWGhqbzB0dDhHUEhiOGlOU1R1LVFKRnY2R21tU25xUWFmaDFWdkt4b1VIcFdsQjZ2bWZVbE1GczlFeVBheTlrc1RURG9oalpscGs0T1Zka3lEdm10Tjh1M1BnUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 07:42:00 GMT",
-   "summary": "India's AI-free appeal draws record foreign buying, earnings will decide if it lasts &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "US equity funds draw inflows for a third straight week",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTV9hWnBMYmhUc0pEOXJmbkRxYWxTcHhCdE5Sc2FVX0NOV1ZmVlFfWnNuY2h2dy03Y1JHb0h3bnh0LThOT2Fadm9EVEcyZEF0MTdaRzlWTDNKZ1lKNmJtNGR4QmI1R2NOUjJXOWhZVFBvdGxQMXlCeERZc0xaSWZmOS1WQVFJN1p0Mk5WYTI0QVdfVmE4ZkIyQ3o2a2d2R0ZLS24xT3FUWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 12:45:43 GMT",
-   "summary": "US equity funds draw inflows for a third straight week &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Anthropic IPO haul rises to $93.5 billion after underwriters exercise greenshoe",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFRZLXRpZ3l4cURJRTFHakoybEV5aVV6MmZMZWt5aGNxazc3MlRrZklsWGlyOE9HcFBVWXdIWGEzRmNXVjZjcDlPTjdPRnN6d2JnNWtPem45bGZxM3I3N3VhWkZZMXp1Y3VDMzFMUTVncGJYOEFKRTY1Y19ZNHpZeWhxUjMxczEtZE82cVRWaERoZmwwUkdXNWFqNjlpVUZ4azg5V191T3E2Nm9VanZwYU1uOS1sakNSUFVwaXBUaTFJclI5bXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 12:53:33 GMT",
-   "summary": "Anthropic IPO haul rises to $93.5 billion after underwriters exercise greenshoe &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Alphabet raises $4.19 billion in Canadian bond offering",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFVQU3VBb1FwSmxpYnh6M1hNLU03RW1TSkZpbUJPcXpkQ1lZbWFocERJLTA3cUZWZ2JELUtSY050MW5Kdko5VHhoUFRqdW5XUGlWNlliWlZYLUxFa0tCY3RLaERDa3p2aGNGVEk3VjhlNFpPQTR0clR6MzJKQzBPS1JXSHljRUFIdkJRSWFFOVBrWERMQnVYTGVMTloxbVF5?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 12:09:25 GMT",
-   "summary": "Alphabet raises $4.19 billion in Canadian bond offering &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Democrats open probe into Nvidia influence on US Megaspeed investigation",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONXlIa2U1bk4zSS1KNXFDNEVGNWhqdkY1NXlrT1RVSGZlUk5CUVc1cEFEc204WVBJLXVsZDVybGM0d1E5RTNmdnNla0xiZm1RZXFILXdkeGRWcjFmbm9rTDM4TVczU0pBWmpRcFdPWEdJUENqdFBMM3FtRkd1U1lsaHIzd2NZbnE3aW1Pdmx6Sy1XLU93MDlpZ2xpTE9qMUVpV3NncXphaHhQbWNDZ1hlMXhjQVVUbVNVVTJVelFDWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 12:35:39 GMT",
-   "summary": "Democrats open probe into Nvidia influence on US Megaspeed investigation &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "EXCLUSIVE: Signal restricts screenshots to block AI agents from reading messages",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmswbGtWU0V5UThMT3Rqd3lGVmJqeHE4NEE0S1h5eEpMTUZfRzU4NUxLbjZLU195X29ld20wa2xNVWIxZlREZ1U1OFZIY3VicFA2eEMwQmFTbWJTVk9CaHJFMktMNUU2a3Z6TlBhWmEwVE1TTzVfRkFRY2VLdGZ2cVIxR1NuWUVXaFFxRlZaQnNaM29JZnpuUV9hVEZNY3F1ZEZwaGx4QmlJa2t4MTBZQlJDZ3g?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 16:20:14 GMT",
-   "summary": "EXCLUSIVE: Signal restricts screenshots to block AI agents from reading messages &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "EXCLUSIVE: Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRGSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 13:54:57 GMT",
-   "summary": "EXCLUSIVE: Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "US AI chip curbs hit China tech stocks, spur self-sufficiency push",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JhZ1hpWlJqYlVISU9pcFFUS0N1Sk9MeEx5aU9jWmt5OVBxY2RkeWNCWDBITU5nYmdNdzFNQm4xTkZVbTM3T214cjhzSDBPWHFsaGt0Uk56c2F0TUFOOWl2ZlZHRGhjdXN5WDNPM3BiS3E1QW9lbHZ0NjZDUVNtaVZBbGUzNmxMR1o4c3REOGE3c3R4ZFk3d1VpR3diM0FmTnphSVdtR0M5MWpHRm9OeFJtaTQ5U1p6bnVRc3VnTW54cVVW?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 08:23:43 GMT",
-   "summary": "US AI chip curbs hit China tech stocks, spur self-sufficiency push &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Indonesia asks Google to clarify removal of 19,000 YouTube channels, ministry says",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0ZsN0xYRkZoQm8wbW9kQ3ctdmpDNUdRUV9DdDJ5NWdGbXIxV3kwN2JrM3pqUWlxRnp6X085Z2JVWlplZmswb0VJb1hzQlZnVm5sMnc3ZFlOZ2FBWkxKcjd2aWFUVk9hSV8xcVZWU3dtU1YwVm9DOG9nTlZUdGVXMWJsYzBENDVxLUFvT2VRMV8weDlpa2VObzVualJBUkFCaHRieExxUFpPS0VfbURGdTQwSkFfUkZmMmVkUDNhTHFUNjJaMldqWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 04:58:00 GMT",
-   "summary": "Indonesia asks Google to clarify removal of 19,000 YouTube channels, ministry says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Anthropic's Australian data centre overwhelmingly opposed by residents",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0tkWmlBUktrOUtfR2pyekRxYkg0OW1MY3hhLU5sSUI0SGpMcFVFaUIxMkRTZDVKdzVHYmc4NmEySlFhWmpScjJSSWxLaTNMQjlvRXI2TGhKanh4N1JDMVBwd01tRmwwT29uQWc3Vk5KQ3RMX2NFUlFCTDhhX2cyOFhTU2djTm1wYzB1S2tDTUVJWlRFcEg5cDFPZVc1NTJLXzhaSzVEQzV0RWV4X3hNamRrM3dtV0lNSnpkRi1kTjF3Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 02:39:00 GMT",
-   "summary": "Anthropic's Australian data centre overwhelmingly opposed by residents &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Anthropic's $1.5 trillion debut rewrites venture capital's playbook",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVk2clRUVFZnTGJTcG1qOWpTRmlSQmRjTXdoVFhIMGQ1cU1idU5RTVFqOVhob2NMQXYyWlVTeEhpU2N2cEk5d0pJSlhic2NSaHJ2M0V1b3N2WW9BalFiZ3VnQnpuY1VKV3Fwd1pkMWw0N1FnRlNPZmdXRFVudkhGOHA5OHNsVzBPWnRWaWNnTmRTNFBQQTVKSEF1WndCeVhnSmZ3S1ZCVzBtcDBWSk9VS3ViTnY5UThFaHFz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 23:22:04 GMT",
-   "summary": "Anthropic's $1.5 trillion debut rewrites venture capital's playbook &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Intuit to sell Mailchimp at about a third of its 2021 purchase price, shares slump",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSEQ4aFF0TFRXWll0Y2hSaHJFbWNmQ3Q2Y1RIZkZsRENVeU9sNzUyU3JsNVJoOXZMWVFQVnVTUzN6Ri1XdlBvbkRsbmtibnRBaXFKS3JVazBCenA4QmJkS2xpdVBzSVpjeGI0dkZyZjV5bWprd0tVd1g0bTVDSkp1c3JmSTRhc0J6bmlaZlNvd05VaHlvMGVJcTFXSDBGdEhkQ2hMbDlQZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 22:20:31 GMT",
-   "summary": "Intuit to sell Mailchimp at about a third of its 2021 purchase price, shares slump &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
