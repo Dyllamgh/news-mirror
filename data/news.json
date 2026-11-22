@@ -1,14 +1,62 @@
 {
- "generated_at": "2026-11-22T04:38:02Z",
- "count": 64,
+ "generated_at": "2026-11-22T13:53:49Z",
+ "count": 65,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+   "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+   "published": "Sun, 22 Nov 2026 11:03:04 +0000",
+   "summary": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+   "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+   "published": "Sun, 22 Nov 2026 12:29:33 +0000",
+   "summary": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+   "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+   "published": "Sun, 22 Nov 2026 01:56:16 +0000",
+   "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+   "url": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+   "published": "Sun, 22 Nov 2026 08:35:05 +0000",
+   "summary": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+   "url": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+   "published": "Sun, 22 Nov 2026 06:58:17 +0000",
+   "summary": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+   "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+   "published": "Sun, 22 Nov 2026 10:22:20 +0000",
+   "summary": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
    "published": "Sat, 21 Nov 2026 21:12:24 +0000",
    "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-world",
@@ -16,7 +64,7 @@
    "url": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
    "published": "Sat, 21 Nov 2026 14:09:39 +0000",
    "summary": "“Cancer does change you,” Catherine, who is in remission, says in a trailer for the film. It will be released this month.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-world",
@@ -24,63 +72,71 @@
    "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
    "published": "Sat, 21 Nov 2026 20:35:07 +0000",
    "summary": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-world",
    "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-   "published": "Sat, 21 Nov 2026 16:30:35 +0000",
+   "published": "Sun, 22 Nov 2026 10:16:39 +0000",
    "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
-   "url": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
-   "published": "Sat, 21 Nov 2026 12:54:44 +0000",
-   "summary": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "nyt-business",
+   "title": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
+   "url": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
+   "published": "Sun, 22 Nov 2026 13:00:02 +0000",
+   "summary": "The mayor of New York City spoke with Andrew Ross Sorkin at the DealBook Summit.",
+   "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-   "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
-   "published": "Sat, 21 Nov 2026 17:14:17 +0000",
-   "summary": "Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "nyt-business",
+   "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
+   "url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+   "published": "Sun, 22 Nov 2026 10:02:21 +0000",
+   "summary": "The maker of Pampers and Bounty paper towels operates 15 sites capable of running shifts unattended, with plans to add more in 2027.",
+   "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
-   "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
-   "published": "Sat, 21 Nov 2026 13:35:19 +0000",
-   "summary": "Major military powers like the United States and Russia expressed strong resistance to binding restrictions.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "nyt-business",
+   "title": "The Case of the Idle Assistants",
+   "url": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
+   "published": "Sun, 22 Nov 2026 10:02:11 +0000",
+   "summary": "Plus: Can I lie about having kids, and do I have to use my personal phone?",
+   "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-   "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-   "published": "Fri, 20 Nov 2026 20:22:14 +0000",
-   "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "nyt-business",
+   "title": "Looking for the Formula to Stop an Apocalypse",
+   "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+   "published": "Sun, 22 Nov 2026 12:27:46 +0000",
+   "summary": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
+   "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-   "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-   "published": "Fri, 20 Nov 2026 23:05:46 +0000",
-   "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "nyt-business",
+   "title": "Agriculture Secretary Declares U.S. Cattle Supply Safe as Screwworm Cases Rise",
+   "url": "https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html",
+   "published": "Sun, 22 Nov 2026 10:01:46 +0000",
+   "summary": "Officials said that heavy rains in the Southwest had led to more screwworm cases in animals, and that mitigation efforts were working well.",
+   "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-   "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-   "published": "Sat, 21 Nov 2026 07:11:24 +0000",
-   "summary": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "nyt-business",
+   "title": "Rather Than Sell Their House, They Became Landlords Instead",
+   "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+   "published": "Sun, 22 Nov 2026 10:01:04 +0000",
+   "summary": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "How Six Americans Under 40 Are Saving for Retirement",
+   "url": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
+   "published": "Sun, 22 Nov 2026 10:00:11 +0000",
+   "summary": "Whether they take a traditional path or go their own way, some younger workers are managing to build a nest egg while juggling other financial challenges.",
+   "full_text": ""
   },
   {
    "source": "nyt-business",
@@ -88,7 +144,7 @@
    "url": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
    "published": "Sat, 21 Nov 2026 23:12:23 +0000",
    "summary": "President Trump signed a law on Friday formally putting the penny out of mint, a year after it stopped being struck.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-business",
@@ -96,7 +152,7 @@
    "url": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
    "published": "Sat, 21 Nov 2026 13:00:06 +0000",
    "summary": "The chief executive of Tesla and SpaceX spoke with Andrew Ross Sorkin at the DealBook Summit.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-business",
@@ -104,63 +160,7 @@
    "url": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
    "published": "Sat, 21 Nov 2026 10:03:45 +0000",
    "summary": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "How to Plan for an A.I. Emergency, or Any Calamity",
-   "url": "https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html",
-   "published": "Sat, 21 Nov 2026 10:02:21 +0000",
-   "summary": "One person’s attempt to prepare for the unthinkable.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "The Faces of the 2026 DealBook Summit",
-   "url": "https://www.nytimes.com/2026/11/21/business/dealbook/dealbook-summit-portraits.html",
-   "published": "Sat, 21 Nov 2026 10:02:15 +0000",
-   "summary": "Our photographer made portraits of the event’s interview subjects, including Hailey Bieber, Satya Nadella and Zohran Mamdani, after they left the stage.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/business/dealbook/dealbook-summit-portraits.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
-   "url": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
-   "published": "Sat, 21 Nov 2026 14:01:15 +0000",
-   "summary": "The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price.",
-   "url": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
-   "published": "Sat, 21 Nov 2026 17:59:58 +0000",
-   "summary": "As new car prices rise beyond the means of most buyers, the used market has become much more important for consumers and the auto industry.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
-   "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-   "published": "Sun, 22 Nov 2026 01:05:28 +0000",
-   "summary": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
-   "url": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
-   "published": "Sat, 21 Nov 2026 03:23:04 +0000",
-   "summary": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
-   "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
-   "published": "Sat, 21 Nov 2026 20:07:36 +0000",
-   "summary": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -168,7 +168,7 @@
    "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
    "published": "Sat, 21 Nov 2026 19:11:51 +0000",
    "summary": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -176,7 +176,7 @@
    "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
    "published": "Sat, 21 Nov 2026 15:55:46 +0000",
    "summary": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -184,7 +184,7 @@
    "url": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
    "published": "Sat, 21 Nov 2026 19:12:00 +0000",
    "summary": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -192,7 +192,15 @@
    "url": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
    "published": "Sat, 21 Nov 2026 10:02:10 +0000",
    "summary": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/science/outages-tech-history.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+   "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+   "published": "Sun, 22 Nov 2026 01:05:28 +0000",
+   "summary": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -200,7 +208,7 @@
    "url": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
    "published": "Fri, 20 Nov 2026 19:39:27 +0000",
    "summary": "The outage, which began a week ago, could delay repairs involving vehicle electronics and key fobs.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -208,7 +216,7 @@
    "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
    "published": "Fri, 20 Nov 2026 18:51:23 +0000",
    "summary": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": ""
   },
   {
    "source": "nyt-technology",
@@ -216,30 +224,54 @@
    "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
    "published": "Sat, 21 Nov 2026 05:13:03 +0000",
    "summary": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-technology",
-   "title": "The Internet Broke Our Taste. Will A.I. Destroy It for Good?",
-   "url": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html",
-   "published": "Fri, 20 Nov 2026 10:00:38 +0000",
-   "summary": "In a world of slop capitalism, vibe-crafted culture and taste paranoia, why we like what we like feels harder than ever to know.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "reuters-world",
-   "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 19:13:00 GMT",
-   "summary": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2lFRzhLTFFzUDAyQlFERWhQTjQwbzExSnlMaEVMYnhnOEdTRm9yNTJxWWgwRjluUHkxZVFWUnJYTXVOaVhoRGtGRE5PRXhiRF9WX3RtVVJGTkVIV3BLRDZPWVJQUFN0RjY3UXBpUktQSlNHQzlmS1N5Q0lCQkpLSjU4c29PQTM3bXI1cDlzSjAwTG95Vkt1Sk90NGlid0ptUG1v?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 18:37:42 GMT",
-   "summary": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure &nbsp;&nbsp; Reuters",
+   "title": "Why China is unwilling to be the world's next climate leader",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjV0OVRhWXlWUnlTSnFPZjlkRjUwdWV1bXpUbUVnTmhMa1pNTVpHVDNHMFhsaXVBeHVKV1o5eEJqejU2TDZ0YktveWEtNnV4NldXQVUxSkhwTlFjTlc2R01qNTM1dE1sY2F5NlpjVVVNcWpUWVRQVmFBZWFaWVlIYUtaVXBaSXNkUTZ0dFM5aGpzNE1XUmtFNVFIam0wV3FRUUtlMkJwV1QwNE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 13:20:00 GMT",
+   "summary": "Why China is unwilling to be the world's next climate leader &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "COMMENTARY: Trading Day: World's biggest IPO? Pfft",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUndDVXJzaEZ0enJ4cWJtdTlhUWQ1YXFsWHM5RHVMdmF3N2FUVDlmcWtFNHAzczdBenNUTGN6aWR4bkdyTjEtNTByYng2OWh4d0VkYTBzSFlTNmxTcG1jS25VV1hWMEV6REFmaFhIYkVrczF1RUxvb0xsaTRfcC05YzRGZ1IwNmVFczlnQnFiNzhHWUJ5NVBVRDNOZEtZclZUNVpseURB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 22:00:00 GMT",
+   "summary": "COMMENTARY: Trading Day: World's biggest IPO? Pfft &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Tashima says Balogun red-card row at World Cup pushed him to run for FIFA presidency",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMkV2QkQtU1E3Z1dzNzRfdnB2bC1PMG9qZ04yV2w5UHFNRTFKdVJlYTV4VGhEUFdSb3RKbzM1ZmRCZlpPNzVCWERpcUFqZ2ItQ1M3MU96RGxCSjRwbEs3dVE4WFlhMlppeHJFWEFFOS1nT0s1bTVnT2dqZ0pUR0dZZ0M5T3pvTkZZbHhMa1QtSFpITFhkWGhWN3hUUEFDNnZpanN1N2VFUzlsckw2QzNxLWpvRGRaSldab3V1RGNDc2dvUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 05:06:00 GMT",
+   "summary": "Tashima says Balogun red-card row at World Cup pushed him to run for FIFA presidency &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Islam forecast to soon exceed Christianity as world's biggest faith",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzhzMHplMEVtRTFScDNDeERNU05DOVY1TXVIeDl3Uko3bkcyU3NLYlJPRTVITEIyNHg1TGtZVVJhOWVlUFNYU1hTUk5CaldhMW04UXM4MEJsNjJ2WG02bG56bGJjQW91b2dBUDlHSm5WMnpxbkp6WkFqbjBiUk1tLXczSm9FWEMzZE1YNDRCdU54ME1LS3B5YmhZNVBSeUZ4WXZwN2hvbTBvcjRsQUpCNjBjNDM?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 01:41:28 GMT",
+   "summary": "Islam forecast to soon exceed Christianity as world's biggest faith &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "An Iranian teacher bared her life to the world. She didn’t tell a soul at home.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXy00QVJlaHVyR2FuM0lTS0V3aXk2ZUdZUU43UGt0T0ZhaWhYaVcyX0NZVXZ1RlpVaU53d0xhRkxYN3locDE5XzVBWG9KRDhzcVFUWWRaTkd5Yk9SZndLeGZvd0Q0LWNNY2lxcFdySm1ac1JldHE2T1g0U3h0UWdZODhjWDhLSjZMdW1ENlg1RW9GUGt5TlZCU19OTDZIc2RzRkZraXBVU0hRVkh1TnlwQlNvTTJWZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 10:32:44 GMT",
+   "summary": "An Iranian teacher bared her life to the world. She didn’t tell a soul at home. &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Reuters | Breaking International News & Views",
+   "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE8tZ2hNa2FhcURvbGFUZGY4clA5d1FnWlJWbnIzV2dfOFVDdDRNQ25lY2s2dzFLV2ZYRHBldA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 10 Sep 2005 07:49:43 GMT",
+   "summary": "Reuters | Breaking International News & Views &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -252,58 +284,26 @@
   },
   {
    "source": "reuters-world",
-   "title": "Trump's personalized diplomacy hits its limits with 3-way summit",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdERQSHBUWVRvbktIZEo4ZDFTS2FKNzZjRUwzamQ5VjkwUE9RQl9KSkoxdmJ2QmNnT2tzNkdKc2dYNjNNQ2Q3RVNERlB3X1NOa3FUTU5XdmNocGtRdWdSSzIyelZhd3Mwc0JEd0t6dXhicEd4TVRPclNPcy1TTkQwcFE5OVV1WFBrUmNEcWFRenA0TGJYMDh2OWMtaV9PZmd1LXJWa0hUMWU1bE5JSjcwTw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 20:44:09 GMT",
-   "summary": "Trump's personalized diplomacy hits its limits with 3-way summit &nbsp;&nbsp; Reuters",
+   "title": "World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnpTTEM4UUNIZi1KbDViNGdmVlV2MTgxSUVGWjdra045RXVoZWhYbnNGcUFob1d1OUljd01LNGo1NGV5UDN6emRwVlZ2R0dtamU5RFo0SVBVSmVGR1MyUF9aSmlqZVRST0V2eE5vVGE1QS1sb2oyV05VVWF5T25XQ1lBVjhhN1FRV2VHMFVKak00TkluZzdrbzk0Q1BXOENRbjNHLXE1S3F6LWpYeHlXOVk0QWhpcE1vY1pObkxpT1FNV2xYSkZr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 18:18:17 GMT",
+   "summary": "World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "As Trump basks in summit pomp, China's Xi strengthens his hand",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 21 Nov 2026 09:12:54 GMT",
-   "summary": "As Trump basks in summit pomp, China's Xi strengthens his hand &nbsp;&nbsp; Reuters",
+   "title": "UK's William says world must act urgently on climate at Indian awards ceremony",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkc3ZGFYRXREU3BPNVJ0bHhKQUFkdklCZ0pnM0ZYOXMzMU0yU05ZV1lZdzZWdWlKNmVoTHFXam1MWDJVdGNwYXUtN2xSYTFkdnNJRUg0ZllaWk9jcjF6RXlxOEpPVHNyVnNESVVTR0MwYzRPTmlmeDVPSXA2Y3VjUWdYOGdXTTZuWGkxRWxqa2hPZENMOGZfakQyQWpkWEhfX3VIbkxJVVoxRTB2ME03c19iai1mR0RpUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 04:43:23 GMT",
+   "summary": "UK's William says world must act urgently on climate at Indian awards ceremony &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-world",
-   "title": "Alcaraz digs deep to beat Shelton, will face world number one Zverev in final",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlJzY0JTcm41WXdwall3LUR1WTAxMk5OTk1yaVdGb2wwbXlQRms0VGtKaEpUank0eFY2XzlCVExiYk4xeU9oM1lVNnhOVkFtQW9JYUFDN3Z3eVpRR3BwcUN1OFU1ZE1xeW1qdXlRa3lyZ3Z2dzI5UFE4VUE2VmtYWjF3amhfeHVnOEpicDhCMFJhYWUySWNz?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 21 Nov 2026 21:50:18 GMT",
-   "summary": "Alcaraz digs deep to beat Shelton, will face world number one Zverev in final &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 12:42:22 GMT",
-   "summary": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "The snowballing selloff in global markets",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 15:13:44 GMT",
-   "summary": "The snowballing selloff in global markets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2xnMjNoRWZHTm9ZTmZneE9Cb1IyQ1JxN25MSU5Wcm5oVUFfU3NETHZ6aW9lcV9WZ3hfVHdEeXQwbFlXbWVRVjJPTVJSUGZjQXBQNDdyNXpOM291U0wyc0Q1S3d6bmdzLTVSTTRVVm9abmlnWDhoWkR4ay1kdVhWaThhWm9ITDI0ZUgzWWVBa1BVNU5WaElIRFN0MEVLa2laMlNidFBWbzc0Qy1Mc2E3ZHhfanhfVTByYWtUUmpoSm1adw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 21 Nov 2026 05:57:00 GMT",
-   "summary": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTB2Umxadk1oSHFUQVEwemljX2I5NHRjWFlPM3dsMG5lcG5MR2RRclBjWXR3WE5zLXg3RVh5d2NiWGhMREUtd0ZWNEZEX1ZGVV9rcmN5Qkc2QmZfZUVPdVFsRm4tY01qOEdNOWtQdEtWMll5MmJMU1p6V0MwWkx4M005d1dHS01XaU14d1lYRzBNVUtZVHVMMUJSanFDbjA1eC1zNERFdjY0WW5uT2EzRDlYbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 21 Nov 2026 14:29:16 GMT",
-   "summary": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028 &nbsp;&nbsp; Reuters",
+   "title": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2lFRzhLTFFzUDAyQlFERWhQTjQwbzExSnlMaEVMYnhnOEdTRm9yNTJxWWgwRjluUHkxZVFWUnJYTXVOaVhoRGtGRE5PRXhiRF9WX3RtVVJGTkVIV3BLRDZPWVJQUFN0RjY3UXBpUktQSlNHQzlmS1N5Q0lCQkpLSjU4c29PQTM3bXI1cDlzSjAwTG95Vkt1Sk90NGlid0ptUG1v?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 18:37:42 GMT",
+   "summary": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -332,14 +332,6 @@
   },
   {
    "source": "reuters-business",
-   "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 10:20:00 GMT",
-   "summary": "Anthropic's post-debut stumble delivers reality check for AI trade &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
    "title": "South Korea's Lee says speed is vital in AI race on data centre visit",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGZoMTNJTG5jUnB2cE5iMkpFeERNR1ozUzE2TkdCR3VTYnJFMko1NXhRaFBQOHMybVRkZUFXc1VpX3R6LXF6WkdZRWg3ZVlYQkVBMDV6czFlVXVaZW1vUGF0RlJwalFBQ1ZRb29zWHB6d3laQVJXbHIxUVdSeHBXTFA0eU1kaTA2QzJ6ZVd6cGVZeGlDY1VTcDE0c0JNX1RsQTZqOHhnX0ttd1dBVWRVbVdWM0pkOC16Vm9tSWlB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sat, 21 Nov 2026 05:34:00 GMT",
@@ -348,10 +340,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "GTCR explores potential takeover of payments firm Global Payments",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3RQSllqVmJZWmJDT1FsYzFoM0tsWmx3YUF2eGlLSXZDWmYzdXRuYXV2VmhWLXpsS01fTVVub25oVS1FMmJVTEhzSzd2XzZKMmkxU2o5dk9aVVN4WE9mdDNGbmhyc1pQYVljUHdudXJuckxKQ3ZpNThadERoSkoyMG5iaGRTblFBeUcxcVo3S1IzNE9vU0Z2Ukk0a1dIaGVpd1ZFcy1sSl9qa2NZRmhxeXR0RmN0ZDBmSjFqeXpOdmtWM2JjbG90MkVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 23:18:20 GMT",
-   "summary": "GTCR explores potential takeover of payments firm Global Payments &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Citi underestimated risky assets by $35 billion after incorrectly recording trades, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVloeGlhUlExUC1jX2NqaXZkd0owdTFnbnNHSFpDN0lEcjhkeXdSZ0M1ZFg3MkIzMHVaUHE4dko2cFJSWDNXRXlDMElNRTcyVUxMNnZBRFY4cTVYaTVWblZWRWIxWEFlWFF1T1hsNWJPVU4tT0J3LXNtR0VIUmZMYXhCc1ZtWEhVRHdHUERnNkZZX1RVS0pPZ1JfX3ByZURXd2IxcGhucDNBNjZWaTZPcHdCZV83Nmg2bWRybE16QlA2c1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 12:19:50 GMT",
+   "summary": "EXCLUSIVE: Citi underestimated risky assets by $35 billion after incorrectly recording trades, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -360,6 +352,14 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JhZ1hpWlJqYlVISU9pcFFUS0N1Sk9MeEx5aU9jWmt5OVBxY2RkeWNCWDBITU5nYmdNdzFNQm4xTkZVbTM3T214cjhzSDBPWHFsaGt0Uk56c2F0TUFOOWl2ZlZHRGhjdXN5WDNPM3BiS3E1QW9lbHZ0NjZDUVNtaVZBbGUzNmxMR1o4c3REOGE3c3R4ZFk3d1VpR3diM0FmTnphSVdtR0M5MWpHRm9OeFJtaTQ5U1p6bnVRc3VnTW54cVVW?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 20 Nov 2026 08:23:43 GMT",
    "summary": "US AI chip curbs hit China tech stocks, spur self-sufficiency push &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmFTbW95TklxQWFndG5mcGRTNEd2U3d1cnJIUWU2VGpUZjVLRTlrb2V0T3FUeTdwQ3VYbXRVQmtlRXY0bUpHeEJLTE5BanpCUV9sS3p2VkVXenVvejVzczROSXJiVjVnVjBQb0dEYUFVbXBOcUc0Vks2aGZvTTBuakc2LVdyZTNSMktUalhHbFFNWXFmT1UzTy03c195M0VlUWwzV1RUUXF4RmhJSmozYjRnaUtCTm1LWWlYVFRyQnJXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 18:13:00 GMT",
+   "summary": "EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -388,10 +388,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Bitcoin rises over 2% to more than $60,000",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWZDYjFjYnlkNnBXa2lSQ2loSllxdV9rb2JNdjlZRXRBdmZvUFpaUzJrenVyMWRMWVdKMDR3cTJUVUVjX3hfUmJYaklMUXA2aXlRUTlHTzhpTVR4QVZiQlhlZTMyZ0RGNzhZWFlPT0VFNXdVUTJIRENXd0ZmYXIwR3ZMT3ZKWVJk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 21 Nov 2026 15:25:43 GMT",
-   "summary": "Bitcoin rises over 2% to more than $60,000 &nbsp;&nbsp; Reuters",
+   "title": "Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRxak5ZYUFPNWxVbzlJdy1Mcm9xMTRVZ0ctY205NFVGVEFtcDdFNG1Iem05TjVBcnYzWUVUeXcyWndZNlpnR25GMW5GdkJ2blJjeUdXdlhvZ1VqNWpVSGdYX1RsQ1F3eUhkRUFaX0lxQTNnVFNySmphdG1KM2Y0NTZrdGRoTWxEaE0ybmVSUnBtdDB2VW9tWGtrYkZfUmZUaUdxWDUyUEZGZ2tSajBqSTJydzNhb2xwaTctX21xQmxmXzFyZ1BIWE80ZF8?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 22 Nov 2026 12:22:12 GMT",
+   "summary": "Correction or deeper reckoning? Investors seek signs US stock selling will abate &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -404,14 +404,6 @@
   },
   {
    "source": "reuters-markets",
-   "title": "AI tech rout prompts US investors to rush into value stocks",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDhJbUROT2pNZjBobFFBeFlGWU5HRS1PZFNydV9OdHpJbEttV2ZDVElPaGNhNnE3cGlnYUlZOTR3ZC1KZGNIX0pJbExiMzBWa3lxTHpZeUtBYjFtSXJwN3FpZWhjNnUwSklvVmZlRGdEQmNFSlFVcldhXzJsbk1hUlNUMXY0Q0Fjajc0c1ZlQTY0a0FFdUlyRzg4UWQ3M1d5WjFMTjhzRWtlS2VxMnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 22:16:35 GMT",
-   "summary": "AI tech rout prompts US investors to rush into value stocks &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
    "title": "Anthropic's IPO bank closed position meant to stabilize stock, removing source of support",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVpRUnlwbWF4cmpjRkg1N1ZnRU9Dc1ZIRFFQU3pyMHNac0tJSXlINUg5YUdLRl9mMUEzQTRkZTdQWHJwRkhJbmYyWV9VYkt4dDVTSGRib3VzbVVENWd1WWllZkhzR2E5SGhrNm5xOUM1QzBfdFFqZlNvNmJDUHFNeU1IdnRMclVkRmdsNTRxTWVZY0hQYWJHN05EZ2xxZTFORDZ0V1g2eWZEWnBGRnVEVVNROURGMVFCTzkwbA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 20 Nov 2026 17:10:35 GMT",
@@ -420,18 +412,10 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Instant view: Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSi1oZG9URHdnSVhJWWs1THZ6b1JBVWJHODR5ZE5fajVzaS1zZGhfdGlfajJkTUpmeUduODNlNTN0bTFSUEZCZHROd1IzSF9DeWxKUmYyT0IyVTh6Zy1ab1ZXd1BfSjFQcC1paFhiS3NTM1NSQUlMNmhDa1pUNl9WMW9xM3NTTzI5aF95NXNaVnI2WXV6TlhxZ3h3WHh2NldhZzhvekxPb1dQczVXcXZYT2tkWjAxNS1uYmhF?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 21:30:13 GMT",
-   "summary": "Instant view: Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Anthropic retail traders face losses as shares dive 13% the day after debut",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnI5ZjRqcHhFQXkycDMySHZ1Tkl4V2RKdzNIcTlPdFhCMlJhZEkzX2RSZ0F0cjgteE9RX3JQejRRWHV6RnMtdXA3b3RKczRka0dxSEsyZU5SNFhUbTRZMU00NTVOdXE4RTI0OURfdE41aGIzc2N3ZnpsRFBxNkdsOUYzOGFnNEFGVkppNTVlTkR0OUstdU5jZWwyRUtOWGxVeEJBMWpiZ3FWRzVDdG8tUG1va3VWS2U0a3pWcg?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 18:16:23 GMT",
-   "summary": "Anthropic retail traders face losses as shares dive 13% the day after debut &nbsp;&nbsp; Reuters",
+   "title": "Bitcoin rises over 2% to more than $60,000",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWZDYjFjYnlkNnBXa2lSQ2loSllxdV9rb2JNdjlZRXRBdmZvUFpaUzJrenVyMWRMWVdKMDR3cTJUVUVjX3hfUmJYaklMUXA2aXlRUTlHTzhpTVR4QVZiQlhlZTMyZ0RGNzhZWFlPT0VFNXdVUTJIRENXd0ZmYXIwR3ZMT3ZKWVJk?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 21 Nov 2026 15:25:43 GMT",
+   "summary": "Bitcoin rises over 2% to more than $60,000 &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -444,6 +428,14 @@
   },
   {
    "source": "reuters-markets",
+   "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 10:20:00 GMT",
+   "summary": "Anthropic's post-debut stumble delivers reality check for AI trade &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
    "title": "COMMENTARY: Morning Bid: AI’s last stand?",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdG9oSTY3R1dNX0JDZnh6bm9jOVkzam5IT1JjS1paS3I5eFhMMk9aeFpEUmVESFZjNjRiWXJFQXRkU0U5VWk2aVoxQkVfTmpHQk1ZUGFVWm1YUTN1bzBKc0JCODFSUU9wWkExcmI2eUptcFlOUkZ0OU1qUzhuRWdRUVhsd3djRldUdzFfSW1lYlBJeUhFUWppaS1HM2lpdnRqWWUzUnFB?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 20 Nov 2026 12:04:50 GMT",
@@ -451,11 +443,27 @@
    "full_text": ""
   },
   {
+   "source": "reuters-markets",
+   "title": "Anthropic retail traders face losses as shares dive 13% the day after debut",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnI5ZjRqcHhFQXkycDMySHZ1Tkl4V2RKdzNIcTlPdFhCMlJhZEkzX2RSZ0F0cjgteE9RX3JQejRRWHV6RnMtdXA3b3RKczRka0dxSEsyZU5SNFhUbTRZMU00NTVOdXE4RTI0OURfdE41aGIzc2N3ZnpsRFBxNkdsOUYzOGFnNEFGVkppNTVlTkR0OUstdU5jZWwyRUtOWGxVeEJBMWpiZ3FWRzVDdG8tUG1va3VWS2U0a3pWcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 18:16:23 GMT",
+   "summary": "Anthropic retail traders face losses as shares dive 13% the day after debut &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "European shares post worst week in over a year as AI trade unravels",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTRUN3RabW5hOWVFMWhrajEweXFyWWRURWthSmRXYlVrTF9jcGJyRGFoQ0xyZzlpeXNBWkJqTU9UaDAySmluOU5FZkd5eTZ2R0pZT1dIODdaQktHX1BrVGlhVUZjVjhUb20zZnYyY19yTWNCdVppTmJTQmREaUktRXhJXzdkMGdCT0YtYlplSGxOR2NVb2xrRHdyWW44QlBHV0R3dk1kOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 17:43:39 GMT",
+   "summary": "European shares post worst week in over a year as AI trade unravels &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
    "source": "reuters-tech",
-   "title": "CrowdStrike in talks to acquire Zscaler, sources say",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelZkLVhGN0lQVWs3SVJrWU00RjF6LV9tUEUyaDlySnhaQ29EVW1mUWFBajFfMmpTckxRUHY3aUxDTHRYV3kxSm1zbDNUdTQ3UnFuRVVULVk1bXlOaDNRc3hrM3k4dDQ2OVBtTHRNR1dlSzQweG1Ya2RjTVNGNk0xLVlKTzBHQjRtTHhhQVBUeW5ZMm1YZ3lUWUNfbGUtNk0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 22:31:25 GMT",
-   "summary": "CrowdStrike in talks to acquire Zscaler, sources say &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 19:13:00 GMT",
+   "summary": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -468,10 +476,10 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Waymo recalls self-driving cars over closed freeway lanes, manual traffic control",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlhWdHBVZmpJb2tVT2NkNzBsSlE3V190NnozVjVsdTc3NGJhYlY1ZE4weXplUmVXYjF5c2VZeWFLTmtSa05TRlRwUTFXVDZrYmFOcHh2a1psQ19XeVlFeFZMR0ltdHNGS3dWcE5hR1otUmZGakdRblpwRENQdnB5MGllYmhFZElhYkU0YUxQYy1kemVxSDhJa2ZwNWs2NjlHRXVNTElhQnJYeEpoeGltZ2dhckZfLXBkNkUwMkc0ZWlla3QxWXRKQUN2SWlQZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 20:04:00 GMT",
-   "summary": "Waymo recalls self-driving cars over closed freeway lanes, manual traffic control &nbsp;&nbsp; Reuters",
+   "title": "GTA VI shatters records with $3.8 billion in first-day sales",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONUF6bm1SdVF6MDNJX3VvZXF3d0pzLVVoQXJxUTJEZ1ZqaGszRTNTOWNPaXRrOXhFcEhJeGJfT2V6dkVocUxyQVZaXzlQOXFtOVJZMER1WmxMbTN5VXFqMXJfbkhabFNtd1VTbnJ6dGVVSlJua2EwSGRYUHk5QmhtaXhaWV9NQWFSalhRZU5takkwWkNzeGV1TWpFRVBtWmJvbEFMLUhpZEJDRXl2Y3FveFZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 16:28:00 GMT",
+   "summary": "GTA VI shatters records with $3.8 billion in first-day sales &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -480,14 +488,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Fri, 20 Nov 2026 22:11:47 GMT",
    "summary": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "GTA VI shatters records with $3.8 billion in first-day sales",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONUF6bm1SdVF6MDNJX3VvZXF3d0pzLVVoQXJxUTJEZ1ZqaGszRTNTOWNPaXRrOXhFcEhJeGJfT2V6dkVocUxyQVZaXzlQOXFtOVJZMER1WmxMbTN5VXFqMXJfbkhabFNtd1VTbnJ6dGVVSlJua2EwSGRYUHk5QmhtaXhaWV9NQWFSalhRZU5takkwWkNzeGV1TWpFRVBtWmJvbEFMLUhpZEJDRXl2Y3FveFZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Thu, 19 Nov 2026 16:28:00 GMT",
-   "summary": "GTA VI shatters records with $3.8 billion in first-day sales &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -508,10 +508,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Trump says only older chips should be sold to China",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFEtNXdjeFdVNFdzb2gyY0R6cENORm5IRHNyNWY0RWVYcEY0SHRpQ2RTZEEzT0RnTnhWUVNHNV9qaVl0N1RjaExzcUtCdmFybmwzSUFKUG42T1ZLT19UTm1YbFdESzVtQWxQeHhaZWVBSXA3aGdSVDB4NTd6ZzdRS1NKbl80YVV4RlpiYXE3VVRFMXVvVktaQ2pwcDk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 18:40:12 GMT",
-   "summary": "Trump says only older chips should be sold to China &nbsp;&nbsp; Reuters",
+   "title": "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGVNM0xjMGtxNjE0aEFnRWU2QURJZy1TSzZGSkFXNVk0eTM0bkhOZWF4cXJjWGhyZEVfZjNuWjZxVVlqUWh5cDUzckE2QTdISldZeThRZG9sZTB3dzdIU1ZOX2RJV0FMQXJ4V2dKS0U3V0t1YWNpcXE4R2FuZVVRVFJaUUNnYmZkS1pQXzluQ25WaUROQ2NVQk5wNHpPa2NheXhUZFFiQ3o5cjNxcHFWUWRVS3FCNm1meTltX0xiMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Thu, 19 Nov 2026 01:46:00 GMT",
+   "summary": "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 08:00:00 GMT",
+   "summary": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
