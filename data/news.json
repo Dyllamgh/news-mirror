@@ -1,85 +1,141 @@
 {
- "generated_at": "2026-11-24T11:55:05Z",
- "count": 64,
+ "generated_at": "2026-11-24T21:49:54Z",
+ "count": 66,
  "items": [
+  {
+   "source": "nyt-world",
+   "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+   "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+   "published": "Tue, 24 Nov 2026 20:12:41 +0000",
+   "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+   "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+   "published": "Tue, 24 Nov 2026 19:18:15 +0000",
+   "summary": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+   "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+   "published": "Tue, 24 Nov 2026 11:55:30 +0000",
+   "summary": "Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+   "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+   "published": "Tue, 24 Nov 2026 12:34:52 +0000",
+   "summary": "Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-world",
+   "title": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+   "url": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
+   "published": "Tue, 24 Nov 2026 14:13:17 +0000",
+   "summary": "The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.",
+   "full_text": ""
+  },
   {
    "source": "nyt-world",
    "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
    "url": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
-   "published": "Tue, 24 Nov 2026 10:35:29 +0000",
+   "published": "Tue, 24 Nov 2026 10:35:30 +0000",
    "summary": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "An Arctic Way of Life Fades as Norway Closes Its Last Coal Mine",
-   "url": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
-   "published": "Tue, 24 Nov 2026 10:00:11 +0000",
-   "summary": "The mining history of Svalbard goes back over a century. But this icy archipelago is now a cruise ship destination and a geopolitical hot spot.",
+   "title": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
+   "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
+   "published": "Tue, 24 Nov 2026 16:31:07 +0000",
+   "summary": "The men were arrested near Anmer Hall, the couple’s country retreat in Norfolk, on Monday night.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
-   "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
-   "published": "Tue, 24 Nov 2026 09:08:32 +0000",
-   "summary": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
+   "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+   "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+   "published": "Tue, 24 Nov 2026 18:25:38 +0000",
+   "summary": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
-   "url": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
-   "published": "Tue, 24 Nov 2026 10:02:08 +0000",
-   "summary": "Six years after leaving the country, the Sussexes are back and arranging a careful program of public appearances. Will they complement the royal family, or compete with it?",
+   "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
+   "url": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
+   "published": "Tue, 24 Nov 2026 13:12:41 +0000",
+   "summary": "As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.",
    "full_text": ""
   },
   {
    "source": "nyt-world",
-   "title": "Pope Francis Diary Excerpts Published in New Book",
-   "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
-   "published": "Tue, 24 Nov 2026 06:00:05 +0000",
-   "summary": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
+   "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+   "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+   "published": "Tue, 24 Nov 2026 14:42:31 +0000",
+   "summary": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
-   "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-   "published": "Mon, 23 Nov 2026 18:54:42 +0000",
-   "summary": "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
+   "source": "nyt-business",
+   "title": "Putting Socially Conscious Investments in 401(k) Plans Could Get Harder",
+   "url": "https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html",
+   "published": "Tue, 24 Nov 2026 19:29:19 +0000",
+   "summary": "The Labor Department has, once again, proposed a rule that may discourage workplace retirement plans from adding investment options based on environmental and social considerations.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
-   "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
-   "published": "Mon, 23 Nov 2026 18:05:31 +0000",
-   "summary": "At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.",
+   "source": "nyt-business",
+   "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+   "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+   "published": "Tue, 24 Nov 2026 19:54:59 +0000",
+   "summary": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
-   "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
-   "published": "Mon, 23 Nov 2026 13:53:33 +0000",
-   "summary": "When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia.",
+   "source": "nyt-business",
+   "title": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
+   "url": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
+   "published": "Tue, 24 Nov 2026 21:18:42 +0000",
+   "summary": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-   "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-   "published": "Mon, 23 Nov 2026 19:19:23 +0000",
-   "summary": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
+   "source": "nyt-business",
+   "title": "Pressure Builds at American Airlines as It Lags Delta and United",
+   "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
+   "published": "Tue, 24 Nov 2026 18:06:24 +0000",
+   "summary": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits.",
    "full_text": ""
   },
   {
-   "source": "nyt-world",
-   "title": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
-   "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-   "published": "Mon, 23 Nov 2026 18:09:46 +0000",
-   "summary": "President Volodymyr Zelensky said that Ukrainian drones had sunk a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.",
+   "source": "nyt-business",
+   "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
+   "url": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
+   "published": "Tue, 24 Nov 2026 16:07:27 +0000",
+   "summary": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "How Huang’s Return Rewrote Corporate America’s Rules",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
+   "published": "Tue, 24 Nov 2026 19:36:06 +0000",
+   "summary": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-business",
+   "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+   "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+   "published": "Tue, 24 Nov 2026 21:12:53 +0000",
+   "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
    "full_text": ""
   },
   {
@@ -92,9 +148,9 @@
   },
   {
    "source": "nyt-business",
-   "title": "Top Aviation Officials Were Traveling When Flights Were Halted Nationwide",
+   "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
    "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
-   "published": "Tue, 24 Nov 2026 10:03:49 +0000",
+   "published": "Tue, 24 Nov 2026 14:10:03 +0000",
    "summary": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
    "full_text": ""
   },
@@ -107,91 +163,35 @@
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "More (and More) Black Friday Travel Deals",
-   "url": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
-   "published": "Tue, 24 Nov 2026 10:03:26 +0000",
-   "summary": "The bargains are plentiful this year, and they include deep discounts on resorts, cruises, safaris and more.",
+   "source": "nyt-technology",
+   "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+   "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+   "published": "Tue, 24 Nov 2026 20:34:13 +0000",
+   "summary": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
    "full_text": ""
   },
   {
-   "source": "nyt-business",
-   "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-   "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
-   "published": "Tue, 24 Nov 2026 10:03:11 +0000",
-   "summary": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Medicare Hospice Caps Leave Patients Without Care",
-   "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
-   "published": "Tue, 24 Nov 2026 10:02:48 +0000",
-   "summary": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
-   "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
-   "published": "Tue, 24 Nov 2026 10:00:20 +0000",
-   "summary": "Interest in crafting hobbies, like knitting or pottery, isn’t new, but several factors in the wake of the pandemic have also made them appealing. Here are some suggestions for hands-on retreats.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
-   "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
-   "published": "Tue, 24 Nov 2026 00:55:56 +0000",
-   "summary": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
-   "title": "Audra Fordin Fixes Cars, and Eases Women’s Fears",
-   "url": "https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html",
-   "published": "Mon, 23 Nov 2026 21:31:04 +0000",
-   "summary": "Audra Fordin recognized an undeniable need to make automobile education more accessible, and did something about it.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-business",
+   "source": "nyt-technology",
    "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
    "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
-   "published": "Mon, 23 Nov 2026 21:26:52 +0000",
+   "published": "Tue, 24 Nov 2026 15:40:13 +0000",
    "summary": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
    "full_text": ""
   },
   {
    "source": "nyt-technology",
-   "title": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang",
-   "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
-   "published": "Mon, 23 Nov 2026 23:41:29 +0000",
-   "summary": "The president set in motion a weekend of maneuvering, led by Vice President JD Vance, to help Jensen Huang get his old job back.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-   "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-   "published": "Tue, 24 Nov 2026 05:39:23 +0000",
-   "summary": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
-   "full_text": ""
-  },
-  {
-   "source": "nyt-technology",
-   "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
-   "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
-   "published": "Mon, 23 Nov 2026 16:13:32 +0000",
-   "summary": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
+   "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+   "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+   "published": "Tue, 24 Nov 2026 19:19:59 +0000",
+   "summary": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own.",
    "full_text": ""
   },
   {
    "source": "nyt-technology",
    "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
    "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
-   "published": "Tue, 24 Nov 2026 01:36:36 +0000",
-   "summary": "A court filing said the engineer captured meetings on customers, A.I. safety and a foreign government briefing. Federal prosecutors are investigating what he did with the recordings.",
+   "published": "Tue, 24 Nov 2026 21:09:25 +0000",
+   "summary": "Abdulrahman Alfozan, who has been jailed since October, will be freed on a $1 million bond. Prosecutors say he recorded dozens of meetings.",
    "full_text": ""
   },
   {
@@ -200,6 +200,14 @@
    "url": "https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
    "published": "Tue, 24 Nov 2026 01:33:12 +0000",
    "summary": "In a shocking turn, the chip-making giant reinstated its chief executive. We unpack how it happened — and what it means.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+   "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
+   "published": "Tue, 24 Nov 2026 00:55:56 +0000",
+   "summary": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies.",
    "full_text": ""
   },
   {
@@ -220,6 +228,14 @@
   },
   {
    "source": "nyt-technology",
+   "title": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang",
+   "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+   "published": "Mon, 23 Nov 2026 23:41:29 +0000",
+   "summary": "The president set in motion a weekend of maneuvering, led by Vice President JD Vance, to help Jensen Huang get his old job back.",
+   "full_text": ""
+  },
+  {
+   "source": "nyt-technology",
    "title": "Jensen Huang’s Return as Nvidia CEO Feels Like Déjà Vu in Silicon Valley",
    "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-ceo-return-silicon-valley.html",
    "published": "Mon, 23 Nov 2026 16:50:11 +0000",
@@ -228,10 +244,34 @@
   },
   {
    "source": "reuters-world",
+   "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 20:45:41 GMT",
+   "summary": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war' &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 07:53:00 GMT",
+   "summary": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
    "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 21 Nov 2026 03:08:01 GMT",
+   "published": "Fri, 20 Nov 2026 19:16:43 GMT",
    "summary": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 22 Nov 2026 14:25:00 GMT",
+   "summary": "Libya's eastern government suspects drone attack caused explosion on Russian ship &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,30 +300,6 @@
   },
   {
    "source": "reuters-world",
-   "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2xnMjNoRWZHTm9ZTmZneE9Cb1IyQ1JxN25MSU5Wcm5oVUFfU3NETHZ6aW9lcV9WZ3hfVHdEeXQwbFlXbWVRVjJPTVJSUGZjQXBQNDdyNXpOM291U0wyc0Q1S3d6bmdzLTVSTTRVVm9abmlnWDhoWkR4ay1kdVhWaThhWm9ITDI0ZUgzWWVBa1BVNU5WaElIRFN0MEVLa2laMlNidFBWbzc0Qy1Mc2E3ZHhfanhfVTByYWtUUmpoSm1adw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 21 Nov 2026 05:57:00 GMT",
-   "summary": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "Chess-Focus returns to the board as Gukesh defends world title against Sindarov",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTF80YldJeENuLU5lbG1RWktXdDdLVWhWaGZ4M3I4c2lVaEdjRHFWMGEyNF9EeTcyQXBLREU2enJFQ19rWkp5RWRETWlnOHNZaFNFTDUwZGNHaU45OTJ2WFBEemtYdTJNU0RPT0lfV0F4aGNGRmpETXNuQ0puTGU3MDcyUU9jS0wxM0RycVNhZlowWDgwaThZUHY0OHptMWFLaW84REhNbTdya09WSWE4d1hB?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 06:08:00 GMT",
-   "summary": "Chess-Focus returns to the board as Gukesh defends world title against Sindarov &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
-   "title": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 24 Nov 2026 02:56:00 GMT",
-   "summary": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-world",
    "title": "PODCAST: COP31 collapse, 'El Chapo Isidro' arrest and South Korea's AI cheating scandal",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2ctWDVuSkdRVXo4MkdXVWtCNXcwYXlFeGp2cUZCMmItdHJjenA4VDlRcnBJRHdrZjNuREh1cHd3Y1JESURBaTkwci05NHV4bmhtd2U3TWkwR2JKT2JfQ3I4TXFCRDFjSTZXaWs1STRmOE16SFpKYnlrQnpIbmJJdmwwSndDa25EU2RNMlI1WnYwR3R2a25HUUhvQm8wbndzNVlxMGdaMlFDNjBEWklKY3EwN2twZw?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 22 Nov 2026 14:55:00 GMT",
@@ -300,10 +316,34 @@
   },
   {
    "source": "reuters-world",
-   "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 13 Nov 2026 08:00:00 GMT",
-   "summary": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents &nbsp;&nbsp; Reuters",
+   "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2xnMjNoRWZHTm9ZTmZneE9Cb1IyQ1JxN25MSU5Wcm5oVUFfU3NETHZ6aW9lcV9WZ3hfVHdEeXQwbFlXbWVRVjJPTVJSUGZjQXBQNDdyNXpOM291U0wyc0Q1S3d6bmdzLTVSTTRVVm9abmlnWDhoWkR4ay1kdVhWaThhWm9ITDI0ZUgzWWVBa1BVNU5WaElIRFN0MEVLa2laMlNidFBWbzc0Qy1Mc2E3ZHhfanhfVTByYWtUUmpoSm1adw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 21 Nov 2026 05:57:00 GMT",
+   "summary": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 20:53:41 GMT",
+   "summary": "China's Huawei convicted in sprawling US criminal trial over Iran business &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Medtronic misses quarterly revenue estimates after diabetes business spinoff",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTdJMTVmekw4SkV5cXlGbzZkblkzRXZ0Z1lQTEtlVXp1elFnRFJlT25Na1B5a295SHhXV1F5cE50dkdxS3NjWkVFc3VwdXFJSXh3XzNmWGZwUnBWaWVfV3phVGFCNEF0ZUNnbmFIcWNWWVZoR2tSWE1yZWt4U3hEWHBoeTdlMjM4WXJnbjk1TnR2NEQ4bFpUbnhyaTJLR2ROQmJhY0xxbG4tQU1lcVVTdU5XeFF2N00wRy1qWElvRkZNS2NHWnRkNXcxcGtwWkZNSlV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 14:35:57 GMT",
+   "summary": "Medtronic misses quarterly revenue estimates after diabetes business spinoff &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "What we know about Megaspeed, the Nvidia customer blacklisted by US",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWVhaTZ1VE1DODl2cm9KdXRyTWgwV1Q4cjRsSzRhOG1wU3FjLUtKajNVN2NIV1VqNU9OS0tTMkF1T1NTTFRiTEtIT1V6aXMzbDctRnR5X3ZTbVFRdEQ5NGE2ZnlOa0c4YjhzN3pRbUJzQTlUZDZwRE5SNlhOSjVzY1UxaXlZWTRDNm1RNmFHLXhZOU40Tm9UcnBKdnVfcnJTemFhT21EOEE1Y3dtNkR3VmZxV0VHTHhGSWVpYlNoSk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 12:01:13 GMT",
+   "summary": "What we know about Megaspeed, the Nvidia customer blacklisted by US &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -316,6 +356,22 @@
   },
   {
    "source": "reuters-business",
+   "title": "Coffin-carrying Volkswagen workers threaten strikes after first wage talks",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjVsMkV1WGhCc3BLVnRDb3B4TXluZ0JIT2JJOGxlZnhlY0xDbURXVDJuWVdQc3JKb2tJMmxlWWhwOFUyQ21vb21JTDVnZ2FSN2ZIOHN4WmpGSlI5akUzWHhBNF9YREw2OW92dUw4UEswejB5bXo1Qm53LVd4bW5tOXpUUU1HZVlIbmUxWXlROENHX3VwcWF1YXVWMktvc2NaXy1xQ3Fza1NCV2NaZlJzdU5WR2Izdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 05:32:00 GMT",
+   "summary": "Coffin-carrying Volkswagen workers threaten strikes after first wage talks &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Bangladesh garment workers clash with police as pay protests shut factories",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSk9tZVJkeVE3S3BJa0RXYlBQTWl5b3hndUYzNTUtSHRKUjUwTmI0dGN2clF6MUFRNms5djczY1FYeWhBWk41WW1jZFp1Z214ZlIwb1hzNUg0Tzh1N3ZiTUdnNXdDUWtBeW1sSlI5d2lMMThSb05RNkhUaWUyVWVOVWJDWUI0eUNSZmNPTWNidG8zWVV1bGRBWWZfWEVlRWdrU1dpLTBDTTdscVVkOUdJcmVCNmFtUG9TZHBXYnpxdHFiMmlZeElydmxNMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 11:54:23 GMT",
+   "summary": "Bangladesh garment workers clash with police as pay protests shut factories &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
    "title": "Big Tech could face billions of dollars in fines under Australian internet safety bill",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORG5QdGdxRm1nOGVuczhoUXJVbnYwakY5NUxEVEVSbzhaRUtYdGx0X25LeGhQbVE0X05XeHI3OUNkZTJDWjA5aTRHN0FSSGRQZllJUjJ1Qm1wWkI4REhSbFhDUnZXRmc3UjBpWng0aExBX1JWSGJlNlNZNUwteFFEY0daYnA5LUJEa1JlakpkcUNBUDlyRTRuSnFpZ3dzU05lMV8xNHQ4YnpUODMxbHFBWXpRLW9jZk9v?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 24 Nov 2026 02:24:00 GMT",
@@ -324,10 +380,10 @@
   },
   {
    "source": "reuters-business",
-   "title": "AI tools help brands curb Black Friday deals, from clothes to skincare",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalEtTjcxRkpZeXFjX1k3Zkd2YXV6RE5IMGtGblV4ZzM0cURnSXdFcVFHcG9vRVBXaUdsRllSQnU5LWVCNW9MU3k3VDFUSjFBQXJkd3FvZjZMSll5MUtVX1F1RUc4SGpVR2c0X01oeXRXaGJmWUc4MXVMWFR4cUMwSWpNNGFyQ0xxaldmakNfR1BIaXV1X1NLZkNDNGtrZmx6WlpMcUJ3UjF0bVhZSFZlWDlUSFV0OVYxcS1NbTVKYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 11:39:49 GMT",
-   "summary": "AI tools help brands curb Black Friday deals, from clothes to skincare &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Blackstone, Warburg Pincus, Apollo in talks to back GTCR's $50 billion Global Payments deal, sources say",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSXNDTlRtNHJfMUNUdUFuQ2xzOXF0MlBuS19YR3JGZ0F6UTRUTU1BTU42WFdVT0FaTzUzUWFjUl9LT3JDOGMzdENrVVV6RUVCMUViQjFTSGNsc19NNTU5amx3VGZsUWtsMTdJU3JzcWFrT0ozUEJMRGZWUHdSZEdRSjNZdGdaaWlDMklRRlJHMVFaUzhrV3VQelc4dEZZbUFHOEhDaFphcjViOEg1NEtrU3M2OVd1Z1N4Z19GMmxScXNpVm51WmhxeDZBbjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 18:57:02 GMT",
+   "summary": "EXCLUSIVE: Blackstone, Warburg Pincus, Apollo in talks to back GTCR's $50 billion Global Payments deal, sources say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,74 +396,34 @@
   },
   {
    "source": "reuters-business",
-   "title": "Japan's factory activity expands in November, PMI shows",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEkxVkdVSHNaOWJkdmd2UjVQQUk3QjVHbkVSZTNUU25ieGJHUWIweUM3MTlRbnlpSzg5V2pPOE9LN29rWl9ONUFlWHBZMV92dzNHSWFEbkZQb3EwUVZiQjctZ2dzQkpSbkR1UklOZGx4MXVzRW9DeXB0N08ybmNMTWtWYXhTWjdQNE5iNGlBZ3ZQbU5LbEdkUF9Wdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 24 Nov 2026 00:35:00 GMT",
-   "summary": "Japan's factory activity expands in November, PMI shows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Compass to move main listing to New York in latest blow to London market",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU0lnckpMWkF5N0J6SzlIbkM0VkkxaWVRS3BnZEloOU1EUXpnNHdnVTJ1NTJxSS1SS243Vy1xUU41UldBWjRJd2VJUmd1T3NjbFc1VlFGT2dua1Y4NkNXUW9zTUdmQTYtT1R1VllLQWZkeEN0dmwzdXE5NFFSNWVmNURtWXZOTlVvZVpxTmZLOTRvdlowYUJSWF9yNnNqVnk5dVpNYWl2bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 24 Nov 2026 07:07:00 GMT",
-   "summary": "Compass to move main listing to New York in latest blow to London market &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Euro zone growth holds steady but France's deepening downturn clouds outlook, PMI shows",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOEhfNVZTQlltZUg0ejVieWVmYU9HcnlPVVYzZGFiUnRLS0pTa1V1WC13RHVwWEI5MWsxNWN6Ti0wcWhhczJQN0Z5bTlnazdzd013Sm16Ulk5MnpheVJkNlI5anF5SE5Jb1ZwazJfVEVGU2pMZjNjbkNWUXR3ME1ZdTBuZHowWmRDd01sZWdNQmVSRVAwbHJSbEtPcE5FY0V0SDhoUC13UDRFRmFJLTgtOTEzbGFObElkTVkyVWsyYkdEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 10:56:06 GMT",
-   "summary": "Euro zone growth holds steady but France's deepening downturn clouds outlook, PMI shows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmRybDRhZzhaRkRlSHZUdWxTZVRPUEU1NDJfRFBwX3ItMDZsb0pSZWdFMlgwbDhzclBlaWwyTndXYUQxS0JrZFd5SjlNWC05YWYtYWZhREFHNE5VLXFEOGx3SkY5bWNrMWlYbVhEVklQN3YzMnZSNmVtcmNqdzlSQ21vZW1yWU4xN1UySDE1SHNCUXZfekUyQlRMQUFGMlBSWk5Hc0JFTjlsZGN6NS14M2E2eXk4a2tPUjZGd2Y4a09SX212UUlNY2lkVG1XQXZUMmhOMHRZMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 09:10:32 GMT",
-   "summary": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "GE Aerospace defense unit chief Amy Gowder to step down",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDAyMW1zbDI4NEJYeG54ZHNtSjFnV2lEY1E4RDdBSFUxenFmTVlRMm5FQkh1UXNXVTVXWVdmRGJiWk9YNklOWnJid05GeUdZWFBjbjRkejZHN2xGdTROS2lmQkFiM2tUaFpNdGFVYUo1akF6c1lTbFhzblBrRm1iZGtrMDZBS2RUZFV6Rlg1bnBPcjJNOXF0RzdoSVNsc05OanMwUExtLTliVEtEWHF0cUhSSFJ5a0RLV0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 22:17:44 GMT",
-   "summary": "GE Aerospace defense unit chief Amy Gowder to step down &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "US business activity growth eases further in November, survey shows",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2c1R0dOUWNCM3E3aUo2eHluWXZNTXNsWGg0ajRGVkRFeWhHSXpHb0JSX0NvWEE4amt1V0x4d0JnMl8yN1dlc2RQNnBPWnpKYW12Rll0ZnpiTUFrUjRFb0U1OUQxLTk2b3dxR1dQWVJiSVpvM2x2Q0d1UDdIZUdhUkJBejRKLU9ZdmJDREpqRGphQllNQ1E3NnYwVnhBeGx3dFFDbmRzS0VkNlF5?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 15:30:44 GMT",
-   "summary": "US business activity growth eases further in November, survey shows &nbsp;&nbsp; Reuters",
+   "title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUZzM0tBSzRyTkV6ZEQ0a21iaXQweDdPV1p2SW03amU0RVlEZ215OEstR1V3ZkhwR0xRTzVIcVRJdTFVQmxoYURsXzJhSnNxb0JCUjF4RW9aQnMwaTFBS0p4cVAzZS1xbW1tRkxWNFlqWmN6VTdzQXh2MnBLMV9YbUcxcy12NWFVSl84Z1JRUWlSTVF2TFF1TS05c3cwY2dMcGMwTzd1eGdSUFNnQXB6S3REZnRoMGVPdkVJQ3VCMWJORlo0SVVDeU9MdGdPYld3S2tN?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 19:45:46 GMT",
+   "summary": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "US futures, European stocks slip as Nvidia rally cools",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 24 Nov 2026 01:29:00 GMT",
-   "summary": "US futures, European stocks slip as Nvidia rally cools &nbsp;&nbsp; Reuters",
+   "title": "Nvidia's Huang said he violated code of conduct, source says",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOREIyb09ET2cwa3ZHekpYQnpBWFo5YlBseEduVVpKTUJsM3UzWXhCVHk2SFlNempwczc3NFpjWWtsLTBuQzkwX01DSWowcUFhaVVxOVZrNEh1YXJLcHJwenRhc3VyQWVkSW1zRll3NXRKTWhlTnhwZ1Y3RXhaNl9wakY0OGNid0x4RkdjNThHSGZMdVVVYTgxV2xZZDR5NVZzNXk3RXczTU1RUThya1JrRFV5Wnp3a3V3bzVDaWljbnlWN20t?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 20:01:18 GMT",
+   "summary": "Nvidia's Huang said he violated code of conduct, source says &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "MSCI denies softer stance on Indonesia's market status, review ongoing",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTTJUZ0F2WXl0N0pfQ1RMYlVSTURkS3UxeHVudGRQb25nZUF5dmdvU2ZvNWZOM3dGSnlCajRIM2tOT051UnF2ekZGT2JqQU1Ta0pwbS1vVF9tQ2V5REpkbm81RndwQmJJb3FWeGcyeEFqVmhYQVhJaE9TcjlnUUJQb0dXS2E4YWRaR2p2RlE0NEdzWkp6UVdLU29BM2ZiY0xOS3g5UFFzMDBpMVI4V2pHaFBqZC1OZVFv?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 24 Nov 2026 03:51:00 GMT",
-   "summary": "MSCI denies softer stance on Indonesia's market status, review ongoing &nbsp;&nbsp; Reuters",
+   "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 16:59:06 GMT",
+   "summary": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Analysts comment on market impact of Huang's return as Nvidia CEO",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2ItQmQwVDh3N0RBcExzLXhjZTd2NkpzcXRYZS1pUVJLRzU4dXpNTW9mYkZReWpPTUxLR3VWZ1h5QjJSWUtaZlJjLXkteGxvQzdpTW1uNE5wbi1PekdNb3V3cFIxb3ViMDZxSlRTb05mcUZCV29PbWwtaWstR1BIZzBsX3hHYWhoc2VHSTd2Z3lJYnlueThLY3lFVmtVeEpfUEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 24 Nov 2026 02:33:00 GMT",
-   "summary": "Analysts comment on market impact of Huang's return as Nvidia CEO &nbsp;&nbsp; Reuters",
+   "title": "Nasdaq, S&P 500 end lower following Monday's Nvidia-fueled rally",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 21:01:03 GMT",
+   "summary": "Nasdaq, S&amp;P 500 end lower following Monday's Nvidia-fueled rally &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -420,74 +436,74 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Oil touches three-month lows as rising supply offsets Hormuz threat",
+   "title": "MSCI denies softer stance on Indonesia's market status, review ongoing",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTTJUZ0F2WXl0N0pfQ1RMYlVSTURkS3UxeHVudGRQb25nZUF5dmdvU2ZvNWZOM3dGSnlCajRIM2tOT051UnF2ekZGT2JqQU1Ta0pwbS1vVF9tQ2V5REpkbm81RndwQmJJb3FWeGcyeEFqVmhYQVhJaE9TcjlnUUJQb0dXS2E4YWRaR2p2RlE0NEdzWkp6UVdLU29BM2ZiY0xOS3g5UFFzMDBpMVI4V2pHaFBqZC1OZVFv?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 03:51:00 GMT",
+   "summary": "MSCI denies softer stance on Indonesia's market status, review ongoing &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "US stocks slide as Nvidia rally fizzles out, dollar falls",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 01:29:00 GMT",
+   "summary": "US stocks slide as Nvidia rally fizzles out, dollar falls &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Possible Tesla merger could aid SpaceX's S&P 500 entry, ⁠J.P. Morgan says",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeF9US0dlUFQ3RDhYOXdRbUlzYkJOQlhGdWdVTm02VjVUbkVlRFIxb0F5RFZNTEZTRndBcXcxWGtYa2lfTTAtTjJSN1MwSFRSYXdDSGJuM3RRSnlDTVZwVk1nNTJmeDdKUEp1VDd4enBsR2FTcG5uR3g1Z3lYLWdickFodnd5Q1pVejM1OTJ5cE5oZDBWdUE4c2F0bktTVlRNY185LThMaENJVWNpbG1IUERZbnJCMER2R2p0NQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 17:45:22 GMT",
+   "summary": "Possible Tesla merger could aid SpaceX's S&amp;P 500 entry, ⁠J.P. Morgan says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Oil settles up $2 as traders weigh continued Hormuz ship attacks",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 24 Nov 2026 02:56:00 GMT",
-   "summary": "Oil touches three-month lows as rising supply offsets Hormuz threat &nbsp;&nbsp; Reuters",
+   "summary": "Oil settles up $2 as traders weigh continued Hormuz ship attacks &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Gold slips with spotlight on US inflation data",
+   "title": "Gold falls 2% on hawkish Fed bets, US inflation data in focus",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Tue, 24 Nov 2026 00:57:00 GMT",
-   "summary": "Gold slips with spotlight on US inflation data &nbsp;&nbsp; Reuters",
+   "summary": "Gold falls 2% on hawkish Fed bets, US inflation data in focus &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Dollar gains as renewed AI euphoria fuels Fed hike bets",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWk01SnRnY1hzWHBOdlQ5eGdldmlIQkd5QUM4SFJ5S3Z5YWtVQnlYWVp3LXlqajM1QTA5UTBBSFNrOFdjVGdWME54WUJYdFRGUXJDYlVmUDFETjlITTZtYkFiWW9IcU9sVTM0R0otbjlmMXNCdC1HSEVNOXJMaDlIMC1YUnFBUDZNMXh6RlRwMVM5MDFRTy1YQXc3U21zYU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 24 Nov 2026 01:14:00 GMT",
-   "summary": "Dollar gains as renewed AI euphoria fuels Fed hike bets &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: TRADING DAY Market euphoria as Huang returns to Nvidia",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWxfZ0U4bk9qMWhWTEFrVXUxWTdneGlOaDJaQ0lya0JPMFkxbmZEbW91Q0xTSjFQS3lpWmpuVC0yMTc3TlZIdURWSmQzcTBxY1BhOTYtUDFKSXhZMHZ6QUxwOU9aaHhOUDF5NzFEOUpvVWtjcVgyLVpkMDU3Wm1fZ2JHVzBENm9OVEdPWVg1Zi1tNDVOOU1WaFZFMWJvSjBoWFZkOEF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 22:07:16 GMT",
-   "summary": "COMMENTARY: TRADING DAY Market euphoria as Huang returns to Nvidia &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Europe's earnings boom challenges Wall Street, but may prove fleeting",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelplRGFFX0pZWWEyR0VCN29QUHQtd1A5Q1N2R3lHa3plVDFYeDV1eXBCc0dCaktPMW50cDFJcjlvb0FId0YxOUVXS0pEQ1VxR0d1ckVFYXpPWldmU0trNjhFcldleExhcktDbVZ3YWdFY1I1Zjd4VlF1T3dHQVRNM2FNT0xITHFNSnBCTDUxdDNpQTNHeTNYeDJXQlZjZm04S0habjhuNnJEQXNOQkE2dEdoVkI4Nlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 24 Nov 2026 06:09:00 GMT",
-   "summary": "Europe's earnings boom challenges Wall Street, but may prove fleeting &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-markets",
-   "title": "Anthropic options post solid debut, trailing SpaceX record",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 16:24:00 GMT",
-   "summary": "Anthropic options post solid debut, trailing SpaceX record &nbsp;&nbsp; Reuters",
+   "title": "Analysts comment on market impact of Huang's return as Nvidia CEO",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2ItQmQwVDh3N0RBcExzLXhjZTd2NkpzcXRYZS1pUVJLRzU4dXpNTW9mYkZReWpPTUxLR3VWZ1h5QjJSWUtaZlJjLXkteGxvQzdpTW1uNE5wbi1PekdNb3V3cFIxb3ViMDZxSlRTb05mcUZCV29PbWwtaWstR1BIZzBsX3hHYWhoc2VHSTd2Z3lJYnlueThLY3lFVmtVeEpfUEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 02:33:00 GMT",
+   "summary": "Analysts comment on market impact of Huang's return as Nvidia CEO &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3FSU3Z2eG9hMGxOaUJ3VkptMG9CbEx0cHhoQzZ6RC1uRXV0OWtRa3k1VzYtQkhMRUVBVzE5QlAwSktWS1IzN2o3SFRWalVsQ1UzMkNkYXM0TEdJUzhYMTU2VjNtdVkyWTBpRGVlbUMxREdoS1ZmeUUwbElCcF9CSmxHVDBhdVJNM3FfOGVNU1YwUEpwLUw0MXVBUUdKbDF5VjFHVHY5c0FGcFNxWGZCbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Tue, 24 Nov 2026 02:27:00 GMT",
-   "summary": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting &nbsp;&nbsp; Reuters",
+   "title": "EXCLUSIVE: Microsoft declares 'Code Red' after historic outage, internal memos show",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWlZRm9kdXdaMDkwUWdXZVZPM2NTakFfZTFDa3Iwcm5yNXh4enZZVWRpWjBuc2ZpVERzOElVc0h5NjY4eXZnb0w5YUZ4Wm1nRmUwd04xQmNKZDQxOFlQWk12N0FCd3hSQTVLVFFWZmJKbm01S0pCM1AwRXVRZklpdWJfdkJ1N0FDdS1EZGNqTzd4WjZoUy1qZ1QwNktXdUlMWlBDYW9jYlozNEVDV01DSGZlVVc?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 16:57:17 GMT",
+   "summary": "EXCLUSIVE: Microsoft declares 'Code Red' after historic outage, internal memos show &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Political and corporate leaders react to Huang's return as Nvidia CEO",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnlVTjVfX19obXNnQmFYcHJyY1VpcHZSOHh1aFJOTHh0eVBZVl9KOG9sWk5TZUlqWVMxSTdMUWVVa1BFeGhhSkZzNXJLSUUtajdRT2xadGhCMG1xOFI3UG9zS0tmbXRhdk05dGU0OEJRcnZ1eVZjWWpmcXNyOTM3ZTk1WVRQNENBMjhzMnpWczQySlJMRmFqc3pDanEtNzNuNllqb1d3?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 20:52:01 GMT",
-   "summary": "Political and corporate leaders react to Huang's return as Nvidia CEO &nbsp;&nbsp; Reuters",
+   "title": "Xiaomi profit falls as China auto downturn weighs, eyes Europe car market",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTdNQlhOOXJOaGNReUtEVmRIekJ3cG5hbzJhbUM5SFVlc2M0SUIwMDA1eU81NHBQN0x3MEZEd0VyNnR3Y2NWTVBueTBZTHUzNDNRZlJsQy03RG5tdkFybi13cGt6OFdfZG91a1UzT0Nabnk1dHN0emdfZUhCWE51WHBORFJJRWgyQlNFbUtUNkluRU9qdlprNjJXRlZkVFBD?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 12:34:18 GMT",
+   "summary": "Xiaomi profit falls as China auto downturn weighs, eyes Europe car market &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 13:59:00 GMT",
-   "summary": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal &nbsp;&nbsp; Reuters",
+   "title": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGhGRUlVZHA1MXVNbkVDQUZjN3U0aDR4NHRYNlR3cG1ValF0OUNQbU5wWjNrMnBMOWFVN195eUVNaVhiNy14b3YtSVdFWHpRYl9ZQTNmOFE2ZUdjaEtDRUNva1UxeHJFSVJfSWhHU2hJUHFrNUNWekRGSzBqbU1kRFVxQk52bDVGRUVEUGEtR0MyMDRGM0dacjdmNDNEMEFDaGNTMTVlU2JfUEVrTGVCYkJkb0otSVpyd2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 08:33:57 GMT",
+   "summary": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -500,18 +516,18 @@
   },
   {
    "source": "reuters-tech",
-   "title": "Amazon to buy Decart's AI chip optimization tech in latest AI talent grab",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORW5Dd2o3Ty1RU2Rmbl9tMi1pcS1DUTlFY0x0c1d5czk4R2Z0YXZObUJyRkFTYk1yMlhyYk5YUGIwOFg0dUotVGR1cU15VjhOVVNzYmVxQlVQN1hPeDBPOHdGZ1FjS21BRVdWYkF5azRKdzBWLVh2WnV4YWp5dlFtRFpPSHdZNkx4V2syeHpOOXV0RHBSUnFjRkZEc3RHR2gtUFZuNVVPWm9YOW84VmM5dnpXMGt6OHpNalpiTlBpM1ZIcE1JSlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 16:53:04 GMT",
-   "summary": "Amazon to buy Decart's AI chip optimization tech in latest AI talent grab &nbsp;&nbsp; Reuters",
+   "title": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3FSU3Z2eG9hMGxOaUJ3VkptMG9CbEx0cHhoQzZ6RC1uRXV0OWtRa3k1VzYtQkhMRUVBVzE5QlAwSktWS1IzN2o3SFRWalVsQ1UzMkNkYXM0TEdJUzhYMTU2VjNtdVkyWTBpRGVlbUMxREdoS1ZmeUUwbElCcF9CSmxHVDBhdVJNM3FfOGVNU1YwUEpwLUw0MXVBUUdKbDF5VjFHVHY5c0FGcFNxWGZCbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Tue, 24 Nov 2026 02:27:00 GMT",
+   "summary": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-tech",
-   "title": "Alice Huang in touch with Chinese spy agency during affair with Nvidia CEO, NYT says",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1pvWmhMSm1MRktDOXJhZWNCdTJIZ25WejNRVExzUHhPeGhEeklEZW54T3NVZTJYbjJEa3Bmcm0xV3B2aVZnTE5oYm9MNEVYQXBzZmZYQXV4SmNWa3ZrVXVqczFEV0JqaXNoRERwTlZaNk1YSXo3TGlQNWRVekh5dC1XTmVhYU5SYVRUbjNnbmszTm5PRTdCeVEyMmFweGE1NTRHSmcyRXlrUnBGNk5aWXZyTkdvSmgwaWRvdks2bGIzejlMY0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 01:54:00 GMT",
-   "summary": "Alice Huang in touch with Chinese spy agency during affair with Nvidia CEO, NYT says &nbsp;&nbsp; Reuters",
+   "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 13:59:00 GMT",
+   "summary": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
