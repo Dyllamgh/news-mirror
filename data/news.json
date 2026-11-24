@@ -1,14 +1,22 @@
 {
- "generated_at": "2026-11-23T14:02:44Z",
- "count": 59,
+ "generated_at": "2026-11-24T01:34:54Z",
+ "count": 64,
  "items": [
   {
    "source": "nyt-world",
    "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
    "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-   "published": "Mon, 23 Nov 2026 11:33:01 +0000",
-   "summary": "The Israeli prime minister, Benjamin Netanyahu calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "published": "Mon, 23 Nov 2026 18:54:41 +0000",
+   "summary": "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+  },
+  {
+   "source": "nyt-world",
+   "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
+   "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
+   "published": "Mon, 23 Nov 2026 18:05:31 +0000",
+   "summary": "At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
    "source": "nyt-world",
@@ -20,19 +28,27 @@
   },
   {
    "source": "nyt-world",
-   "title": "Ukrainian Attack Off Coast of Libya Shows Reach of Kyiv’s Naval Drones",
+   "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+   "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+   "published": "Mon, 23 Nov 2026 19:19:23 +0000",
+   "summary": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+  },
+  {
+   "source": "nyt-world",
+   "title": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
    "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-   "published": "Mon, 23 Nov 2026 12:33:09 +0000",
-   "summary": "President Volodymyr Zelensky said that Ukrainian drones sank a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.",
+   "published": "Mon, 23 Nov 2026 18:09:45 +0000",
+   "summary": "President Volodymyr Zelensky said that Ukrainian drones had sunk a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.",
    "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
    "source": "nyt-world",
-   "title": "Dozens Unaccounted for After Fire Rips Through Candy Factory in Indonesia",
+   "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
    "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
-   "published": "Mon, 23 Nov 2026 12:24:57 +0000",
+   "published": "Tue, 24 Nov 2026 00:35:20 +0000",
    "summary": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
    "source": "nyt-world",
@@ -67,26 +83,74 @@
    "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
-   "source": "nyt-world",
-   "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
-   "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
-   "published": "Sun, 22 Nov 2026 01:56:16 +0000",
-   "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "nyt-business",
+   "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+   "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
+   "published": "Tue, 24 Nov 2026 00:55:56 +0000",
+   "summary": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies.",
+   "full_text": "Title: Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns - The New York Times\n\nURL Source: https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html\n\nPublished Time: Tue, 24 Nov 2026 01:03:58 GMT\n\nMarkdown Content:\nBy his own account, President Trump was watching the stock market slide and decided to stop it. He would take it upon himself to determine who should lead one of the nation’s largest companies. Never mind national security concerns, never mind the autonomy of the private sector. Mr. Trump would decide.\n\nThe president’s extraordinary intervention resulted in [Jensen Huang’s reinstatement](https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html) as chief executive of Nvidia on Monday, just 11 days after he was forced out amid a Chinese espionage scandal. Mr. Trump then got the result he sought. Sagging stock markets [shot back up](https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html), restoring nearly $1 trillion in value alone to investors of Nvidia, who [happen to include himself](https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html).\n\nEverything about Mr. Trump’s handling of the scandal behind Mr. Huang’s fall and swift rise again has been astonishing: The president’s denial that he knew about Mr. Huang’s affair with an alleged Chinese intelligence asset even though reports indicate [he was informed](https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html) at least twice. His [shoulder-shrugging nonchalance](https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html) about one of his tech lord donors in bed with an asset for a hostile power. And now his decision to bolster the wealth of investors over the warnings of his own intelligence agencies.\n\n“I’m doing it for the country,” Mr. Trump [told CNBC](https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html) on Monday morning shortly after Nvidia’s board bowed to his wishes. He explained that he had seen the markets collectively lose trillions of dollars in recent days, driven in part by the Huang scandal. “I watched that and, you know, I better get involved. If I didn’t get involved, you’d probably have a very sad Nvidia for a long time to come.”\n\nImage\n\nMr. Trump has become personally acquainted with Mr. Huang and considers him an ally.Credit...Demetrius Freeman for The New York Times\n\nThe seeming trade of long-term national security concerns for a short-term stock rally sent shock waves through Washington, Wall Street and Silicon Valley. Even fellow Republicans, already unsettled by the Nvidia scandal, [expressed consternation](https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html) at the lack of accountability demonstrated by Mr. Huang’s quick return to the executive suite. Lawmakers in both parties cried foul and vowed to investigate.\n\n“There is something profoundly wrong about Jensen Huang having a relationship with a Chinese Communist Spy and helping China get a huge number of very advanced computer chips when that was specifically against the policy of the United States Government and now he is being reinstated as ceo of the most advanced chip making company in the world,” former Speaker Newt Gingrich, a strong Trump ally, [wrote online](https://x.com/newtgingrich/status/2124893943636590926).\n\nSenator Jack Reed, Democrat of Rhode Island and a member of the Senate Banking Committee that is scheduled to hear testimony from Mr. Huang on Dec. 3, said Congress should examine Mr. Trump’s communications with both Mr. Huang and the Nvidia board to determine what he assured or promised them.\n\n“The administration’s top priority should be safeguarding our national security and ensuring America’s most powerful technologies serve the American people, not our adversaries,” Mr. Reed said in a statement. The economy, he added, depends on rule of law and fair dealing. “President Trump’s improper interventions damage these principles and must be investigated.”\n\nAs if Mr. Trump’s actions were not unusual enough, his public celebration of his successful arm-twisting only exacerbated the furor. Shortly after Nvidia restored Mr. Huang, Mr. Trump posted [a bizarre image on social media](https://truthsocial.com/@realDonaldTrump/posts/117666713950631493) portraying the once-and-future corporate chief executive as a martyr.\n\nThe image appeared to be an A.I. composite based on the famous photo of Mr. Trump after he survived an attempted assassination at a 2024 rally in Butler, Pa., surrounded by Secret Service agents, blood on his face, pumping his fist in the air. In the version that the president shared online, Mr. Huang was at the center of the frame, with blood on his face, holding up a red bra. Behind him waved a flag that said “Nvidia.”\n\nThe surreal post seemed to sum up Mr. Trump’s often flippant, from-the-gut, anything-goes approach to the presidency, in which his whims become official policy. With the image, he managed to mock both the seriousness of political violence and a major espionage operation all at once — flicking both off with a reference to women’s undergarments, as if it were a sexual conquest.\n\nImage\n\nMr. Trump presenting Mr. Huang with a National Medal of Science in Washington last month. The president has written on social media that Mr. Huang was “a Great Patriot and National Treasure.”Credit...Demetrius Freeman for The New York Times\n\n“You know, sex was involved, and sex sells better than stocks,” Mr. Trump [told The New York Times](https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html) on Monday morning.\n\nAs he has several times in recent days, Mr. Trump simply rejected the conclusions of his own U.S. intelligence agencies that the businesswoman involved with Mr. Huang was conducting espionage for China.\n\n“Every time you have a Chinese woman that’s good looking or beautiful, they say she’s a spy,” he told CNBC. But, he added, “with Jensen, I don’t believe that’s true.”\n\nWhether Mr. Trump believes something is true matters more than contrary facts or investigations. His disregard of intelligence about Chinese interference in American affairs echoes his disregard of the intelligence about Russian interference in American affairs back in his first term. At C.I.A. headquarters in Langley, few have forgotten Mr. Trump’s [meeting in Helsinki](https://www.nytimes.com/2018/07/16/world/europe/trump-putin-election-intelligence.html) with President Vladimir V. Putin of Russia in 2018, when the U.S. president took the word of his Russian counterpart over that of his own intelligence agencies about Moscow’s meddling in the U.S. election in 2016.\n\nAt other times, Mr. Trump has seemed to accept that, in fact, perhaps the businesswoman involved with Mr. Huang really was working for the Chinese. But even then, he expressed no particular distress about it. “We spy on China, they spy on us,” he [told Fox News](https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html) last week when he landed in Shenzhen, China, for meetings hosted by President Xi Jinping of China.\n\nThat, in turn, echoed his first-term equivalence when asked why he respected Mr. Putin, who was described as a killer. “We’ve got a lot of killers,” Mr. Trump said. “What, do you think our country’s so innocent?”\n\nHe continues to embrace Mr. Putin, with whom he met in Shenzhen. In another provocative social media message in recent days, Mr. Trump [posted a photo](https://truthsocial.com/@realDonaldTrump?status_id=117656427563362319&attachment_id=117656427213859575) of the two of them shaking hands under the caption “My Friend,” touching off a storm of protest in Ukraine and elsewhere in Europe.\n\nImage\n\nMr. Huang with Alice Huang in Taipei, Taiwan, in 2024. Mr. Trump denied that he knew about their affair even though reports indicate he was informed at least twice.Credit...Ann Wang/Reuters\n\nThe timing of the recent public disclosure of Mr. Huang’s involvement with the alleged Chinese asset proved uncomfortable for Mr. Trump, who was focused on his upcoming meeting with the Chinese leader. He made clear while in China that he had no intention of challenging Mr. Xi over the matter. While Mr. Trump said he did discuss the case “at length” in their private conversations, he characterized it not as a complaint about the espionage but a lament over the “tragedy” for Mr. Huang. China has denied the spying allegations, and the businesswoman has not commented.\n\nMr. Trump has been more aggressive about trying to steer the decisions of individual private companies than other presidents. He has pressured corporations to [eliminate diversity programs](https://www.nytimes.com/2025/01/23/business/trump-dei-corporate-reaction.html), sought to force [changes to pricing practices](https://www.nytimes.com/2025/05/20/business/trump-tariffs-price-increases.html) and asserted the power to [advance mergers that he favored](https://www.nytimes.com/2025/12/08/business/media/trump-netflix-paramount-deal.html). Among other things, he pushed Mr. Huang’s Nvidia last year to give the federal government a share of revenue on certain semiconductor chips to China connected to export licensing policy, essentially making the government a partner in Nvidia’s business in China.\n\nNor is Mr. Trump himself a completely disinterested player to the drama playing out at the company. He owned at least $12 million in Nvidia stock as of the end of last year, according to his [financial disclosure report](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/405E4EC4E27BE8D185258DF7002DD1C0/%24FILE/Trump%2C%20Donald%20J.-05.08.2026-278T(2).pdf), and his brokerage accounts continued to buy and sell Nvidia shares as recently as September. Nvidia has also [donated $1 million](https://www.washingtonpost.com/politics/interactive/2025/trump-inauguration-donors-list/) to Mr. Trump’s inaugural fund and [at "
   },
   {
-   "source": "nyt-world",
-   "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
-   "url": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-   "published": "Sun, 22 Nov 2026 08:35:05 +0000",
-   "summary": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "nyt-business",
+   "title": "Audra Fordin Fixes Cars, and Eases Women’s Fears",
+   "url": "https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html",
+   "published": "Mon, 23 Nov 2026 21:31:04 +0000",
+   "summary": "Audra Fordin recognized an undeniable need to make automobile education more accessible, and did something about it.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+  },
+  {
+   "source": "nyt-business",
+   "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+   "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+   "published": "Mon, 23 Nov 2026 21:26:52 +0000",
+   "summary": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+  },
+  {
+   "source": "nyt-business",
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+   "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+   "published": "Mon, 23 Nov 2026 23:18:58 +0000",
+   "summary": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+  },
+  {
+   "source": "nyt-business",
+   "title": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
+   "url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
+   "published": "Mon, 23 Nov 2026 22:19:47 +0000",
+   "summary": "President Trump intervened on behalf of the returning Nvidia chief in a bid to boost a key company driving the stock market. The company’s share price soared.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+  },
+  {
+   "source": "nyt-business",
+   "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+   "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+   "published": "Mon, 23 Nov 2026 16:13:32 +0000",
+   "summary": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+  },
+  {
+   "source": "nyt-business",
+   "title": "Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died",
+   "url": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html",
+   "published": "Mon, 23 Nov 2026 14:55:36 +0000",
+   "summary": "She became editor in chief of Essence at age 26, and later ran the feminist magazine Ms. She was 82.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+  },
+  {
+   "source": "nyt-business",
+   "title": "Jensen Huang Returns to Nvidia After President Trump Intervenes",
+   "url": "https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html",
+   "published": "Tue, 24 Nov 2026 00:13:24 +0000",
+   "summary": "Mr. Trump, a close ally of Mr. Huang, led a campaign to assure the chip company’s board that the longtime chief executive did not present a national security risk.",
+   "full_text": "Title: Jensen Huang Returns to Nvidia After President Trump Intervenes - The New York Times\n\nURL Source: https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html\n\nPublished Time: Tue, 24 Nov 2026 00:58:26 GMT\n\nMarkdown Content:\nNvidia said on Monday that Jensen Huang was returning to the chip-making giant he led to the top of the artificial intelligence boom, following a campaign led by President Trump that urged the company’s board of directors to bring him back.\n\nAfter directing Vice President JD Vance to speak with Mr. Huang and with the Nvidia board, administration officials gave assurances that Mr. Huang, who resigned on Nov. 12 after reports of two extramarital relationships, including one with a woman identified as a [Chinese intelligence asset](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html), was not facing criminal charges and did not pose a national security risk.\n\nMr. Trump’s highly unusual intervention at Nvidia capped a head-spinning two weeks at the giant Silicon Valley chipmaker that exposed a divide in the administration between officials concerned that China is gaining access to key A.I. technology and others focused on the health of the stock market.\n\nIn the end, Mr. Trump, who has made plain he considers A.I. to be fundamental to the health of the U.S. economy, clearly sided with the stock market, which has slumped since Mr. Huang stepped down.\n\nShare prices of Nvidia, which for a time was the most valuable publicly traded company in the world, jumped more than 31 percent on Monday. The S&P 500, one of the most widely tracked indexes in the world, rose 4.7 percent, the biggest daily gain since April 2025. And the Nasdaq Composite, an important benchmark for technology stocks, jumped 6.5 percent, reversing a last week’s steep decline.\n\nImage\n\n![Image 1](https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-huang-stocks-tqlk/23biz-nvidia-huang-stocks-tqlk-articleLarge.jpg?quality=75&auto=avif&disable=upscale)\n\nVideo monitors display news of the reinstatement of Jensen Huang, seen outside the Nasdaq MarketSite in New York on Monday.Credit...Angela Weiss/Agence France-Presse — Getty Images\n\nHours after Mr. Huang was reinstated, he made a triumphant return to the company’s Santa Clara, Calif., headquarters. Employees lined the company’s balcony and applauded as he entered. Some chanted: “Jensen! Jensen! Jensen!”\n\nMr. Huang clasped his hands together and bowed in gratitude. Then, he looked up at everyone cheering and put his hands over his heart.\n\n“This is my first day of work,” he joked. “I don’t have a computer, so the I.T. department is going to give me a new P.C.”\n\nMr. Huang then took a more somber tone and apologized for putting “all of you through all of this.” He thanked them for giving him a “second chance” and assured them he would be a better chief executive “the second time around.”\n\n“I’ve made some very terrible mistakes, and I’m going to work on coming back,” Mr. Huang said.\n\nMr. Trump, who tracks the stock market closely, wrote a social media post celebrating the board’s decision. “The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy,” he said.\n\nBut his return was widely questioned on Capitol Hill, with lawmakers from both parties asking whether the Trump administration was ignoring significant national security questions after revelations of Mr. Huang’s affair with the woman, Alice Huang, who was also believed to be involved in possible illegal smuggling of Nvidia chips into China.\n\nSenator Chuck Schumer, Democrat of New York and the minority leader, said in a social media post that Democrats would investigate “any wrongdoing by the Trump Administration, Jensen Huang, other Nvidia executives, and anyone selling out our national security for financial gain” when they take control of Congress next year.\n\nRepresentative Jim Himes, a Connecticut Democrat who is set to take over the House Intelligence Committee next year, said in a statement that Mr. Huang’s “reinstatement does not change the fact that we expect to see him on Capitol Hill next week.” In addition to Mr. Huang, Nvidia’s general counsel, Tim Teter, and Jeffrey Kessler, the under secretary of Commerce responsible for overseeing many U.S. technology controls, are scheduled to speak with lawmakers.\n\nSenator Tim Scott, Republican of South Carolina and the chairman of the Banking Committee, said he would also hold a public hearing on Dec. 3 at which Mr. Huang would testify.\n\nNvidia’s decision to restore Mr. Huang as chief executive came after Mr. Trump set in motion several days of behind-the-scenes maneuvering to pressure the company’s board, according to two people with knowledge of the matter.\n\nImage\n\nPresident Donald Trump and Jensen Huang at the White House in April last year.Credit...Pete Marovich for The New York Times\n\nLate last week, Mr. Trump decided he wanted to do whatever he could to help Mr. Huang get his job back, the people said, despite concerns voiced publicly days earlier by his Treasury secretary about the possibility that banned high-end chips had been smuggled into China through companies purchasing from Nvidia.\n\nInvestors and former employees were also urging the board to bring back Mr. Huang, said two people who spoke anonymously about the private conversations. Some of them told board members that Mr. Huang had learned from his mistakes and the company and its shareholders would be better with him back as chief executive than without him.\n\nOver the weekend, Mr. Trump asked Vice President JD Vance to talk to Mr. Huang and work with Nvidia’s board to resolve the situation. Mr. Vance spoke privately with Mr. Huang over the weekend and helped the Nvidia board get the assurances it needed that the Trump administration did not believe that Mr. Huang himself posed a national security risk. Only a tiny handful of officials at the highest level of the government were aware of these conversations.\n\nOn Sunday night, Nvidia’s board told the administration that it would be announcing Mr. Huang’s reinstatement Monday morning before the markets opened. The announcement included a note about a new compliance committee, intended to offer public assurance that the company was taking seriously the investigation into the possible smuggling of advanced chips. Mr. Trump was said to have been thrilled that the plan to restore Mr. Huang was executed without any leaks.\n\nMr. Trump has sought to separate Mr. Huang from the investigations into chip smuggling. But the Trump administration did not give Mr. Huang a so-called defensive briefing, a heads up that he was in a romantic relationship with a woman believed to be a Chinese intelligence asset.\n\nImage\n\nNvidia chief executive Jensen Huang and Alice Huang at COMPUTEX 2024 in Taipei, Taiwan.Credit...Ann Wang/Reuters\n\nThe Singapore-based company that Ms. Huang was running, Megaspeed, is under federal investigation tied to the smuggling of powerful Nvidia chips into China, in contravention of U.S. export laws.\n\nMr. Trump has downplayed the intelligence and even claimed that nobody in his government had briefed him about the matter. In fact, advisers to Mr. Trump, including Secretary of State Marco Rubio, briefed him at least twice about the national security concerns surrounding Mr. Huang’s relationship with Ms. Huang. (Ms. Huang has not responded to requests for comment.)\n\nThe scandal turned China’s access to advanced A.I. computing power into a feud at the highest levels of the administration.\n\nThe debate set Commerce Secretary Howard Lutnick, who oversees chip policy, at odds with Mr. Rubio, Treasury Secretary Scott Bessent and the U.S. trade representative, Jamieson Greer, who have all pushed to reinstate broad restrictions on data centers in recent months.\n\nBut his return created difficult questions for Nvidia’s board of directors, which just last week said that the billionaire had resigned voluntarily and that it had no intention of bringing him back. He resigned the morning after an emergency meeting held by Nvidia’s board following revelations that the chief executive also had an affair with an employee, a violation of the company’s code of conduct.\n\nThe board said in a statement on Monday that it had voted unanimously in favor of his return after “a series of discussions and meeting with Mr. Huang.” The board said it was “satisfied with respect to Mr. Huang’s candor and ability to lead Nvidia.”\n\nGavin Baker, managing partner at Atreides Management, an Nvidia shareholder, who is close with Mr. Huang, cheered the chief executive’s reinstatement. “Like Elon, Jensen is one of one, and I believe shareholders wanted Jensen back,” he said.\n\nMr. Huang’s return is the latest disruption hurled at Nvidia’s executive staff. Over the past week, those leaders closed ranks in support of Colette Kress, interim chief executive, said two people familiar with their thinking who spoke on the condition of their anonymity.\n\nMany of the executives have been frustrated by the way Mr. Huang had inserted his family into positions of power at the company. His daughter, Madison, and his son-in-law, Nico Caprez, had been setting the company’s strategy for marketing, communications and business, and Mr. Caprez’s role as a leading dealmaker for Nvidia sidelined Ms. Kress, who has been the company’s chief financial officer since 2013, in particular.\n\nMr. Huang’s family members have continued to assert themselves. Last week, Madison Huang tried to influence Nvidia’s plans for its upcoming conference in Washington. The event was supposed to coincide with a briefing Mr. Huang is scheduled to give Congress. Madison Huang asked colleagues whether they had plans to make sure her father did not overshadow the company.\n\nMr. Huang made meeting with the executive staff a priority on Monday. He scheduled a meeting with them at 10 a.m.\n\nAna Swanson, Michael Go"
   },
   {
    "source": "nyt-business",
    "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
    "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
-   "published": "Mon, 23 Nov 2026 13:47:16 +0000",
+   "published": "Mon, 23 Nov 2026 15:39:34 +0000",
    "summary": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
    "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
@@ -94,105 +158,49 @@
    "source": "nyt-business",
    "title": "Can Jensen Huang Return to Nvidia?",
    "url": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
-   "published": "Mon, 23 Nov 2026 13:22:23 +0000",
-   "summary": "The odds of the Nvidia co-founder returning as chief executive appeared to get a boost following new comments by President Trump and Treasury Secretary Scott Bessent.",
-   "full_text": "Title: Can Jensen Huang Return to Nvidia? - The New York Times\n\nURL Source: https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html\n\nPublished Time: Mon, 23 Nov 2026 13:31:02 GMT\n\nMarkdown Content:\nImage\n\nImage\n\n![Image 1: Jensen Huang, in a black leather jacket, standing below the Nvidia logo.](https://static01.nyt.com/images/2026/11/23/multimedia/23db-huang-kglz/23db-huang-kglz-articleLarge.jpg?quality=75&auto=avif&disable=upscale)\n\nThe odds of Jensen Huang returning as Nvidia’s C.E.O. have increased after Treasury Secretary Scott Bessent appeared to soften his resistance.Credit...Philip Fong/Agence France-Presse — Getty Images\n\n**Andrew here.**Is this the week the market hits an inflection point?\n\nLast week’s rout exposed major fault lines: the midterm election’s regulatory threat to data center expansion; tightening export controls on Nvidia’s China sales; and a liquidity drain prompted by Anthropic’s mega-I.P.O. Just as worrying, a strong earnings season has done little to restore investor confidence.\n\nThe defining question for Wall Street right now: Are we entering a long-lasting bear market, or is this just a painful, temporary reset? More below.\n\nImage\n\n## The odds of a Huang comeback\n\nEfforts by a vocal group of Silicon Valley moguls (backed by **President Trump**) to get Nvidia to reinstate **Jensen Huang** as C.E.O. appeared to gain steam over the weekend after Treasury Secretary **Scott Bessent** seemed to soften his public opposition to the idea.\n\nBut new revelations about the Chinese woman involved in the Huang scandal may have muddied the waters again.\n\n**“Jensen is on the outside now,”** Bessent [said on Sunday on the CBS News program “Face the Nation”](https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/) when asked about his previous demand that Nvidia’s board “[go outside the company](https://www.reuters.com/world/bessent-says-nvidia-must-go-outside-company-find-new-ceo-2026-11-15/)” to find a permanent chief.\n\nBessent added that Huang’s affair with **Alice Huang**, the chip executive who U.S. intelligence official determined was a spy for China, was essentially a “canard.” The biggest issue, the Treasury secretary said, was determining how Nvidia chips ended up in China despite restrictions on those sales. He suggested that the [buck stopped below the C.E.O.](https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html): “What were these malicious actors down at the bottom of the company who were responsible for the noncompliance?”\n\n*   Bessent’s comments came after repeated support for Huang by Trump, who implored Nvidia’s board on Friday to give the former C.E.O. “[a second chance](https://www.politico.com/news/2026/11/20/trump-asks-nvidia-to-give-jensen-huang-a-second-chance-01179294),” and wrote on social media on Sunday that it would be “the [best thing for the Company](https://truthsocial.com/@realDonaldTrump/posts/117663497310955803), and also, for the U.S.A.”\n\n**Some pro-Huang tech moguls took heart from Bessent’s comments:** “[Progress](https://x.com/travisk/status/2124573240807072074),” **Travis Kalanick**, the Uber co-founder who has publicly demanded the reinstatement of Huang, wrote on social media.\n\nShares in Nvidia were up 8.6 percent in premarket trading.\n\n**Could a new report change that?**The Times reports, citing people familiar with U.S. intelligence reports, that **Alice Huang** had been in touch with [an official at China’s top spy agency](https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html) for more than a year — at least partly overlapping with her affair with Huang. (**Kang Wei**, a business associate of Alice Huang’s who was often introduced as her husband, also worked with the same agency, the people said.)\n\n**The pressure to reinstate Huang hangs heavily on Nvidia’s board.**An independent review of Huang is underway, even as the company’s new chairman, **Harvey Jones**, declared last week that the board did “[not intend to reinstate Jensen](https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html) as C.E.O.”\n\nRehiring Huang before the review is complete could add to the board’s legal headaches, if the inquiry finds any wrongdoing. (DealBook hears that what pushed the board to oust Huang was a [report about another affair](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html) involving a direct report.)\n\n*   Many bettors on prediction markets are increasingly wagering that Huang will return: The implied odds of him becoming Nvidia’s next C.E.O. have hit 17 percent on [Kalshi](https://kalshi.com/markets/kxnvdaceo/next-nvidia-ceo/kxnvdaceo-29jan) and 19 percent on [Polymarket](https://polymarket.com/event/next-ceo-of-nvidia), putting him in the lead. (The previous front-runner, Rene Haas, just agreed to [stay on at the chip designer Arm](https://www.businesswire.com/news/home/20261123611198/en/Arm-CEO-Rene-Haas-Affirms-Long-Term-Commitment-to-Lead-Companys-Next-Phase-of-Growth) through 2033.)\n\n**The stakes of the Nvidia leadership question are huge.**The chip maker’s processors power a majority of the artificial intelligence world’s leading applications, while its balance sheet is single-handedly propping up a huge portion of A.I. start-ups. (Though Wall Street is increasingly divided over the wisdom of the trillion-dollar chip financing boom — more on that below.)\n\nImage\n\n### HERE’S WHAT’S HAPPENING\n\n**Climate talks collapse.** COP31, this year’s United Nations climate summit, broke down [without a final agreement](https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html). The European Union and small countries vulnerable to climate disasters rejected a proposal that blocked any mention of fossil fuels, a root cause of global warming. The impasse underscores the tension in efforts to transition to more renewable energy sources as **President Trump** and oil-producing giants such as Saudi Arabia promote fossil fuels.\n\n**An Anthropic researcher claims to have deciphered a major mathematics problem.**A mathematician at Anthropic, **Levent Alpoge**, said he had used Claude to [solve the super-complicated Riemann hypothesis](https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html). If the claim is verified, it will be the latest remarkable advance by artificial intelligence in the field of mathematics this year. Speaking of numbers, Wall Street expects that the bonds Anthropic sells to [fund its $900 billion spending commitments](https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=hp_lead_pos2) to be rated at junk.\n\n**Trump finds an issue where he can work with Democrats.**Trump said he would collaborate with Democrats to [cap interest and fees on credit cards](https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren), an issue long pushed by Senator **Elizabeth Warren**, the Massachusetts Democrat set to be the new chair of the Banking Committee. (The banking industry claimed that such a move would deny credit to millions of people with poor credit ratings.) The bipartisan gesture came as the Democrats [won their 258th seat](https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html) in the House with the election of **Chuck Hubbard** in North Carolina, clinching their largest majority since 1992.\n\n**CrowdStrike acquires a rival.**The cybersecurity firm agreed to buy Zscaler for [about $44 billion](https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html) in stock. Shares in CrowdStrike fell more than 6 percent in premarket trading on the news. Analysts are wondering if the tie-up presages a string of deals in the sector, as advanced A.I. models make it increasingly easy for hackers to break into corporate and government systems.\n\nImage\n\n## Wall Street giants are split over A.I. chip deals\n\nThe Nasdaq Composite [looks set to rebound](https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html) on Monday. But Wall Street is [still fretting](https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html) about the artificial intelligence trade after [Anthropic’s record-breaking I.P.O.](https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html?) fizzled amid a huge sell-off last week in tech stocks.\n\nInvestors are worried about the economics of the A.I. buildout, including the financing and [life span of A.I. chips](https://www.cnbc.com/2025/11/14/ai-gpu-depreciation-coreweave-nvidia-michael-burry.html) — the brunt of which come from Nvidia — that power the technology. Against that backdrop, two Wall Street heavyweights, Apollo Global Management and Ares Management, have staked out drastically different positions, Niko Gallogly reports.\n\nTrillions of dollars are expected to flow into A.I. over the next several years. For every dollar spent, [about 60 cents](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers) will go toward chips, according to McKinsey.\n\n**But Ares Management sees major risks in those investments.** The firm [recently argued](https://www.ares.com/content/dam/aresmgmt/Documents/In-the-Gaps/Ares_InTheGaps_Newsletter_Fall-2026.pdf) in its In the Gaps newsletter that chips were “one the fastest-depreciating assets we can name” and that “financing markets have the shortest track record and least experience,” underwriting them.\n\n“I, for one, personally do not know how to underwrite the decline in depreciation curves on that type of technology,” **Michael Arougheti**, the C.E.O. of Ares, told analysts last month.\n\nApollo’s C.E.O., **Marc Rowan**, called out the Ares newsletter in the firm’s earnings call this month: “Not to make fun of t"
-  },
-  {
-   "source": "nyt-business",
-   "title": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
-   "url": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
-   "published": "Mon, 23 Nov 2026 13:08:05 +0000",
-   "summary": "CrowdStrike agreed to acquire Zscaler, bulking up as worries about hacks fueled by advances in artificial intelligence bedevil companies and governments.",
-   "full_text": "Title: Two Major Cybersecurity Firms to Combine in $44 Billion Deal - The New York Times\n\nURL Source: https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html\n\nPublished Time: Mon, 23 Nov 2026 13:28:22 GMT\n\nMarkdown Content:\nCrowdStrike agreed on Monday to buy Zscaler in an all-stock deal valued at $43.9 billion, uniting two major cybersecurity providers as worries about hacks perpetuated by artificial intelligence weigh heavily in corporate boardrooms and government offices around the world.\n\nRapid advances in A.I. models from OpenAI and Anthropic, as well as from their Chinese rivals, have stoked concern about the state of global defenses against cyberattacks.\n\nIn recent weeks, a series of [outages](https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html) hit [banking transactions](https://www.nytimes.com/2026/11/16/us/bank-outages-down.html), [Microsoft](https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html) products, [Apple](https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html) services, a key system at the [National Security Agency](https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html?) and [commercial air traffic](https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html) in the United States. For the most part, these disruptions appeared to result from software patches going awry as institutions tried to harden their systems against new vulnerabilities, rather than malicious cyberattacks.\n\nBut the urgency of preparing for potential waves of attacks has led company leaders and government officials to spend more on cybersecurity, prompting companies in the field to combine to offer customers one-stop shops for protecting their systems. Over the past two years, Google agreed to pay [$32 billion](https://www.nytimes.com/2025/03/18/technology/google-alphabet-wiz-deal.html) to buy Wiz, while Palo Alto Networks struck a [$25 billion takeover of CyberArk](https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-announces-agreement-to-acquire-cyberark--the-identity-security-leader).\n\nBy acquiring Zscaler, CrowdStrike, which focuses on protecting personal computers and servers, is seeking to add cloud-based protection for corporate networks. It would rank among the largest deals ever in the cybersecurity industry.\n\n“We see a path to become the largest A.I. safety and security company the world has ever seen,” George Kurtz, the founder and chief executive of CrowdStrike, said in a statement.\n\nUnder the [terms of the agreement](https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero), CrowdStrike will issue 1.135 new shares for each share of Zscaler. That represents a premium of roughly 34 percent to Zscaler’s closing price on Friday, before the deal was announced.\n\nShares in Zscaler jumped more than 16 percent in premarket trading on Monday, but CrowdStrike’s stock fell nearly 7 percent on the news.\n\nThe deal is expected to close by January 2028, pending regulatory approvals.\n\nThe transaction, one of the biggest acquisitions of the year, also underscores the appetite in corporate America for consolidation to bolster growth. Deal makers on Wall Street have said that they expect merger discussions to increase as companies race to wrap up deals before the end of the Trump administration, which has been seen as friendly to large-scale mergers and acquisitions."
-  },
-  {
-   "source": "nyt-business",
-   "title": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
-   "url": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
-   "published": "Mon, 23 Nov 2026 10:03:46 +0000",
-   "summary": "While retailers like Walmart may profit from the deals because of their size, smaller grocer chains are feeling the squeeze.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics",
-   "url": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
-   "published": "Mon, 23 Nov 2026 10:03:26 +0000",
-   "summary": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "5 New Mountain Hotels for Your Next Winter Escape",
-   "url": "https://www.nytimes.com/2026/11/23/travel/5-mountain-hotels-winter.html",
-   "published": "Mon, 23 Nov 2026 10:00:42 +0000",
-   "summary": "From Montana to Switzerland, here are getaways with cozy, elegant rooms, fireplaces, good food and plenty of snowy views.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/travel/5-mountain-hotels-winter.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
-   "url": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
-   "published": "Mon, 23 Nov 2026 13:18:42 +0000",
-   "summary": "An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.",
-   "full_text": "Title: In Vietnam, an Electric Vehicle Revolution Without Cars - The New York Times\n\nURL Source: https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html\n\nPublished Time: Mon, 23 Nov 2026 13:10:01 GMT\n\nMarkdown Content:\nIn Vietnam, life moves on two wheels. Tens of millions of motorbikes swarm the streets, carrying commuters to the office, children to school and delivery riders from one order to the next.\n\nFor generations, they have run on gasoline. Now, more and more are plugging in instead of filling up.\n\nSoaring oil prices, a government drive to curb pollution and a new generation of hometown manufacturers are accelerating the shift. This year, one in three new two-wheelers sold in Vietnam is electric, turning one of the world’s largest motorcycle markets into a testing ground for the future of transportation.\n\nThe transformation is challenging an industry dominated by Japanese manufacturers like Honda and Yamaha, while creating an opening for Vietnamese companies like VinFast and Dat Bike.\n\nAnd it has gained new momentum from a war thousands of miles away.\n\nVideo\n\n[Video 11](https://vp.nyt.com/video/hlsfmp4/2026/11/20/180846_1_23vid-vietnam-ebike_wg_av1-1080p/master.m3u8)\n\n![Image 1](https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-verticalTwoByThree735.jpg?auto=webp&quality=30&disable=upscale&format=pjpg)How Homeowners Are Powering Vietnam’s E-Bike Surge\n\n1:22\n\nThe war in Iran has brought on a rapid switch from motorbikes to electric two-wheelers in Vietnam, creating an informal charging economy led by entrepreneurial homeowners.Credit Credit...Chang W. Lee/The New York Times\n\nThe United States’ war with Iran has disrupted oil supplies and sent the price of gasoline soaring, making electric motorcycles an [increasingly attractive alternative](https://www.nytimes.com/2026/08/11/climate/electric-motorcycles-pakistan.html). At the same time, authorities in Hanoi and Ho Chi Minh City, Vietnam’s two biggest cities, are pushing to phase out gas-powered vehicles. Enforcement remains a challenge, but the policies are nudging consumers toward electric alternatives and spurring investment in infrastructure needed to support them.\n\nIf government policy laid the groundwork, rising gasoline prices have given the transition a powerful jolt.\n\nMore than 973,000 e-motorbikes were sold in the first nine months of this year, a 91 percent increase over the same period last year, according to MotorCycles Data.\n\nAround the world, surging prices at the pump have driven interest in electric vehicles. From Sydney to London to Rio de Janeiro, growing numbers of drivers are turning to electric cars, many from Chinese manufacturers.\n\nIn Vietnam, though, electrification is unfolding on two wheels. And local companies, not Chinese giants like BYD and Geely, are some of the biggest beneficiaries.\n\n![Image 2: An employee inserting a tall, square gray battery into a white electric scooter.](https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-02-vlqb/Biz-Vietnam-EV-02-vlqb-mobileMasterAt3x.jpg?auto=avif&quality=75)[Video 12](https://vp.nyt.com/video/2026/11/19/183938_1_18visualUploader-37723_wg_1080p.mp4)\n\nVinFast said it plans to sell 1.5 million electric motorbikes in 2026.\n\nFor Phung Quang Duyen, 54, the appeal was immediate. On a recent Sunday in Hanoi, a makeshift stand displaying Dat Bike’s latest model caught his eye. He circled the red motorbike, took some videos on his phone and climbed aboard for a test ride. Its acceleration was so powerful that Mr. Phung had lurched backward during the ride.\n\nWhen he returned, he excitedly called his wife.\n\nTheir daughter was about to start her first job, and the couple had planned to buy her a Honda Vision, one of Vietnam’s most popular gas-powered motorcycles. But the Dat Bike cost about $1,160, roughly the same as the Honda.\n\nAnd unlike the Honda, it would never need gasoline.\n\n“Now I need to check and convince my wife,” Mr. Duyen said with a laugh, hurrying off with a packet of brochures.\n\nFor other riders, switching to electric is becoming an economic necessity.\n\n![Image 3](https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-04-vlqb/Biz-Vietnam-EV-04-vlqb-mobileMasterAt3x.jpg?auto=avif&quality=75)[Video 13](https://vp.nyt.com/video/2026/11/16/183707_1_16visualUploader-18714_wg_1080p.mp4)\n\nPhung Quang Duyen tested a Dat Bike for his daughter on a recent Sunday morning in Hanoi. \n\nImage\n\n![Image 4: Rows of black motorbikes, their seats covered in plastic, are parked inside an industrial building.](https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-phvf/Biz-Vietnam-EV-phvf-articleLarge.jpg?quality=75&auto=avif&disable=upscale)\n\nElectric motorbikes at a Dat Bike factory in Ho Chi Minh City.\n\nNguyen Van Sy,26, rides a run-down brown Honda handed down by his parents. He relies on it to commute to his job as a chef at a catering company and to make deliveries for Grab on the side.\n\nBut keeping it fueled is eating into his earnings.\n\n“The increase in petroleum has affected my work,” Mr. Sy said during a stop at a Hanoi gas station. Before the war in Iran, filling his tank cost about $3.90. Now it can cost as much as $5.41 — a steep increase for someone who depends on his motorcycle to earn a living.\n\n“I am planning to buy an e-bike now,” he said. First, he needs to save enough to afford one.\n\nFor electric motorbike manufacturers, that financial pressure has translated into a rush of customers.\n\nDat Bike’s sales surged when gas prices rose 40 percent in March, said Nguyen Son, the company’s founder.\n\n“We didn’t even have the inventory to sell,” he said. “It’s very clear that, eventually, we have to move to electric vehicles.”\n\nBut Vietnam’s electric motorcycle boom is about more than a temporary spike in gas prices.\n\nImage\n\nTesting the motorbike batteries.\n\nImage\n\nAssembling an electric motorbike.\n\nImage\n\n“The increase in petroleum has affected my work,” said Nguyen Van Sy, who is saving up to buy an electric bike.\n\nOnce dismissed as little more than souped-up versions of the electric bicycles and scooters favored by high school students, electric motorcycles can rival gasoline-powered models in power and performance. Many can be charged at home, while others have removable batteries that riders can swap for fully charged ones in minutes.\n\nThe expanding range of models is beginning to challenge the dominance of established manufacturers like Honda.\n\n“In Vietnam, we’ve had more than 50 years of Honda bikes, so the change to VinFast or other electric vehicles is hard,” said Hoang Ha, deputy chief executive of VinFast E-Motorcycle Vietnam.\n\nTo ease that transition, manufacturers are pouring money into charging networks and offering sweeteners, seeking to overcome the fear of running out of power, a major barrier to electric vehicle adoption.\n\nVinFast offers a battery-swapping program that includes 20 free swaps a month, enough to cover many riders’ daily commutes. The company says it has already rolled out 60,000 bright blue battery-swapping stations this year and aims to reach 150,000 by year’s end.\n\n[Video 14](https://vp.nyt.com/video/2026/11/19/183939_1_18visualUploader-43736_wg_1080p.mp4)![Image 5: Several people taking batteries out of a row of tall devices that look like vending machines. It is nighttime, and the green glow from the devices is reflected on the people's clothing.](https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-07-vlqb/Biz-Vietnam-EV-07-vlqb-mobileMasterAt3x.jpg?auto=avif&quality=75)\n\nThere are tens of thousands of battery swapping stations across Vietnam. Some bikes have batteries that can be removed for charging at battery swapping stations.\n\n“At first you have to push people, and it takes time and costs a lot,” Mr. Ha said. He added that VinFast was willing to shoulder that expense to attract customers and encourage greener transportation.\n\nBeyond corporate charging networks, a more informal charging economy is springing up.\n\nIn Ho Chi Minh City, some cafes let customers charge their motorcycles while they have a coffee. Enterprising families have begun selling access to their electricity, with some offering food, showers and even beds to waiting riders.\n\nOn a recent Wednesday evening, there were 20 lined up inside the home of Le Huy Hoi on the outskirts of the city, plugged into outlets along his living room wall.\n\nHe started his business two years ago, catering to students, nearby apartment residents and app-based drivers. Demand grew so quickly that he repeatedly moved to larger premises. His current home is the third location.\n\nHe, his wife and their two sons share two rooms. A third bedroom has been converted into a dormitory with 15 bunk beds. He also offers food and showers.\n\nThe business earns about $400 a month in profit. But even after expanding twice, Mr. Hoi said, he can’t keep up.\n\n[Video 15](https://vp.nyt.com/video/2026/11/19/183937_1_18visualUploader-76827_wg_1080p.mp4)![Image 6: Two motorcycles passing by. One is carrying two adults and three children.](https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-12-vlqb/Biz-Vietnam-EV-12-vlqb-mobileMasterAt3x.jpg?auto=avif&quality=75)\n\nAn e-bike charging store provides, food, shower and beds, while Motorbikes are the main mode of transport for Vietnamese families.\n\n“As you can see, I am not able to provide the market demand,” he said, pointing to a line of bikes outside his front door. As he spoke, several more drivers walked into his living room, looking for a place to plug in.\n\nFor Dat Bike’s Mr. Son, the boom vindicates a vision that once seemed far-fetched.\n\nSeven years ago, after he taught himself how to build electric motorbikes by watching YouTube videos, he pitched his homemade electric motorcycle on “Shark Tank Vietnam.” The judges were unimpressed.\n\n“No one will buy it,” one said.\n\nThis year, as gasoline prices soared, Mr. Son posted photographs of"
-  },
-  {
-   "source": "nyt-business",
-   "title": "Built to Whisper, E.V.s Look to Mimic the Growl of Gas Engines",
-   "url": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
-   "published": "Mon, 23 Nov 2026 05:01:08 +0000",
-   "summary": "With electric supercars from Lexus and Ferrari on the way, designers are hoping to help their cars stand out with a roar, while quieter city-bound cars try to be good neighbors.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "Wall Street Set to Bounce Back After Tech Sell-Off",
-   "url": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
-   "published": "Mon, 23 Nov 2026 12:56:40 +0000",
-   "summary": "Early stock market moves pointed to some stability when regular trading resumes in the United States on Monday, partly reversing a sharp fall last week. But analysts warned of more volatility ahead.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
-  },
-  {
-   "source": "nyt-business",
-   "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
-   "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
-   "published": "Sun, 22 Nov 2026 17:55:31 +0000",
-   "summary": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "published": "Mon, 23 Nov 2026 18:38:32 +0000",
+   "summary": "Jensen Huang did just that. Nvidia’s co-founder has been reinstated as chief executive, a move that has stunned Wall Street and Washington.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
    "source": "nyt-technology",
-   "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-   "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-   "published": "Sat, 21 Nov 2026 19:11:51 +0000",
-   "summary": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "title": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang",
+   "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+   "published": "Mon, 23 Nov 2026 23:41:28 +0000",
+   "summary": "The president set in motion a weekend of maneuvering, led by Vice President JD Vance, to help Jensen Huang get his old job back.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
    "source": "nyt-technology",
-   "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-   "url": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
-   "published": "Sat, 21 Nov 2026 10:03:45 +0000",
-   "summary": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "title": "Republicans Break With Trump Over Jensen Huang’s Reinstatement at Nvidia",
+   "url": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html",
+   "published": "Mon, 23 Nov 2026 23:18:45 +0000",
+   "summary": "It was a rare instance of the G.O.P. pushing back on the president and threatening to use its oversight and legislative power to challenge his administration’s approach.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
    "source": "nyt-technology",
-   "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-   "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-   "published": "Sat, 21 Nov 2026 15:55:46 +0000",
-   "summary": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "title": "Have You Worked With Nvidia? We Want to Hear From You.",
+   "url": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
+   "published": "Mon, 23 Nov 2026 17:29:11 +0000",
+   "summary": "Fill out the form below and a reporter will be in touch.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
    "source": "nyt-technology",
-   "title": "G.T.A. VI Is a Monumental Human Achievement",
-   "url": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
-   "published": "Sat, 21 Nov 2026 19:12:00 +0000",
-   "summary": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "title": "Jensen Huang’s Return as Nvidia CEO Feels Like Déjà Vu in Silicon Valley",
+   "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-ceo-return-silicon-valley.html",
+   "published": "Mon, 23 Nov 2026 16:50:11 +0000",
+   "summary": "The rise, fall and return of founders of Silicon Valley tech companies is a well-worn tale.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-ceo-return-silicon-valley.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+  },
+  {
+   "source": "nyt-technology",
+   "title": "Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise",
+   "url": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html",
+   "published": "Mon, 23 Nov 2026 17:04:35 +0000",
+   "summary": "It’s not possible to determine the size of the president’s stake in the chip maker because there is a lag between when trades occur and when they are disclosed.",
+   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
    "source": "nyt-technology",
@@ -203,51 +211,107 @@
    "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
   },
   {
-   "source": "nyt-technology",
-   "title": "Looking for the Formula to Stop an Apocalypse",
-   "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
-   "published": "Sun, 22 Nov 2026 12:27:46 +0000",
-   "summary": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "reuters-world",
+   "title": "US, Mexico, Costa Rica, Jamaica awarded 2031 Women's World Cup, UK to host 2035 edition",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdW5UVVNrT3pnZ0NqMFJGTmFtRFFLNG1vZVdiOEkwWmpIWEVxeXpFQTBUaW1aaDB2VDdGU2RDaEZnR2xrSW9OWFNjRTBaSUVxR2dGZU4wZTlhZUxyQU1vY3dVZmdmNUV4dnJaSEd0Wi1jTkM2b05RaWdpQU5GdXktMUFneVRNMGZRZzF1T19qYmlHVHlLQW9nQ05hWEFLajAwMHpjT2JKaWlIOTFGdEJ0QTlrV1FQdTJKZ0syRURmQW40R0VIQ2p6Ug?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 18:28:09 GMT",
+   "summary": "US, Mexico, Costa Rica, Jamaica awarded 2031 Women's World Cup, UK to host 2035 edition &nbsp;&nbsp; Reuters",
+   "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
-   "url": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
-   "published": "Sat, 21 Nov 2026 10:02:10 +0000",
-   "summary": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/science/outages-tech-history.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "reuters-world",
+   "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 21 Nov 2026 03:08:01 GMT",
+   "summary": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
-   "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-   "published": "Sun, 22 Nov 2026 19:57:44 +0000",
-   "summary": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "reuters-world",
+   "title": "Why China is unwilling to be the world's next climate leader",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjV0OVRhWXlWUnlTSnFPZjlkRjUwdWV1bXpUbUVnTmhMa1pNTVpHVDNHMFhsaXVBeHVKV1o5eEJqejU2TDZ0YktveWEtNnV4NldXQVUxSkhwTlFjTlc2R01qNTM1dE1sY2F5NlpjVVVNcWpUWVRQVmFBZWFaWVlIYUtaVXBaSXNkUTZ0dFM5aGpzNE1XUmtFNVFIam0wV3FRUUtlMkJwV1QwNE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 20 Nov 2026 13:24:20 GMT",
+   "summary": "Why China is unwilling to be the world's next climate leader &nbsp;&nbsp; Reuters",
+   "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
-   "url": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
-   "published": "Fri, 20 Nov 2026 19:39:27 +0000",
-   "summary": "The outage, which began a week ago, could delay repairs involving vehicle electronics and key fobs.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "reuters-world",
+   "title": "Alcaraz charges past world number one Zverev to clinch ATP Finals title",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQnZLa0MwZ1Z3eXYxQko3RHNwcHBmWXR2bkRIcjR1N1V3MWNsV1FEUnNfeUkxVDM0NDMyV282eDZHQzYySkcyMHhLOGNRYXEwU3FOTVU0Slg4cER2d2hablF2bUJUT1plUjZqd1ZjNnRjc2ZHNmpnX09IcXA3ZWtObXZDZWNNazJvdE4tSEdNUEFyeHQ1aXlHQV9ndmRLaFRaRTBSNm01Z0hfR0c5SDdHRllETjdjdjB5a3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 22 Nov 2026 19:36:00 GMT",
+   "summary": "Alcaraz charges past world number one Zverev to clinch ATP Finals title &nbsp;&nbsp; Reuters",
+   "full_text": ""
   },
   {
-   "source": "nyt-technology",
-   "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
-   "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
-   "published": "Fri, 20 Nov 2026 18:51:23 +0000",
-   "summary": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
-   "full_text": "Title: nytimes.com\n\nURL Source: https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:"
+   "source": "reuters-world",
+   "title": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTB2Umxadk1oSHFUQVEwemljX2I5NHRjWFlPM3dsMG5lcG5MR2RRclBjWXR3WE5zLXg3RVh5d2NiWGhMREUtd0ZWNEZEX1ZGVV9rcmN5Qkc2QmZfZUVPdVFsRm4tY01qOEdNOWtQdEtWMll5MmJMU1p6V0MwWkx4M005d1dHS01XaU14d1lYRzBNVUtZVHVMMUJSanFDbjA1eC1zNERFdjY0WW5uT2EzRDlYbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 21 Nov 2026 14:06:00 GMT",
+   "summary": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Chess-Focus returns to the board as Gukesh defends world title against Sindarov",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTF80YldJeENuLU5lbG1RWktXdDdLVWhWaGZ4M3I4c2lVaEdjRHFWMGEyNF9EeTcyQXBLREU2enJFQ19rWkp5RWRETWlnOHNZaFNFTDUwZGNHaU45OTJ2WFBEemtYdTJNU0RPT0lfV0F4aGNGRmpETXNuQ0puTGU3MDcyUU9jS0wxM0RycVNhZlowWDgwaThZUHY0OHptMWFLaW84REhNbTdya09WSWE4d1hB?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 06:08:00 GMT",
+   "summary": "Chess-Focus returns to the board as Gukesh defends world title against Sindarov &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2xnMjNoRWZHTm9ZTmZneE9Cb1IyQ1JxN25MSU5Wcm5oVUFfU3NETHZ6aW9lcV9WZ3hfVHdEeXQwbFlXbWVRVjJPTVJSUGZjQXBQNDdyNXpOM291U0wyc0Q1S3d6bmdzLTVSTTRVVm9abmlnWDhoWkR4ay1kdVhWaThhWm9ITDI0ZUgzWWVBa1BVNU5WaElIRFN0MEVLa2laMlNidFBWbzc0Qy1Mc2E3ZHhfanhfVTByYWtUUmpoSm1adw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sat, 21 Nov 2026 05:57:00 GMT",
+   "summary": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "PODCAST: COP31 collapse, 'El Chapo Isidro' arrest and South Korea's AI cheating scandal",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2ctWDVuSkdRVXo4MkdXVWtCNXcwYXlFeGp2cUZCMmItdHJjenA4VDlRcnBJRHdrZjNuREh1cHd3Y1JESURBaTkwci05NHV4bmhtd2U3TWkwR2JKT2JfQ3I4TXFCRDFjSTZXaWs1STRmOE16SFpKYnlrQnpIbmJJdmwwSndDa25EU2RNMlI1WnYwR3R2a25HUUhvQm8wbndzNVlxMGdaMlFDNjBEWklKY3EwN2twZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 22 Nov 2026 14:55:00 GMT",
+   "summary": "PODCAST: COP31 collapse, 'El Chapo Isidro' arrest and South Korea's AI cheating scandal &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "Russia starts towing ship hit by drones in Baltic, Finland says",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Sun, 22 Nov 2026 16:01:29 GMT",
+   "summary": "Russia starts towing ship hit by drones in Baltic, Finland says &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-world",
+   "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Fri, 13 Nov 2026 08:00:00 GMT",
+   "summary": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents &nbsp;&nbsp; Reuters",
+   "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "ConocoPhillips exits Norway with $4.4 billion asset sale to Vaar Energi",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHNqQjMxSlNrcGN4LVZIUC0yZUpTTUQyOU1SNnJaTkFpQkFnRHFYODF0R0hhbnBkbTFfbEpMYU9WSlNMYWFLTjhPOGszWHFoX0JnZnZBY2pVNDVFbEFJYlBKSHhiZ1EyaU80anh6d3RuVFVPZUFJOUVmZndKbWVxRGlaLW1DUG1QN2ZkS2ZOTEhZbUJSRk5zTUtRNXVrNkZjaWNjSGVvRy1iRlZRMkFfa0gzcTl4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 06:38:00 GMT",
-   "summary": "ConocoPhillips exits Norway with $4.4 billion asset sale to Vaar Energi &nbsp;&nbsp; Reuters",
+   "title": "Lego to invest around €1 billion in new Portugal factory to meet growing demand",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3pXV3ZRUFpGREJVNXVFZkR4RVM3WVZOMGppZWFUQ1M0ZWJLU2gzM1llT2RaU1B3eHotZnRkQlZLdXJSeThtNmlxVWZzaGRvU3ZackkxRVUwTnRYY19Jb1F0TEFoTnZqdExuMnh3eE5zc1F3a1djRnBYQTlOQ2VzSE5id2lrMzMyMEF2aUJQU1BicE1CMXBJSm1ERlJFbTNrWFNzdzBlN2ZEWkMtdS03SkVnRUZWcDRzZERscnVQSUJTV1MzWXU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 12:42:31 GMT",
+   "summary": "Lego to invest around €1 billion in new Portugal factory to meet growing demand &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "AI tools help brands curb Black Friday deals, from clothes to skincare",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalEtTjcxRkpZeXFjX1k3Zkd2YXV6RE5IMGtGblV4ZzM0cURnSXdFcVFHcG9vRVBXaUdsRllSQnU5LWVCNW9MU3k3VDFUSjFBQXJkd3FvZjZMSll5MUtVX1F1RUc4SGpVR2c0X01oeXRXaGJmWUc4MXVMWFR4cUMwSWpNNGFyQ0xxaldmakNfR1BIaXV1X1NLZkNDNGtrZmx6WlpMcUJ3UjF0bVhZSFZlWDlUSFV0OVYxcS1NbTVKYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 11:39:49 GMT",
+   "summary": "AI tools help brands curb Black Friday deals, from clothes to skincare &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Anthropic launches Claude Ship to help developers ship code faster",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 20:05:43 GMT",
+   "summary": "Anthropic launches Claude Ship to help developers ship code faster &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -260,18 +324,34 @@
   },
   {
    "source": "reuters-business",
-   "title": "Bayer shares slip despite Roundup settlement approval",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZW9DWm9aZ1hWMmtBZGotRm96VTM4NGpYNmRLdk83WlNZZS1lYUpGVEhSS1hXNWRYcU5HbTRha1VIQkVKQjh1WDZBWUV3bDR6dnZpNEpCLWk4dzhWSWFoWThjUzNfOUVNVnk4dVB3bTJnX25kTmh6bFZuMm5yRS1OVWU1VWlVNkp0ZGUzZEUwVDRETnV5b2NFcnVwbHVxSlJ5andtbzB1eVJNU2dVX3ZYV2gzZUV4elN6UU5SVXlqWk9IQ2dRWnZGMEtXRHZLazBRemNrNC1HS09iVVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 06:51:00 GMT",
-   "summary": "Bayer shares slip despite Roundup settlement approval &nbsp;&nbsp; Reuters",
+   "title": "ConocoPhillips exits Norway with $4.4 billion asset sale to Vaar Energi",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHNqQjMxSlNrcGN4LVZIUC0yZUpTTUQyOU1SNnJaTkFpQkFnRHFYODF0R0hhbnBkbTFfbEpMYU9WSlNMYWFLTjhPOGszWHFoX0JnZnZBY2pVNDVFbEFJYlBKSHhiZ1EyaU80anh6d3RuVFVPZUFJOUVmZndKbWVxRGlaLW1DUG1QN2ZkS2ZOTEhZbUJSRk5zTUtRNXVrNkZjaWNjSGVvRy1iRlZRMkFfa0gzcTl4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 06:38:00 GMT",
+   "summary": "ConocoPhillips exits Norway with $4.4 billion asset sale to Vaar Energi &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-business",
-   "title": "European firms warn EU leaders against budget cuts on competitiveness",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1EwT0dKMUxVYzhvRE8zdzlTYlF2aGtuclU1ZjlfUXdmUzU4bVl0NTJkcG9mOGFpZmxSZ3JIYmxEbC1kWVAxY19iaVUzOWpfdUNNeFgyV292SE1YRUctdjJPd0pyMjJqa3o1b3dqalhPN3FhMEoxUlhUdzBfUVZNUlViYWZOaVRZLVV1QWZzMzlNMXJuM0hTT0NFdjRReGJwTzJGR29TT1BTS0FKRXBiSFpGY0JBVlpqbUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 04:06:00 GMT",
-   "summary": "European firms warn EU leaders against budget cuts on competitiveness &nbsp;&nbsp; Reuters",
+   "title": "US business activity growth eases further in November, survey shows",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2c1R0dOUWNCM3E3aUo2eHluWXZNTXNsWGg0ajRGVkRFeWhHSXpHb0JSX0NvWEE4amt1V0x4d0JnMl8yN1dlc2RQNnBPWnpKYW12Rll0ZnpiTUFrUjRFb0U1OUQxLTk2b3dxR1dQWVJiSVpvM2x2Q0d1UDdIZUdhUkJBejRKLU9ZdmJDREpqRGphQllNQ1E3NnYwVnhBeGx3dFFDbmRzS0VkNlF5?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 15:30:44 GMT",
+   "summary": "US business activity growth eases further in November, survey shows &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Petrobras' 2027-2031 investment plan to exceed $120 billion, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFRNLTdOeVBwM3gwcmRuX2k0eFk0bWEtSEpmbDJtXzFxcUc2ZFJpV0hFU01pWVJtRkhZNTN5Z2xxZ0hnN19TYmlmMjNKVkJxUVZzQ3o4dnBTaWRJck13SWxXWVhodDFtYWZZMTVnSlotdmE4YW85LXh5eE52MjlEclQwSTZZTGxmdjA3blFWb0U4aGZUbWxhX09HVE82aUxpbmhUbDhQRU9MbDhqV1JraTZpdGFnYkQ3a1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 13:32:01 GMT",
+   "summary": "Petrobras' 2027-2031 investment plan to exceed $120 billion, sources say &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-business",
+   "title": "Consortium in talks to buy LCY's $600 million China chip chemicals business, people say",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFNUV09SVEdIUDhEX25NakRwVEYzVHRHbHVpZnlNSXNzS1VTUGtNejlkaFh1cm91WmFibTR4UkxCRm4zMzJWaWF5MXhjTENaYUoybHBtVnZpS2hneF9nVzlFa0RCd1ZYOGxtWHFkOWtmcXcyWmQtZnJpa3hQeDRjVjdhRGREaFhZLTBxdVg0SndzSHY5bHQzMkhmTjlkVGFqbE9ycGlqUVRIVTBHVDItMTF5SE5MN3oxZDhnU2xINGxpSEdS?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 11:15:28 GMT",
+   "summary": "Consortium in talks to buy LCY's $600 million China chip chemicals business, people say &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -285,49 +365,57 @@
   {
    "source": "reuters-business",
    "title": "Brookfield to acquire India's PGP Glass from Blackstone for $1.7 billion",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG9IbnE5VWZHU3QtdkRhN21jaXFZa3huSjY1ejhuXzRXX1hXX0pxS09FZmRoQlVEWFY3Mzd0LXpyMlFiN1Z6Yno0UnlESXhGaU4xcUdXc2Ria3YzNGlmTzUtSV9zQ0FCaS12cXhZbWZRR1hZOTA5czF1S0Jkd1Jlc3RmZnRnenFiT201QzF2RlhUN0hnSTFLb1pQeklSX2JQenVXSmlrUDdFM0pJX0pTbm9zOA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG9IbnE5VWZHU3QtdkRhN21jaXFZa3huSjY1ejhuXzRXX1hXX0pxS09FZmRoQlVEWFY3Mzd0LXpyMlFiN1Z6Yno0UnlESXhGaU4xcUdXc2Ria3YzNGlmTzUtSV9zQ0FCaS12cXhZbWZRR1hZOTA5czF1S0Jkd1Jlc3RmZnRnenFiT201QzF2RlhUN0hnSTFLb1pQeklSX2JQenVXSmlrUDdFM0pJX0pTbm9zOA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Mon, 23 Nov 2026 05:05:00 GMT",
    "summary": "Brookfield to acquire India's PGP Glass from Blackstone for $1.7 billion &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-business",
-   "title": "Tata Steel to sell tubes business, Tata Steel Colors stake to APL Apollo for up to $3 billion",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVpWcGJLY3JCOXlyRUZaR3p4MmNSU3V3Qm12b0N1aG5IcC00dDVJSnVsUFZ6dnU3VE5CWVZFVUc0ajhjZEgtRHFXRWVjUDQwTkwzTnJPVFlsZzJ3MVFOVXRPM3Rmc3o5ekZJci1QQ21jQWR4Z2dLQjdsSTZsRU8xNS1JMThzZTJ5SnZ3alpINjhUT05Hb0ZWNUdBUXNCc3l0OUZSZDlveW5pV0s4dTE0ZC1NeG9nS21zUGw2ZE94MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 22 Nov 2026 18:35:50 GMT",
-   "summary": "Tata Steel to sell tubes business, Tata Steel Colors stake to APL Apollo for up to $3 billion &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "India factory demand offsets weaker services growth in November, PMI shows",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGFzYjBlVjh2dEFSYXUtMEFxNXN2UUJDXzUzTklZckxOekhkUEtfSDVxX1FhRHRwZzcxSEZnZUljTjhpbmRSZmkxMzk1bFRGa1BBY0JXT25sRVlRMGk2VHVudTJTamx2YkRFaFNuWTFqTnZ0NWRKd0JqLTdzTFg4NWdqLWM2czNyQjNHV3huRlBhSEJvNVdPcWxEMHZQTVdsZjNPQWs4RUFuVmlYVmlYY1ZPRWxtQmMtVXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 05:05:00 GMT",
-   "summary": "India factory demand offsets weaker services growth in November, PMI shows &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 04:57:37 GMT",
-   "summary": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-business",
-   "title": "Correction or deeper reckoning? Investors seek signs US stock selling will abate",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRxak5ZYUFPNWxVbzlJdy1Mcm9xMTRVZ0ctY205NFVGVEFtcDdFNG1Iem05TjVBcnYzWUVUeXcyWndZNlpnR25GMW5GdkJ2blJjeUdXdlhvZ1VqNWpVSGdYX1RsQ1F3eUhkRUFaX0lxQTNnVFNySmphdG1KM2Y0NTZrdGRoTWxEaE0ybmVSUnBtdDB2VW9tWGtrYkZfUmZUaUdxWDUyUEZGZ2tSajBqSTJydzNhb2xwaTctX21xQmxmXzFyZ1BIWE80ZF8?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 22 Nov 2026 12:04:00 GMT",
-   "summary": "Correction or deeper reckoning? Investors seek signs US stock selling will abate &nbsp;&nbsp; Reuters",
+   "source": "reuters-markets",
+   "title": "Huang's stunning Nvidia return sparks relief for battered AI trade",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdllUY1JjNjA0T3ZBYjdac2FIVFZWQlF1dUhuclNlcDRfU2gxQzFoQ0kzUk9rcXMxbTJvRXdpZUNVM2ZJTXljQ1B6bjQ3NmxqSmxXTmhqV2JIMFphcGhwQ2dlSGI1Vm56ZUhBcGZMSDdmOVM2eXMyVjMtS19DbWJIVm40U044V0dxR3hPU1NmeldKdGl6VHh0UDVVcnlqUEVudEVrV0MxS1A2UnV6M2U3QldjQjV1OGpV?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 20:40:42 GMT",
+   "summary": "Huang's stunning Nvidia return sparks relief for battered AI trade &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Gold climbs more than 2% as dollar rally pauses",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBFWkZLYUFtZG40ejNhc0xINGhEOGZWSnl2M1RabDhRbUstel9yOEtXTTczcW44cEw3b2lvbEMyaExOeDRLNnRWVFdOMU4xZDQ5bkd2YlJaUklBTWNMSDlFWDVZd2VxUEtpbXBqVUlMY3dDM0dmWXVfOW1CWG9oUVJIZ3BhWWltclFMZVF5ck1oZ2pUVUMwVWZVMVhlU1FrbmZuWGpLSW5jMUU?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 05:49:00 GMT",
-   "summary": "Gold climbs more than 2% as dollar rally pauses &nbsp;&nbsp; Reuters",
+   "title": "COMMENTARY: TRADING DAY Market euphoria as Huang returns to Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWxfZ0U4bk9qMWhWTEFrVXUxWTdneGlOaDJaQ0lya0JPMFkxbmZEbW91Q0xTSjFQS3lpWmpuVC0yMTc3TlZIdURWSmQzcTBxY1BhOTYtUDFKSXhZMHZ6QUxwOU9aaHhOUDF5NzFEOUpvVWtjcVgyLVpkMDU3Wm1fZ2JHVzBENm9OVEdPWVg1Zi1tNDVOOU1WaFZFMWJvSjBoWFZkOEF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 22:07:16 GMT",
+   "summary": "COMMENTARY: TRADING DAY Market euphoria as Huang returns to Nvidia &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "California attorney general says Huang reinstatement changes nothing",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmhqYjlfbVd5U0RGcjlwdHhiTUdDeTQzbXR0cEJVVE5UZUZnSm03RjFnUHk1bVhaYWcxeTlFczdLa3djYnd0c3djWTVUWHVwb3lSWlAwWHFuZ0tiUnNOSlR6dVhzdGRUZEMzMUZqUXFvdENpYklCU0lqWjBpTVdKVGZZRTZRRVFvaGJSajUzWHpPOC0wTGFwaERQaElFZkl4ZW1Ba184TkhnUnZkSzdHM3NPRHg1ZEdsNW01VHdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 17:04:34 GMT",
+   "summary": "California attorney general says Huang reinstatement changes nothing &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Anthropic options post solid debut, trailing SpaceX record",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 16:24:00 GMT",
+   "summary": "Anthropic options post solid debut, trailing SpaceX record &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Mapping the Market: More losses could be ahead for beaten-down S&P 500",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWm5Lb1N6VkZoLVVNWFdrQWVvbExPOFc5VWcxbldYRjByRWpuZnhoQ25mZVpNeURSSFlqZVprSU5YZ3JFcWtmbUh1QlZGV3hMUi1fSEM2Y0Z6ZDc0cVNuZERoaVN3dFpYUGVOLU56UTJaX0c4ZXhVS2JvQUN0SHdndzgzQzBobFda?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 11:04:36 GMT",
+   "summary": "Mapping the Market: More losses could be ahead for beaten-down S&amp;P 500 &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-markets",
+   "title": "Morgan Stanley turns most bullish on stocks since April after last week's selloff",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObC1Zdm1ObG5fMy10UDh1T3VVbnpoUzJjSHV0djd6Z3dZdXdHWTlTNUlHU1F1eGJYcUNrZjhzMWVsUFNWSERzS29HY2JVYVZCOXdWWEZqaVl6SkRoZkZQV3NaYWVDc0RmNjlvdnNYQzJ3VlBIamo3NjJpWWdvVGNoTXViYzJwYnlQVUFRYXBxdU9rN3Y2REc0UUp1eE5tbkVydklMX1A2Mkxaa3p4dVZ6S3hqdmdSbzZ2Vm1SU3JUVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 13:28:07 GMT",
+   "summary": "Morgan Stanley turns most bullish on stocks since April after last week's selloff &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -340,66 +428,74 @@
   },
   {
    "source": "reuters-markets",
-   "title": "Europe's STOXX 600 rises as tech shares rebound after AI-driven rout",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDFuaFRyaktlcVA5TVR0eXF2QlktZ3ZVU3JkbzZycU8zTU90WEhFSlhuVTc5RTRCdVctYVpuQzZhdUJnN1BlZWdOYkZEQXg5alR6d1BDVWEwMEszRTlRUFB1aG9ueFhHWmZmbkI1dmFSSmNZMVF6VzlhZFpBOG5BaVJ0QlprZnRVRmVIZ2djcXFzM3VrU2VQa3FQelVLU2Qzd2MwT19jTUdkRnVWYmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 10:26:47 GMT",
-   "summary": "Europe's STOXX 600 rises as tech shares rebound after AI-driven rout &nbsp;&nbsp; Reuters",
+   "title": "Gold rises as bargain hunters step in after steep weekly drop",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBFWkZLYUFtZG40ejNhc0xINGhEOGZWSnl2M1RabDhRbUstel9yOEtXTTczcW44cEw3b2lvbEMyaExOeDRLNnRWVFdOMU4xZDQ5bkd2YlJaUklBTWNMSDlFWDVZd2VxUEtpbXBqVUlMY3dDM0dmWXVfOW1CWG9oUVJIZ3BhWWltclFMZVF5ck1oZ2pUVUMwVWZVMVhlU1FrbmZuWGpLSW5jMUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 05:49:00 GMT",
+   "summary": "Gold rises as bargain hunters step in after steep weekly drop &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "Hedge funds post worst week since April 2025, sparks defensive shift",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnM4dll3SWNPSHNtaGRXY3o1OWFjMVVrQ0g0TnhWcm5HZ0JiamRBV2t3VjYxUm9WXzJheEZxcGh6bERCM01DVEFaWGdfaVctQ0taRVY4cC1sUzNDUW9IbS00NHhNV25xWW4zb0wxWTk4YllLc2dNN1ZzT2xuaVVHeFg4VW1uRlJQQW92TnpSZDdER3ZYVElmQ2JRbVJocDc1N0hGQmdsR000QXFZRWhWZThSR3R5Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 08:25:43 GMT",
-   "summary": "Hedge funds post worst week since April 2025, sparks defensive shift &nbsp;&nbsp; Reuters",
+   "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 07:55:00 GMT",
+   "summary": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
    "source": "reuters-markets",
-   "title": "US futures rally as AI rout pauses, Asian authorities prop up stocks",
+   "title": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 22 Nov 2026 23:44:00 GMT",
-   "summary": "US futures rally as AI rout pauses, Asian authorities prop up stocks &nbsp;&nbsp; Reuters",
+   "summary": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Financials drag Indian shares down on profit-taking after four-week rally",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMeEQzdWVxWE1RVWp3TUM2WnJRc2lqamVnM1Vlek5LdU1rZjVRNEdVOUNkMVpoNTRLQlMxRFlfUXZzd1JOQ2J2QUI2S0wzMTRUWnN5aVhrTG5qSmk0Mzc0NFEwU1owcEpPNlljaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 02:37:00 GMT",
-   "summary": "Financials drag Indian shares down on profit-taking after four-week rally &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "US blacklists Megaspeed cloud company linked to Nvidia scandal",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3ZUR1ZCZXpLTkNjVFA5cm1ueHd6VjlHUzZSZWUtNE40NndKNFNWQVJqV3k4WHA5SU5BQTBvWmw5dlN3S1RZZHQ5WG5LRGhWMDFxUk83RjdGV0dqWUtjU3c4RlVkdkFBVlhfbXdiVm1WWW44dEtpUXY0Yjk0ZndBN2w3MURmNkVJLUlvM3ZpSmRfV3RTeUJYNHQtS29HaUFwejF2SlVtR2lpY0NqX3BYMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 20:51:00 GMT",
+   "summary": "US blacklists Megaspeed cloud company linked to Nvidia scandal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 07:00:00 GMT",
-   "summary": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 13:59:00 GMT",
+   "summary": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "South Korea vows to stabilise stock market after KOSPI drops 5%",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaF9QVUplYkNRSkhhV19adWpudklsdXcxV0dodVVtYzc1WHJUWTNRMkduX1UxaURycVZTREc4RGpzOURZcFhvSTN3MUxwYUhuNWluQzVfSFAydjZ1bnVFR3VYaXpFY05XVW5OOUR2R0E3VkYwZzJHajh6MndCYUtsNnBxOGhib0dUUFlvRlNIRnp2TGl2Mml3emx5emcyQWFMajdNWGhRNnRkbW5fTk1ZUlV2VURvcHgwcndHN0Z1eDE5S19IS0FTZm43NmVZbUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 02:43:00 GMT",
-   "summary": "South Korea vows to stabilise stock market after KOSPI drops 5% &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Applied Digital signs $5.4 billion AI data center lease with hyperscaler",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenpuUVUwRHpJUWw3X3cxb1dCdk9tcGxNSDdIaGFHNFRRNEs5NUo0N0hNcnp0TmNmaUtOWEUwcmJGT2ktTDBDWEZLbFlNUW5KQnJheUJLb2JVajBqUi1JVDRIbWw0XzNJT0xhOXlINzc0TDlWMnRCNzVEVGQ3SG83ZWtIN0ZvY3FqN3RCd002SjUzd210SE1aRGNlSXZTbEJGbHlxVnlGaWpxdm9ITEpYNllkQWpsUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 13:53:44 GMT",
+   "summary": "Applied Digital signs $5.4 billion AI data center lease with hyperscaler &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Oil falls on increased Middle Eastern supplies",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 02:24:00 GMT",
-   "summary": "Oil falls on increased Middle Eastern supplies &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "How Nvidia’s billion-dollar turnaround in China is threatened by Huang’s exit",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzBhLWJfeFVoaXlNajJPVmVaNHl3bFFPR3lveEhDV3dlNXU3MTNlcm1MNVp0OGM5MmtvcmVxVHg2SXBCZ0U1WkdBX0NGYmNZR1NrUXI2MVZFdXQtQnlhUXN6bm9SRGJOSnYxb1QzRklGZWd1bm9tdnlSNnVGLUpLWllkZFB2MVF0UXd3T3NDbWRUQUtmVzZkUml4cXJjdmhXVXFkYWdLZ3o4TGI0T2tIZG5KMHZlSWpSczNIVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 11:50:53 GMT",
+   "summary": "How Nvidia’s billion-dollar turnaround in China is threatened by Huang’s exit &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
-   "source": "reuters-markets",
-   "title": "Most winnings on Polymarket midterm bets went to top 1% of bettors, report says",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjc3MVhUdnFWREx5Rnp1VWlBT3BYQkhPcm16RVQ3eEJ2YkdZbGkwM3F2dHAwWENVZVV1UjVSRmtPVlZabEtfNzIyR1djR2pYY0lZOGdpT0RmWUEwdWNXTFFjMTJWYjhzNG5OY1NUa1daSndObktYV2x6ZEtlX1BfcGVQaXBOV21BU1Zta0dtLXBoZFpSVXUtdUdlQU5pdGZnVWpac2xnRFROS1lxN21PalA0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 11:05:46 GMT",
-   "summary": "Most winnings on Polymarket midterm bets went to top 1% of bettors, report says &nbsp;&nbsp; Reuters",
+   "source": "reuters-tech",
+   "title": "Rene Haas to remain CEO of chipmaker Arm through 2033 amid Nvidia top job chatter",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEVKTTZyVDYxTGdWYlI3bzFQSU9zSGhiaXpERE5MWHRYSVhZcDhZRDBpekhuODdWYlZCTFJmU1NDYWVzRlpMR2JWZ21xcUMzSmhkX2RoYnhPSmtJRDdqMGRyczN5UElOQV9BdUt5NDItbzlEb29RNmR0eFRWd1V5bkcwUXQ0NG5lWjRkUkw0Y0VRaUV0UXF6V1V4ZkRhdS02X1UtWkRpejVlT2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 16:56:26 GMT",
+   "summary": "Rene Haas to remain CEO of chipmaker Arm through 2033 amid Nvidia top job chatter &nbsp;&nbsp; Reuters",
+   "full_text": ""
+  },
+  {
+   "source": "reuters-tech",
+   "title": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1h2Mk12TldYZnlQcHE2RU5JcnBHYWExZUx1dFdXMFRfQS15Sk1aOGpUS3k1Y0JTOWNrdWxWTWE2QnU5TU15MGJyakZYQXFJTkNIdVcxbC14aHktNlNsWFA3aW9EVEE3TGFzUTJFZlExTHVmbTBYQnlKLVdLTlNieG41Unc0OEo4UDY4dFVWMERCZVVNLW9aOFk0bG9yZU9IdFZaanZDZ0JwX2I5SEtETDJ5YnltM2podWFHeEZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+   "published": "Mon, 23 Nov 2026 17:03:44 GMT",
+   "summary": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety &nbsp;&nbsp; Reuters",
    "full_text": ""
   },
   {
@@ -416,62 +512,6 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
    "published": "Sun, 22 Nov 2026 23:09:00 GMT",
    "summary": "OpenAI scientist proposes industry AI limits tied to model intelligence metric &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "California AG Bonta filed lawsuit against OpenAI over model security, public safety",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmhmeEgxSkU1V2V3QmEtdlJ5RUR2U1FZVm5lajNFT1h3cUJnUW1XQUZRSUNLYnV6QkFFNWhMR0ZtbEtRSDRvQXJ3dThFRWFYMUlfbTNFUkFMN3JwTWVHbC11MjB5LUNia3JVMUxjWUtGV0dSa3V4V1JIMHNMdGpzd2JkOGotTnpRbmh5cHBSQ213NFhwOWs4MVZ4YzBKZ3FsUlRpVzFsMHNQS3VKTXVmRDRvS3dWWGhO?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 04:26:00 GMT",
-   "summary": "California AG Bonta filed lawsuit against OpenAI over model security, public safety &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1ZQQTFqN0xpOERieUhlT0puQ0pnQnNnRnQtaW8yb3VGWkFvM3hGeTA3QlBrR1VCNUhjS21TQ1JISlNWMG5mdlc3NVVmOUZ0LWZrMTB4R3h4YlpIVnJObWVQcmhLUDFiRnhCY1c1RTE5NzhwQzIwTXQ3MkxfN1hQSU9ZbkVidFZCWE1PWWxHMWgtem5ZSzBoOU1oYUVuZ0NEOW00V0Jlb1pEUVdrNUF3blEtSEw4dkpsYU9ya0w0N3UxTmRE?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 22 Nov 2026 18:14:09 GMT",
-   "summary": "US intelligence chief predicts more tech outages as systems undergo upgrades &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 22 Nov 2026 17:53:07 GMT",
-   "summary": "US seeks answers on Nvidia's sale of chips to China, Bessent says &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sun, 22 Nov 2026 11:03:00 GMT",
-   "summary": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "CrowdStrike in talks to acquire Zscaler, sources say",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelZkLVhGN0lQVWs3SVJrWU00RjF6LV9tUEUyaDlySnhaQ29EVW1mUWFBajFfMmpTckxRUHY3aUxDTHRYV3kxSm1zbDNUdTQ3UnFuRVVULVk1bXlOaDNRc3hrM3k4dDQ2OVBtTHRNR1dlSzQweG1Ya2RjTVNGNk0xLVlKTzBHQjRtTHhhQVBUeW5ZMm1YZ3lUWUNfbGUtNk0?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Fri, 20 Nov 2026 22:31:25 GMT",
-   "summary": "CrowdStrike in talks to acquire Zscaler, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Sat, 21 Nov 2026 03:08:01 GMT",
-   "summary": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say &nbsp;&nbsp; Reuters",
-   "full_text": ""
-  },
-  {
-   "source": "reuters-tech",
-   "title": "Changzhou Microintelligence seeks up to $74.62 million in revived Hong Kong IPO",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmZyWE82TzlYOEw5T2NrdWNXVXRGRG8xb1oyVnBQNzc5V1Aydy1CRjNpX0VYZVhlbHFXTGVvV3NTOGdNajRPVTRVREpTanMxVnMxNEdXM0p2TzN1TzRYV3RDMkFZM2l3N2NTZ2lNV2cyN2hJaDJicFk4RnNYRnZUaDlWU2lVbGhuS2JNdDhpQkh1U0dHWjhaSGp5U1dFV2psd3piRjRxb2hObTJpN2x0U2kxOU14LVZwQnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-   "published": "Mon, 23 Nov 2026 00:28:00 GMT",
-   "summary": "Changzhou Microintelligence seeks up to $74.62 million in revived Hong Kong IPO &nbsp;&nbsp; Reuters",
    "full_text": ""
   }
  ]
